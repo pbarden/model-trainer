@@ -268,31 +268,51 @@ class CombinedModelTrainer:
 
     def _create_combined_memories(self, model_key: str, content: str, novels: List[Dict], training_results: Dict):
         """Create enhanced memory system for combined model"""
+        if not MEMORY_SYSTEM_AVAILABLE:
+            logger.warning("Episodic memory system not available - skipping combined memory creation")
+            return
+
         try:
             logger.info(f"Creating enhanced memory system for combined model: {model_key}")
 
             # Enhanced memory configuration for combined models
-            memory_config = MemoryConfig()
-            memory_config.total_memories = self.config.combined_memories_count
+            memory_config = MemoryConfig(
+                max_memories_per_novel=self.config.combined_memories_count,
+                memory_chunk_size=35,
+                extract_characters=True,
+                extract_locations=True,
+                extract_emotions=True,
+                extract_themes=True,
+                extract_dialogue=True,
+                extract_descriptions=True
+            )
 
             # Create memory system
             memory_system = EpisodicMemorySystem(memory_config)
-            memory_system.create_memories_from_content(content)
 
-            # Add cross-novel memory mappings if enabled
-            if self.config.cross_novel_memories:
-                cross_novel_memories = self._create_cross_novel_memories(novels, content)
-                # Add to memory system (implementation depends on memory system API)
+            # Create temporary novel path for combined content
+            temp_novel_path = self.models_dir / model_key / "temp_combined.txt"
+            temp_novel_path.parent.mkdir(parents=True, exist_ok=True)
 
-            # Save memory system
-            memory_output_dir = self.models_dir / model_key / "memory"
-            FileSystemUtils.ensure_directory(memory_output_dir)
-            memory_system.save_to_directory(str(memory_output_dir))
+            # Write combined content to temporary file
+            with open(temp_novel_path, 'w', encoding='utf-8') as f:
+                f.write(content)
 
-            logger.info(f"Enhanced memory system created with {self.config.combined_memories_count} memories")
+            # Build memories for the combined model
+            memory_analysis = memory_system.build_memory_for_model(model_key, temp_novel_path.parent)
+
+            # Clean up temporary file
+            if temp_novel_path.exists():
+                temp_novel_path.unlink()
+
+            # Store memory analysis in training results
+            training_results["combined_memory_analysis"] = memory_analysis
+
+            logger.info(f"Enhanced memory system created with {memory_analysis.get('total_memories', 0)} memories")
 
         except Exception as e:
             logger.error(f"Failed to create enhanced memory system: {e}")
+            # Don't fail the entire training if memory creation fails
 
     def _create_cross_novel_memories(self, novels: List[Dict], content: str) -> List[Dict]:
         """Create cross-novel relationship memories"""

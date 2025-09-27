@@ -20,6 +20,7 @@ from typing import List, Dict, Any, Optional, Set, Tuple
 from dataclasses import dataclass
 from collections import defaultdict, Counter
 import re
+import numpy as np
 
 # Suppress warnings for cleaner output
 warnings.filterwarnings("ignore", category=UserWarning)
@@ -91,6 +92,294 @@ class RelationalMemoryMapper:
 
         # Validate system setup
         validate_system_setup()
+
+    def generate_connection_heatmap(self, relational_data: Dict[str, Any]) -> Dict[str, Any]:
+        """Generate heatmap matrix of connection strengths between novels"""
+        novels = relational_data.get("novels", [])
+        novel_count = len(novels)
+
+        if novel_count < 2:
+            return {"heatmap_matrix": [], "novel_labels": novels, "max_strength": 0.0}
+
+        # Initialize connection matrix
+        connection_matrix = np.zeros((novel_count, novel_count))
+        novel_to_index = {novel: i for i, novel in enumerate(novels)}
+
+        # Populate matrix with connection strengths
+        for analysis_type in ["thematic_analysis", "character_analysis", "narrative_analysis"]:
+            if analysis_type in relational_data:
+                connections = relational_data[analysis_type].get("connections", [])
+                for connection in connections:
+                    novel1 = connection.get("novel1", "")
+                    novel2 = connection.get("novel2", "")
+                    strength = connection.get("connection_strength", 0.0)
+
+                    if novel1 in novel_to_index and novel2 in novel_to_index:
+                        i, j = novel_to_index[novel1], novel_to_index[novel2]
+                        # Add strength (bidirectional connections)
+                        connection_matrix[i][j] += strength
+                        connection_matrix[j][i] += strength
+
+        # Normalize and create heatmap data
+        max_strength = np.max(connection_matrix) if connection_matrix.size > 0 else 1.0
+        if max_strength > 0:
+            normalized_matrix = connection_matrix / max_strength
+        else:
+            normalized_matrix = connection_matrix
+
+        # Generate heatmap zones for decision tree
+        heatmap_zones = self._create_heatmap_zones(normalized_matrix, novels)
+
+        return {
+            "heatmap_matrix": normalized_matrix.tolist(),
+            "raw_matrix": connection_matrix.tolist(),
+            "novel_labels": novels,
+            "max_strength": float(max_strength),
+            "heatmap_zones": heatmap_zones,
+            "connection_summary": self._summarize_heatmap(normalized_matrix, novels)
+        }
+
+    def _create_heatmap_zones(self, matrix: np.ndarray, novels: List[str]) -> Dict[str, List[str]]:
+        """Create zones based on connection intensity for decision tree"""
+        if matrix.size == 0:
+            return {"high_connection": [], "medium_connection": [], "low_connection": []}
+
+        # Define intensity thresholds
+        high_threshold = 0.7
+        medium_threshold = 0.3
+
+        zones = {
+            "high_connection": [],
+            "medium_connection": [],
+            "low_connection": []
+        }
+
+        # Analyze pairwise connections
+        for i in range(len(novels)):
+            for j in range(i + 1, len(novels)):
+                strength = matrix[i][j]
+                novel_pair = f"{novels[i]} <-> {novels[j]}"
+
+                if strength >= high_threshold:
+                    zones["high_connection"].append(novel_pair)
+                elif strength >= medium_threshold:
+                    zones["medium_connection"].append(novel_pair)
+                else:
+                    zones["low_connection"].append(novel_pair)
+
+        return zones
+
+    def _summarize_heatmap(self, matrix: np.ndarray, novels: List[str]) -> Dict[str, Any]:
+        """Generate summary statistics from heatmap"""
+        if matrix.size == 0:
+            return {"avg_strength": 0.0, "strongest_pairs": [], "connection_density": 0.0}
+
+        # Calculate average connection strength
+        upper_triangle = np.triu(matrix, k=1)  # Exclude diagonal and lower triangle
+        non_zero_connections = upper_triangle[upper_triangle > 0]
+        avg_strength = float(np.mean(non_zero_connections)) if len(non_zero_connections) > 0 else 0.0
+
+        # Find strongest connections
+        strongest_pairs = []
+        for i in range(len(novels)):
+            for j in range(i + 1, len(novels)):
+                if matrix[i][j] > 0:
+                    strongest_pairs.append({
+                        "novels": [novels[i], novels[j]],
+                        "strength": float(matrix[i][j])
+                    })
+
+        # Sort by strength and keep top 5
+        strongest_pairs.sort(key=lambda x: x["strength"], reverse=True)
+        strongest_pairs = strongest_pairs[:5]
+
+        # Calculate connection density
+        total_possible = len(novels) * (len(novels) - 1) / 2
+        actual_connections = len(non_zero_connections)
+        connection_density = actual_connections / total_possible if total_possible > 0 else 0.0
+
+        return {
+            "avg_strength": avg_strength,
+            "strongest_pairs": strongest_pairs,
+            "connection_density": float(connection_density),
+            "total_connections": int(actual_connections)
+        }
+
+    def apply_decision_tree_selection(self, relational_data: Dict[str, Any], heatmap_data: Dict[str, Any]) -> Dict[str, Any]:
+        """Apply decision tree logic to select most relevant relational memories"""
+        # Decision tree criteria for memory selection
+        selection_criteria = {
+            "connection_strength_weight": 0.4,    # 40% weight
+            "connection_type_weight": 0.3,        # 30% weight
+            "novel_importance_weight": 0.2,       # 20% weight
+            "temporal_relevance_weight": 0.1      # 10% weight
+        }
+
+        # Extract all connections from different analyses
+        all_connections = []
+        for analysis_type in ["thematic_analysis", "character_analysis", "narrative_analysis"]:
+            if analysis_type in relational_data:
+                connections = relational_data[analysis_type].get("connections", [])
+                for connection in connections:
+                    connection_copy = connection.copy()
+                    connection_copy["analysis_type"] = analysis_type
+                    all_connections.append(connection_copy)
+
+        if not all_connections:
+            return {"selected_memories": [], "selection_rationale": []}
+
+        # Score each connection using decision tree logic
+        scored_connections = []
+        for connection in all_connections:
+            score = self._calculate_connection_score(connection, heatmap_data, selection_criteria)
+            connection["decision_score"] = score
+            scored_connections.append(connection)
+
+        # Sort by decision score and apply selection strategy
+        scored_connections.sort(key=lambda x: x["decision_score"], reverse=True)
+
+        # Decision tree selection strategy
+        selected_memories = self._apply_selection_strategy(scored_connections, heatmap_data)
+
+        return {
+            "selected_memories": selected_memories,
+            "selection_rationale": self._generate_selection_rationale(selected_memories, selection_criteria),
+            "total_evaluated": len(all_connections),
+            "selection_strategy": "decision_tree_hierarchical"
+        }
+
+    def _calculate_connection_score(self, connection: Dict[str, Any], heatmap_data: Dict[str, Any], criteria: Dict[str, float]) -> float:
+        """Calculate decision tree score for a connection"""
+        score = 0.0
+
+        # 1. Connection strength score (40% weight)
+        strength = connection.get("connection_strength", 0.0)
+        strength_score = strength * criteria["connection_strength_weight"]
+        score += strength_score
+
+        # 2. Connection type score (30% weight)
+        analysis_type = connection.get("analysis_type", "")
+        type_weights = {
+            "thematic_analysis": 1.0,      # Themes are most important
+            "character_analysis": 0.8,     # Characters are important
+            "narrative_analysis": 0.6      # Narrative patterns are useful
+        }
+        type_score = type_weights.get(analysis_type, 0.5) * criteria["connection_type_weight"]
+        score += type_score
+
+        # 3. Novel importance score (20% weight) - based on position in heatmap zones
+        novel1 = connection.get("novel1", "")
+        novel2 = connection.get("novel2", "")
+        novel_pair = f"{novel1} <-> {novel2}"
+
+        importance_score = 0.5  # Default
+        zones = heatmap_data.get("heatmap_zones", {})
+        if novel_pair in zones.get("high_connection", []):
+            importance_score = 1.0
+        elif novel_pair in zones.get("medium_connection", []):
+            importance_score = 0.7
+        elif novel_pair in zones.get("low_connection", []):
+            importance_score = 0.3
+
+        novel_score = importance_score * criteria["novel_importance_weight"]
+        score += novel_score
+
+        # 4. Temporal relevance score (10% weight) - prefer diverse connections
+        temporal_score = 0.5  # Base score
+        # Bonus for connections with specific themes or detailed analysis
+        if len(connection.get("common_themes", [])) > 2:
+            temporal_score += 0.3
+        if len(connection.get("details", "")) > 100:
+            temporal_score += 0.2
+
+        temporal_final = min(1.0, temporal_score) * criteria["temporal_relevance_weight"]
+        score += temporal_final
+
+        return min(1.0, score)  # Cap at 1.0
+
+    def _apply_selection_strategy(self, scored_connections: List[Dict], heatmap_data: Dict[str, Any]) -> List[Dict]:
+        """Apply hierarchical selection strategy based on decision tree"""
+        if not scored_connections:
+            return []
+
+        # Selection limits based on model size
+        total_novels = len(heatmap_data.get("novel_labels", []))
+
+        # Decision tree selection limits
+        if total_novels <= 5:
+            max_selections = total_novels * 2  # 2 connections per novel pair
+        elif total_novels <= 15:
+            max_selections = total_novels + 5  # Moderate selection
+        else:
+            max_selections = 20  # Cap for large models
+
+        selected = []
+        novel_pairs_selected = set()
+
+        # Tier 1: High-scoring connections (score >= 0.8)
+        tier1_candidates = [c for c in scored_connections if c["decision_score"] >= 0.8]
+        for connection in tier1_candidates[:max_selections//2]:
+            novel_pair = self._get_novel_pair_key(connection)
+            if novel_pair not in novel_pairs_selected:
+                selected.append(connection)
+                novel_pairs_selected.add(novel_pair)
+
+        # Tier 2: Medium-scoring connections (0.6 <= score < 0.8) - fill remaining spots
+        remaining_slots = max_selections - len(selected)
+        tier2_candidates = [c for c in scored_connections if 0.6 <= c["decision_score"] < 0.8]
+        for connection in tier2_candidates[:remaining_slots]:
+            novel_pair = self._get_novel_pair_key(connection)
+            if novel_pair not in novel_pairs_selected:
+                selected.append(connection)
+                novel_pairs_selected.add(novel_pair)
+
+        # Tier 3: Ensure diversity - if still have slots, add different analysis types
+        remaining_slots = max_selections - len(selected)
+        if remaining_slots > 0:
+            analysis_types_selected = set(c["analysis_type"] for c in selected)
+            tier3_candidates = [c for c in scored_connections if c["analysis_type"] not in analysis_types_selected]
+            for connection in tier3_candidates[:remaining_slots]:
+                novel_pair = self._get_novel_pair_key(connection)
+                if novel_pair not in novel_pairs_selected:
+                    selected.append(connection)
+                    novel_pairs_selected.add(novel_pair)
+
+        return selected
+
+    def _get_novel_pair_key(self, connection: Dict[str, Any]) -> str:
+        """Generate consistent key for novel pair"""
+        novel1 = connection.get("novel1", "")
+        novel2 = connection.get("novel2", "")
+        # Sort to ensure consistent key regardless of order
+        novels = sorted([novel1, novel2])
+        return f"{novels[0]} <-> {novels[1]}"
+
+    def _generate_selection_rationale(self, selected_memories: List[Dict], criteria: Dict[str, float]) -> List[Dict]:
+        """Generate explanation for why each memory was selected"""
+        rationale = []
+        for memory in selected_memories:
+            reason = {
+                "novel_pair": f"{memory.get('novel1', '')} <-> {memory.get('novel2', '')}",
+                "connection_type": memory.get("analysis_type", ""),
+                "strength": memory.get("connection_strength", 0.0),
+                "decision_score": memory.get("decision_score", 0.0),
+                "selection_reason": self._determine_selection_reason(memory)
+            }
+            rationale.append(reason)
+        return rationale
+
+    def _determine_selection_reason(self, memory: Dict[str, Any]) -> str:
+        """Determine why this memory was selected by the decision tree"""
+        score = memory.get("decision_score", 0.0)
+        strength = memory.get("connection_strength", 0.0)
+        analysis_type = memory.get("analysis_type", "")
+
+        if score >= 0.8:
+            return f"High-priority: Strong {analysis_type} connection (score: {score:.2f})"
+        elif score >= 0.6:
+            return f"Medium-priority: Moderate {analysis_type} connection (score: {score:.2f})"
+        else:
+            return f"Diversity selection: Added for {analysis_type} variety (score: {score:.2f})"
 
     def _load_model_mapping(self) -> Dict[str, Any]:
         """Load model mapping configuration"""
@@ -527,8 +816,23 @@ class RelationalMemoryMapper:
         # Create unified cross-references
         relational_data["cross_references"] = self._create_unified_cross_references(relational_data)
 
+        # Generate connection heatmap
+        logger.info("Generating connection heatmap...")
+        heatmap_data = self.generate_connection_heatmap(relational_data)
+        relational_data["connection_heatmap"] = heatmap_data
+
+        # Apply decision tree selection for optimal memory selection
+        logger.info("Applying decision tree selection...")
+        selection_result = self.apply_decision_tree_selection(relational_data, heatmap_data)
+        relational_data["memory_selection"] = selection_result
+
         # Generate memory enhancement suggestions
         relational_data["memory_enhancements"] = self._generate_memory_enhancements(relational_data)
+
+        logger.info(f"Relational memory analysis complete:")
+        logger.info(f"  - Total connections analyzed: {selection_result.get('total_evaluated', 0)}")
+        logger.info(f"  - Selected for memory: {len(selection_result.get('selected_memories', []))}")
+        logger.info(f"  - Average connection strength: {heatmap_data.get('connection_summary', {}).get('avg_strength', 0.0):.3f}")
 
         return relational_data
 

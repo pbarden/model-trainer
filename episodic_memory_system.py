@@ -337,46 +337,153 @@ class MemoryExtractor:
         return min(1.0, score)
 
     def _rank_and_limit_memories(self, memories: List[Memory]) -> List[Memory]:
-        """Rank memories by importance and limit count with balanced distribution"""
-        # Group memories by type
+        """Rank memories by importance with adaptive distribution and temporal balance"""
         from collections import defaultdict
+
+        # Group memories by type and temporal section
         memories_by_type = defaultdict(list)
+        memories_by_section = defaultdict(list)
+
         for memory in memories:
             memories_by_type[memory.memory_type].append(memory)
+            # Categorize by temporal position: beginning (0-0.33), middle (0.33-0.66), end (0.66-1.0)
+            if memory.chapter_position <= 0.33:
+                section = "beginning"
+            elif memory.chapter_position <= 0.66:
+                section = "middle"
+            else:
+                section = "end"
+            memories_by_section[section].append(memory)
 
-        # Sort each type by importance
+        # Analyze content to determine adaptive distribution
+        adaptive_distribution = self._calculate_adaptive_distribution(memories_by_type)
+
+        # Sort each type by enhanced importance scoring
         for memory_type in memories_by_type:
-            memories_by_type[memory_type].sort(key=lambda m: m.importance_score, reverse=True)
+            memories_by_type[memory_type].sort(key=lambda m: self._enhanced_importance_score(m), reverse=True)
 
-        # Define target distribution (more balanced across types)
-        max_memories = self.config.max_memories_per_novel
-        target_distribution = {
-            MemoryType.DESCRIPTION: int(max_memories * 0.60),  # 60% descriptions
-            MemoryType.LOCATION: int(max_memories * 0.15),     # 15% locations
-            MemoryType.CHARACTER: int(max_memories * 0.10),    # 10% characters
-            MemoryType.DIALOGUE: int(max_memories * 0.08),     # 8% dialogue
-            MemoryType.EMOTION: int(max_memories * 0.04),      # 4% emotions
-            MemoryType.THEME: int(max_memories * 0.03)         # 3% themes
+        # Select memories with temporal and type balance
+        selected_memories = self._select_temporally_balanced_memories(
+            memories_by_type, memories_by_section, adaptive_distribution
+        )
+
+        return selected_memories[:self.config.max_memories_per_novel]
+
+    def _calculate_adaptive_distribution(self, memories_by_type: Dict) -> Dict[str, float]:
+        """Calculate adaptive distribution based on content richness"""
+        total_memories = sum(len(memories) for memories in memories_by_type.values())
+        if total_memories == 0:
+            return {}
+
+        # Base distribution ratios
+        base_ratios = {
+            MemoryType.DESCRIPTION: 0.45,  # Reduced from 60%
+            MemoryType.CHARACTER: 0.20,    # Increased from 10%
+            MemoryType.DIALOGUE: 0.15,     # Increased from 8%
+            MemoryType.LOCATION: 0.10,     # Reduced from 15%
+            MemoryType.EMOTION: 0.06,      # Increased from 4%
+            MemoryType.THEME: 0.04         # Increased from 3%
         }
 
-        # Select memories according to target distribution
+        # Adapt based on content richness
+        adaptive_distribution = {}
+        max_memories = self.config.max_memories_per_novel
+
+        for memory_type, base_ratio in base_ratios.items():
+            available_count = len(memories_by_type.get(memory_type, []))
+            # If type is rare, reduce allocation; if abundant, can maintain or increase
+            richness_factor = min(1.5, available_count / (total_memories * base_ratio + 1))
+            adaptive_ratio = base_ratio * richness_factor
+            adaptive_distribution[memory_type] = int(max_memories * adaptive_ratio)
+
+        # Ensure total doesn't exceed max_memories
+        total_allocated = sum(adaptive_distribution.values())
+        if total_allocated > max_memories:
+            scale_factor = max_memories / total_allocated
+            for memory_type in adaptive_distribution:
+                adaptive_distribution[memory_type] = int(adaptive_distribution[memory_type] * scale_factor)
+
+        return adaptive_distribution
+
+    def _enhanced_importance_score(self, memory: Memory) -> float:
+        """Enhanced importance scoring with context awareness"""
+        base_score = memory.importance_score
+
+        # Temporal diversity bonus (favor memories from different narrative sections)
+        temporal_bonus = 0.0
+        if memory.chapter_position <= 0.2 or memory.chapter_position >= 0.8:
+            temporal_bonus = 0.1  # Bonus for beginning/end
+        elif 0.4 <= memory.chapter_position <= 0.6:
+            temporal_bonus = 0.05  # Small bonus for middle
+
+        # Content richness bonus
+        content_bonus = 0.0
+        if len(memory.content) > 100:  # Longer, more detailed memories
+            content_bonus = 0.1
+
+        # Emotional intensity bonus
+        emotion_bonus = 0.0
+        if memory.emotional_tone in ["positive", "negative"]:  # vs "neutral"
+            emotion_bonus = 0.05
+
+        # Keyword diversity bonus
+        keyword_bonus = min(0.1, len(memory.keywords) * 0.02)
+
+        return base_score + temporal_bonus + content_bonus + emotion_bonus + keyword_bonus
+
+    def _select_temporally_balanced_memories(self, memories_by_type: Dict, memories_by_section: Dict, distribution: Dict) -> List[Memory]:
+        """Select memories ensuring temporal balance across beginning/middle/end"""
         selected_memories = []
-        for memory_type, target_count in target_distribution.items():
+
+        # Target temporal distribution: 30% beginning, 40% middle, 30% end
+        temporal_targets = {"beginning": 0.30, "middle": 0.40, "end": 0.30}
+
+        # For each memory type, select from different temporal sections
+        for memory_type, target_count in distribution.items():
             available_memories = memories_by_type.get(memory_type, [])
-            selected_count = min(target_count, len(available_memories))
-            selected_memories.extend(available_memories[:selected_count])
+            if not available_memories:
+                continue
 
-        # If we haven't reached max_memories, fill with highest scoring remaining memories
-        if len(selected_memories) < max_memories:
-            remaining_memories = []
-            for memory_type, memory_list in memories_by_type.items():
-                used_count = target_distribution.get(memory_type, 0)
-                remaining_memories.extend(memory_list[used_count:])
+            # Group available memories by temporal section
+            type_by_section = defaultdict(list)
+            for memory in available_memories:
+                if memory.chapter_position <= 0.33:
+                    section = "beginning"
+                elif memory.chapter_position <= 0.66:
+                    section = "middle"
+                else:
+                    section = "end"
+                type_by_section[section].append(memory)
 
-            # Sort remaining by importance and add until we reach max
-            remaining_memories.sort(key=lambda m: m.importance_score, reverse=True)
-            needed = max_memories - len(selected_memories)
-            selected_memories.extend(remaining_memories[:needed])
+            # Select memories maintaining temporal balance
+            selected_for_type = []
+            remaining_to_select = target_count
+
+            for section, section_ratio in temporal_targets.items():
+                section_memories = type_by_section.get(section, [])
+                section_target = int(target_count * section_ratio)
+                section_selected = min(section_target, len(section_memories), remaining_to_select)
+
+                # Sort by enhanced importance and select top ones
+                section_memories.sort(key=lambda m: self._enhanced_importance_score(m), reverse=True)
+                selected_for_type.extend(section_memories[:section_selected])
+                remaining_to_select -= section_selected
+
+                if remaining_to_select <= 0:
+                    break
+
+            # If still need more memories, fill from any remaining
+            if remaining_to_select > 0:
+                remaining_memories = []
+                for section_memories in type_by_section.values():
+                    remaining_memories.extend(section_memories)
+
+                # Remove already selected
+                remaining_memories = [m for m in remaining_memories if m not in selected_for_type]
+                remaining_memories.sort(key=lambda m: self._enhanced_importance_score(m), reverse=True)
+                selected_for_type.extend(remaining_memories[:remaining_to_select])
+
+            selected_memories.extend(selected_for_type)
 
         return selected_memories
 
@@ -471,18 +578,25 @@ class EpisodicMemorySystem:
         # Store memories
         self.model_memories[model_name] = memories
 
-        # Save memory system
-        memory_dir = Path("episodic_memories") / model_name
-        memory_dir.mkdir(parents=True, exist_ok=True)
+        # Save memory system to standardized location
+        # Primary location: episodic_memories/{model_name}/
+        primary_memory_dir = Path("episodic_memories") / model_name
+        primary_memory_dir.mkdir(parents=True, exist_ok=True)
 
-        with open(memory_dir / "memories.pkl", 'wb') as f:
-            pickle.dump(memories, f)
+        # Secondary location: iterative_models/{model_name}/memory/
+        secondary_memory_dir = Path("iterative_models") / model_name / "memory"
+        secondary_memory_dir.mkdir(parents=True, exist_ok=True)
 
         # Create analysis
         analysis = self._analyze_memory_system(memories, novel_text)
 
-        with open(memory_dir / "memory_analysis.json", 'w') as f:
-            json.dump(analysis, f, indent=2)
+        # Save to both locations for compatibility
+        for memory_dir in [primary_memory_dir, secondary_memory_dir]:
+            with open(memory_dir / "memories.pkl", 'wb') as f:
+                pickle.dump(memories, f)
+
+            with open(memory_dir / "memory_analysis.json", 'w') as f:
+                json.dump(analysis, f, indent=2)
 
         build_time = time.time() - start_time
 

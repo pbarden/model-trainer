@@ -24,6 +24,8 @@ from pathlib import Path
 from typing import List, Dict, Any, Optional
 from dataclasses import dataclass
 from enum import Enum
+from concurrent.futures import ThreadPoolExecutor, as_completed
+import threading
 
 # Suppress warnings for cleaner output
 warnings.filterwarnings("ignore", category=UserWarning)
@@ -199,6 +201,173 @@ class MasterTrainingPipeline:
 
         return status
 
+    def _train_single_novel(self, novel_name: str) -> Dict[str, Any]:
+        """Train a single novel - used for parallel execution"""
+        result = {
+            "novel_name": novel_name,
+            "status": "running",
+            "start_time": time.time()
+        }
+
+        try:
+            # Validate novel exists before training
+            novel_path = Path("novels") / novel_name
+            if not novel_path.exists():
+                result["status"] = "failed"
+                result["error"] = f"Novel directory not found: {novel_path}"
+                return result
+
+            # Run individual novel trainer with specific novel name
+            cmd = ["python", "iterative_novel_trainer.py", "--novel", novel_name]
+
+            # Train the specific novel for this model
+            process_result = subprocess.run(
+                cmd,
+                capture_output=True,
+                text=True,
+                timeout=3600  # 1 hour timeout per novel
+            )
+
+            if process_result.returncode == 0:
+                result["status"] = "success"
+                result["output"] = process_result.stdout
+            else:
+                result["status"] = "failed"
+                result["error"] = process_result.stderr
+
+        except subprocess.TimeoutExpired:
+            result["status"] = "timeout"
+            result["error"] = "Training timeout (1 hour)"
+        except Exception as e:
+            result["status"] = "error"
+            result["error"] = str(e)
+        finally:
+            result["duration"] = time.time() - result["start_time"]
+
+        return result
+
+    def _train_novels_parallel(self, novels_to_train: List[str]) -> Dict[str, Any]:
+        """Train multiple novels in parallel"""
+        if not novels_to_train:
+            return {
+                "novels_trained": 0,
+                "training_results": {},
+                "total_novels": 0
+            }
+
+        max_workers = min(self.config.max_parallel_novels, len(novels_to_train))
+        max_workers = max(1, max_workers)  # Ensure at least 1 worker
+        logger.info(f"Training {len(novels_to_train)} novels with {max_workers} parallel workers")
+
+        training_results = {}
+        novels_trained = 0
+
+        # Thread-safe progress tracking
+        progress_lock = threading.Lock()
+        completed_count = [0]  # Use list for mutable reference
+
+        def log_progress(novel_name: str, status: str):
+            with progress_lock:
+                completed_count[0] += 1
+                logger.info(f"  [{completed_count[0]}/{len(novels_to_train)}] {novel_name}: {status}")
+
+        with ThreadPoolExecutor(max_workers=max_workers) as executor:
+            # Submit all training jobs
+            future_to_novel = {
+                executor.submit(self._train_single_novel, novel_name): novel_name
+                for novel_name in novels_to_train
+            }
+
+            # Process completed futures
+            for future in as_completed(future_to_novel):
+                novel_name = future_to_novel[future]
+                try:
+                    result = future.result()
+                    training_results[novel_name] = result
+
+                    if result["status"] == "success":
+                        novels_trained += 1
+                        log_progress(novel_name, "SUCCESS")
+                    else:
+                        log_progress(novel_name, f"FAILED: {result['status'].upper()}")
+
+                        # Stop all remaining jobs if stop_on_error is enabled
+                        if self.config.stop_on_error and result["status"] in ["failed", "error", "timeout"]:
+                            logger.error(f"Stopping all training due to failure in {novel_name}")
+                            # Cancel remaining futures
+                            for remaining_future in future_to_novel:
+                                if not remaining_future.done():
+                                    remaining_future.cancel()
+                            break
+
+                except Exception as e:
+                    training_results[novel_name] = {
+                        "status": "error",
+                        "error": f"Future execution failed: {str(e)}"
+                    }
+                    log_progress(novel_name, "ERROR")
+
+        return {
+            "novels_trained": novels_trained,
+            "training_results": training_results,
+            "total_novels": len(novels_to_train)
+        }
+
+    def _train_novels_sequential(self, novels_to_train: List[str]) -> Dict[str, Any]:
+        """Train novels sequentially (original implementation)"""
+        novels_trained = 0
+        training_results = {}
+
+        for i, novel_name in enumerate(novels_to_train):
+            logger.info(f"\nTraining novel {i+1}/{len(novels_to_train)}: {novel_name}")
+
+            try:
+                # Validate novel exists before training
+                novel_path = Path("novels") / novel_name
+                if not novel_path.exists():
+                    training_results[novel_name] = {
+                        "status": "failed",
+                        "error": f"Novel directory not found: {novel_path}"
+                    }
+                    logger.error(f"  Novel directory not found: {novel_path}")
+                    if self.config.stop_on_error:
+                        break
+                    continue
+
+                # Run individual novel trainer with specific novel name
+                cmd = ["python", "iterative_novel_trainer.py", "--novel", novel_name]
+                logger.info(f"Running: {' '.join(cmd)}")
+
+                # Train the specific novel for this model
+                process_result = subprocess.run(
+                    cmd,
+                    capture_output=True,
+                    text=True,
+                    timeout=3600  # 1 hour timeout per novel
+                )
+
+                if process_result.returncode == 0:
+                    novels_trained += 1
+                    training_results[novel_name] = {"status": "success", "output": process_result.stdout}
+                    logger.info(f"  Successfully trained: {novel_name}")
+                else:
+                    training_results[novel_name] = {"status": "failed", "error": process_result.stderr}
+                    logger.error(f"  Failed to train: {novel_name}")
+                    if self.config.stop_on_error:
+                        break
+
+            except subprocess.TimeoutExpired:
+                training_results[novel_name] = {"status": "timeout", "error": "Training timeout (1 hour)"}
+                logger.error(f"  Training timeout: {novel_name}")
+                if self.config.stop_on_error:
+                    break
+
+        return {
+            "novels_trained": novels_trained,
+            "training_results": training_results,
+            "total_novels": len(novels_to_train)
+        }
+
     def stage_1_individual_training(self, model_key: str) -> Dict[str, Any]:
         """Stage 1: Train individual novels"""
         logger.info(f"=== Stage 1: Individual Novel Training for {model_key} ===")
@@ -255,57 +424,17 @@ class MasterTrainingPipeline:
 
             logger.info(f"Training {len(novels_to_train)} novels: {', '.join(novels_to_train)}")
 
-            # Train novels (sequential for now - parallel can be added later)
-            novels_trained = 0
-            training_results = {}
+            # Train novels using parallel or sequential execution
+            if self.config.individual_training_parallel and len(novels_to_train) > 1:
+                training_result = self._train_novels_parallel(novels_to_train)
+            else:
+                # Fallback to sequential training (original implementation)
+                logger.info("Using sequential training (parallel disabled or single novel)")
+                training_result = self._train_novels_sequential(novels_to_train)
 
-            for i, novel_name in enumerate(novels_to_train):
-                logger.info(f"\nTraining novel {i+1}/{len(novels_to_train)}: {novel_name}")
-
-                try:
-                    # Validate novel exists before training
-                    novel_path = Path("novels") / novel_name
-                    if not novel_path.exists():
-                        training_results[novel_name] = {
-                            "status": "failed",
-                            "error": f"Novel directory not found: {novel_path}"
-                        }
-                        logger.error(f"  ✗ Novel directory not found: {novel_path}")
-                        if self.config.stop_on_error:
-                            break
-                        continue
-
-                    # Run individual novel trainer with specific novel name
-                    cmd = ["python", "iterative_novel_trainer.py", "--novel", novel_name]
-                    logger.info(f"Running: {' '.join(cmd)}")
-
-                    # Train the specific novel for this model
-                    process_result = subprocess.run(
-                        cmd,
-                        capture_output=True,
-                        text=True,
-                        timeout=3600  # 1 hour timeout per novel
-                    )
-
-                    if process_result.returncode == 0:
-                        novels_trained += 1
-                        training_results[novel_name] = {"status": "success", "output": process_result.stdout}
-                        logger.info(f"  ✓ Successfully trained: {novel_name}")
-                    else:
-                        training_results[novel_name] = {"status": "failed", "error": process_result.stderr}
-                        logger.error(f"  ✗ Failed to train: {novel_name}")
-                        if self.config.stop_on_error:
-                            break
-
-                except subprocess.TimeoutExpired:
-                    training_results[novel_name] = {"status": "timeout", "error": "Training timeout (1 hour)"}
-                    logger.error(f"  ✗ Training timeout: {novel_name}")
-                    if self.config.stop_on_error:
-                        break
-
-            result["novels_trained"] = novels_trained
-            result["training_results"] = training_results
-            result["status"] = "completed" if novels_trained > 0 else "failed"
+            result["novels_trained"] = training_result["novels_trained"]
+            result["training_results"] = training_result["training_results"]
+            result["status"] = "completed" if training_result["novels_trained"] > 0 else "failed"
 
         except Exception as e:
             logger.error(f"Stage 1 failed: {e}")
@@ -350,8 +479,8 @@ class MasterTrainingPipeline:
             process_result = subprocess.run(
                 cmd,
                 capture_output=True,
-                text=True,
-                timeout=7200  # 2 hour timeout for combined model
+                text=True
+                # No timeout - combined model training can take a long time
             )
 
             if process_result.returncode == 0:
@@ -370,10 +499,7 @@ class MasterTrainingPipeline:
                 result["error"] = process_result.stderr
                 logger.error(f"  ✗ Failed to train combined model: {model_key}")
 
-        except subprocess.TimeoutExpired:
-            result["status"] = "timeout"
-            result["error"] = "Combined training timeout (2 hours)"
-            logger.error(f"  ✗ Combined training timeout: {model_key}")
+        # TimeoutExpired exception removed - no timeout for combined training
 
         except Exception as e:
             logger.error(f"Stage 2 failed: {e}")
@@ -416,8 +542,8 @@ class MasterTrainingPipeline:
             process_result = subprocess.run(
                 cmd,
                 capture_output=True,
-                text=True,
-                timeout=1800  # 30 minute timeout for relational mapping
+                text=True
+                # No timeout - relational mapping can take a long time for large combined models
             )
 
             if process_result.returncode == 0:
@@ -441,10 +567,7 @@ class MasterTrainingPipeline:
                 result["error"] = process_result.stderr
                 logger.error(f"  ✗ Failed to create relational mappings: {model_key}")
 
-        except subprocess.TimeoutExpired:
-            result["status"] = "timeout"
-            result["error"] = "Relational mapping timeout (30 minutes)"
-            logger.error(f"  ✗ Relational mapping timeout: {model_key}")
+        # TimeoutExpired exception removed - no timeout for relational mapping
 
         except Exception as e:
             logger.error(f"Stage 3 failed: {e}")
@@ -733,7 +856,7 @@ class MasterTrainingPipeline:
 def main():
     """Main entry point for master training pipeline"""
     parser = argparse.ArgumentParser(description="Model Tea - Master Training Pipeline")
-    parser.add_argument("--model", type=str, help="Specific model to train (e.g., vs_mintchip)")
+    parser.add_argument("--model", type=str, help="Specific model to train")
     parser.add_argument("--all-models", action="store_true", help="Train all models")
     parser.add_argument("--list-models", action="store_true", help="List available models")
 
@@ -751,6 +874,10 @@ def main():
     parser.add_argument("--stop-on-error", action="store_true", help="Stop pipeline on first error")
     parser.add_argument("--no-report", action="store_true", help="Don't generate summary report")
 
+    # Parallel execution options
+    parser.add_argument("--parallel", action="store_true", help="Enable parallel novel training")
+    parser.add_argument("--max-workers", type=int, default=3, help="Maximum parallel workers (default: 3)")
+
     args = parser.parse_args()
 
     try:
@@ -764,6 +891,8 @@ def main():
         config.force_retrain_combined = args.force_combined
         config.stop_on_error = args.stop_on_error
         config.generate_summary_report = not args.no_report
+        config.individual_training_parallel = args.parallel
+        config.max_parallel_novels = args.max_workers
 
         # Initialize pipeline
         pipeline = MasterTrainingPipeline(config)
@@ -803,8 +932,9 @@ def main():
             models = pipeline.get_available_models()
             print(f"\nAvailable models: {', '.join(models)}")
             print(f"\nExample usage:")
-            print(f"  python master_training_pipeline.py --model vs_mintchip")
-            print(f"  python master_training_pipeline.py --all-models")
+            print(f"  python master_training_pipeline.py --model MODEL_NAME")
+            print(f"  python master_training_pipeline.py --model MODEL_NAME --parallel")
+            print(f"  python master_training_pipeline.py --all-models --parallel --max-workers 4")
 
     except Exception as e:
         logger.error(f"Master pipeline failed: {e}")
