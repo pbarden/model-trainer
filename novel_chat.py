@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 """
-Novel Generation Chat Interface
+Model Tea - Novel Generation Chat Interface
+Copyright © ChaiQ LLC
+
 Interactive chat app for generating novels using trained single-novel models
 """
 

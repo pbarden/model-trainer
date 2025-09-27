@@ -29,9 +29,9 @@ import pickle
 class MemoryConfig:
     """Configuration for episodic memory system"""
     # Memory extraction settings
-    memory_chunk_size: int = 50  # Words per memory chunk
+    memory_chunk_size: int = 35  # Words per memory chunk (smaller for granularity)
     overlap_ratio: float = 0.3   # Overlap between chunks
-    max_memories_per_novel: int = 200  # Limit for CPU efficiency
+    max_memories_per_novel: int = 250  # Increased for richer context
 
     # Memory types to extract
     extract_characters: bool = True
@@ -42,9 +42,9 @@ class MemoryConfig:
     extract_descriptions: bool = True
 
     # Retrieval settings
-    max_retrieved_memories: int = 3  # Number of memories to activate
+    max_retrieved_memories: int = 5  # Number of memories to activate (increased)
     relevance_threshold: float = 0.1  # Minimum similarity to activate
-    randomness_factor: float = 0.2   # Add some randomness like human memory
+    randomness_factor: float = 0.15  # Reduced randomness for consistency
 
     # CPU optimization
     use_simple_similarity: bool = True  # Use basic keyword matching vs embeddings
@@ -337,12 +337,48 @@ class MemoryExtractor:
         return min(1.0, score)
 
     def _rank_and_limit_memories(self, memories: List[Memory]) -> List[Memory]:
-        """Rank memories by importance and limit count"""
-        # Sort by importance score
-        memories.sort(key=lambda m: m.importance_score, reverse=True)
+        """Rank memories by importance and limit count with balanced distribution"""
+        # Group memories by type
+        from collections import defaultdict
+        memories_by_type = defaultdict(list)
+        for memory in memories:
+            memories_by_type[memory.memory_type].append(memory)
 
-        # Limit total number
-        return memories[:self.config.max_memories_per_novel]
+        # Sort each type by importance
+        for memory_type in memories_by_type:
+            memories_by_type[memory_type].sort(key=lambda m: m.importance_score, reverse=True)
+
+        # Define target distribution (more balanced across types)
+        max_memories = self.config.max_memories_per_novel
+        target_distribution = {
+            MemoryType.DESCRIPTION: int(max_memories * 0.60),  # 60% descriptions
+            MemoryType.LOCATION: int(max_memories * 0.15),     # 15% locations
+            MemoryType.CHARACTER: int(max_memories * 0.10),    # 10% characters
+            MemoryType.DIALOGUE: int(max_memories * 0.08),     # 8% dialogue
+            MemoryType.EMOTION: int(max_memories * 0.04),      # 4% emotions
+            MemoryType.THEME: int(max_memories * 0.03)         # 3% themes
+        }
+
+        # Select memories according to target distribution
+        selected_memories = []
+        for memory_type, target_count in target_distribution.items():
+            available_memories = memories_by_type.get(memory_type, [])
+            selected_count = min(target_count, len(available_memories))
+            selected_memories.extend(available_memories[:selected_count])
+
+        # If we haven't reached max_memories, fill with highest scoring remaining memories
+        if len(selected_memories) < max_memories:
+            remaining_memories = []
+            for memory_type, memory_list in memories_by_type.items():
+                used_count = target_distribution.get(memory_type, 0)
+                remaining_memories.extend(memory_list[used_count:])
+
+            # Sort remaining by importance and add until we reach max
+            remaining_memories.sort(key=lambda m: m.importance_score, reverse=True)
+            needed = max_memories - len(selected_memories)
+            selected_memories.extend(remaining_memories[:needed])
+
+        return selected_memories
 
 class MemoryRetriever:
     """Retrieves relevant memories based on input prompt"""

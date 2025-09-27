@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
-Model Mapping Generator
+Model Tea - Mapping Generator
+Copyright © ChaiQ LLC
 
 Creates optimized model categorization mappings with word count analysis
 and chunking strategy recommendations. Validates novel availability and

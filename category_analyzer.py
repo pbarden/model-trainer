@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
-Model Category Analysis System
+Model Tea - Category Analysis System
+Copyright © ChaiQ LLC
 
 Analyzes novel categorization structure and generates comprehensive mapping
 for multi-model training pipeline. Provides statistical analysis and validation

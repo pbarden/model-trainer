@@ -1,22 +1,15 @@
 # Model Tea - CPU-Only Training Architecture: Data Science Fundamentals
-*by ChaiQ LLC*
+*Copyright © ChaiQ LLC*
 
 This document explains the architectural principles behind Model Tea's CPU-optimized novel training system from a data science perspective, detailing the theory and optimization strategies that make efficient training possible without GPU resources.
 
-## 🏗️ Architectural Overview
+## Architectural Overview
 
 Model Tea's iterative training system demonstrates how **domain knowledge** (NLP), **algorithmic thinking** (progressive learning), and **systems optimization** (CPU efficiency) combine to solve resource-constrained machine learning problems.
 
 ## 1. Model Selection Strategy
 
-### Traditional Approach:
-```python
-# GPU-optimized models (expensive)
-model = "gpt2-large"           # 774M parameters
-model = "llama-3.2-3b"         # 3B parameters
-```
-
-### Our CPU Approach:
+### Our Approach:
 ```python
 # CPU-optimized model selection
 model = "distilgpt2"           # 82M parameters (47% smaller than GPT-2)
@@ -35,7 +28,7 @@ model = "distilgpt2"           # 82M parameters (47% smaller than GPT-2)
 all_chunks = load_entire_novel()  # 26,484 words → 50MB+ in memory
 
 # Our approach: Streaming processing
-for iteration in range(5):
+for iteration in range(6):  # Enhanced: 6 iterations for deeper training
     chunks = create_progressive_chunks(iteration)  # Load only what's needed
     train(chunks)
     del chunks  # Explicit memory cleanup
@@ -58,7 +51,9 @@ def create_progressive_chunks(content, iteration):
     # Iteration 1: 200 words  (Easy - short context)
     # Iteration 2: 240 words  (Medium)
     # Iteration 3: 280 words  (Harder - longer context)
-    # Iteration 4: 320 words  (Hardest)
+    # Iteration 4: 320 words  (Advanced)
+    # Iteration 5: 360 words  (Expert)
+    # Iteration 6: 400 words  (Mastery - ultra-fine tuning)
 ```
 
 **📚 Data Science Principle:** *Curriculum Learning*
@@ -91,9 +86,9 @@ gradient_accumulation = 4 # Simulate larger batches
 ### Adaptive Learning Rate Strategy:
 ```python
 def calculate_learning_rate(iteration, total_iterations):
-    # High → Low learning rate progression
-    start_lr = 5e-5
-    end_lr = 1e-5
+    # Enhanced: Extended learning rate range for 6 iterations
+    start_lr = 5e-5   # Coarse learning
+    end_lr = 5e-6     # Ultra-fine tuning for iteration 6
     progress = iteration / (total_iterations - 1)
     return start_lr * (1 - progress) + end_lr * progress
 ```
@@ -124,7 +119,41 @@ class QualityValidator:
 - **Validation split**: Hold-out data prevents overfitting detection
 - **Early stopping**: Regularization technique from Prechelt (1998)
 
-## 7. Data Processing Pipeline
+## 7. Enhanced Episodic Memory System
+
+### Balanced Memory Distribution:
+```python
+# Enhanced memory allocation for richer context
+memory_distribution = {
+    "descriptions": 150,  # 60% - Narrative content
+    "locations": 38,      # 15% - Spatial context
+    "characters": 25,     # 10% - Character tracking
+    "dialogue": 20,       # 8% - Conversation patterns
+    "emotions": 10,       # 4% - Emotional tone
+    "themes": 7          # 3% - Thematic elements
+}
+total_memories = 250  # Enhanced from 150
+```
+
+### Intelligent Memory Retrieval:
+```python
+def retrieve_memories(prompt, memory_system):
+    # Enhanced: 5 memories vs 3 for richer context
+    activated_memories = memory_system.retrieve_memories(
+        prompt=prompt,
+        limit=5,                    # Increased from 3
+        randomness_factor=0.15      # Reduced from 0.2 for consistency
+    )
+    return activated_memories
+```
+
+**📚 Data Science Principle:** *Information Retrieval & Context Enhancement*
+- **Balanced distribution**: Prevents over-representation of single memory type
+- **Granular memories**: 35-word chunks vs 40-word for better precision
+- **Semantic diversity**: Multiple memory types enhance contextual understanding
+- **Retrieval consistency**: Reduced randomness improves reproducible results
+
+## 8. Data Processing Pipeline
 
 ### Efficient Text Preprocessing:
 ```python
@@ -211,15 +240,17 @@ def assess_quality(generated_text):
 - **Extrinsic metrics**: Generation quality (task performance)
 - **Human evaluation simulation**: Heuristic approximation of human judgment
 
-## 🎯 Key Architectural Benefits
+## Key Architectural Benefits
 
 1. **Scalability**: O(chunk_size) memory complexity instead of O(dataset_size)
 2. **Robustness**: Multiple stopping criteria prevent bad convergence
 3. **Efficiency**: CPU-optimized operations and memory management
 4. **Quality**: Progressive learning and validation ensure good outcomes
 5. **Interpretability**: Clear metrics and logging for debugging
+6. **Enhanced Memory**: 250 balanced memories provide richer generation context
+7. **Deep Specialization**: 6 iterations with ultra-fine tuning (5e-6 learning rate)
 
-## 📊 Performance Comparison
+## Performance Comparison
 
 | Metric | Traditional GPU | Our CPU Method |
 |--------|-----------------|----------------|
@@ -235,8 +266,8 @@ def assess_quality(generated_text):
 
 **Training Time**: ~13 minutes total (vs 2+ hours with traditional method)
 - **Iteration 1**: 2m 49s → Perplexity: 32.79, Quality: 0.935
-- **Iteration 2**: 2m 31s → Perplexity: 27.06, Quality: 0.967 ✅ **Improving**
-- **Iteration 3**: 3m 07s → Perplexity: 23.94, Quality: 0.954 ↘️ **Slight decline**
+- **Iteration 2**: 2m 31s → Perplexity: 27.06, Quality: 0.967  **Improving**
+- **Iteration 3**: 3m 07s → Perplexity: 23.94, Quality: 0.954  **Slight decline**
 - **Iteration 4**: 3m 12s → Perplexity: 27.72, Quality: 0.959 📈 **Stopped** (quality plateau detected)
 
 ### Quality Indicators:

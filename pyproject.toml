@@ -1,0 +1,89 @@
+[build-system]
+requires = ["setuptools>=45", "wheel", "setuptools_scm[toml]>=6.2"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "model-tea"
+version = "1.0.0"
+description = "CPU-optimized iterative training system for language models with episodic memory"
+readme = "README.md"
+license = {text = "MIT"}
+authors = [{name = "ChaiQ LLC"}]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+requires-python = ">=3.8"
+dependencies = [
+    "torch>=2.0.0,<3.0.0",
+    "transformers>=4.30.0,<5.0.0",
+    "datasets>=2.10.0,<3.0.0",
+    "numpy>=1.21.0,<2.0.0",
+    "pandas>=1.3.0,<3.0.0",
+    "scikit-learn>=1.0.0,<2.0.0",
+    "tqdm>=4.60.0,<5.0.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0.0",
+    "pytest-cov>=4.0.0",
+    "black>=22.0.0",
+    "flake8>=5.0.0",
+    "mypy>=0.991",
+]
+test = [
+    "pytest>=7.0.0",
+    "pytest-cov>=4.0.0",
+]
+
+[project.scripts]
+model-tea = "iterative_novel_trainer:main"
+model-tea-chat = "novel_chat:main"
+model-tea-analyze = "memory_analysis_suite:main"
+
+[project.urls]
+Homepage = "https://github.com/chaiq-llc/model-trainer"
+Repository = "https://github.com/chaiq-llc/model-trainer.git"
+Issues = "https://github.com/chaiq-llc/model-trainer/issues"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py", "*_test.py"]
+addopts = "--cov=. --cov-report=html --cov-report=term-missing"
+
+[tool.black]
+line-length = 88
+target-version = ['py38']
+include = '\.pyi?$'
+extend-exclude = '''
+/(
+  # directories
+  \.eggs
+  | \.git
+  | \.hg
+  | \.mypy_cache
+  | \.tox
+  | \.venv
+  | _build
+  | buck-out
+  | build
+  | dist
+  | archive
+)/
+'''
+
+[tool.mypy]
+python_version = "3.8"
+warn_return_any = true
+warn_unused_configs = true
+disallow_untyped_defs = true

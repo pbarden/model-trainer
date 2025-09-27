@@ -55,10 +55,10 @@ class IterativeConfig:
     max_seq_length: int = 256      # Reduced for speed
 
     # Training progression
-    iterations_per_novel: int = 5   # Multiple training passes
+    iterations_per_novel: int = 6   # Enhanced with 6th iteration
     max_steps_per_iteration: int = 20  # Short iterations
     learning_rate_start: float = 5e-5
-    learning_rate_end: float = 1e-5   # Learning rate decay
+    learning_rate_end: float = 5e-6   # Lower end for 6th iteration fine-tuning
 
     # Data management
     chunk_size: int = 200          # Smaller chunks
@@ -545,6 +545,161 @@ class IterativeTrainer:
 
         return results
 
+    def _train_with_content(self, content: str, model_name: str) -> Dict[str, Any]:
+        """Train with provided content (used by combined model trainer)"""
+        logger.info(f"Starting iterative training with content for: {model_name}")
+        logger.info(f"Content length: {len(content):,} characters, {len(content.split()):,} words")
+
+        # Import training libraries
+        try:
+            from transformers import (
+                AutoTokenizer, AutoModelForCausalLM,
+                TrainingArguments, Trainer,
+                DataCollatorForLanguageModeling
+            )
+        except ImportError as e:
+            logger.error(f"Missing dependencies: {e}")
+            return {"error": "Missing transformers library"}
+
+        # Initialize model and tokenizer
+        logger.info("Loading model and tokenizer...")
+        tokenizer = AutoTokenizer.from_pretrained(self.config.base_model)
+        if tokenizer.pad_token is None:
+            tokenizer.pad_token = tokenizer.eos_token
+
+        model = AutoModelForCausalLM.from_pretrained(
+            self.config.base_model,
+            torch_dtype=torch.float32
+        )
+
+        # Training results
+        results = {
+            "model_name": model_name,
+            "iterations": [],
+            "final_quality": None,
+            "training_time": 0
+        }
+
+        start_time = time.time()
+
+        # Iterative training loop
+        for iteration in range(self.config.iterations_per_novel):
+            if not self.validator.should_continue_training(iteration):
+                break
+
+            logger.info(f"\n--- Iteration {iteration + 1}/{self.config.iterations_per_novel} ---")
+
+            # Create progressive chunks
+            chunks = self.processor.create_progressive_chunks(content, iteration)
+
+            # Split for training and validation
+            train_chunks, val_chunks = self.processor.create_train_val_split(chunks)
+
+            if not train_chunks:
+                logger.warning("No training data available")
+                break
+
+            # Prepare dataset
+            train_dataset = self._prepare_dataset(train_chunks, tokenizer)
+
+            # Calculate learning rate for this iteration
+            lr_progress = iteration / (self.config.iterations_per_novel - 1)
+            current_lr = self.config.learning_rate_start * (1 - lr_progress) + \
+                        self.config.learning_rate_end * lr_progress
+
+            # Training arguments
+            iteration_output_dir = self.output_dir / model_name / f"iteration_{iteration}"
+            iteration_output_dir.mkdir(parents=True, exist_ok=True)
+
+            training_args = TrainingArguments(
+                output_dir=str(iteration_output_dir),
+                overwrite_output_dir=True,
+                max_steps=self.config.max_steps_per_iteration,
+                per_device_train_batch_size=self.config.batch_size,
+                gradient_accumulation_steps=self.config.gradient_accumulation_steps,
+                learning_rate=current_lr,
+                warmup_ratio=self.config.warmup_ratio,
+                logging_steps=5,
+                save_steps=self.config.max_steps_per_iteration,
+                save_total_limit=1,
+                report_to="none",
+                use_cpu=True,
+                dataloader_num_workers=0,
+                prediction_loss_only=True
+            )
+
+            # Data collator
+            data_collator = DataCollatorForLanguageModeling(
+                tokenizer=tokenizer,
+                mlm=False
+            )
+
+            # Create trainer
+            trainer = Trainer(
+                model=model,
+                args=training_args,
+                train_dataset=train_dataset,
+                data_collator=data_collator
+            )
+
+            # Train iteration
+            iteration_start = time.time()
+            try:
+                trainer.train()
+                iteration_time = time.time() - iteration_start
+
+                # Validate quality
+                quality_metrics = self.validator.test_generation_quality(
+                    model, tokenizer, "The story begins"
+                )
+
+                perplexity = self.validator.calculate_perplexity(model, tokenizer, val_chunks[:5])
+
+                iteration_result = {
+                    "iteration": iteration + 1,
+                    "perplexity": perplexity,
+                    "quality_score": quality_metrics["quality"],
+                    "training_time": iteration_time,
+                    "learning_rate": current_lr,
+                    "chunk_size": len(chunks[0].split()) if chunks else 0,
+                    "num_chunks": len(chunks)
+                }
+
+                results["iterations"].append(iteration_result)
+
+                logger.info(f"  Perplexity: {perplexity:.2f}")
+                logger.info(f"  Quality: {quality_metrics['quality']:.3f}")
+                logger.info(f"  Training time: {iteration_time:.1f}s")
+
+                # Update validator with current results
+                self.validator.last_perplexity = perplexity
+                self.validator.last_quality = quality_metrics["quality"]
+
+            except Exception as e:
+                logger.error(f"Training iteration {iteration + 1} failed: {e}")
+                break
+
+        # Save final model
+        final_model_dir = self.output_dir / model_name / "final"
+        final_model_dir.mkdir(parents=True, exist_ok=True)
+
+        model.save_pretrained(str(final_model_dir))
+        tokenizer.save_pretrained(str(final_model_dir))
+
+        # Training analysis
+        total_time = time.time() - start_time
+        results["training_time"] = total_time
+
+        if results["iterations"]:
+            best_iteration = self._find_best_iteration(results["iterations"])
+            results["best_iteration"] = best_iteration
+            results["final_quality"] = best_iteration.get("quality_score", 0.0)
+
+        logger.info(f"Training completed in {total_time:.1f}s")
+        logger.info(f"Final model saved to: {final_model_dir}")
+
+        return results
+
     def _prepare_dataset(self, chunks: List[str], tokenizer) -> Dataset:
         """Prepare dataset for training"""
         def tokenize_function(examples):
@@ -746,10 +901,10 @@ class IterativeTrainer:
         try:
             # Initialize memory system with properly scoped imports
             memory_config = MemoryConfig(
-                max_memories_per_novel=150,  # CPU-friendly limit
-                memory_chunk_size=40,        # Smaller chunks for CPU efficiency
-                max_retrieved_memories=3,    # Limit active memories
-                randomness_factor=0.2        # Human-like memory activation
+                max_memories_per_novel=250,  # Increased for richer context
+                memory_chunk_size=35,        # Slightly smaller for more granular memories
+                max_retrieved_memories=5,    # More memories for better context
+                randomness_factor=0.15       # Reduced for more consistent retrieval
             )
 
             memory_system = EpisodicMemorySystem(memory_config)

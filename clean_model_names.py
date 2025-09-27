@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """
-Model Name Cleanup Script - Model Tea
-Clean up model names by removing version prefixes and keeping only the fun dessert names.
+Model Tea - Model Name Cleanup Script
+Copyright © ChaiQ LLC
 
-Copyright ChaiQ LLC
+Clean up model names by removing version prefixes and keeping only the fun dessert names.
 """
 
 import json

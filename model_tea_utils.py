@@ -31,8 +31,8 @@ class ModelTeaConfig:
 
     # Training parameters
     learning_rate_start: float = 5e-5
-    learning_rate_end: float = 1e-5
-    iterations_per_novel: int = 5
+    learning_rate_end: float = 5e-6
+    iterations_per_novel: int = 6
     max_steps_per_iteration: int = 20
     warmup_steps: int = 5
 
@@ -46,10 +46,10 @@ class ModelTeaConfig:
 
     # Memory system
     enable_memory_system: bool = True
-    max_memories_per_novel: int = 150
-    memory_chunk_size: int = 40
-    memory_retrieval_limit: int = 3
-    memory_randomness: float = 0.2
+    max_memories_per_novel: int = 250
+    memory_chunk_size: int = 35
+    memory_retrieval_limit: int = 5
+    memory_randomness: float = 0.15
 
     # Directories
     novels_dir: str = "novels"

@@ -1,9 +1,0 @@
-Call of Cthulhu Model Training Status
-========================================
-
-Training completed with 5 iterations.
-Model files saved in: iterative_models/call_of_cthulhu/
-Episodic memories created: 150 memories
-
-Note: Full training results JSON was corrupted due to boolean serialization issue.
-Manual analysis required for detailed metrics.

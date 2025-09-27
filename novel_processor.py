@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 """
-Novel Processing System
+Model Tea - Novel Processing System
+Copyright © ChaiQ LLC
+
 Professional novel cleaning and analysis pipeline for training data preparation
 """
 
@@ -140,8 +142,8 @@ class NovelProcessor:
                     with open(source_file, 'r', encoding=encoding, errors='ignore') as f:
                         content = f.read()
                     break
-                except:
-                    continue
+                except (UnicodeDecodeError, IOError) as e:
+                    continue  # Try next encoding
 
             if not content:
                 print(f"  ERROR: Could not read file")
@@ -277,8 +279,8 @@ class NovelProcessor:
                     sentence_count = analysis.get('sentence_count', 0)
                     print(f"{novel_name:<35} {word_count:>6,} words, {sentence_count:>4,} sentences")
 
-                except:
-                    print(f"{novel_dir.name:<35} ERROR reading analysis")
+                except (IOError, json.JSONDecodeError, KeyError) as e:
+                    print(f"{novel_dir.name:<35} ERROR reading analysis: {e}")
             else:
                 print(f"{novel_dir.name:<35} Missing analysis file")
 

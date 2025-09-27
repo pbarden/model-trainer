@@ -127,15 +127,15 @@ gradient_accumulation_steps = 4        # Simulate larger batches
 
 **Training Time**: 13 minutes total
 - **Iteration 1**: 2m 49s → Perplexity: 32.79, Quality: 0.935
-- **Iteration 2**: 2m 31s → Perplexity: 27.06, Quality: **0.967** ✅
+- **Iteration 2**: 2m 31s → Perplexity: 27.06, Quality: **0.967** 
 - **Iteration 3**: 3m 07s → Perplexity: 23.94, Quality: 0.954
 - **Iteration 4**: 3m 12s → Perplexity: 27.72, Quality: 0.959 📈 **Auto-stopped**
 
 **Quality Indicators:**
-- ✅ **96.7% fluency score** - excellent text generation quality
-- ✅ **Smart early stopping** - detected optimal performance automatically
-- ✅ **Perplexity improvement** - model confidence increased substantially
-- ✅ **Progressive learning** - handled increasing difficulty successfully
+-  **96.7% fluency score** - excellent text generation quality
+-  **Smart early stopping** - detected optimal performance automatically
+-  **Perplexity improvement** - model confidence increased substantially
+-  **Progressive learning** - handled increasing difficulty successfully
 
 **Generated Sample:**
 > *"It was a dark and stormy night when Mr. Sauer finally had the chance to meet some friends of his wife..."*
@@ -174,11 +174,11 @@ temperature_range = (0.7, 1.0)         # Generation testing
 | **Accessibility** | Limited hardware | Universal |
 
 ### vs. Single-Pass Training
-- ✅ **Better Quality**: Progressive learning improves fluency
-- ✅ **Faster Training**: Short iterations with early stopping
-- ✅ **Automatic Optimization**: No manual parameter tuning
-- ✅ **Prevents Overfitting**: Validation monitoring and early stopping
-- ✅ **Resource Efficient**: Minimal memory and CPU usage
+-  **Better Quality**: Progressive learning improves fluency
+-  **Faster Training**: Short iterations with early stopping
+-  **Automatic Optimization**: No manual parameter tuning
+-  **Prevents Overfitting**: Validation monitoring and early stopping
+-  **Resource Efficient**: Minimal memory and CPU usage
 
 ## 🎮 Interactive Generation
 
@@ -330,11 +330,11 @@ trainer = IterativeTrainer(config)
 python iterative_novel_trainer.py
 
 # The system will automatically:
-# ✅ Select an available novel
-# ✅ Train with progressive difficulty
-# ✅ Monitor quality in real-time
-# ✅ Stop at optimal performance
-# ✅ Save the best model for use
+#  Select an available novel
+#  Train with progressive difficulty
+#  Monitor quality in real-time
+#  Stop at optimal performance
+#  Save the best model for use
 ```
 
 **💡 Next Steps**: After training, use `python novel_chat.py` to interact with your specialized literary AI model and explore the unique style it learned from the novel!
