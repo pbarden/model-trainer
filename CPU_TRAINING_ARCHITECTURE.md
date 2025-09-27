@@ -1,10 +1,11 @@
-# CPU-Only Training Architecture: Data Science Fundamentals
+# Model Tea - CPU-Only Training Architecture: Data Science Fundamentals
+*by ChaiQ LLC*
 
-This document explains the architectural principles behind our CPU-optimized novel training system from a data science perspective, detailing the theory and optimization strategies that make efficient training possible without GPU resources.
+This document explains the architectural principles behind Model Tea's CPU-optimized novel training system from a data science perspective, detailing the theory and optimization strategies that make efficient training possible without GPU resources.
 
 ## 🏗️ Architectural Overview
 
-Our iterative training system demonstrates how **domain knowledge** (NLP), **algorithmic thinking** (progressive learning), and **systems optimization** (CPU efficiency) combine to solve resource-constrained machine learning problems.
+Model Tea's iterative training system demonstrates how **domain knowledge** (NLP), **algorithmic thinking** (progressive learning), and **systems optimization** (CPU efficiency) combine to solve resource-constrained machine learning problems.
 
 ## 1. Model Selection Strategy
 

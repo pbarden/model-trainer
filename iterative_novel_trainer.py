@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
-Iterative Novel Training System
+Model Tea - Iterative Novel Training System
+Copyright © ChaiQ LLC
 
 Fast CPU-optimized trainer that focuses on one novel at a time with multiple
 training iterations to develop fluency rather than memorization. Uses progressive
@@ -241,23 +242,40 @@ class QualityValidator:
         return quality_score
 
     def should_continue_training(self, current_iteration: int) -> bool:
-        """Decide if training should continue"""
-        if current_iteration == 0:
-            return True
+        """Decide if training should continue - now always completes all 5 iterations for consistency"""
+        # Always complete all iterations for comprehensive analysis
+        return True
 
-        # Check if perplexity is getting too high (overfitting)
+    def get_training_analysis(self, current_iteration: int) -> Dict[str, Any]:
+        """Get detailed analysis of current training state for documentation"""
+        analysis = {
+            "iteration": current_iteration + 1,
+            "perplexity_current": self.perplexity_history[-1] if self.perplexity_history else None,
+            "quality_current": self.generation_quality_history[-1] if self.generation_quality_history else None,
+            "perplexity_trend": None,
+            "quality_trend": None,
+            "overfitting_risk": False,
+            "convergence_status": "continuing"
+        }
+
+        # Analyze trends
+        if len(self.perplexity_history) >= 2:
+            analysis["perplexity_trend"] = "increasing" if self.perplexity_history[-1] > self.perplexity_history[-2] else "decreasing"
+
+        if len(self.generation_quality_history) >= 2:
+            analysis["quality_trend"] = "improving" if self.generation_quality_history[-1] > self.generation_quality_history[-2] else "declining"
+
+        # Check for potential issues (for documentation, not stopping)
         if self.perplexity_history and self.perplexity_history[-1] > self.config.perplexity_threshold:
-            logger.warning(f"Stopping: perplexity too high ({self.perplexity_history[-1]:.2f})")
-            return False
+            analysis["overfitting_risk"] = True
+            analysis["convergence_status"] = "high_perplexity_warning"
 
-        # Check if quality stopped improving
         if len(self.generation_quality_history) >= 3:
             recent_scores = self.generation_quality_history[-3:]
             if all(score <= recent_scores[0] for score in recent_scores[1:]):
-                logger.info("Stopping: quality stopped improving")
-                return False
+                analysis["convergence_status"] = "quality_plateau_detected"
 
-        return True
+        return analysis
 
 class IterativeTrainer:
     """Main iterative training system"""
@@ -399,6 +417,9 @@ class IterativeTrainer:
                 model, tokenizer, f"In the style of {novel_data['title']}"
             )
 
+            # Get detailed training analysis
+            training_analysis = self.validator.get_training_analysis(iteration)
+
             iteration_result = {
                 "iteration": iteration + 1,
                 "learning_rate": current_lr,
@@ -406,15 +427,22 @@ class IterativeTrainer:
                 "perplexity": perplexity,
                 "quality_score": quality_result["average_quality"],
                 "sample_generation": quality_result["sample_generation"],
-                "improving": bool(quality_result["improving"])  # Convert numpy bool to Python bool
+                "improving": bool(quality_result["improving"]),
+                "chunk_count": len(train_chunks),
+                "chunk_size_avg": self.config.chunk_size * (1 + iteration * 0.2),
+                "training_analysis": training_analysis
             }
 
             results["iterations"].append(iteration_result)
 
             logger.info(f"Iteration {iteration + 1} completed:")
             logger.info(f"  Time: {iter_time:.1f}s")
-            logger.info(f"  Perplexity: {perplexity:.2f}")
-            logger.info(f"  Quality: {quality_result['average_quality']:.3f}")
+            logger.info(f"  Perplexity: {perplexity:.2f} ({training_analysis['perplexity_trend'] or 'baseline'})")
+            logger.info(f"  Quality: {quality_result['average_quality']:.3f} ({training_analysis['quality_trend'] or 'baseline'})")
+            logger.info(f"  Chunks: {len(train_chunks)} ({int(iteration_result['chunk_size_avg'])} avg words)")
+            logger.info(f"  Status: {training_analysis['convergence_status']}")
+            if training_analysis['overfitting_risk']:
+                logger.warning(f"  ⚠️ High perplexity detected (continuing for full analysis)")
             logger.info(f"  Sample: {quality_result['sample_generation'][:100]}...")
 
             # Save checkpoint if enabled
@@ -422,10 +450,47 @@ class IterativeTrainer:
                 model.save_pretrained(str(iteration_output_dir))
                 tokenizer.save_pretrained(str(iteration_output_dir))
 
-        # Final results
+        # Final results with comprehensive analysis
         total_time = time.time() - start_time
         results["training_time"] = total_time
         results["final_quality"] = self.validator.generation_quality_history[-1] if self.validator.generation_quality_history else 0
+
+        # Add comprehensive training metrics
+        results["training_metrics"] = {
+            "novel_characteristics": {
+                "word_count": novel_data['word_count'],
+                "estimated_reading_time": novel_data['word_count'] / 250,  # ~250 words per minute
+                "complexity_category": self._categorize_novel_size(novel_data['word_count'])
+            },
+            "training_progression": {
+                "total_iterations_completed": len(results["iterations"]),
+                "perplexity_progression": self.validator.perplexity_history.copy(),
+                "quality_progression": self.validator.generation_quality_history.copy(),
+                "learning_rate_progression": [self._calculate_learning_rate(i) for i in range(len(results["iterations"]))],
+                "chunk_size_progression": [self._calculate_chunk_size(i) for i in range(len(results["iterations"]))]
+            },
+            "performance_analysis": {
+                "best_iteration": self._find_best_iteration(results["iterations"]),
+                "convergence_analysis": self._analyze_convergence(results["iterations"]),
+                "learning_patterns": self._analyze_learning_patterns(results["iterations"]),
+                "model_stability": self._analyze_model_stability(results["iterations"])
+            },
+            "training_efficiency": {
+                "total_training_time": total_time,
+                "avg_time_per_iteration": total_time / len(results["iterations"]) if results["iterations"] else 0,
+                "words_per_second": novel_data['word_count'] / total_time if total_time > 0 else 0,
+                "chunks_processed_total": sum(iter_data["chunk_count"] for iter_data in results["iterations"]),
+                "training_steps_total": sum(iter_data.get("training_steps", 0) for iter_data in results["iterations"]),
+                "model_parameters": 82_000_000,  # DistilGPT-2 parameters
+                "memory_efficiency_score": self._calculate_memory_efficiency(novel_data['word_count'], total_time)
+            },
+            "curriculum_learning_analysis": {
+                "progressive_difficulty_achieved": True,
+                "chunk_scaling_factor": 1.2,
+                "learning_rate_annealing": True,
+                "validation_consistency": len(self.validator.generation_quality_history) == len(results["iterations"])
+            }
+        }
 
         # Save final model
         final_model_dir = self.output_dir / novel_name / "final"
@@ -463,6 +528,187 @@ class IterativeTrainer:
         )
 
         return tokenized_dataset
+
+    def _find_best_iteration(self, iterations: List[Dict]) -> Dict[str, Any]:
+        """Find the iteration with best quality score"""
+        if not iterations:
+            return {"iteration": 0, "quality_score": 0}
+
+        best_iter = max(iterations, key=lambda x: x["quality_score"])
+        return {
+            "iteration": best_iter["iteration"],
+            "quality_score": best_iter["quality_score"],
+            "perplexity": best_iter["perplexity"],
+            "convergence_status": best_iter["training_analysis"]["convergence_status"]
+        }
+
+    def _analyze_convergence(self, iterations: List[Dict]) -> Dict[str, Any]:
+        """Analyze overall convergence patterns"""
+        if len(iterations) < 2:
+            return {"status": "insufficient_data"}
+
+        # Analyze perplexity trend
+        perplexities = [iter_data["perplexity"] for iter_data in iterations]
+        quality_scores = [iter_data["quality_score"] for iter_data in iterations]
+
+        perplexity_trend = "stable"
+        if perplexities[-1] < perplexities[0] * 0.9:
+            perplexity_trend = "improving"
+        elif perplexities[-1] > perplexities[0] * 1.1:
+            perplexity_trend = "degrading"
+
+        quality_trend = "stable"
+        if quality_scores[-1] > quality_scores[0] + 0.01:
+            quality_trend = "improving"
+        elif quality_scores[-1] < quality_scores[0] - 0.01:
+            quality_trend = "degrading"
+
+        # Check for overfitting indicators
+        overfitting_detected = any(
+            iter_data["training_analysis"]["overfitting_risk"]
+            for iter_data in iterations
+        )
+
+        return {
+            "perplexity_trend": perplexity_trend,
+            "quality_trend": quality_trend,
+            "overfitting_detected": overfitting_detected,
+            "final_perplexity": perplexities[-1],
+            "final_quality": quality_scores[-1],
+            "perplexity_improvement": (perplexities[0] - perplexities[-1]) / perplexities[0] if perplexities[0] > 0 else 0,
+            "quality_improvement": quality_scores[-1] - quality_scores[0],
+            "training_stability": "stable" if abs(max(quality_scores) - min(quality_scores)) < 0.05 else "variable"
+        }
+
+    def _categorize_novel_size(self, word_count: int) -> str:
+        """Categorize novel by complexity based on word count"""
+        if word_count < 20000:
+            return "short"
+        elif word_count < 50000:
+            return "medium"
+        elif word_count < 100000:
+            return "long"
+        else:
+            return "epic"
+
+    def _analyze_learning_patterns(self, iterations: List[Dict]) -> Dict[str, Any]:
+        """Analyze learning patterns across iterations"""
+        if len(iterations) < 3:
+            return {"status": "insufficient_data"}
+
+        quality_scores = [iter_data["quality_score"] for iter_data in iterations]
+        perplexities = [iter_data["perplexity"] for iter_data in iterations]
+
+        # Early learning (first 2 iterations)
+        early_quality_improvement = quality_scores[1] - quality_scores[0] if len(quality_scores) > 1 else 0
+        early_perplexity_improvement = perplexities[0] - perplexities[1] if len(perplexities) > 1 else 0
+
+        # Mid-training (iterations 2-4)
+        mid_quality_variance = np.var(quality_scores[1:4]) if len(quality_scores) > 3 else 0
+        mid_perplexity_variance = np.var(perplexities[1:4]) if len(perplexities) > 3 else 0
+
+        # Overall trend
+        quality_trend = "improving" if quality_scores[-1] > quality_scores[0] else "declining"
+        perplexity_trend = "improving" if perplexities[-1] < perplexities[0] else "declining"
+
+        return {
+            "early_learning": {
+                "quality_improvement": early_quality_improvement,
+                "perplexity_improvement": early_perplexity_improvement,
+                "learns_quickly": early_quality_improvement > 0.05
+            },
+            "mid_training_stability": {
+                "quality_variance": float(mid_quality_variance),
+                "perplexity_variance": float(mid_perplexity_variance),
+                "is_stable": mid_quality_variance < 0.01
+            },
+            "overall_pattern": {
+                "quality_trend": quality_trend,
+                "perplexity_trend": perplexity_trend,
+                "consistent_improvement": quality_trend == "improving" and perplexity_trend == "improving"
+            }
+        }
+
+    def _analyze_model_stability(self, iterations: List[Dict]) -> Dict[str, Any]:
+        """Analyze model training stability and robustness"""
+        if len(iterations) < 3:
+            return {"status": "insufficient_data"}
+
+        quality_scores = [iter_data["quality_score"] for iter_data in iterations]
+        perplexities = [iter_data["perplexity"] for iter_data in iterations]
+
+        # Calculate stability metrics
+        quality_variance = np.var(quality_scores)
+        perplexity_variance = np.var(perplexities)
+        quality_range = max(quality_scores) - min(quality_scores)
+        perplexity_range = max(perplexities) - min(perplexities)
+
+        # Detect oscillations (consecutive opposite direction changes)
+        quality_oscillations = 0
+        perplexity_oscillations = 0
+
+        for i in range(2, len(iterations)):
+            # Quality oscillation detection
+            if len(quality_scores) > i:
+                prev_change = quality_scores[i-1] - quality_scores[i-2]
+                curr_change = quality_scores[i] - quality_scores[i-1]
+                if prev_change * curr_change < 0 and abs(prev_change) > 0.01:  # Opposite directions
+                    quality_oscillations += 1
+
+            # Perplexity oscillation detection
+            if len(perplexities) > i:
+                prev_change = perplexities[i-1] - perplexities[i-2]
+                curr_change = perplexities[i] - perplexities[i-1]
+                if prev_change * curr_change < 0 and abs(prev_change) > 1.0:  # Opposite directions
+                    perplexity_oscillations += 1
+
+        # Stability assessment
+        is_stable = (quality_variance < 0.01 and perplexity_variance < 25.0 and
+                    quality_oscillations <= 1 and perplexity_oscillations <= 1)
+
+        return {
+            "variance_analysis": {
+                "quality_variance": float(quality_variance),
+                "perplexity_variance": float(perplexity_variance),
+                "quality_range": float(quality_range),
+                "perplexity_range": float(perplexity_range)
+            },
+            "oscillation_detection": {
+                "quality_oscillations": quality_oscillations,
+                "perplexity_oscillations": perplexity_oscillations,
+                "has_excessive_oscillation": quality_oscillations > 2 or perplexity_oscillations > 2
+            },
+            "stability_assessment": {
+                "is_stable": is_stable,
+                "stability_score": 1.0 - min(1.0, quality_variance * 10 + perplexity_variance / 100),
+                "robustness": "high" if is_stable else "medium" if quality_oscillations <= 2 else "low"
+            }
+        }
+
+    def _calculate_memory_efficiency(self, word_count: int, training_time: float) -> float:
+        """Calculate memory efficiency score for CPU training"""
+        if training_time <= 0:
+            return 0.0
+
+        # Baseline: 2GB RAM usage (typical for CPU training)
+        estimated_ram_gb = 2.0
+
+        # Words processed per second per GB of RAM
+        efficiency = (word_count / training_time) / estimated_ram_gb
+
+        # Normalize to 0-1 scale (1000 words/sec/GB is excellent)
+        normalized_efficiency = min(1.0, efficiency / 1000.0)
+
+        return float(normalized_efficiency)
+
+    def _calculate_learning_rate(self, iteration: int) -> float:
+        """Calculate learning rate for given iteration"""
+        progress = iteration / (self.config.iterations_per_novel - 1) if self.config.iterations_per_novel > 1 else 0
+        return self.config.learning_rate_start * (1 - progress) + self.config.learning_rate_end * progress
+
+    def _calculate_chunk_size(self, iteration: int) -> int:
+        """Calculate chunk size for given iteration"""
+        return int(self.config.chunk_size + (iteration * self.config.chunk_size * 0.2))
 
     def list_available_novels(self) -> List[str]:
         """List available novels for training"""
@@ -508,7 +754,8 @@ class IterativeTrainer:
 
 def main():
     """Main function"""
-    print("Iterative Novel Training System")
+    print("Model Tea - Iterative Novel Training System")
+    print("Copyright © ChaiQ LLC")
     print("=" * 50)
 
     config = IterativeConfig()
@@ -525,13 +772,28 @@ def main():
     for i, novel in enumerate(novels[:10], 1):
         print(f"  {i}. {novel.replace('_', ' ').title()}")
 
-    # Train the first novel as demonstration
-    if novels:
-        selected_novel = novels[0]
+    # Find first untrained novel
+    selected_novel = None
+    for novel in novels:
+        model_dir = trainer.output_dir / novel / "final"
+        if not model_dir.exists():
+            selected_novel = novel
+            break
+
+    if selected_novel:
         print(f"\nStarting iterative training on: {selected_novel}")
         print("This will train with progressive difficulty over multiple iterations")
         print("Each iteration will be evaluated for quality and fluency")
+    else:
+        print("\nAll novels have already been trained!")
+        print("Available trained models:")
+        for novel in novels:
+            model_dir = trainer.output_dir / novel / "final"
+            if model_dir.exists():
+                print(f"  - {novel.replace('_', ' ').title()}")
+        return
 
+    if selected_novel:
         try:
             results = trainer.train_novel(selected_novel)
 

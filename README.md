@@ -1,10 +1,11 @@
-# CPU-Optimized Novel Training System
+# Model Tea - CPU-Optimized Novel Training System
+*by ChaiQ LLC*
 
 A **CPU-only** iterative training system that creates specialized literary AI models from classic novels. Uses progressive learning and quality monitoring to develop fluent, genre-specific models without requiring expensive GPU hardware.
 
 ## 🎯 Overview
 
-This system uses **iterative curriculum learning** to train high-quality literary models on any laptop or desktop. Key innovations include:
+Model Tea uses **iterative curriculum learning** to train high-quality literary models on any laptop or desktop. Key innovations include:
 
 - **CPU-Only Training** - No GPU required, works on any modern computer
 - **Progressive Learning** - Starts with easy chunks, gradually increases difficulty
@@ -306,6 +307,7 @@ trainer = IterativeTrainer(config)
 
 ## 📄 License & Acknowledgments
 
+**Model Tea** - Copyright © ChaiQ LLC
 **License**: MIT License
 
 **Key References**:

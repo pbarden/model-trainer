@@ -3,12 +3,13 @@
     "total_models": 18,
     "total_novels_assigned": 443,
     "total_word_count": 17272202,
-    "created_by": "create_clean_mapping.py",
-    "description": "Cleaned model categorization with only available novels and word counts"
+    "created_by": "Model Tea Cleanup Script",
+    "description": "Model Tea - Clean model categorization with dessert-themed names",
+    "copyright": "ChaiQ LLC"
   },
   "models": {
     "bc_sprinkles": {
-      "description": "0.17-bc Sprinkles",
+      "description": "Sprinkles",
       "novel_count": 26,
       "total_word_count": 961082,
       "avg_words_per_novel": 36964,
@@ -178,7 +179,7 @@
       }
     },
     "cb_bananasplit": {
-      "description": "0.26-cb Banana Split",
+      "description": "Banana Split",
       "novel_count": 27,
       "total_word_count": 902724,
       "avg_words_per_novel": 33434,
@@ -354,7 +355,7 @@
       }
     },
     "es_cherryfloat": {
-      "description": "0.5-es Cherry Float",
+      "description": "Cherry Float",
       "novel_count": 28,
       "total_word_count": 908711,
       "avg_words_per_novel": 32453,
@@ -536,7 +537,7 @@
       }
     },
     "f7_cupcake": {
-      "description": "0.3-f7 Cupcake",
+      "description": "Cupcake",
       "novel_count": 25,
       "total_word_count": 1066555,
       "avg_words_per_novel": 42662,
@@ -700,7 +701,7 @@
       }
     },
     "f8_cheesecake": {
-      "description": "0.4-f8 Cheesecake",
+      "description": "Cheesecake",
       "novel_count": 24,
       "total_word_count": 743417,
       "avg_words_per_novel": 30975,
@@ -858,7 +859,7 @@
       }
     },
     "ft_marshmallow": {
-      "description": "0.12-ft Marshmallow",
+      "description": "Marshmallow",
       "novel_count": 23,
       "total_word_count": 1370386,
       "avg_words_per_novel": 59582,
@@ -1010,7 +1011,7 @@
       }
     },
     "fx_keylimepie": {
-      "description": "0.12-fx Keylime Pie",
+      "description": "Keylime Pie",
       "novel_count": 24,
       "total_word_count": 1032835,
       "avg_words_per_novel": 43034,
@@ -1168,7 +1169,7 @@
       }
     },
     "hl_tiramisu": {
-      "description": "0.3-hl Tiramisu",
+      "description": "Tiramisu",
       "novel_count": 22,
       "total_word_count": 996528,
       "avg_words_per_novel": 45296,
@@ -1314,7 +1315,7 @@
       }
     },
     "mg_limesoda": {
-      "description": "0.5-mg Lime Soda",
+      "description": "Lime Soda",
       "novel_count": 25,
       "total_word_count": 636136,
       "avg_words_per_novel": 25445,
@@ -1478,7 +1479,7 @@
       }
     },
     "mt_sorbet": {
-      "description": "0.3-mt Sorbet",
+      "description": "Sorbet",
       "novel_count": 23,
       "total_word_count": 843694,
       "avg_words_per_novel": 36682,
@@ -1630,7 +1631,7 @@
       }
     },
     "pe_peachcobbler": {
-      "description": "0.11-pe Peach Cobbler",
+      "description": "Peach Cobbler",
       "novel_count": 24,
       "total_word_count": 801563,
       "avg_words_per_novel": 33398,
@@ -1788,7 +1789,7 @@
       }
     },
     "sf_parfait": {
-      "description": "0.8-sf Parfait",
+      "description": "Parfait",
       "novel_count": 25,
       "total_word_count": 1051017,
       "avg_words_per_novel": 42040,
@@ -1952,7 +1953,7 @@
       }
     },
     "so_smores": {
-      "description": "0.2-so Smores",
+      "description": "Smores",
       "novel_count": 23,
       "total_word_count": 691241,
       "avg_words_per_novel": 30053,
@@ -2104,7 +2105,7 @@
       }
     },
     "tg_sugarcookie": {
-      "description": "0.26-tg Sugar Cookie",
+      "description": "Sugar Cookie",
       "novel_count": 21,
       "total_word_count": 828211,
       "avg_words_per_novel": 39438,
@@ -2244,7 +2245,7 @@
       }
     },
     "tr_creamsoda": {
-      "description": "0.23-tr Cream Soda",
+      "description": "Cream Soda",
       "novel_count": 25,
       "total_word_count": 1361547,
       "avg_words_per_novel": 54461,
@@ -2408,7 +2409,7 @@
       }
     },
     "vs_mintchip": {
-      "description": "0.f-vs Mint Chip",
+      "description": "Mint Chip",
       "novel_count": 26,
       "total_word_count": 1406520,
       "avg_words_per_novel": 54096,
@@ -2578,7 +2579,7 @@
       }
     },
     "xg_rootbeer": {
-      "description": "0.8-xg Rootbeer",
+      "description": "Rootbeer",
       "novel_count": 23,
       "total_word_count": 852730,
       "avg_words_per_novel": 37075,
@@ -2730,7 +2731,7 @@
       }
     },
     "xo_chocolateshake": {
-      "description": "0.8-xo Chocolate Pudding",
+      "description": "Chocolate Pudding",
       "novel_count": 29,
       "total_word_count": 817305,
       "avg_words_per_novel": 28182,
