@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Simple Novel Processor
-Robust processing for novels from novels__uncleaned folder
+Novel Processing System
+Professional novel cleaning and analysis pipeline for training data preparation
 """
 
 import os
@@ -10,16 +10,21 @@ import time
 from pathlib import Path
 from typing import List, Dict, Tuple
 
-class SimpleNovelProcessor:
-    """Simple, robust novel processor"""
+class NovelProcessor:
+    """
+    Professional novel processing system for preparing training data.
+
+    Handles text cleaning, normalization, analysis, and structured output
+    for machine learning model training pipelines.
+    """
 
     def __init__(self, source_dir: str = "novels__uncleaned", target_dir: str = "novels"):
         self.source_dir = Path(source_dir)
         self.target_dir = Path(target_dir)
         self.target_dir.mkdir(exist_ok=True)
 
-        # Simple status tracking
-        self.status_file = Path("simple_processing_status.json")
+        # Processing status tracking
+        self.status_file = Path("processing_status.json")
         self.status = self._load_status()
 
     def _load_status(self) -> Dict:
@@ -34,8 +39,13 @@ class SimpleNovelProcessor:
         with open(self.status_file, 'w') as f:
             json.dump(self.status, f, indent=2)
 
-    def clean_text_simple(self, text: str) -> str:
-        """Simple, robust text cleaning"""
+    def clean_text(self, text: str) -> str:
+        """
+        Professional text cleaning and normalization.
+
+        Removes encoding artifacts, normalizes whitespace, and ensures
+        consistent formatting for training data preparation.
+        """
         # Remove BOM if present
         if text.startswith('\ufeff'):
             text = text[1:]
@@ -56,7 +66,7 @@ class SimpleNovelProcessor:
 
         text = '\n'.join(cleaned_lines)
 
-        # Simple character filtering - keep only printable ASCII + common punctuation
+        # Character filtering - keep only printable ASCII + common punctuation
         clean_chars = []
         for char in text:
             if 32 <= ord(char) <= 126 or char in '\n\t':
@@ -67,11 +77,16 @@ class SimpleNovelProcessor:
         return ''.join(clean_chars).strip()
 
     def analyze_text(self, text: str) -> Dict:
-        """Simple text analysis"""
+        """
+        Analyze text content for training data preparation.
+
+        Returns comprehensive statistics including word count, character count,
+        and sentence analysis for training pipeline optimization.
+        """
         words = text.split()
         sentences = []
 
-        # Simple sentence splitting
+        # Sentence boundary detection
         for delimiter in ['. ', '! ', '? ']:
             text = text.replace(delimiter, delimiter + '|SENT|')
 
@@ -139,7 +154,7 @@ class SimpleNovelProcessor:
                 return False
 
             # Clean text
-            cleaned_text = self.clean_text_simple(content)
+            cleaned_text = self.clean_text(content)
 
             if len(cleaned_text) < 500:
                 print(f"  ERROR: Cleaned text too short ({len(cleaned_text)} chars)")
@@ -271,13 +286,13 @@ def main():
     """Main function"""
     import argparse
 
-    parser = argparse.ArgumentParser(description="Simple Novel Processor")
+    parser = argparse.ArgumentParser(description="Professional Novel Processing System")
     parser.add_argument("--batch", type=int, default=5, help="Batch size")
     parser.add_argument("--list", action="store_true", help="List processed novels")
 
     args = parser.parse_args()
 
-    processor = SimpleNovelProcessor()
+    processor = NovelProcessor()
 
     if args.list:
         processor.list_processed()

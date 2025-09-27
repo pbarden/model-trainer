@@ -1,7 +1,16 @@
 #!/usr/bin/env python3
 """
 Multi-Model Training System
-Trains multiple specialized models based on cleaned categorization mapping
+
+Professional training pipeline for genre-specialized language models.
+Trains 18 specialized models on categorized novel collections using
+reinforcement learning with novel-specific reward functions.
+
+Features:
+- Adaptive chunking based on dataset characteristics
+- Genre-specific reward functions for style consistency
+- Comprehensive experiment tracking and model management
+- Production-ready model export and validation
 """
 
 import os
@@ -27,7 +36,12 @@ except ImportError:
 
 @dataclass
 class MultiModelConfig:
-    """Configuration for multi-model training"""
+    """
+    Configuration class for multi-model training pipeline.
+
+    Centralizes all training parameters, model specifications, and infrastructure
+    settings for consistent and reproducible training across all model categories.
+    """
     base_model: str = "unsloth/llama-3.2-3b-bnb-4bit"
     max_seq_length: int = 1024
     lora_rank: int = 8
@@ -37,7 +51,7 @@ class MultiModelConfig:
     max_new_tokens: int = 300
     novels_dir: str = "novels"
     experiments_dir: str = "multi_model_experiments"
-    mapping_file: str = "cleaned_model_mapping.json"
+    mapping_file: str = "model_mapping.json"
 
 class AdaptiveNovelProcessor:
     """Processes novels with adaptive chunking based on size"""
@@ -512,7 +526,7 @@ def main():
     # Check if mapping file exists
     if not Path(config.mapping_file).exists():
         print(f"Error: Mapping file {config.mapping_file} not found.")
-        print("Run: python create_clean_mapping.py first")
+        print("Run: python mapping_generator.py first")
         return
 
     if not UNSLOTH_AVAILABLE:

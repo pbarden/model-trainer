@@ -28,10 +28,10 @@ pip install unsloth torch transformers datasets trl
 ### One-Time Setup
 ```bash
 # Clean and process all 250+ novels (already done)
-python simple_novel_processor.py --list  # View processed novels
+python novel_processor.py --list  # View processed novels
 
 # Verify model categorizations
-python analyze_categories.py
+python category_analyzer.py
 ```
 
 ### Train All Models
@@ -62,13 +62,13 @@ model-trainer/
 │   └── novel_chat.py              # Interactive generation
 │
 ├── 🔧 Data Processing
-│   ├── simple_novel_processor.py   # Novel cleaning and analysis
-│   ├── analyze_categories.py       # Model categorization analysis
-│   └── create_clean_mapping.py     # Mapping optimization
+│   ├── novel_processor.py          # Novel cleaning and analysis
+│   ├── category_analyzer.py        # Model categorization analysis
+│   └── mapping_generator.py        # Mapping optimization
 │
 ├── 📊 Configuration
-│   ├── cleaned_model_mapping.json  # Model-to-novel assignments (18 models)
-│   └── simple_processing_status.json # Processing status (250 novels)
+│   ├── model_mapping.json          # Model-to-novel assignments (18 models)
+│   └── processing_status.json      # Processing status (250 novels)
 │
 ├── 📚 Processed Novels (250 total)
 │   └── novels/[novel_name]/
@@ -207,14 +207,14 @@ lora_rank = 8
 ### Model Categorization
 ```bash
 # View current categorizations
-python analyze_categories.py
+python category_analyzer.py
 
 # Regenerate clean mapping
-python create_clean_mapping.py
+python mapping_generator.py
 
 # Add new novels to existing categories
 # 1. Place .txt files in novels__uncleaned/
-# 2. Run simple_novel_processor.py
+# 2. Run novel_processor.py
 # 3. Update data/ folder assignments
 # 4. Regenerate mapping and retrain
 ```
@@ -282,9 +282,9 @@ python create_clean_mapping.py
 
 ### Adding New Genres
 1. **Collect Novels**: Add .txt files to `novels__uncleaned/`
-2. **Process**: Run `simple_novel_processor.py`
+2. **Process**: Run `novel_processor.py`
 3. **Categorize**: Create new folder in `data/` with novel assignments
-4. **Map**: Run `analyze_categories.py` and `create_clean_mapping.py`
+4. **Map**: Run `category_analyzer.py` and `mapping_generator.py`
 5. **Train**: Execute `multi_model_trainer.py`
 
 ### Custom Reward Functions

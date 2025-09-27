@@ -1,6 +1,10 @@
 #!/usr/bin/env python3
 """
-Analyze the data folder structure and create comprehensive model categorization mapping
+Model Category Analysis System
+
+Analyzes novel categorization structure and generates comprehensive mapping
+for multi-model training pipeline. Provides statistical analysis and validation
+of category assignments.
 """
 
 import json
@@ -59,7 +63,7 @@ def create_mapping_file(model_mapping):
         "metadata": {
             "total_models": len(model_mapping),
             "total_novels_assigned": total_novels,
-            "created_by": "analyze_categories.py",
+            "created_by": "category_analyzer.py",
             "description": "Model categorization mapping for multi-model training approach"
         },
         "models": model_mapping

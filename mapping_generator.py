@@ -1,7 +1,10 @@
 #!/usr/bin/env python3
 """
-Create a cleaned model mapping that only includes available novels
-and adds word count data for chunking decisions
+Model Mapping Generator
+
+Creates optimized model categorization mappings with word count analysis
+and chunking strategy recommendations. Validates novel availability and
+generates production-ready training configurations.
 """
 
 import json
@@ -30,7 +33,7 @@ def load_novel_analysis_data():
 
 def normalize_novel_name(name):
     """Convert novel name to our directory naming format"""
-    # This matches the logic used in simple_novel_processor.py
+    # This matches the logic used in novel_processor.py
     safe_chars = []
     for char in name:
         if char.isalnum() or char in ' -_':
@@ -62,7 +65,7 @@ def create_cleaned_mapping():
             "total_models": 0,
             "total_novels_assigned": 0,
             "total_word_count": 0,
-            "created_by": "create_clean_mapping.py",
+            "created_by": "mapping_generator.py",
             "description": "Cleaned model categorization with only available novels and word counts"
         },
         "models": {}
@@ -133,7 +136,7 @@ def create_cleaned_mapping():
     cleaned_mapping["metadata"]["total_word_count"] = total_word_count
 
     # Save cleaned mapping
-    with open("cleaned_model_mapping.json", 'w') as f:
+    with open("model_mapping.json", 'w') as f:
         json.dump(cleaned_mapping, f, indent=2)
 
     print(f"\nCleaned mapping created:")
@@ -171,7 +174,7 @@ def determine_chunking_strategy(total_words, novel_count):
         }
 
 if __name__ == "__main__":
-    print("Creating cleaned model mapping...")
+    print("Generating optimized model mapping...")
     print("=" * 50)
 
     cleaned_mapping = create_cleaned_mapping()
