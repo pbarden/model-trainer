@@ -6,6 +6,8 @@ __pycache__/
 
 # Archive and reference materials
 archive/
+novels/
+iterative_models/
 
 # Training outputs and experiments
 experiments/

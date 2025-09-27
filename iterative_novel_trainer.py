@@ -406,7 +406,7 @@ class IterativeTrainer:
                 "perplexity": perplexity,
                 "quality_score": quality_result["average_quality"],
                 "sample_generation": quality_result["sample_generation"],
-                "improving": quality_result["improving"]
+                "improving": bool(quality_result["improving"])  # Convert numpy bool to Python bool
             }
 
             results["iterations"].append(iteration_result)
