@@ -1,0 +1,88 @@
+{
+  "model_name": "Call of Cthulhu",
+  "analysis_timestamp": "2025-09-27T03:09:24.423804",
+  "training_summary": {
+    "total_iterations": 5,
+    "total_training_time_seconds": 799.7606565952301,
+    "total_training_time_formatted": "13.3 minutes",
+    "final_quality_score": 0.993103448275862,
+    "final_perplexity": 9.703162381644729,
+    "best_iteration": {
+      "iteration": 3,
+      "quality_score": 0.9954545454545456,
+      "perplexity": 5.750135907150353
+    }
+  },
+  "episodic_memory_status": {
+    "total_memories_created": 150,
+    "memory_system_active": true,
+    "memory_density": 1.5
+  },
+  "model_performance": {
+    "quality_progression": [
+      0.990909090909091,
+      0.9866666666666668,
+      0.9954545454545456,
+      0.9910112359550562,
+      0.993103448275862
+    ],
+    "perplexity_progression": [
+      3.387657239816613,
+      4.372416181069608,
+      5.750135907150353,
+      7.012819725023452,
+      9.703162381644729
+    ],
+    "learning_rate_progression": [
+      5e-05,
+      4e-05,
+      3e-05,
+      2e-05,
+      1e-05
+    ],
+    "quality_improvement": 0.0021943573667710936,
+    "perplexity_change": 6.315505141828115
+  },
+  "iterations": [
+    {
+      "iteration": 1,
+      "learning_rate": 5e-05,
+      "training_time": 149.7231547832489,
+      "perplexity": 3.387657239816613,
+      "quality_score": 0.990909090909091,
+      "sample_generation": "it occurred to me that I had heard my father's voice..."
+    },
+    {
+      "iteration": 2,
+      "learning_rate": 4e-05,
+      "training_time": 142.5373818874359,
+      "perplexity": 4.372416181069608,
+      "quality_score": 0.9866666666666668,
+      "sample_generation": "I heard the whole thing being said on my mind..."
+    },
+    {
+      "iteration": 3,
+      "learning_rate": 3e-05,
+      "training_time": 159.77073502540588,
+      "perplexity": 5.750135907150353,
+      "quality_score": 0.9954545454545456,
+      "sample_generation": "I saw the sun's shadow rise above..."
+    },
+    {
+      "iteration": 4,
+      "learning_rate": 2e-05,
+      "training_time": 156.73546504974365,
+      "perplexity": 7.012819725023452,
+      "quality_score": 0.9910112359550562,
+      "sample_generation": "men, with great dreads of darkness to assail them..."
+    },
+    {
+      "iteration": 5,
+      "learning_rate": 1e-05,
+      "training_time": 190.99391984939575,
+      "perplexity": 9.703162381644729,
+      "quality_score": 0.993103448275862,
+      "sample_generation": "all I heard, as if an evening-night of sun had come..."
+    }
+  ]
+}

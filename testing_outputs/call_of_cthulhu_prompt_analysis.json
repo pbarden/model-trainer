@@ -1,0 +1,84 @@
+{
+  "model_name": "call_of_cthulhu",
+  "analysis_type": "prompt_testing",
+  "test_results": [
+    {
+      "prompt": "In the ancient city of R'lyeh, beneath the waves",
+      "conservative_generation": "and in his thirties a golden stone wall was erected to represent one man who had left home as an infant by nature. Now that there has been no change; I suppose it is not only because my soul knew nothing but how he got here on earth from within himself or perhaps among other places until its cause did clear away all those things which must have made him so special before His death:",
+      "creative_generation": "lay a secret civilization which had always been mysterious and unknown to all but man. Those who heard it were convinced that many men saw with great horror an alien race or something more monstrous than they knew their own dreams; one thing only kept them hidden from society's eye altogether\u2014and yet others could not trace back beyond mankind for at least twenty years after these strange accounts finally come true\nFrom where there",
+      "conservative_quality": 0.9946666666666668,
+      "creative_quality": 0.9945945945945946,
+      "conservative_vocab_diversity": 74,
+      "creative_vocab_diversity": 73
+    },
+    {
+      "prompt": "The old professor whispered of forbidden knowledge",
+      "conservative_generation": ".\n\u201cWhat are these things? Is the light in my mind, or is it not even human and I am afraid to speak out against them now that they may be revealed again through their powers; at first we could only see what was meant by a clear thought from its most distant source than real time: one thing must have been found once before but then there were no words on earth",
+      "creative_generation": "and he called upon his soul to be cleansed\nwith black hands. The boy's vision had taken, though it never died; but the legend now seemed too faint or unearthly for all its victims",
+      "conservative_quality": 0.6945205479452055,
+      "creative_quality": 0.9882352941176471,
+      "conservative_vocab_diversity": 72,
+      "creative_vocab_diversity": 33
+    },
+    {
+      "prompt": "Strange dreams plagued the narrator as he",
+      "conservative_generation": "was told to come and speak. The man had become a very strange sort of monster, though his mind never seemed in anything resembling its shape or form; but when it turned out that there were no monsters on earth--with which I could rest my soul from seeing them through all avenues!\nTo him this tale must be true: for once even we knew what appeared beneath our mortal eyes would not",
+      "creative_generation": "spoke about her and a stormy sea of things at once. But those were not all great; in order for them to live, every thing was made their part:\nJehovah's dream had its meaning only when they realized it would be fulfilled by one time alone or another until three thousand years after death-time on February 23rd 17th 2038....I think you can imagine",
+      "conservative_quality": 0.9944444444444445,
+      "creative_quality": 1.0,
+      "conservative_vocab_diversity": 71,
+      "creative_vocab_diversity": 63
+    },
+    {
+      "prompt": "The cyclopean architecture defied all",
+      "conservative_generation": "the rules of physics and its origin. I had heard this theory before, but it did not come through my ears when I was young enough to see in an old school museum some new man living among a vast swathe of mythological trees that formed over three hundred thousand years ago by fire from ancient sources on Earth at great cost. The first object found near me as one such thing is apparently much",
+      "creative_generation": "the natural laws of nature and, in this sense, seemed just about to be fulfilled. The question was whether any living thing existed but an organism whose existence it could only live on itself before its creator had ever been found\u2014if not a creature who alone can exist long enough for him and his own soul's will or power with God; though my uncle himself knew nothing except mere words from which I",
+      "conservative_quality": 0.984,
+      "creative_quality": 0.9945205479452055,
+      "conservative_vocab_diversity": 72,
+      "creative_vocab_diversity": 72
+    },
+    {
+      "prompt": "Cthulhu fhtagn! In his house at R'lyeh",
+      "conservative_generation": ", Ogernon said of the priests and told him that he had seen Cthulhu worshiping a young boy. He must have remembered all those things in such an ancient language as this:\nI shall not be able to tell you much more than I will give on what is known about these gods; for though my soul which knew them like me was too high or far from it now might yet",
+      "creative_generation": ",\nhe found a black vessel in the sky so full of clouds and white creeks I could barely see. What had come before him from that place was an enormous figure to which he couldn't find any trace.[37] He did learn all sorts more than those unknown figures around; though strange-looking beings were even mentioned as their primary source,[38][39], they might have been",
+      "conservative_quality": 0.9888888888888889,
+      "creative_quality": 0.8021666666666667,
+      "conservative_vocab_diversity": 70,
+      "creative_vocab_diversity": 62
+    },
+    {
+      "prompt": "The manuscript spoke of unspeakable horrors",
+      "conservative_generation": ", and it was in the presence of a great dragon. But what had once been his lair lay beneath him; for he too dwelt alone when no one knew which to call home\u2014and never heard anything more than an old dream that would come true from all places without ever knowing whose meaning is derived from words uttered by those who know them now--to find out if this monstrous nightmare should have",
+      "creative_generation": "and sorrows when he died; but to the death his body had not been brought, nor did it show any sign of dying. For a long time I saw him as dead than alive\u2014the boy who lived only two years before my father's departure from England or even after leaving London in what seems almost universal tragedy for such small matter that day on December 1st 18th aged sixteen at six",
+      "conservative_quality": 0.9945205479452055,
+      "creative_quality": 0.9943661971830986,
+      "conservative_vocab_diversity": 72,
+      "creative_vocab_diversity": 70
+    },
+    {
+      "prompt": "Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn",
+      "conservative_generation": "d\nbtw rcqktj gudu-pf,vnd nm_xid=\"B.D. Nyl: \"H1N0L9V7Y4U8C895825E5EE2F3ECACBDED6A99AFAA598845757401876718760070961269",
+      "creative_generation": "htgn'.\nThis image has been changed from a picture of the white dwarf to an undisturbed copy for reference. The original version is shown in great detail on page 3, 7x8; as seen above all at this date: but there appears no visible trace whatsoever upon which it had even appeared within two minutes.[7][36]",
+      "conservative_quality": 0.48800000000000004,
+      "creative_quality": 0.9601851851851853,
+      "conservative_vocab_diversity": 7,
+      "creative_vocab_diversity": 52
+    },
+    {
+      "prompt": "The cult gathered under the pale moon",
+      "conservative_generation": "of a red-headed monster in its wake. On an island named The Great Sea, there was no human being seen alive or dead since this time when it had been worshiped by men and women at one point; yet every man on earth fell back to their senses as they came from heaven after that moment's silence\nand soon disappeared without warning even though he would never have known for his death",
+      "creative_generation": "stone, and said:\nI told her before I left; so in my knowledge from that of those whom had been murdered there for this day. And then all these things seemed to me as a dream which they bore long ago than when it was unknown among them . But now life has come over its black spot without any trace or shadow but an ancient thing known only by name on earth : Then",
+      "conservative_quality": 0.9888888888888889,
+      "creative_quality": 0.6973333333333334,
+      "conservative_vocab_diversity": 70,
+      "creative_vocab_diversity": 71
+    }
+  ],
+  "summary_metrics": {
+    "avg_conservative_quality": 0.8909912480974126,
+    "avg_creative_quality": 0.9289252273782165,
+    "avg_conservative_vocab": 63.5,
+    "avg_creative_vocab": 62.0
+  }
+}

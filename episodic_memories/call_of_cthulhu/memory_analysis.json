@@ -1,0 +1,26 @@
+{
+  "total_memories": 150,
+  "novel_word_count": 100002,
+  "memory_density": 1.4999700005999879,
+  "memory_types": {
+    "location": 1,
+    "description": 149
+  },
+  "emotional_distribution": {
+    "negative": 9,
+    "neutral": 138,
+    "positive": 3
+  },
+  "average_importance": 0.6756466666666666,
+  "position_coverage": {
+    "min": 0.09017082049845981,
+    "max": 0.991879025483058,
+    "mean": 0.5591598991879025
+  },
+  "memory_system_config": {
+    "max_memories": 150,
+    "chunk_size": 40,
+    "retrieval_limit": 3,
+    "randomness_factor": 0.2
+  }
+}

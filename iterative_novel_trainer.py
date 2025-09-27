@@ -26,6 +26,22 @@ import random
 warnings.filterwarnings("ignore", category=UserWarning)
 warnings.filterwarnings("ignore", category=FutureWarning)
 
+# Import Model Tea utilities and modules
+from model_tea_utils import (
+    ModelTeaConfig, FileSystemUtils, TextProcessingUtils, TrainingUtils,
+    QualityMetrics, MemorySystemUtils, ErrorHandling, validate_system_setup
+)
+from quality_validator import QualityValidator, ValidationConfig
+
+# Import episodic memory system (proper scope)
+try:
+    from episodic_memory_system import EpisodicMemorySystem, MemoryConfig
+    MEMORY_SYSTEM_AVAILABLE = True
+except ImportError:
+    EpisodicMemorySystem = None
+    MemoryConfig = None
+    MEMORY_SYSTEM_AVAILABLE = False
+
 # Configure logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
@@ -63,6 +79,9 @@ class IterativeConfig:
     novels_dir: str = "novels"
     output_dir: str = "iterative_models"
     save_checkpoints: bool = True
+
+# Add alias for unified config access
+UnifiedConfig = ModelTeaConfig
 
 class NovelProcessor:
     """Processes novels for iterative training"""
@@ -152,7 +171,10 @@ class NovelProcessor:
         logger.info(f"Split: {len(train_chunks)} train, {len(val_chunks)} validation")
         return train_chunks, val_chunks
 
-class QualityValidator:
+# QualityValidator is now imported from quality_validator module
+# This reduces the main trainer file size and improves maintainability
+
+class _LegacyQualityValidator:
     """Validates training quality and prevents overfitting"""
 
     def __init__(self, config: IterativeConfig):
@@ -283,7 +305,15 @@ class IterativeTrainer:
     def __init__(self, config: IterativeConfig):
         self.config = config
         self.processor = NovelProcessor(config)
-        self.validator = QualityValidator(config)
+
+        # Use extracted QualityValidator with compatible config
+        validation_config = ValidationConfig(
+            perplexity_threshold=config.perplexity_threshold,
+            quality_threshold=0.8,  # Default from legacy
+            max_repetition_penalty=config.max_repetition_penalty,
+            temperature_range=config.temperature_range
+        )
+        self.validator = QualityValidator(validation_config)
 
         # Setup directories
         self.novels_dir = Path(config.novels_dir)
@@ -411,11 +441,8 @@ class IterativeTrainer:
 
             iter_time = time.time() - iter_start
 
-            # Validate quality
-            perplexity = self.validator.calculate_perplexity(model, tokenizer, val_chunks)
-            quality_result = self.validator.test_generation_quality(
-                model, tokenizer, f"In the style of {novel_data['title']}"
-            )
+            # Validate quality using new validator
+            validation_result = self.validator.validate_iteration(model, tokenizer, val_chunks, iteration)
 
             # Get detailed training analysis
             training_analysis = self.validator.get_training_analysis(iteration)
@@ -424,10 +451,10 @@ class IterativeTrainer:
                 "iteration": iteration + 1,
                 "learning_rate": current_lr,
                 "training_time": iter_time,
-                "perplexity": perplexity,
-                "quality_score": quality_result["average_quality"],
-                "sample_generation": quality_result["sample_generation"],
-                "improving": bool(quality_result["improving"]),
+                "perplexity": validation_result.get("perplexity", 0.0),
+                "quality_score": validation_result.get("quality_score", 0.0),
+                "sample_generation": validation_result.get("sample_text", ""),
+                "improving": validation_result.get("should_continue", True),
                 "chunk_count": len(train_chunks),
                 "chunk_size_avg": self.config.chunk_size * (1 + iteration * 0.2),
                 "training_analysis": training_analysis
@@ -437,13 +464,14 @@ class IterativeTrainer:
 
             logger.info(f"Iteration {iteration + 1} completed:")
             logger.info(f"  Time: {iter_time:.1f}s")
-            logger.info(f"  Perplexity: {perplexity:.2f} ({training_analysis['perplexity_trend'] or 'baseline'})")
-            logger.info(f"  Quality: {quality_result['average_quality']:.3f} ({training_analysis['quality_trend'] or 'baseline'})")
+            logger.info(f"  Perplexity: {validation_result.get('perplexity', 0):.2f} ({training_analysis.get('perplexity_trend', 'baseline')})")
+            logger.info(f"  Quality: {validation_result.get('quality_score', 0):.3f} ({training_analysis.get('quality_trend', 'baseline')})")
             logger.info(f"  Chunks: {len(train_chunks)} ({int(iteration_result['chunk_size_avg'])} avg words)")
             logger.info(f"  Status: {training_analysis['convergence_status']}")
             if training_analysis['overfitting_risk']:
                 logger.warning(f"  ⚠️ High perplexity detected (continuing for full analysis)")
-            logger.info(f"  Sample: {quality_result['sample_generation'][:100]}...")
+            sample_text = validation_result.get('sample_text', '')
+            logger.info(f"  Sample: {sample_text[:100]}...")
 
             # Save checkpoint if enabled
             if self.config.save_checkpoints:
@@ -506,6 +534,14 @@ class IterativeTrainer:
         logger.info(f"  Total time: {total_time:.1f}s")
         logger.info(f"  Iterations: {len(results['iterations'])}")
         logger.info(f"  Final quality: {results['final_quality']:.3f}")
+
+        # Build episodic memory system (experimental feature)
+        logger.info(f"\nBuilding episodic memory system...")
+        memory_analysis = self._build_episodic_memory(novel_name, novel_path)
+        if memory_analysis:
+            results["episodic_memory"] = memory_analysis
+            logger.info(f"  Memories created: {memory_analysis.get('total_memories', 0)}")
+            logger.info(f"  Memory density: {memory_analysis.get('memory_density', 0):.2f} per 1000 words")
 
         return results
 
@@ -700,6 +736,58 @@ class IterativeTrainer:
         normalized_efficiency = min(1.0, efficiency / 1000.0)
 
         return float(normalized_efficiency)
+
+    def _build_episodic_memory(self, novel_name: str, novel_path: Path) -> Optional[Dict[str, Any]]:
+        """Build episodic memory system for the trained model"""
+        if not MEMORY_SYSTEM_AVAILABLE:
+            logger.warning("Episodic memory system not available - skipping memory building")
+            return MemorySystemUtils.create_memory_fallback()
+
+        try:
+            # Initialize memory system with properly scoped imports
+            memory_config = MemoryConfig(
+                max_memories_per_novel=150,  # CPU-friendly limit
+                memory_chunk_size=40,        # Smaller chunks for CPU efficiency
+                max_retrieved_memories=3,    # Limit active memories
+                randomness_factor=0.2        # Human-like memory activation
+            )
+
+            memory_system = EpisodicMemorySystem(memory_config)
+
+            # Build memories for this model
+            memory_analysis = memory_system.build_memory_for_model(novel_name, novel_path)
+
+            # Test memory activation with sample prompts
+            test_prompts = [
+                "Tell me about the main character",
+                "What was the setting like?",
+                "Describe an emotional scene",
+                "What themes were present?"
+            ]
+
+            memory_tests = []
+            for prompt in test_prompts:
+                memories, activation = memory_system.activate_memories(novel_name, prompt)
+                memory_tests.append({
+                    "prompt": prompt,
+                    "memories_activated": len(memories),
+                    "memory_types": [m.memory_type for m in memories],
+                    "activation_analysis": activation
+                })
+
+            # Add test results to analysis
+            memory_analysis["memory_activation_tests"] = memory_tests
+            memory_analysis["system_status"] = "active"
+
+            return memory_analysis
+
+        except Exception as e:
+            logger.error(f"Failed to build episodic memory: {e}")
+            return {
+                "system_status": "failed",
+                "error": str(e),
+                "total_memories": 0
+            }
 
     def _calculate_learning_rate(self, iteration: int) -> float:
         """Calculate learning rate for given iteration"""
