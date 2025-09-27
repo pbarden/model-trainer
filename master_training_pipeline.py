@@ -228,10 +228,24 @@ class MasterTrainingPipeline:
             novels = self.get_novels_for_model(model_key)
             novels_to_train = []
 
+            # Validate that all novels exist in the filesystem
+            novels_dir = Path("novels")
             for novel_info in novels:
                 directory_name = novel_info["directory_name"]
+                novel_path = novels_dir / directory_name
+
+                if not novel_path.exists():
+                    logger.error(f"Novel directory not found: {novel_path}")
+                    logger.error(f"Expected from model_mapping.json: {directory_name}")
+                    result["status"] = "error"
+                    result["error"] = f"Novel directory not found: {directory_name}"
+                    return result
+
                 if not novel_status["novel_status"][directory_name]["trained"] or self.config.force_retrain_individual:
                     novels_to_train.append(directory_name)
+                    logger.info(f"Will train: {directory_name}")
+                else:
+                    logger.info(f"Already trained: {directory_name}")
 
             if not novels_to_train:
                 logger.info("No novels need training.")
@@ -249,13 +263,23 @@ class MasterTrainingPipeline:
                 logger.info(f"\nTraining novel {i+1}/{len(novels_to_train)}: {novel_name}")
 
                 try:
-                    # Run individual novel trainer
-                    cmd = ["python", "iterative_novel_trainer.py"]
-                    if self.config.verbose_logging:
-                        logger.info(f"Running: {' '.join(cmd)}")
+                    # Validate novel exists before training
+                    novel_path = Path("novels") / novel_name
+                    if not novel_path.exists():
+                        training_results[novel_name] = {
+                            "status": "failed",
+                            "error": f"Novel directory not found: {novel_path}"
+                        }
+                        logger.error(f"  ✗ Novel directory not found: {novel_path}")
+                        if self.config.stop_on_error:
+                            break
+                        continue
 
-                    # Note: The iterative trainer finds the first untrained novel automatically
-                    # We would need to modify it to accept specific novel names
+                    # Run individual novel trainer with specific novel name
+                    cmd = ["python", "iterative_novel_trainer.py", "--novel", novel_name]
+                    logger.info(f"Running: {' '.join(cmd)}")
+
+                    # Train the specific novel for this model
                     process_result = subprocess.run(
                         cmd,
                         capture_output=True,

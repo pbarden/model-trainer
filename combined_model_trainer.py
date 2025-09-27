@@ -4,7 +4,7 @@ Model Tea - Combined Model Training System
 Copyright © ChaiQ LLC
 
 Trains combined models using multiple novels from model_mapping.json.
-Applies the same 6-iteration progressive learning approach to combined corpus.
+Applies the same 12-iteration progressive learning approach to combined corpus.
 """
 
 import os
@@ -59,7 +59,7 @@ class CombinedModelConfig:
     max_combined_size: int = 2000000  # 2M words max
 
     # Training settings (same as individual novels)
-    max_iterations: int = 6
+    max_iterations: int = 12
     learning_rate_start: float = 5e-5
     learning_rate_end: float = 5e-6
 

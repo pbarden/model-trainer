@@ -25,7 +25,7 @@ class TestModularArchitectureConfigs:
 
         assert config.combine_novels_method == "concatenate"
         assert config.min_novels_required == 2
-        assert config.max_iterations == 6
+        assert config.max_iterations == 12
         assert config.combined_memories_count == 350
         assert config.cross_novel_memories == True
 

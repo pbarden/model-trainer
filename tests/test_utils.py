@@ -88,7 +88,7 @@ class TestTrainingUtils:
         """Test learning rate calculation"""
         start_lr = 5e-5
         end_lr = 1e-5
-        total_iterations = 6
+        total_iterations = 12
 
         # Test first iteration
         lr_0 = TrainingUtils.calculate_learning_rate(0, total_iterations, start_lr, end_lr)

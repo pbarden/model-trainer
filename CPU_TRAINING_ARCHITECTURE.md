@@ -28,7 +28,7 @@ model = "distilgpt2"           # 82M parameters (47% smaller than GPT-2)
 all_chunks = load_entire_novel()  # 26,484 words → 50MB+ in memory
 
 # Our approach: Streaming processing
-for iteration in range(6):  # Enhanced: 6 iterations for deeper training
+for iteration in range(12):  # Enhanced: 12 iterations for deeper training
     chunks = create_progressive_chunks(iteration)  # Load only what's needed
     train(chunks)
     del chunks  # Explicit memory cleanup
@@ -86,7 +86,7 @@ gradient_accumulation = 4 # Simulate larger batches
 ### Adaptive Learning Rate Strategy:
 ```python
 def calculate_learning_rate(iteration, total_iterations):
-    # Enhanced: Extended learning rate range for 6 iterations
+    # Enhanced: Extended learning rate range for 12 iterations
     start_lr = 5e-5   # Coarse learning
     end_lr = 5e-6     # Ultra-fine tuning for iteration 6
     progress = iteration / (total_iterations - 1)
@@ -248,7 +248,7 @@ def assess_quality(generated_text):
 4. **Quality**: Progressive learning and validation ensure good outcomes
 5. **Interpretability**: Clear metrics and logging for debugging
 6. **Enhanced Memory**: 250 balanced memories provide richer generation context
-7. **Deep Specialization**: 6 iterations with ultra-fine tuning (5e-6 learning rate)
+7. **Deep Specialization**: 12 iterations with ultra-fine tuning (5e-6 learning rate)
 
 ## Performance Comparison
 

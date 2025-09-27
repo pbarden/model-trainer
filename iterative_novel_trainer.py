@@ -54,11 +54,11 @@ class IterativeConfig:
     base_model: str = "distilgpt2"  # Fast, lightweight model
     max_seq_length: int = 256      # Reduced for speed
 
-    # Training progression
-    iterations_per_novel: int = 6   # Enhanced with 6th iteration
+    # Training progression (enhanced for smoother output)
+    iterations_per_novel: int = 12  # More iterations for refined quality
     max_steps_per_iteration: int = 20  # Short iterations
     learning_rate_start: float = 5e-5
-    learning_rate_end: float = 5e-6   # Lower end for 6th iteration fine-tuning
+    learning_rate_end: float = 1e-6   # Even lower end for fine-tuning
 
     # Data management
     chunk_size: int = 200          # Smaller chunks
@@ -950,8 +950,19 @@ class IterativeTrainer:
         return self.config.learning_rate_start * (1 - progress) + self.config.learning_rate_end * progress
 
     def _calculate_chunk_size(self, iteration: int) -> int:
-        """Calculate chunk size for given iteration"""
-        return int(self.config.chunk_size + (iteration * self.config.chunk_size * 0.2))
+        """Calculate chunk size for given iteration with smoother progression"""
+        # More gradual progression for 12 iterations: 200 -> 500 words
+        # Early iterations focus on smaller chunks, later iterations on larger context
+        base_size = self.config.chunk_size
+        if iteration < 4:
+            # Iterations 1-4: Small chunks (200-260 words)
+            return int(base_size + (iteration * base_size * 0.075))
+        elif iteration < 8:
+            # Iterations 5-8: Medium chunks (260-340 words)
+            return int(base_size + ((iteration - 4) * base_size * 0.1) + (base_size * 0.3))
+        else:
+            # Iterations 9-12: Large chunks (340-500 words)
+            return int(base_size + ((iteration - 8) * base_size * 0.1) + (base_size * 0.7))
 
     def list_available_novels(self) -> List[str]:
         """List available novels for training"""
@@ -997,6 +1008,13 @@ class IterativeTrainer:
 
 def main():
     """Main function"""
+    import argparse
+
+    parser = argparse.ArgumentParser(description="Model Tea - Iterative Novel Training System")
+    parser.add_argument("--novel", type=str, help="Specific novel to train (directory name)")
+    parser.add_argument("--list-novels", action="store_true", help="List available novels")
+    args = parser.parse_args()
+
     print("Model Tea - Iterative Novel Training System")
     print("Copyright © ChaiQ LLC")
     print("=" * 50)
@@ -1011,17 +1029,35 @@ def main():
         return
 
     print(f"Found {len(novels)} novels available for training")
+
+    if args.list_novels:
+        print("\nAll available novels:")
+        for i, novel in enumerate(novels, 1):
+            print(f"  {i}. {novel.replace('_', ' ').title()}")
+        return
+
     print("\nFirst 10 novels:")
     for i, novel in enumerate(novels[:10], 1):
         print(f"  {i}. {novel.replace('_', ' ').title()}")
 
-    # Find first untrained novel
+    # Select novel to train
     selected_novel = None
-    for novel in novels:
-        model_dir = trainer.output_dir / novel / "final"
-        if not model_dir.exists():
-            selected_novel = novel
-            break
+
+    if args.novel:
+        # Train specific novel
+        if args.novel in novels:
+            selected_novel = args.novel
+        else:
+            print(f"Error: Novel '{args.novel}' not found!")
+            print("Use --list-novels to see available novels")
+            return
+    else:
+        # Find first untrained novel (original behavior)
+        for novel in novels:
+            model_dir = trainer.output_dir / novel / "final"
+            if not model_dir.exists():
+                selected_novel = novel
+                break
 
     if selected_novel:
         print(f"\nStarting iterative training on: {selected_novel}")

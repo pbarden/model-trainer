@@ -20,7 +20,7 @@ class TestModelTeaConfig:
         config = ModelTeaConfig()
 
         assert config.base_model == "distilgpt2"
-        assert config.iterations_per_novel == 6
+        assert config.iterations_per_novel == 12
         assert config.max_memories_per_novel == 250
         assert config.memory_chunk_size == 35
         assert config.memory_retrieval_limit == 5
@@ -30,7 +30,7 @@ class TestModelTeaConfig:
         config = ModelTeaConfig()
 
         # Test reasonable ranges
-        assert 1 <= config.iterations_per_novel <= 10
+        assert 1 <= config.iterations_per_novel <= 15
         assert 50 <= config.max_memories_per_novel <= 1000
         assert 10 <= config.memory_chunk_size <= 100
         assert 1 <= config.memory_retrieval_limit <= 10
@@ -44,7 +44,7 @@ class TestIterativeConfig:
         config = IterativeConfig()
 
         assert config.base_model == "distilgpt2"
-        assert config.iterations_per_novel == 6
+        assert config.iterations_per_novel == 12
         assert config.learning_rate_start == 5e-5
         assert config.learning_rate_end == 5e-6
 

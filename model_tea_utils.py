@@ -32,7 +32,7 @@ class ModelTeaConfig:
     # Training parameters
     learning_rate_start: float = 5e-5
     learning_rate_end: float = 5e-6
-    iterations_per_novel: int = 6
+    iterations_per_novel: int = 12
     max_steps_per_iteration: int = 20
     warmup_steps: int = 5
 

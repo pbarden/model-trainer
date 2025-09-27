@@ -45,7 +45,7 @@ class TestSystemIntegration:
         # Test that they all have reasonable defaults
         assert model_tea_config.base_model == "distilgpt2"
         assert iterative_config.base_model == "distilgpt2"
-        assert combined_config.max_iterations == 6
+        assert combined_config.max_iterations == 12
         assert relational_config.similarity_threshold > 0
         assert pipeline_config.run_individual_training == True
 

@@ -23,7 +23,7 @@ class TestCombinedModelConfig:
         assert config.novel_separator == "\n\n=== NEW NOVEL ===\n\n"
         assert config.min_novels_required == 2
         assert config.max_combined_size == 2000000
-        assert config.max_iterations == 6
+        assert config.max_iterations == 12
         assert config.learning_rate_start == 5e-5
         assert config.learning_rate_end == 5e-6
         assert config.combined_memories_count == 350
@@ -35,7 +35,7 @@ class TestCombinedModelConfig:
 
         # Test reasonable ranges
         assert 1 <= config.min_novels_required <= 10
-        assert 1 <= config.max_iterations <= 10
+        assert 1 <= config.max_iterations <= 15
         assert 0 < config.learning_rate_start <= 1e-3
         assert 0 < config.learning_rate_end <= 1e-4
         assert 100 <= config.combined_memories_count <= 1000
