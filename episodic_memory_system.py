@@ -596,7 +596,7 @@ class EpisodicMemorySystem:
                 pickle.dump(memories, f)
 
             with open(memory_dir / "memory_analysis.json", 'w') as f:
-                json.dump(analysis, f, indent=2)
+                json.dump(analysis, f, indent=2, default=str)
 
         build_time = time.time() - start_time
 

@@ -1,0 +1,100 @@
+{
+  "novel": "Test Novel",
+  "iterations": [
+    {
+      "iteration": 1,
+      "learning_rate": 5e-05,
+      "training_time": 213.78,
+      "perplexity": 4.872564787664188,
+      "quality_score": 0.9692307692307693,
+      "sample_generation": "Test generation text...",
+      "improving": true,
+      "chunk_count": 45,
+      "chunk_size_avg": 200.0,
+      "training_analysis": {
+        "iteration": 1,
+        "current_perplexity": 4.872564787664188,
+        "current_quality": 0.9692307692307693,
+        "perplexity_trend": "insufficient_data",
+        "quality_trend": "insufficient_data",
+        "convergence_status": "stable",
+        "overfitting_risk": false,
+        "training_stability": "insufficient_data"
+      }
+    }
+  ],
+  "final_quality": 0.9692307692307693,
+  "training_time": 2500.0,
+  "training_metrics": {
+    "novel_characteristics": {
+      "word_count": 50000,
+      "estimated_reading_time": 200.0,
+      "complexity_category": "medium"
+    },
+    "training_progression": {
+      "total_iterations_completed": 12,
+      "perplexity_progression": [
+        4.87,
+        7.16,
+        8.57,
+        6.23,
+        5.45,
+        4.89,
+        4.12,
+        3.87,
+        3.65,
+        3.48,
+        3.34,
+        3.21
+      ],
+      "quality_progression": [
+        0.969,
+        0.982,
+        1.0,
+        0.995,
+        0.988,
+        0.992,
+        0.994,
+        0.996,
+        0.997,
+        0.998,
+        0.999,
+        1.0
+      ],
+      "learning_rate_progression": [
+        5e-05,
+        4.73e-05,
+        4.45e-05,
+        4.18e-05,
+        3.91e-05,
+        3.64e-05,
+        3.36e-05,
+        3.09e-05,
+        2.82e-05,
+        2.55e-05,
+        2.27e-05,
+        2e-05
+      ],
+      "chunk_size_progression": [
+        200,
+        240,
+        280,
+        320,
+        360,
+        400,
+        440,
+        480,
+        520,
+        560,
+        600,
+        640
+      ]
+    },
+    "performance_analysis": {
+      "best_iteration": 12,
+      "convergence_analysis": "stable_improvement",
+      "learning_patterns": "progressive_learning",
+      "model_stability": "high"
+    }
+  },
+  "numpy_array": 

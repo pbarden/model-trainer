@@ -528,7 +528,7 @@ class IterativeTrainer:
 
         # Save training results
         with open(self.output_dir / novel_name / "training_results.json", 'w') as f:
-            json.dump(results, f, indent=2)
+            json.dump(results, f, indent=2, default=str)
 
         logger.info(f"\nTraining completed for {novel_data['title']}:")
         logger.info(f"  Total time: {total_time:.1f}s")

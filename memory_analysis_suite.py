@@ -343,7 +343,7 @@ class MemoryAnalysisSuite:
         """Save analysis results to files"""
         # Save complete results
         with open(self.output_dir / "complete_analysis.json", 'w') as f:
-            json.dump(self.analysis_results, f, indent=2)
+            json.dump(self.analysis_results, f, indent=2, default=str)
 
         # Save summary report
         summary_report = self._generate_summary_report()
@@ -399,7 +399,7 @@ RECOMMENDATION
             }
 
             with open(self.output_dir / "visualization_data.json", 'w') as f:
-                json.dump(viz_data, f, indent=2)
+                json.dump(viz_data, f, indent=2, default=str)
 
         except Exception as e:
             print(f"Visualization generation failed: {e}")
