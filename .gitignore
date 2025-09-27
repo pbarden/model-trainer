@@ -1,4 +1,32 @@
-__pycache__
+__pycache__/
+*.pyc
+*.pyo
 .env
 .claude
-archive
+
+# Archive and reference materials
+archive/
+
+# Training outputs and experiments
+experiments/
+multi_model_experiments/
+temp_training*/
+
+# Generated data files
+novels__uncleaned/
+*.log
+
+# Model files (large)
+*.safetensors
+*.bin
+trained_model*/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
