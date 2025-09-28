@@ -47,37 +47,38 @@ class IterativeConfig:
     """Configuration for iterative novel training"""
 
     base_model: str = "gpt2"
-    max_seq_length: int = 1024
+    max_seq_length: int = 512
 
     iterations_per_novel: int = 12
-    max_steps_per_iteration: int = 8
-    learning_rate_start: float = 5e-5
-    learning_rate_end: float = 2e-5
+    max_steps_per_iteration: int = 16
+    learning_rate_start: float = 2e-5
+    learning_rate_end: float = 5e-6
 
-    chunk_size: int = 200
-    chunk_overlap: int = 50
-    validation_split: float = 0.2
+    chunk_size: int = 150
+    chunk_overlap: int = 30
+    validation_split: float = 0.15
 
-    batch_size: int = 1
-    gradient_accumulation_steps: int = 4
-    warmup_ratio: float = 0.1
+    batch_size: int = 2
+    gradient_accumulation_steps: int = 8
+    warmup_ratio: float = 0.15
 
-    max_repetition_penalty: float = 1.2
-    temperature_range: tuple = (0.7, 1.0)
-    perplexity_threshold: float = 50.0
+    max_repetition_penalty: float = 1.1
+    temperature_range: tuple = (0.7, 0.9)
+    perplexity_threshold: float = 20.0
 
     novels_dir: str = "novels"
     output_dir: str = "iterative_models"
     save_checkpoints: bool = True
 
     adaptive_training: bool = True
-    early_stopping_patience: int = 3
+    early_stopping_patience: int = 2
     overfitting_detection_window: int = 3
-    min_iterations: int = 6
-    max_iterations: int = 20
-    perplexity_improvement_threshold: float = 0.05
-    quality_degradation_threshold: float = 0.02
-    validation_loss_patience: int = 4
+    min_iterations: int = 4
+    max_iterations: int = 15
+    perplexity_improvement_threshold: float = 2.0
+    quality_degradation_threshold: float = 0.01
+    validation_loss_patience: int = 3
+    target_perplexity: float = 12.0
 
 UnifiedConfig = ModelTeaConfig
 
@@ -144,6 +145,19 @@ class AdaptiveTrainingMonitor:
         if iteration >= self.config.max_iterations:
             return True
 
+        # Perplexity explosion check - CRITICAL
+        if len(self.perplexities) >= 2:
+            recent_perplexity = self.perplexities[-1]
+            if recent_perplexity > self.config.perplexity_threshold:
+                logger.warning(f"Stopping: Perplexity {recent_perplexity:.1f} exceeds threshold {self.config.perplexity_threshold}")
+                return True
+
+        # Target perplexity achieved - EARLY SUCCESS
+        if hasattr(self.config, 'target_perplexity') and len(self.perplexities) >= 2:
+            if self.best_perplexity <= self.config.target_perplexity:
+                logger.info(f"SUCCESS: Target perplexity {self.config.target_perplexity} achieved ({self.best_perplexity:.1f})")
+                return True
+
         # Early stopping based on patience
         if self.patience_counter >= self.config.early_stopping_patience:
             return True
@@ -184,8 +198,16 @@ class AdaptiveTrainingMonitor:
 
     def _suggest_lr_adjustment(self) -> Dict[str, Any]:
         """Suggest learning rate adjustments based on training patterns"""
-        if len(self.validation_losses) < 3:
+        if len(self.validation_losses) < 2:
             return {"action": "maintain", "factor": 1.0}
+
+        # Check perplexity first - most critical
+        if len(self.perplexities) >= 2:
+            recent_perplexity = self.perplexities[-1]
+            if recent_perplexity > self.config.perplexity_threshold * 0.8:  # 80% of threshold
+                return {"action": "reduce", "factor": 0.2, "reason": "high_perplexity"}
+            elif recent_perplexity > self.config.target_perplexity * 2:  # 2x target
+                return {"action": "reduce", "factor": 0.4, "reason": "above_target_perplexity"}
 
         recent_improvements = [
             self.validation_losses[i-1] - self.validation_losses[i]
