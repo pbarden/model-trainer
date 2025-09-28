@@ -563,8 +563,14 @@ class EpisodicMemorySystem:
         print(f"Building episodic memory for {model_name}...")
         start_time = time.time()
 
-        # Load novel text
+        # Load novel text with flexible path handling
         novel_files = list(novel_path.glob("*.txt"))
+        if not novel_files and novel_path.is_dir():
+            novel_files = list(novel_path.glob("**/*.txt"))
+        if not novel_files:
+            novel_txt_path = novel_path / f"{model_name}.txt"
+            if novel_txt_path.exists():
+                novel_files = [novel_txt_path]
         if not novel_files:
             raise FileNotFoundError(f"No novel text found in {novel_path}")
 
