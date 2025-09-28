@@ -577,8 +577,15 @@ class EpisodicMemorySystem:
         with open(novel_files[0], 'r', encoding='utf-8') as f:
             novel_text = f.read()
 
-        # Extract memories
+        # Load tags if available for enhanced memory extraction
+        tags_data = self.load_novel_tags(novel_path)
+
+        # Extract memories with tag-enhanced context
         memories = self.extractor.extract_memories(novel_text, model_name)
+
+        # Enhance memories with tag information
+        if tags_data:
+            memories = self.enhance_memories_with_tags(memories, tags_data)
 
         # Store memories
         self.model_memories[model_name] = memories
@@ -594,6 +601,17 @@ class EpisodicMemorySystem:
 
         # Create analysis
         analysis = self._analyze_memory_system(memories, novel_text)
+
+        # Include tag data in analysis if available
+        if tags_data:
+            analysis['novel_tags'] = {
+                'themes': tags_data.get('themes', []),
+                'characters': tags_data.get('characters', []),
+                'locations': tags_data.get('locations', []),
+                'genre_hints': tags_data.get('genre_hints', []),
+                'basic_stats': tags_data.get('basic_stats', {}),
+                'memory_compatibility': tags_data.get('memory_compatibility', {})
+            }
 
         # Save to both locations for compatibility (using secure JSON serialization)
         for memory_dir in [primary_memory_dir, secondary_memory_dir]:
@@ -620,6 +638,81 @@ class EpisodicMemorySystem:
 
         print(f"Built {len(memories)} memories in {build_time:.1f}s")
         return analysis
+
+    def load_novel_tags(self, novel_path: Path) -> Optional[Dict[str, Any]]:
+        if novel_path.is_file():
+            tags_file = novel_path.parent / "tags.json"
+        else:
+            tags_file = novel_path / "tags.json"
+
+        if tags_file.exists():
+            try:
+                with open(tags_file, 'r', encoding='utf-8') as f:
+                    return json.load(f)
+            except (json.JSONDecodeError, IOError) as e:
+                print(f"Warning: Could not load tags from {tags_file}: {e}")
+
+        return None
+
+    def enhance_memories_with_tags(self, memories: List[Memory], tags_data: Dict[str, Any]) -> List[Memory]:
+        characters = set(c.lower() for c in tags_data.get('characters', []))
+        locations = set(l.lower() for l in tags_data.get('locations', []))
+        themes = tags_data.get('themes', [])
+
+        enhanced_memories = []
+
+        for memory in memories:
+            content_lower = memory.content.lower()
+
+            if memory.memory_type == MemoryType.CHARACTER:
+                for char in characters:
+                    if char in content_lower:
+                        memory.importance_score = min(1.0, memory.importance_score + 0.1)
+                        if char not in memory.keywords:
+                            memory.keywords.append(char.title())
+
+            if memory.memory_type == MemoryType.LOCATION:
+                for loc in locations:
+                    if loc in content_lower:
+                        memory.importance_score = min(1.0, memory.importance_score + 0.1)
+                        if loc not in memory.keywords:
+                            memory.keywords.append(loc.title())
+
+            for theme in themes:
+                theme_keywords = {
+                    'horror': ['fear', 'terror', 'dark', 'evil'],
+                    'romance': ['love', 'heart', 'passion'],
+                    'mystery': ['secret', 'clue', 'investigation'],
+                    'adventure': ['journey', 'quest', 'danger'],
+                    'supernatural': ['ghost', 'spirit', 'otherworldly'],
+                    'scifi': ['space', 'technology', 'future', 'alien'],
+                    'spy': ['agent', 'secret', 'mission', 'undercover'],
+                    'thriller': ['chase', 'tension', 'suspense', 'danger'],
+                    'action': ['fight', 'combat', 'explosion', 'speed'],
+                    'space': ['planet', 'galaxy', 'cosmic', 'orbit'],
+                    'nautical': ['ship', 'ocean', 'sea', 'captain'],
+                    'urban': ['city', 'street', 'building', 'traffic'],
+                    'rural': ['farm', 'village', 'countryside', 'peaceful'],
+                    'artistic': ['art', 'music', 'creative', 'beauty'],
+                    'political': ['government', 'power', 'ruler', 'throne'],
+                    'medical': ['doctor', 'medicine', 'hospital', 'healing'],
+                    'educational': ['school', 'student', 'knowledge', 'learn'],
+                    'psychological': ['mind', 'consciousness', 'mental', 'emotion'],
+                    'economic': ['money', 'business', 'trade', 'wealth'],
+                    'legal': ['court', 'judge', 'law', 'justice'],
+                    'western': ['cowboy', 'frontier', 'desert', 'horse'],
+                    'technological': ['machine', 'invention', 'steam', 'engine'],
+                    'class': ['noble', 'aristocrat', 'servant', 'status']
+                }
+
+                if theme in theme_keywords:
+                    for keyword in theme_keywords[theme]:
+                        if keyword in content_lower and keyword not in memory.keywords:
+                            memory.keywords.append(keyword)
+
+            enhanced_memories.append(memory)
+
+        return enhanced_memories
 
     def load_memory_for_model(self, model_name: str) -> bool:
         """Load pre-built memory for a model"""

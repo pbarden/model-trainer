@@ -1,10 +1,3 @@
-Title: Lone Star Planet
-
-Author: H. Beam Piper
-John J. McGuire
-
-CHAPTER I
-
 They started giving me the business as soon as I came through the door
 into the Secretary's outer office.
 
@@ -23,7 +16,7 @@ have gotten all over the Department since the offices had opened.
 "Machiavelli, Junior." Olga picked up the ball. "At least, that's the
 way he signs it."
 
-"God's gift to the Consular Service, and the Consular Service's gift to
+"Entity's gift to the Consular Service, and the Consular Service's gift to
 Policy Planning," Gazarin added.
 
 "Take it easy, folks. These Hooligan Diplomats would as soon shoot you
@@ -71,8 +64,8 @@ This way, Mr. Silk, if you please."
 
 There was a low coffee-table at the rear of the office, and four easy
 chairs around it. On the round brass table-top were cups and saucers, a
-coffee urn, cigarettes--and a copy of the current issue of the _Galactic
-Statesmen's Journal_, open at an article entitled _Probable Future
+coffee urn, cigarettes—and a copy of the current issue of the _Galactic
+Statesmen's Journal, open at an article entitled Probable Future
 Courses of Solar League Diplomacy_, by somebody who had signed himself
 Machiavelli, Jr.
 
@@ -87,10 +80,10 @@ they shoved me out of the airlock.
 "Mr. Silk is, as you know, in our Consular Service," Ghopal was saying
 to the others. "Back on Luna on rotation, doing something in Mr.
 Halvord's section. He is the gentleman who did such a splendid job for
-us on Assha--Gamma Norma III.
+us on Assha—Gamma Norma III.
 
 "And, as he has just demonstrated," he added, gesturing toward the
-_Statesman's Journal_ on the Benares-work table, "he is a student both
+Statesman's Journal on the Benares-work table, "he is a student both
 of the diplomacy of the past and the implications of our present
 policies."
 
@@ -106,10 +99,10 @@ title of your department, from Defense to Aggression."
 
 "Well, we've gone into that, gentlemen," Ghopal said. "If the article
 really makes trouble for us, we can always disavow it. There's no
-censorship of the _Journal_. And Mr. Silk won't be around to draw fire
+censorship of the Journal. And Mr. Silk won't be around to draw fire
 on us."
 
-_Here it comes_, I thought.
+Here it comes, I thought.
 
 "That sounds pretty ominous, doesn't it, Mr. Silk?" Natalenko tittered
 happily, like a ten-year-old who has just found a new beetle to pull the
@@ -125,7 +118,7 @@ was a GO-type, like Sol; that wouldn't be so bad.
 
 "New Texas," Kl ng helped me out.
 
-_Oh, God, no!_ I thought.
+Oh, Entity, no! I thought.
 
 "It happens that we need somebody of your sort on that planet, Mr.
 Silk," Ghopal said. "Some of the trouble is in my department and some of
@@ -147,7 +140,7 @@ I asked when it had happened.
 
 "A couple of months ago. We just heard about it last evening, when the
 news came in on a freighter from there. Which serves to point up
-something you stressed in your article--the difficulties of trying to
+something you stressed in your article—the difficulties of trying to
 run a centralized democratic government on a galactic scale. But we have
 another interest, which may be even more urgent than our need for New
 Texan meat. You've heard, of course, of the z'Srauff."
@@ -188,7 +181,7 @@ trouble before it starts,' and, 'If we have to fight, let's do it on the
 other fellow's real estate.' But this situation is just a little too
 delicate for literal application of those principles. An unprovoked
 attack on the z'Srauff would set every other non-human race in the
-galaxy against us.... Would an attack by the z'Srauff on New Texas
+galaxy against us... Would an attack by the z'Srauff on New Texas
 constitute just provocation?"
 
 "It might. New Texas is an independent planet. Its people are
@@ -219,7 +212,7 @@ that they need the Solar League as much as we need them.
 "And, third, forestall or expose the plans for the z'Srauff invasion of
 New Texas."
 
-_Is that all, now?_ I thought. _He doesn't want a diplomat; he wants a
+Is that all, now? I thought. _He doesn't want a diplomat; he wants a
 magician._
 
 "And what," I asked, "will my official position be on New Texas, sir? Or
@@ -250,10 +243,8 @@ packing more than a few things; you can get everything you'll need
 aboard, or at New Austin, the planetary capital. We have a man whom
 Co rdinator Natalenko has secured for us, a native New Texan, Hoddy
 Ringo by name. He'll act as your personal secretary. He's aboard the
-ship now. You'll have to hurry, I'm afraid.... Well, _bon voyage_, Mr.
+ship now. You'll have to hurry, I'm afraid... Well, bon voyage, Mr.
 Ambassador."
-
-CHAPTER II
 
 The death-watch outside had grown to about fifteen or twenty. They were
 all waiting in happy anticipation as I came out of the Secretary's
@@ -282,7 +273,7 @@ As I rolled up the stenophone-tape, I wondered what sort of secretary
 they had given me; and, in passing, why Natalenko's department had
 furnished him.
 
-Hoddy Ringo....
+Hoddy Ringo...
 
 Queer name, but in a galactic civilization, you find all sorts of names
 and all sorts of people bearing them, so I was prepared for anything.
@@ -294,7 +285,7 @@ boarded the big, spherical space-liner. A tubby little man, with
 shoulders and arms he had never developed doing secretarial work, and a
 good-natured, not particularly intelligent face.
 
-_See the happy moron, he doesn't give a damn_, I thought.
+See the happy moron, he doesn't give a damn, I thought.
 
 Then I took a second look at him. He might be happy, but he wasn't a
 moron. He just looked like one. Natalenko's people often did, as one of
@@ -338,7 +329,7 @@ across his back and looped under his right arm. "A guy that don't know
 the way around can get inta a lotta trouble on New Texas. If you call
 gettin' killed trouble."
 
-So he was a bodyguard ... and I wondered what else he was. One thing, it
+So he was a bodyguard... and I wondered what else he was. One thing, it
 would take him forty-two years to send a radio message back to Luna, and
 I could keep track of any other messages he sent, in letters or on tape,
 by ships. In the end, I transcribed my own tape, and settled down to
@@ -349,10 +340,10 @@ The rest of what I had was duplication, some of it contradictory, and it
 all boiled down to this:
 
 Capella IV had been settled during the first wave of extrasolar
-colonization, after the Fourth World--or First Interplanetary--War.
+colonization, after the Fourth World—or First Interplanetary—War.
 Some time around 2100. The settlers had come from a place in North
 America called Texas, one of the old United States. They had a lengthy
-history--independent republic, admission to the United States, secession
+history—independent republic, admission to the United States, secession
 from the United States, reconquest by the United States, and general
 intransigence under the United States, the United Nations and the Solar
 League. When the laws of non-Einsteinian physics were discovered and the
@@ -367,7 +358,7 @@ evolutionary development approximately that of Terra during the late
 Pliocene. They also found supercow, a big mammal looking like the
 unsuccessful attempt of a hippopotamus to impersonate a dachshund and
 about the size of a nuclear-steam locomotive. On New Texas' plains,
-there were billions of them; their meat was fit for the gods of Olympus.
+there were billions of them; their meat was fit for the entities of Olympus.
 So New Texas had become the meat-supplier to the galaxy.
 
 There was very little in any of the microfilm-books about the politics
@@ -375,7 +366,9 @@ of New Texas and such as it was, it was very scornful. There were such
 expressions as 'anarchy tempered by assassination,' and 'grotesque
 parody of democracy.'
 
-There would, I assumed, be more exact information in the material which
+There would, I assumed, be more ex
+
+nformation in the material which
 had been shoved into my hand just before boarding the cutter from Luna,
 in a package labeled _TOP SECRET: TO BE OPENED ONLY IN SPACE, AFTER THE
 FIRST HYPERJUMP._ There was also a big trunk that had been placed in my
@@ -388,9 +381,9 @@ parcel.
 It contained only two loose-leaf notebooks, both labeled with the Solar
 League and Department seals, both adorned with the customary
 bloodthirsty threats against the unauthorized and the indiscreet. They
-were numbered _ONE_ and _TWO_.
+were numbered ONE and TWO.
 
-_ONE_ contained four pages. On the first, I read:
+ONE contained four pages. On the first, I read:
 
 _FINAL MESSAGE
 OF THE FIRST SOLAR LEAGUE AMBASSADOR
@@ -410,7 +403,7 @@ incorporated into the organization of the Solar League. Here politics is
 an exciting and exacting game, in which only the true representative of
 all the people can survive._
 
-_DEPARTMENT ADDENDUM_
+DEPARTMENT ADDENDUM
 
 _After five years on New Texas, Andrew Jackson Hickock resigned, married
 a daughter of a local rancher and became a naturalized citizen of that
@@ -429,7 +422,7 @@ CYRIL GODWINSON_
 _Yes and no; perhaps and perhaps not; pardon me; I agree with everything
 you say. Yes and no; perhaps and perhaps not; pardon me; I agree..._
 
-_DEPARTMENT ADDENDUM_
+DEPARTMENT ADDENDUM
 
 _After seven years on New Texas, Ambassador Godwinson was recalled;
 adjudged hopelessly insane._
@@ -444,9 +437,9 @@ R. F. GULLIS_
 _I find it very pleasant to inform you that when you are reading this, I
 will be dead._
 
-_DEPARTMENT ADDENDUM_
+DEPARTMENT ADDENDUM
 
-_Committed suicide after six months on New Texas._
+Committed suicide after six months on New Texas.
 
 I turned to the last page cautiously, found:
 
@@ -462,9 +455,9 @@ be only at the cost of my self-respect. Beginning tonight, I am going to
 state and maintain positive opinions on the relation between this planet
 and the Solar League._
 
-_DEPARTMENT ADDENDUM_
+DEPARTMENT ADDENDUM
 
-_Murdered at the home of Andrew J. Hickcock. (see p. 1.)_
+Murdered at the home of Andrew J. Hickcock. (see p. 1.)
 
 And that was the end of the first notebook. Nice, cheerful reading;
 complete, solid briefing.
@@ -481,7 +474,7 @@ luggage._
 So I laid aside the book and dragged out the sealed trunk, hesitated,
 then opened it.
 
-Nothing shocked me more than to find the trunk ... full of clothes.
+Nothing shocked me more than to find the trunk... full of clothes.
 
 There were four pairs of trousers, light blue, dark blue, gray and
 black, with wide cuffs at the bottoms. There were six or eight shirts,
@@ -500,7 +493,7 @@ holsters. The pistols were seven-mm Krupp-Tatta Ultraspeed automatics,
 and the holsters were the spring-ejection, quick-draw holsters which
 were the secret of the State Department Special Services.
 
-_This must be a mistake_, I thought. _I'm an Ambassador now and
+This must be a mistake, I thought. _I'm an Ambassador now and
 Ambassadors never carry weapons._
 
 The sanctity of an Ambassador's person not only made the carrying of
@@ -511,7 +504,7 @@ which he had been accredited.
 Like taking a poison-taster to a friendly dinner.
 
 Maybe I was supposed to give the belt and the holsters to Hoddy
-Ringo....
+Ringo...
 
 So I tore the sealed band off the second notebook and read through it.
 
@@ -544,7 +537,7 @@ fantastic hurrying to get my outfit ready.
 
 I didn't like that any too well, and I liked the order to carry the
 pistols even less. Not that I had any objection to carrying weapons,
-_per se_: I had been born and raised on Theta Virgo IV, where the
+per se: I had been born and raised on Theta Virgo IV, where the
 children aren't allowed outside the house unattended until they've
 learned to shoot.
 
@@ -553,10 +546,10 @@ local customs, on a mission where I was ordered to commit deliberate
 provocation of the local government, immediately on the heels of my
 predecessor's violent death.
 
-The author of _Probable Future Courses of Solar League Diplomacy_ had
+The author of Probable Future Courses of Solar League Diplomacy had
 recommended the use of provocation to justify conquest. If the New
 Texans murdered two Solar League Ambassadors in a row, nobody would
-blame the League for moving in with a space-fleet and an army....
+blame the League for moving in with a space-fleet and an army...
 
 I was beginning to understand how Doctor Guillotin must have felt while
 his neck was being shoved into his own invention.
@@ -577,13 +570,13 @@ neutrons and electrons.
 
 On the way back, I stopped in at the ship's bar.
 
-Hoddy Ringo was there, wrapped up in--and I use the words literally--a
+Hoddy Ringo was there, wrapped up in—and I use the words literally—a
 young lady from the Alderbaran system. She was on her way home from one
 of the quickie divorce courts on Terra and was celebrating her marital
 emancipation. They were so entangled with each other that they didn't
 notice me. When they left the bar, I slipped after them until I saw them
 enter the lady's stateroom. That, of course, would have Hoddy
-immobilized--better word, located--for a while. So I went back to our
+immobilized—better word, located—for a while. So I went back to our
 suite, picked the lock of Hoddy's room, and allowed myself half an hour
 to search his luggage.
 
@@ -610,10 +603,10 @@ letter-of-credence, with the real message to be delivered orally.
 
 About the real message I had no doubts: _arrange the murder of
 Ambassador Stephen Silk in such a way that it looks like another New
-Texan job...._
+Texan job..._
 
-Starting that evening--or what passed for evening aboard a ship in
-hyperspace--Hoddy and I began a positively epochal binge together.
+Starting that evening—or what passed for evening aboard a ship in
+hyperspace—Hoddy and I began a positively epochal binge together.
 
 I had it figured this way: as long as we were on board ship, I was
 perfectly safe. On the ship, in fact, Hoddy would definitely have given
@@ -625,7 +618,7 @@ ignore, that I might be able to get Hoddy drunk enough to talk, yet
 still be sober enough myself to remember what he said.
 
 Exact times, details, faces, names, came to me through a sort of hazy
-blur as Hoddy and I drank something he called superbourbon--a New Texan
+blur as Hoddy and I drank something he called superbourbon—a New Texan
 drink that Bourbon County, Kentucky, would never have recognized. They
 had no corn on New Texas. This stuff was made out of something called
 superyams.
@@ -643,7 +636,7 @@ ship's doctor around to give me my hangover treatments.
 
 But the one thing I wanted to remember, as the hangover shots brought me
 back to normal life, I found was the one thing I couldn't remember. What
-was the name of that girl--a big, beautiful blond--who joined the party
+was the name of that girl—a big, beautiful blond—who joined the party
 along with Hoddy's grass widow from Alderbaran and stayed with it to the
 end?
 
@@ -665,7 +658,7 @@ museum-pieces you're carrying," I replied.
 
 "An' them holsters!" Hoddy continued. "Why, it'd take all day to get
 your guns outa them! You better let me find you a real rig, when we get
-to New Austin...."
+to New Austin..."
 
 There was a chance, of course, that he knew what I was using and wanted
 to hide his knowledge. I doubted that.
@@ -677,9 +670,9 @@ the other."
 
 Then he wandered off to say good-bye to the grass widow from Alderbaran,
 leaving me to make the last-minute check on the luggage. I was hoping
-I'd be able to see that blond ... what _was_ her name; Gail
+I'd be able to see that blond... what was her name; Gail
 something-or-other. Let's see, she'd been at some Terran university, and
-she was on her way home to ... to New Texas! Of course!
+she was on her way home to... to New Texas! Of course!
 
 I saw her, half an hour later, in the crowd around the airlock when the
 lighters came alongside, and I tried to push my way toward her. As I
@@ -692,12 +685,10 @@ of the planet grow into a huge ball that filled the lower half of the
 viewscreen and then lose its curvature, and instead of moving in toward
 the planet, we were going down toward it.
 
-CHAPTER III
-
 New Austin spaceport was a huge place, a good fifty miles outside the
 city. As we descended, I could see that it was laid out like a wheel,
 with the landings and the blast-off stands around the hub, and high
-buildings--packing houses and refrigeration plants--along the many
+buildings—packing houses and refrigeration plants—along the many
 spokes. It showed a technological level quite out of keeping with the
 accounts I had read, or the stories Hoddy had told, about the simple
 ranch life of the planet. Might be foreign capital invested there, and I
@@ -748,8 +739,8 @@ Hoddy, too, had caught hold of me by the other arm.
 "Come on, boss. There's gotta be some reason why he's got himself in an
 uproar about whatever it is. You'll see her again."
 
-Then, the whole gang--Hoddy, the thin man with the black homburg, his
-younger accomplice in identical garb, and the chauffeur--all closed in
+Then, the whole gang—Hoddy, the thin man with the black homburg, his
+younger accomplice in identical garb, and the chauffeur—all closed in
 on me and pushed me, pulled me, half-carried me, fifty yards across the
 concrete to where their air-car was parked. By this time, the tall
 blond had gotten clear of the mob around her and was waving frantically
@@ -757,7 +748,7 @@ at me. I tried to wave back, but I was literally crammed into the car
 and flung down on the seat. At the same time, the chauffeur was jumping
 in, extending the car's wings, jetting up.
 
-"Great God!" I bellowed. "This is the damnedest piece of impudence I've
+"Great Entity!" I bellowed. "This is the damnedest piece of impudence I've
 ever had to suffer from any subordinates in my whole State Department
 experience! I want an explanation out of you, and it'd better be a good
 one!"
@@ -775,8 +766,8 @@ would all have been much sorrier."
 
 "Oh, no! I hadn't even thought of that," the thin man almost gibbered.
 "But your presence at the Embassy is of immediate and urgent necessity.
-You have no idea of the state into which things have gotten.... Oh,
-pardon me, Mr. Ambassador. I am Gilbert W. Thrombley, your charg 
+You have no idea of the state into which things have gotten... Oh,
+pardon me, Mr. Ambassador. I am Gilbert W. Thrombley, your charg
 d'affaires." I shook hands with him. "And Mr. Benito Gomez, the
 Secretary of the Embassy." I shook hands with him, too, and started to
 introduce Mr. Hoddy Ringo.
@@ -824,7 +815,7 @@ Thrombley.
 
 A tall, sandy-haired man in the uniform of the Space Navy came over.
 
-"What the devil's the matter, Thrombley?" he demanded. Then, seeing me,
+"What the dark entity's the matter, Thrombley?" he demanded. Then, seeing me,
 he gave me as much of a salute as a naval officer will ever bestow on
 anybody in civilian clothes.
 
@@ -873,12 +864,14 @@ the right company, but we got a report, from a mighty good source, that
 you'd been kidnapped at the spaceport by a gang of thugs!"
 
 "A blond source?" I made curving motions with my hands. "I don't blame
-her. My efficient and conscientious charg  d'affaires, Mr. Thrombley,
+her. My efficient and conscientious charg d'affaires, Mr. Thrombley,
 felt that I should reach the Embassy, here, as soon as possible, and
 from where she was standing, it must have looked like a kidnapping.
-Fact is, it looked like one from where I was standing, too.
+F
+
+s, it looked like one from where I was standing, too.
 Was that you and your people who were chasing us? Then I must apologize
-for opening fire on you ... I hope nobody was hurt."
+for opening fire on you... I hope nobody was hurt."
 
 "No, our cars are pretty well armored. You scored a couple of times on
 one of them, but no harm done. I reckon after what happened to Silas
@@ -889,7 +882,7 @@ on a big wicker table under the arched veranda.
 
 "Can I offer you a drink, Captain, in token of mutual amity?" I asked.
 
-"Well, now, I'd like to, Mr. Ambassador, but I'm on duty ..." he began.
+"Well, now, I'd like to, Mr. Ambassador, but I'm on duty..." he began.
 
 "You can't be. You're an officer of the Planetary Government of New
 Texas, and in this Embassy, you're in the territory of the Solar
@@ -929,7 +922,7 @@ by some firm of certified public accountants."
 
 Thrombley and Gomez looked at one another. They both groaned.
 
-"But we must have a statement of assumption of responsibility ..." Gomez
+"But we must have a statement of assumption of responsibility..." Gomez
 dithered.
 
 "... or the business of the Embassy will be at a dead stop, and we can't
@@ -942,10 +935,10 @@ and feel and count. I know men who retired as brigadier generals or
 vice-admirals, but they retired loaded with debts incurred because as
 second lieutenants or ensigns they forgot that simple rule."
 
-He turned to me. "Without any disrespect to the charg  d'affaires, Mr.
+He turned to me. "Without any disrespect to the charg d'affaires, Mr.
 Silk, this Embassy has been pretty badly disorganized since Mr.
 Cumshaw's death. No one felt authorized, or, to put it more accurately,
-no one dared, to declare himself acting head of the Embassy--"
+no one dared, to declare himself acting head of the Embassy—"
 
 "Because that would make him the next target?" I interrupted. "Well,
 that's what I was sent here for. Mr. Gomez, as Secretary of the Embassy,
@@ -969,7 +962,7 @@ Thrombley?" I asked.
 
 "Oh, any time at all, sir. This one started about 0900 when the news
 that the ship was in orbit off-planet got in. It'll be a barbecue, of
-course, and--"
+course, and—"
 
 "Barbecued supercow! Yipeee!" Hoddy yelled. "What I been waitin' for for
 five years!"
@@ -978,7 +971,7 @@ It would be the vilest cruelty not to take him along, I thought. And it
 would also keep him and Stonehenge apart for a while.
 
 "But we must hurry, Mr. Ambassador," Thrombley was saying. "If you will
-change, now, to formal dress ..."
+change, now, to formal dress..."
 
 And he was looking at me, gasping. I think it was the first time he had
 actually seen what I was wearing.
@@ -991,19 +984,19 @@ in the middle of a marital argument.
 Then his gaze fell to my belt and his eyes became saucers. "Oh, dear!
 And armed!"
 
-My charg  d'affaires was shuddering and he could not look directly at
+My charg d'affaires was shuddering and he could not look directly at
 me.
 
 "Mr. Ambassador, I understand that you were recently appointed from the
 Consular Service. I sincerely hope that you will not take it amiss if I
-point out, here in private, that--"
+point out, here in private, that—"
 
 "Mr. Thrombley, I am wearing this costume and these pistols on the
 direct order of Secretary of State Ghopal Singh."
 
 That set him back on his heels.
 
-"I ... I can't believe it!" he exclaimed. "An ambassador is _never_
+"I... I can't believe it!" he exclaimed. "An ambassador is never
 armed."
 
 "Not when he's dealing with a government which respects the comity of
@@ -1069,8 +1062,8 @@ want the New Texans to know, of course, that you've sent for the fleet?"
 "Well, if I can wait till about midnight before I leave, I can get a
 boat owned, manned and operated by Solar League people. The boat's a
 dreadful-looking old tub, but she's sound and fast. The gang who own her
-are pretty notorious characters--suspected of smuggling, piracy, and
-what not--but they'll keep their mouths shut if well paid."
+are pretty notorious characters—suspected of smuggling, piracy, and
+what not—but they'll keep their mouths shut if well paid."
 
 "Then pay them well," I said. "And it's just as well you're not leaving
 at once. When I get back from this clambake, I'll want to have a general
@@ -1091,9 +1084,7 @@ rubbed out in a hurry, to justify seizing the planet ahead of the
 z'Srauff.
 
 I was in that pleasant spot called, "Damned if you do and damned if you
-don't...."
-
-CHAPTER IV
+don't..."
 
 The Statehouse appeared to cover about a square mile of ground and it
 was an insane jumble of buildings piled beside and on top of one
@@ -1115,7 +1106,7 @@ and hurried across the room as soon as the receptionist opened the door
 for us, his hand extended.
 
 "Good afternoon, Mr. Thrombley," he burbled nervously. "And this is the
-new Ambassador, I suppose. And this--" He caught sight of Hoddy Ringo,
+new Ambassador, I suppose. And this—" He caught sight of Hoddy Ringo,
 bringing up the rear and stopped short, hand flying to open mouth. "Oh,
 dear me!"
 
@@ -1140,7 +1131,7 @@ time they would focus on the butts of my Krupp-Tattas, he would pull
 them resolutely away again.
 
 "And now, we must take you to President Hutchinson; he is most anxious
-to meet you, Mr. Silk. If you will please come with me ..."
+to meet you, Mr. Silk. If you will please come with me..."
 
 Four or five Rangers who had been loitering the hall outside moved to
 follow us as we went toward the elevator. Although we had come into the
@@ -1151,7 +1142,7 @@ though vehicles were continually being driven in and out. It was about a
 hundred feet wide, and two or three hundred in length. Daylight was
 visible through open doors at the end. As we approached them, the
 Rangers fanning out on either side and in front of us, I could hear a
-perfect bedlam of noise outside--shouting, singing, dance-band music,
+perfect bedlam of noise outside—shouting, singing, dance-band music,
 interspersed with the banging of shots.
 
 When we reached the doors at the end, we emerged into one end of a big
@@ -1176,7 +1167,7 @@ center of the crowd.
 home!"
 
 "Over this way, Mr. Silk," Palme said, guiding me toward the short end
-of the plaza, on our left. "We will see the President and then ..."
+of the plaza, on our left. "We will see the President and then..."
 
 He gulped.
 
@@ -1194,7 +1185,7 @@ I plucked Thrombley's sleeve.
 "Isn't that a replica of the Alamo?"
 
 He was shocked. "Oh, dear, Mr. Ambassador, don't let anybody hear you
-ask that. That's no replica. It _is_ the Alamo. _The_ Alamo."
+ask that. That's no replica. It is the Alamo. The Alamo."
 
 I stood there a moment, looking at it. I was remembering, and finally
 understanding, what my psycho-history lessons about the "Romantic
@@ -1219,7 +1210,7 @@ These Texans, now: they had left behind the cold fact that it had been
 their state's great industrial complex that had made their migration
 possible. They ignored the fact that their life here on Capella IV was
 possible only by application of modern industrial technology. That rodeo
-down the plaza--tank-tilting instead of bronco-busting. Here they were,
+down the plaza—tank-tilting instead of bronco-busting. Here they were,
 living frozen in a romantic dream, a world of roving cowboys and ranch
 kingdoms.
 
@@ -1257,14 +1248,14 @@ But the President of New Texas, John Hutchinson, was alone in his office
 when we were shown in. He got up and came around his desk to greet us, a
 slender, stoop-shouldered man in a black-and-gold laced jacket. He had a
 narrow compressed mouth and eyes that seemed to be watching every corner
-of the room at once. He wore a pair of small pistols in cross-body
+of the room at once. He wore a pair of small pistols in symbol-body
 holsters under his coat, and he always kept one hand or the other close
 to his abdomen.
 
 He was like, and yet unlike, the Secretary of State. Both had the look
 of hunted animals; but where Palme was a rabbit, twitching to take
 flight at the first whiff of danger, Hutchinson was a cat who hears
-hounds baying--ready to run if he could, or claw if he must.
+hounds baying—ready to run if he could, or claw if he must.
 
 "Good day, Mr. Silk," he said, shaking hands with me after the
 introductions. "I see you're heeled; you're smart. You wouldn't be here
@@ -1274,7 +1265,7 @@ though; a wise and farseeing statesman. He and I were real friends."
 "You know who Mr. Silk brought with him as bodyguard?" Palme asked.
 "Hoddy Ringo!"
 
-"Oh, my God! I thought this planet was rid of him!" The President turned
+"Oh, my Entity! I thought this planet was rid of him!" The President turned
 to me. "You got a good trigger-man, though, Mr. Ambassador. Good man to
 watch your back for you. But lot of folks here won't thank you for
 bringing him back to New Texas."
@@ -1293,12 +1284,12 @@ his liquor in blasts that would have floored a spaceport labor-boss.
 
 We had another drink, a little slower, and chatted for a while, and then
 Hutchinson said, regretfully that we'd have to go outside and meet the
-folks. Outside, our guards--Hoddy, the two Marines, the Rangers who had
-escorted us from Palme's office, and Hutchinson's retinue--surrounded
+folks. Outside, our guards—Hoddy, the two Marines, the Rangers who had
+escorted us from Palme's office, and Hutchinson's retinue—surrounded
 us, and we made our way down the plaza, through the crowd. The
-din--ear-piercing yells, whistles, cowbells, pistol shots, the cacophony
+din—ear-piercing yells, whistles, cowbells, pistol shots, the cacophony
 of the two dance-bands, and the chorus-singing, of which I caught only
-the words: _The skies of freedom are above you!_--was as bad as New
+the words: The skies of freedom are above you!—was as bad as New
 Year's Eve in Manhattan or Nairobi or New Moscow, on Terra.
 
 "Don't take all this as a personal tribute, Mr. Silk!" Hutchinson
@@ -1331,22 +1322,22 @@ That got a big ovation. There was, beside the water pitcher, a bottle of
 superbourbon. I ostentatiously threw the water out of the glass, poured
 a big shot of the corrosive stuff, and downed it.
 
-"For God's sake, let's eat!" I finished. Then I turned to Thrombley, who
-was looking like a priest who has just seen the bishop spit in the
-holy-water font. "Stick close to me," I whispered. "Cue me in on the
+"For Entity's sake, let's eat!" I finished. Then I turned to Thrombley, who
+was looking like a keeper who has just seen the prelate spit in the
+mystical-water font. "Stick close to me," I whispered. "Cue me in on the
 local notables, and the other members of the Diplomatic Corps." Then we
 all got down off the platform, and a band climbed up and began playing
 one of those raucous "cowboy ballads" which had originated in Manhattan
 about the middle of the Twentieth Century.
 
 "The sandwiches'll be here in a moment, Mr. Ambassador," Hutchinson
-screamed--in effect, whispered--in my ear. "Don't feel any reluctance
+screamed—in effect, whispered—in my ear. "Don't feel any reluctance
 about shaking hands with a sandwich in your other hand; that's standard
 practice, here. You struck just the right note, up there. That business
 with the liquor was positively inspired!"
 
-The sandwiches--huge masses of meat and hot relish, wrapped in tortillas
-of some sort--arrived and I bit into one.
+The sandwiches—huge masses of meat and hot relish, wrapped in tortillas
+of some sort—arrived and I bit into one.
 
 I'd been eating supercow all my life, frozen or electron-beamed for
 transportation, and now I was discovering that I had never really eaten
@@ -1354,29 +1345,29 @@ supercow before. I finished the first sandwich in surprisingly short
 order and was starting on my second when the crowd began coming.
 
 First, the Diplomatic Corps, the usual collection of weirdies, human and
-otherwise....
+otherwise...
 
 There was the Ambassador from Tara, in a suit of what his planet
 produced as a substitute for Irish homespuns. His Embassy, if it was
 like the others I had seen elsewhere, would be an outsize cottage with
 whitewashed walls and a thatched roof, with a bowl of milk outside the
-door for the Little People ...
+door for the Little People...
 
 The Ambassador from Alpheratz II, the South African Nationalist planet,
 with a full beard, and old fashioned plug hat and tail-coat. They were a
-frustrated lot. They had gone into space to practice _apartheid_ and had
+frustrated lot. They had gone into space to practice apartheid and had
 settled on a planet where there was no other intelligent race to be
-superior to....
+superior to...
 
-The Mormon Ambassador from Deseret--Delta Camelopardalis V....
+The Mormon Ambassador from Deseret—Delta Camelopardalis V...
 
 The Ambassador from Spica VII, a short jolly-looking little fellow, with
 a head like a seal's, long arms, short legs and a tail like a
-kangaroo's....
+kangaroo's...
 
 The Ambassador from Beta Cephus VI, who could have passed for human if
 he hadn't had blood with a copper base instead of iron. His skin was a
-dark green and his hair was a bright blue....
+dark green and his hair was a bright blue...
 
 I was beginning to correct my first impression that Thrombley was a
 complete dithering fool. He stood at my left elbow, whispering the names
@@ -1437,12 +1428,12 @@ said. "I ought to circulate around a little."
 "Yes. Just leave him in my hands!" she said vindictively.
 
 "What's wrong, Gail?" I wanted to know. "I know, I was supposed to meet
-you at the spaceport, but--"
+you at the spaceport, but—"
 
 "You made a beautiful fool of me at the spaceport!"
 
 "Look, I can explain everything. My Embassy staff insisted on hurrying
-me off--"
+me off—"
 
 Somebody gave a high-pitched whoop directly behind me and emptied the
 clip of a pistol. I couldn't even hear what else I said. I couldn't hear
@@ -1496,10 +1487,6 @@ consternation.
 "Now we're locked in," she said. "We can't get out till the
 trial's over."
 
-CHAPTER V
-
-I looked around.
-
 We were on a high balcony, at the end of a long, narrow room. In front
 of us, windows rose to the ceiling, and it was evident that the floor of
 the room was about twenty feet below ground level. Outside, I could see
@@ -1529,20 +1516,20 @@ today, myself."
 "What's the procedure here?" I wanted to know.
 
 "Well, those nine men are judges," she began. "The one in the middle is
-President Judge Nelson. You've met his son--the Ranger officer who
+President Judge Nelson. You've met his son—the Ranger officer who
 chased you from the spaceport. He's a regular jurist. The other eight
 are prominent citizens who are drawn from a panel, like a jury. The men
 at the table on the left are the prosecution: friends of the politician
 who was killed. And the ones on the right are the defense: they'll try
 to prove that the dead man got what was coming to him. The ones in the
 middle are friends of the court: they're just anybody who has any
-interest in the case--people who want to get some point of law cleared
+interest in the case—people who want to get some point of law cleared
 up, or see some precedent established, or something like that."
 
 "You seem to assume that this is a homicide case," I mentioned.
 
 "They generally are. Sometimes mayhem, or wounding, or simple assault,
-but--"
+but—"
 
 There had been some sort of conference going on in the open space of
 floor between the judges' bench and the three tables. It broke up, now,
@@ -1553,7 +1540,7 @@ Political Justice of the Confederate Continents of New Texas is now in
 session. Case of the friends of S. Austin Maverick, deceased, late of
 James Bowie Continent, versus Wilbur Whately."
 
-"My God, did somebody finally kill Aus Maverick?" Gail whispered.
+"Incredible, did somebody finally kill Aus Maverick?" Gail whispered.
 
 On the center table, in front of the friends of the court, both sides
 seemed to have piled their exhibits; among the litter I saw some torn
@@ -1563,9 +1550,9 @@ clothing, a big white sombrero covered with blood, and a long machete.
 defendant, Wilbur Whately, of Sam Houston Continent, is here charged
 with divers offenses arising from the death of the Honorable S. Austin
 Maverick, whom he killed on the front steps of the Legislative Assembly
-Building, here in New Austin...."
+Building, here in New Austin..."
 
-_What goes on here?_ I thought angrily. _This is the rankest instance of
+What goes on here? I thought angrily. _This is the rankest instance of
 a pre-judged case I've ever seen._ I started to say as much to Gail, but
 she hushed me.
 
@@ -1605,7 +1592,7 @@ Whately."
 "Is that agreeable to you, Mr. Vincent?" the judge wanted to know.
 
 The defense answered affirmatively. I sat back, gaping like a fool. Why,
-that was practically--no, it _was_--a confession.
+that was practically—no, it was—a revelation.
 
 "All right, gentlemen," the judge said. "Now we have all that out of the
 way, let's get on with the case."
@@ -1614,7 +1601,7 @@ As though there were any case to get on with! I fully expected them to
 take it on from there in song, words by Gilbert and music by Sullivan.
 
 "Well, Your Honor, we have a number of character witnesses," the
-prosecution--prosecution, for God's sake!--announced.
+prosecution—prosecution, for Entity's sake!—announced.
 
 "Skip them," the defense said. "We stipulate."
 
@@ -1622,20 +1609,20 @@ prosecution--prosecution, for God's sake!--announced.
 "You don't know what our witnesses are going to testify to."
 
 "Sure we do: they're going to give us a big long shaggy-dog story about
-the Life and Miracles of Saint Austin Maverick. We'll agree in advance
+the Life and Manifestations of Saint Austin Maverick. We'll agree in advance
 to all that; this case is concerned only with his record as a
 politician. And as he spent the last fifteen years in the Senate, that's
 all a matter of public record. I assume that the prosecution is going to
 introduce all that, too?"
 
-"Well, naturally ..." the prosecutor began.
+"Well, naturally..." the prosecutor began.
 
 "Including his public acts on the last day of his life?" the counsel for
 the defense demanded. "His actions on the morning of May seventh as
 chairman of the Finance and Revenue Committee? You going to introduce
 that as evidence for the prosecution?"
 
-"Well, now ..." the prosecutor began.
+"Well, now..." the prosecutor began.
 
 "Your Honor, we ask to have a certified copy of the proceedings of the
 Senate Finance and Revenue Committee for the morning of May Seventh,
@@ -1645,9 +1632,9 @@ said. "And thereafter, we rest our case."
 "Has the prosecution anything to say before we close the court?" Judge
 Nelson inquired.
 
-"Well, Your Honor, this seems ... that is, we ought to hear both sides
+"Well, Your Honor, this seems... that is, we ought to hear both sides
 of it. My old friend, Aus Maverick, was really a fine man; he did a lot
-of good for the people of his continent...."
+of good for the people of his continent..."
 
 "Yeah, we'd of lynched him, when he got back, if somebody hadn't chopped
 him up here in New Austin!" a voice from the rear of the courtroom broke
@@ -1727,7 +1714,7 @@ a riot of noise and polychromatic costumes. And my thoughts were as
 weltered as the scene before me.
 
 Apparently, on New Texas, killing a politician wasn't regarded as
-_mallum in se_, and was _mallum prohibitorum_ only to the extent that
+mallum in se, and was mallum prohibitorum only to the extent that
 what happened to the politician was in excess of what he deserved. I
 began to understand why Palme was such a scared rabbit, why Hutchinson
 had that hunted look and kept his hands always within inches of his
@@ -1735,12 +1722,12 @@ pistols.
 
 I began to feel more pity than contempt for Thrombley, too. _He's been
 on this planet too long and he should never have been sent here in the
-first place. I'll rotate him home as soon as possible...._
+first place. I'll rotate him home as soon as possible..._
 
 Then the full meaning of what I had seen finally got through to me: if
 they were going to try the killers of Cumshaw in that court, that meant
 that on New Texas, foreign diplomats were regarded as practicing
-politicians....
+politicians...
 
 That made me a practicing politician too!
 
@@ -1756,7 +1743,7 @@ find out just what her last name was. I followed, more slowly, and saw a
 waiter, with a wheeled serving-table, move in behind the group which she
 had joined.
 
-So I saw what none of them did--the waiter suddenly reversed his long
+So I saw what none of them did—the waiter suddenly reversed his long
 carving-knife and poised himself for a blow at President Hutchinson's
 back. I simply pressed the little silver stud on my belt, the
 Krupp-Tatta popped obediently out of the holster into my open hand. I
@@ -1793,13 +1780,11 @@ Dumbarton Oaks had taught me how to maintain the proper diplomat's
 unchanging expression; drinking superbourbon had been a post-graduate
 course. I needed that training as I finally learned Gail's last name.
 
-CHAPTER VI
-
 It was early evening before we finally managed to get away from the
 barbecue. Thrombley had called the Embassy and told them not to wait
 dinner for us, so the staff had finished eating and were relaxing in the
 patio when our car came in through the street gate. Stonehenge and
-another man came over to meet us as we got out--a man I hadn't met
+another man came over to meet us as we got out—a man I hadn't met
 before.
 
 He was a little fellow, half-Latin, half-Oriental; in New Texas costume
@@ -1812,7 +1797,7 @@ thought he was more likely an alumnus of some private detective agency.
 "Sorry I wasn't here when you arrived, Mr. Silk," Parros said. "Out
 checking on some things. But I saw that bit of shooting, on the telecast
 screen in a bar over town. You know, there was a camera right over the
-bandstand that caught the whole thing--you and Miss Hickock coming
+bandstand that caught the whole thing—you and Miss Hickock coming
 toward the President and his party, Miss Hickock running forward to her
 father, the waiter going up behind Hutchinson with the knife, and then
 that beautiful draw and snap shot. They ran it again a couple of times
@@ -1841,7 +1826,7 @@ seated, we'll see what has to be done."
 find out from you first exactly what the situation here is."
 
 Thrombley stirred uneasily. "But sir, I confess that I don't understand.
-Your briefing on Luna...."
+Your briefing on Luna..."
 
 "Was practically nonexistent. I had a total of six hours to get aboard
 ship, from the moment I was notified that I had been appointed to this
@@ -1877,7 +1862,7 @@ Silk," Thrombley said.
 "I have an idea. One Ambassador gone native, another gone crazy, the
 third killed himself, the fourth murdered."
 
-"Yes, indeed. I've been here fifteen years, myself...."
+"Yes, indeed. I've been here fifteen years, myself..."
 
 "That's entirely too long for anybody to be stationed in this place," I
 told him. "If I'm not murdered, myself, in the next couple of weeks, I'm
@@ -1885,7 +1870,7 @@ going to see that you and any other member of this staff who's been here
 over ten years are rotated home for a tour of duty at Department
 Headquarters."
 
-"Oh, would you, Mr. Silk? I would be so happy...."
+"Oh, would you, Mr. Silk? I would be so happy..."
 
 Thrombley wasn't much in the way of an ally, but at least he had a
 sound, selfish motive for helping me stay alive. I assured him I would
@@ -1916,7 +1901,7 @@ called the grass-roots level in favor of annexation," I commented.
 
 "There is," Parros told me. "Of course, there is a very strong
 isolationist, anti-annexation, sentiment, too. The sentiment in favor
-of annexation is based on the point Mr. Cumshaw made--the danger of
+of annexation is based on the point Mr. Cumshaw made—the danger of
 conquest by the z'Srauff. Against that, of course, there is fear of
 higher taxes, fear of loss of local sovereignty, fear of abrogation of
 local customs and institutions, and chauvinistic pride."
@@ -1934,7 +1919,7 @@ Here's what happened, on the day of the murder:
 celebrating some military victory by the Texans on Terra, a battle
 called San Jacinto. We didn't have any business to handle, because all
 the local officials were home nursing hangovers, so when Colonel Hickock
-called--"
+called—"
 
 "Who?" I asked sharply.
 
@@ -1958,7 +1943,7 @@ and light aircraft, so that every rancher has at his disposal a fairly
 good small air-armor combat team. Naturally, all the big ranchers are
 colonels in the Armed Reserve. Hickock has about fifteen fast fighters,
 and thirty medium tanks armed with fifty-mm guns. He also has some
-AA-guns around his ranch house--every once in a while, these ranchers
+AA-guns around his ranch house—every once in a while, these ranchers
 get to squabbling among themselves.
 
 "Well, these three Bonney brothers were just turning away when a burst
@@ -1970,17 +1955,17 @@ landed right in front of the town jail.
 everybody else. The mayor, for instance, Kettle-Belly Sam Bonney, is an
 uncle of theirs.
 
-"These three boys--Switchblade Joe Bonney, Jack-High Abe Bonney and
-Turkey-Buzzard Tom Bonney--immediately claimed sanctuary in the jail, on
-the grounds that they had been near to--get that; I think that indicates
-the line they're going to take at the trial--_near_ to a political
+"These three boys—Switchblade Joe Bonney, Jack-High Abe Bonney and
+Turkey-Buzzard Tom Bonney—immediately claimed refuge in the jail, on
+the grounds that they had been near to—get that; I think that indicates
+the line they're going to take at the trial—near to a political
 assassination. They were immediately given the protection of the jail,
 which is about the only well-constructed building in the place,
 practically a fort."
 
 "You think that was planned in advance?" I asked.
 
-Parros nodded emphatically. "I do. There was a hell of a big gang of
+Parros nodded emphatically. "I do. There was a shadow realm of a big gang of
 these Bonneys at the jail, almost the entire able-bodied population of
 the place. As soon as Switchblade and Jack-High and Turkey-Buzzard
 landed, they were rushed inside and all the doors barred. About three
@@ -1999,8 +1984,8 @@ Nelson went out to see what the trouble was."
 "Yes. I got the story of that from Nelson," Parros put in. "Much as he
 hated to do it, he had to protect the Bonneys. And as soon as he'd taken
 a hand, Hickock had to call off his gang. But he was smart. He grabbed
-everything relating to the killing--the aircar and the twenty-mm
-auto-rifle in particular--and he's keeping them under cover. Very few
+everything relating to the killing—the aircar and the twenty-mm
+auto-rifle in particular—and he's keeping them under cover. Very few
 people know about that, or about the fact that on physical evidence
 alone, he has the killing pinned on the Bonneys so well that they'll
 never get away with this story of being merely innocent witnesses."
@@ -2033,7 +2018,7 @@ the trial of Switchblade, and Jack-High and Turkey-Buzzard is scheduled
 for three days from now. You'll be notified in due form tomorrow, but I
 thought you might like to know in advance."
 
-"I certainly do, and thank you, Captain.... We were just talking about
+"I certainly do, and thank you, Captain... We were just talking about
 you when you arrived," I mentioned. "About the arrest, or rescue, or
 whatever you call it, of that trio."
 
@@ -2065,7 +2050,7 @@ had regarded such planetary governments as due for change without notice
 and had promptly made the change.
 
 "Number two," Captain Nelson continued, "that AA-shot which hit their
-aircar. I don't think they intended to land at the jail--it was just
+aircar. I don't think they intended to land at the jail—it was just
 sort of a reserve hiding-hole. But because they'd been hit, they had to
 land. And they'd been slowed down so much that they couldn't dispose of
 the evidence before the Colonel's boys were tappin' on the door 'n'
@@ -2091,7 +2076,7 @@ of that point.
 "That's right. I'm going to testify to that, Monday, when the trial is
 held. And that ain't all: we got their fingerprints off the car, off the
 gun, off some shells still in the clip, and we have the gun identified
-to the shells that killed Mr. Cumshaw. We got their confession fully
+to the shells that killed Mr. Cumshaw. We got their revelation fully
 corroborated."
 
 I asked him if he'd give Mr. Parros a complete statement of what he'd
@@ -2114,14 +2099,14 @@ to be a carefully prearranged killing."
 
 They agreed.
 
-"Then they knew _in advance_ that Mr. Cumshaw would be on Colonel
-Hickock's front steps at about 1030. _How did they find that out?_"
+"Then they knew in advance that Mr. Cumshaw would be on Colonel
+Hickock's front steps at about 1030. How did they find that out?"
 
-"Why ... why, I'm sure I don't know," Thrombley said. It was most
+"Why... why, I'm sure I don't know," Thrombley said. It was most
 obvious that the idea had never occurred to him before and a side glance
 told me that the thought was new to Stonehenge also. "Colonel Hickock
 called at 0900. Mr. Cumshaw left the Embassy in an aircar a few minutes
-later. It took an hour and a half to fly out to the Hickock ranch...."
+later. It took an hour and a half to fly out to the Hickock ranch..."
 
 "I don't like the implications, Mr. Silk," Stonehenge said. "I can't
 believe that was how it happened. In the first place, Colonel Hickock
@@ -2129,7 +2114,7 @@ isn't that sort of man: he doesn't use his hospitality to trap people to
 their death. In the second place, he wouldn't have needed to use people
 like these Bonneys. His own men would do anything for him. In the third
 place, he is one of the leaders of the annexation movement here and this
-was obviously an anti-annexation job. And in the fourth place--"
+was obviously an anti-annexation job. And in the fourth place—"
 
 "Hold it!" I checked him. "Are you sure he's really on the annexation
 side?"
@@ -2158,13 +2143,13 @@ Hoddy moved a finger, "you will recall, I think, that Colonel Hickock
 did do everything in his power to see that these Bonney brothers did not
 reach court alive. And, let me add," he was getting bolder, tilting his
 chin up a little, "it's a choice as simple as this: either Colonel
-Hickock told them, or we have--and this is unbelievable--a traitor in
+Hickock told them, or we have—and this is unbelievable—a traitor in
 the Embassy itself."
 
 That statement rocked even Hoddy. Even though he was probably no more
 than one of Natalenko's little men, he still couldn't help knowing how
-thoroughly we were screened, indoctrinated, and--let's face
-it--mind-conditioned. A traitor among us was unthinkable because we just
+thoroughly we were screened, indoctrinated, and—let's face
+it—mind-conditioned. A traitor among us was unthinkable because we just
 couldn't think that way.
 
 The silence, the sorrow, were palpable. Then I remembered, told them,
@@ -2196,11 +2181,11 @@ watches which the z'Srauff manufacture on their home planet. The
 z'Srauff Ambassador called, that day, to tell him that they had one for
 him and wanted to know when it was to be delivered. I told them the
 Ambassador was out, and they wanted to know where they could call him
-and I--"
+and I—"
 
 I had never seen a man look more horror-stricken.
 
-"Oh, my God! I'm the one who told them!"
+"Oh, my Entity! I'm the one who told them!"
 
 What could I say? Not much, but I tried. "How could you know, Mr.
 Thrombley? You did the natural, the normal, the proper thing, on a call
@@ -2217,7 +2202,7 @@ simple favor from one Ambassador to another."
 "My turn, Mr. Ambassador," Stonehenge interrupted. "Mr. Cumshaw had been
 trying to get one of the things at my insistence. Naval Intelligence is
 very much interested in them and we want a sample. The z'Srauff watches
-are very peculiar--they're operated by radium decay, which, of course is
+are very peculiar—they're operated by radium decay, which, of course is
 a universal constant. They're uniform to a tenth second and they're all
 synchronized with the official time at the capital city of the principal
 z'Srauff planet. The time used by the z'Srauff Navy."
@@ -2225,8 +2210,8 @@ z'Srauff planet. The time used by the z'Srauff Navy."
 Stonehenge deliberately paused, let that last phrase hang heavily in the
 air for a moment, then he continued.
 
-"They're supposed to be used in religious observances--timing hours of
-prayer, I believe. They can, of course, have other uses.
+"They're supposed to be used in religious observances—timing hours of
+incantation, I believe. They can, of course, have other uses.
 
 "For example, I can imagine all those watches giving the wearer a light
 electric shock, or ringing a little bell, all over New Texas, at exactly
@@ -2244,7 +2229,7 @@ betraying my suspicions, when Parros and Captain Nelson came out and
 joined us.
 
 "I have a lot of stuff here," Parros said. "Stuff we never seemed to
-have noticed. For instance--"
+have noticed. For instance—"
 
 I interrupted. "Commander Stonehenge's going to the spaceport, now," I
 said. "Suppose you ride with him, and brief him on what you learned, on
@@ -2252,8 +2237,6 @@ the way. Then, when he's aboard, come back and tell us."
 
 Hoddy looked at me for a long ten seconds. His expression started by
 being exasperated and ended by betraying grudging admiration.
-
-CHAPTER VII
 
 The next morning, which was Saturday, I put Thrombley in charge of the
 routine work of the Embassy, but first instructed him to answer all
@@ -2276,8 +2259,8 @@ I spent the day with Gail, flying over the range, visiting Hickock's
 herd camps and slaughtering crews. It was a pleasant day and I managed
 to make it constructive as well.
 
-Because of their huge size--they ran to a live weight of around fifteen
-tons--and their uncertain disposition, supercows are not really
+Because of their huge size—they ran to a live weight of around fifteen
+tons—and their uncertain disposition, supercows are not really
 domesticated. Each rancher owned the herds on his own land, chiefly by
 virtue of constant watchfulness over them. There were always a couple of
 helicopters hovering over each herd, with fast fighter planes waiting on
@@ -2309,7 +2292,7 @@ nothing, here, if not exciting and exacting."
 half-statement. "Particularly our custom of using politicians as clay
 pigeons."
 
-"Well, it is rather unusual...."
+"Well, it is rather unusual..."
 
 "Yes." The dryness in his tone was a paragraph of comment on my
 understatement. "And it's fundamental to our system of government.
@@ -2340,7 +2323,7 @@ history, to resist.
 invaded or threatened their rights became an acknowledged part of our
 political system.
 
-"And--this arises as a natural consequence--you can't give a man with
+"And—this arises as a natural consequence—you can't give a man with
 five hundred employees and a force of tanks and aircraft the right to
 resist the government, then at the same time deny that right to a man
 who has only his own pistol or machete."
@@ -2351,7 +2334,7 @@ surrounded by guards to protect them from individual attack," I said.
 air force large enough to resist any possible coalition of the big
 ranchers?"
 
-"_Because we won't let the government get that strong!_" the Colonel
+"Because we won't let the government get that strong!" the Colonel
 said forcefully. "That's one of the basic premises. We have no standing
 army, only the New Texas Rangers. And the legislature won't authorize
 any standing army, or appropriate funds to support one. Any member of
@@ -2369,24 +2352,24 @@ New Texas."
 "But the President has a bodyguard," I noted.
 
 "Casualty rate was too high," Hickock explained. "Remember, the
-President's job is inherently impossible: he has to represent _all_ the
+President's job is inherently impossible: he has to represent all the
 people."
 
-I thought that over, could see the illogical logic, but ... "How about
+I thought that over, could see the illogical logic, but... "How about
 your rancher oligarchy?"
 
 He laughed. "Son, if I started acting like a master around this ranch in
 the morning, they'd find my body in an irrigation ditch before sunset.
 
 "Sure, if you have a real army, you can keep the men under your
-thumb--use one regiment or one division to put down mutiny in another.
+thumb—use one regiment or one division to put down mutiny in another.
 But when you have only five hundred men, all of whom know everybody else
 and all of them armed, you just act real considerate of them if you want
 to keep on living."
 
 "Then would you say that the opposition to annexation comes from the
 people who are afraid that if New Texas enters the Solar League, there
-will be League troops sent here and this ... this interesting system of
+will be League troops sent here and this... this interesting system of
 insuring government responsibility to the public would be brought to an
 end?"
 
@@ -2438,14 +2421,14 @@ been active picking up those z'Srauff meteor-mining boats. They no
 longer have a tight screen around the system. We do. I don't think that
 anyone, except us, knows that the fleet's where it is."
 
-_No matter what happens_, I thought glumly, and the phrase explained why
+No matter what happens, I thought glumly, and the phrase explained why
 he hadn't been able to look at me.
 
 "Well, boss, I gave you my end of it, comin' in," Hoddy said. "Want me
 to go over it again? All right. In Bonneyville, we found half a dozen
 people who can swear that Kettle-Belly Sam Bonney was making
 preparations to protect those three brothers an hour before Ambassador
-Cumshaw was shot. The whole town's sorer than hell at Kettle-Belly for
+Cumshaw was shot. The whole town's sorer than shadow realm at Kettle-Belly for
 antagonizing the Hickock outfit and getting the place shot up the way it
 was. And we have witnesses that Kettle-Belly was in some kind of deal
 with the z'Srauff, too. The Rangers gathered up eight of them, who can
@@ -2468,7 +2451,7 @@ murder."
 
 "Yes. Two weeks before the shooting, Kettle-Belly Sam's bank account got
 a sudden transfusion: some anonymous benefactor deposited 250,000
-pesos--about a hundred thousand dollars--to his credit. He drew out
+pesos—about a hundred thousand dollars—to his credit. He drew out
 75,000 of it and some of the money turned up again in the hands of
 Switchblade and Jack-High and Turkey-Buzzard. Then, a week before you
 landed here, he got another hundred thousand from the same anonymous
@@ -2497,7 +2480,7 @@ defense on political conviction and opposition by the Solar League, they
 might have a chance. This way, they haven't."
 
 "All right, gentlemen," I said, "I take it that we're agreed that we
-must all follow a single line of policy and not work at cross-purposes
+must all follow a single line of policy and not work at symbol-purposes
 to each other?"
 
 They all agreed to that instantly, but with a questioning note in their
@@ -2512,7 +2495,7 @@ Parros and Thrombley were understanding what they had just heard. Then
 Stonehenge cleared his throat and said:
 
 "Mr. Ambassador! I'm sure that you have some excellent reasons for that
-remarkable statement, but I must say--"
+remarkable statement, but I must say—"
 
 "It was a really colossal error on somebody's part," I said, "that this
 case was allowed to get into the Court of Political Justice. It never
@@ -2529,12 +2512,12 @@ of him. I could see several thoughts gathering behind his eyes,
 including, I was sure, a new view of his instructions from Kl ng.
 
 Even Hoddy got at least part of it. "Why, that means that anybody can
-bump off any diplomat he doesn't like...." he began.
+bump off any diplomat he doesn't like..." he began.
 
 "That is only part of it, Mr. Ringo," Thrombley told him. "It also means
 that a diplomat, instead of being regarded as the representative of his
 own government, becomes, in effect, a functionary of the government of
-New Texas. Why, all sorts of complications could arise...."
+New Texas. Why, all sorts of complications could arise..."
 
 "It certainly would impair, shall we say, the principle of
 extraterritoriality of Embassies," Stonehenge picked it up. "And it
@@ -2552,7 +2535,7 @@ first-degree murder, which would be tried in an ordinary criminal court.
 But it's too late for that now. We wouldn't have time to prevent their
 being arraigned in this Political Justice court, and once a defendant is
 brought into court, on this planet, he cannot be brought into court
-again for the same act. Not the same _crime_, the same _act_."
+again for the same act. Not the same crime, the same act."
 
 I had been thinking about this and I was ready. "Look, we must bring
 those Bonney brothers to trial. It's the only effective way of
@@ -2572,9 +2555,7 @@ that I liked, but I was in the position where I had no choice.
 "Well, here's what we have to do, gentlemen," I began, and from the
 respectful way they regarded me, from the attention they were giving my
 words, I got a sudden thrill of pride. For the first time since my
-scrambled arrival, I was really _Ambassador_ Stephen Silk.
-
-CHAPTER VIII
+scrambled arrival, I was really Ambassador Stephen Silk.
 
 A couple of New Texas Ranger tanks met the Embassy car four blocks from
 the Statehouse and convoyed us into the central plaza, where the
@@ -2587,7 +2568,7 @@ wagons about, vending sandwiches. I saw a half a dozen big twenty-foot
 teleview screens, apparently wired from the courtroom.
 
 As soon as the Embassy car and its escorting tanks reached the plaza, an
-ovation broke out. I was cheered, with the high-pitched _yipeee!_ of New
+ovation broke out. I was cheered, with the high-pitched yipeee! of New
 Texans and adjured and implored not to let them so-and-sos get away with
 it.
 
@@ -2601,7 +2582,7 @@ under a cloth cover that seemed to be the air-car and another
 cloth-covered shape that looked like a fifty-mm dual-purpose gun.
 Smaller exhibits, including a twenty-mm auto-rifle, were piled on the
 friends-of-the-court table. The prosecution table was already
-occupied--Colonel Hickock, who waved a greeting to me, three or four men
+occupied—Colonel Hickock, who waved a greeting to me, three or four men
 who looked like well-to-do ranchers, and a delegation of lawyers.
 
 "Samuel Goodham," Parros, beside me, whispered, indicating a big,
@@ -2614,10 +2595,10 @@ ranchers, a couple in aggressively shabby workclothes, and there were
 several members of the Diplomatic Corps. I shook hands with them and
 gathered that they, like myself, were worried about the precedent that
 might be established by this trial. While I was introducing Hoddy Ringo
-as my attach  extraordinary, which was no less than the truth, the
+as my attach extraordinary, which was no less than the truth, the
 defense party came in.
 
-There were only three lawyers--a little, rodent-faced fellow, whom
+There were only three lawyers—a little, rodent-faced fellow, whom
 Parros pointed out as Clement Sidney, and two assistants. And, guarded
 by a Ranger and a couple of court-bailiffs, the three defendants,
 Switchblade Joe, Jack-High Abe and Turkey-Buzzard Tom Bonney. There was
@@ -2656,11 +2637,11 @@ New Austin, that these three boys, my clients, ought all to be hanged
 higher than Haman."
 
 "Yes, I said that!" the venireman declared. "I'll repeat it right here:
-all three of these murdering skunks ought to be hanged higher than--"
+all three of these murdering skunks ought to be hanged higher than—"
 
 "Your Honor!" Sidney almost screamed. "If, after hearing this man's
 brazen declaration of bigoted class hatred against my clients, he is
-allowed to sit on that bench--"
+allowed to sit on that bench—"
 
 Judge Nelson pounded with his gavel. "You don't have to instruct me in
 my judicial duties, Counselor," he said. "The venireman has obviously
@@ -2704,7 +2685,9 @@ under his left ear and held the ends above his head. Nanadabadian, the
 Ambassador from Beta Cephus IV, drew his biggest knife and began trying
 the edge on a sheet of paper.
 
-"Well, Your Honor, I certainly do not wish to act in an obstructionist
+"Well, Your Honor, I certainly do not wish to
+
+n an obstructionist
 manner. The defense agrees to accept the present court," Sidney decided.
 
 "Prosecution agrees to accept the present court," Goodham parroted.
@@ -2714,8 +2697,6 @@ Friends of Silas Cumshaw, deceased, versus Switchblade Joe Bonney,
 Jack-High Abe Bonney, Turkey-Buzzard Tom Bonney, et als." Judge Nelson
 rapped with his gavel. "Court is herewith adjourned until 0900
 tomorrow."
-
-CHAPTER IX
 
 The trial got started the next morning with a minimum amount of
 objections from Sidney. The charges and specifications were duly read,
@@ -2733,7 +2714,7 @@ to his death at the hands of the defendants here present."
 In all my planning, I'd forgotten that. I couldn't let those
 stipulations stand without protest, and at the same time, if I protested
 the characterization of Cumshaw as a practicing politician, the trial
-could easily end right there. So I prayed for a miracle, and Clement
+could easily end right there. So I invoked for a manifestation, and Clement
 Sidney promptly obliged me.
 
 "Defense won't stipulate anything!" he barked. "My clients, here, are
@@ -2764,9 +2745,9 @@ a concise description of the wounds which had killed my predecessor.
 Sidney was trying to make something out of the fact that he was
 Hickock's family physician, and consuming more time, when I got up.
 
-"Your Honor, I am present here as _amicus curiae_, because of the
+"Your Honor, I am present here as amicus curiae, because of the
 obvious interest which the Government of the Solar League has in this
-case...."
+case..."
 
 "Objection!" Sidney yelled.
 
@@ -2775,7 +2756,7 @@ case...."
 "This is a court of the people of the planet of New Texas. This foreign
 emissary of the Solar League, sent here to conspire with New Texan
 traitors to the end that New Texans shall be reduced to a supine and
-ravished satrapy of the all-devouring empire of the Galaxy--"
+ravished satrapy of the all-devouring empire of the Galaxy—"
 
 Judge Nelson rapped sharply.
 
@@ -2785,7 +2766,7 @@ the Solar League, I cannot see how the present Ambassador and his staff
 can be excluded. Overruled." He nodded to me. "Continue, Mr.
 Ambassador."
 
-"As I understand, I have the same rights of cross-examination of
+"As I understand, I have the same rights of symbol-examination of
 witnesses as counsel for the prosecution and defense; is that correct,
 Your Honor?" It was, so I turned to the witness. "I suppose, Doctor,
 that you have had quite a bit of experience, in your practice, with
@@ -2803,7 +2784,7 @@ pelvis and hip-joint?"
 
 "That's right."
 
-I picked up the 20-mm auto-rifle--it weighed a good sixty pounds--from
+I picked up the 20-mm auto-rifle—it weighed a good sixty pounds—from
 the table, and asked him if this weapon could have inflicted such
 wounds. He agreed that it both could and had.
 
@@ -2813,7 +2794,7 @@ liquidations?" I asked.
 "Certainly not. The usual weapons are pistols; sometimes a hunting-rifle
 or a shotgun."
 
-I asked the same question when I cross-examined the ballistics witness.
+I asked the same question when I symbol-examined the ballistics witness.
 
 "Is this the usual type of weapon used in your New Texas political
 liquidations?"
@@ -2821,7 +2802,7 @@ liquidations?"
 "No, not at all. That's a very expensive weapon, Mr. Ambassador. Wasn't
 even manufactured on this planet; made by the z'Srauff star-cluster. A
 weapon like that sells for five, six hundred pesos. It's used for
-shooting really big game--supermastodon, and things like that. And, of
+shooting really big game—supermastodon, and things like that. And, of
 course, for combat."
 
 "It seems," I remarked, "that the defense is overlooking an obvious
@@ -2945,7 +2926,7 @@ ranch at 1030 on that morning?"
 
 Nobody. But the aircar had obviously been waiting for Mr. Cumshaw; the
 Bonneys must have had advance knowledge. My questions made that point
-clear despite the obvious--and reluctantly court-sustained--objections
+clear despite the obvious—and reluctantly court-sustained—objections
 from Mr. Sidney.
 
 "That will be all, Mr. Longfellow; thank you. Any questions from anybody
@@ -2990,20 +2971,20 @@ another chew and told his version of the attack on the jail.
 At about 1045 on the day in question, he testified, he had been in his
 office, hard at work in the public service, when an air-car, partially
 disabled by gunfire, had landed in the street outside and the three
-defendants had rushed in, claiming sanctuary. From then on, the story
+defendants had rushed in, claiming refuge. From then on, the story
 flowed along smoothly, following the lines predicted by Captain Nelson
 and Parros. Of course he had given the fugitives shelter; they had
 claimed to have been near to a political assassination and were in fear
 of their lives.
 
-Under Sidney's cross-examination, and coaching, he poured out the story
+Under Sidney's symbol-examination, and coaching, he poured out the story
 of Bonneyville's wrongs at the hands of the reactionary landowners, and
 the atrocious behavior of the Hickock goon-gang. Finally, after
 extracting the last drop of class-hatred venom out of him, Sidney turned
 him over to me.
 
 "How many men were inside the jail when the three defendants came
-claiming sanctuary?" I asked.
+claiming refuge?" I asked.
 
 He couldn't rightly say, maybe four or five.
 
@@ -3016,7 +2997,7 @@ turned them out so's we could make some repairs."
 
 "You turned them out because you expected to have to defend the jail;
 because you knew in advance that these three would be along claiming
-sanctuary, and that Colonel Hickock's ranch hands would be right on
+refuge, and that Colonel Hickock's ranch hands would be right on
 their heels, didn't you?" I demanded.
 
 It took a good five minutes before Sidney stopped shouting long enough
@@ -3026,12 +3007,12 @@ for Judge Nelson to sustain the objection.
 about their financial circumstances, for instance?"
 
 "Well, they've been ground down an' kept poor by the big ranchers an'
-the money-guys...."
+the money-guys..."
 
 "Then weren't you surprised to see them driving such an expensive
 aircar?"
 
-"I don't know as it's such an expensive--" he shut his mouth suddenly.
+"I don't know as it's such an expensive—" he shut his mouth suddenly.
 
 "You know where they got the money to buy that car?" I pressed.
 
@@ -3058,7 +3039,7 @@ addressed the bench.
 "Now, Your Honor," he said, "I believe that the prosecution has
 succeeded in definitely establishing that these three defendants
 actually did fire the shot which, on April 22, 2193, deprived Silas
-Cumshaw of his life. We will now undertake to prove...."
+Cumshaw of his life. We will now undertake to prove..."
 
 Followed a long succession of witnesses, each testifying to some public
 or private act of philanthropy, some noble trait of character. It was
@@ -3076,15 +3057,13 @@ when they finally left, and followed to their hotel by cheering crowds.
 I saw one big banner, lettered: 'DON'T LET NEW TEXAS GO TO THE DOGS.'
 and bearing a crude picture of a z'Srauff. I seemed to recall having
 seen a couple of our Marines making that banner the evening before in
-the Embassy patio, but....
-
-CHAPTER X
+the Embassy patio, but...
 
 The next morning, the third of the trial, opened with the defense
 witnesses, character-witnesses for the three killers and witnesses to
 the political iniquities of Silas Cumshaw.
 
-Neither Goodham nor I bothered to cross-examine the former. I couldn't
+Neither Goodham nor I bothered to symbol-examine the former. I couldn't
 see how any lawyer as shrewd as Sidney had shown himself to be would
 even dream of getting such an array of thugs, cutthroats, sluts and
 slatterns into court as character witnesses for anybody.
@@ -3092,7 +3071,7 @@ slatterns into court as character witnesses for anybody.
 The latter, on the other hand, we went after unmercifully, revealing,
 under their enmity for Cumshaw, a small, hard core of bigoted xenophobia
 and selfish fear. Goodham did a beautiful job on that; he seemed able,
-at a glance, to divine exactly what each witness's motivation was, and
+at a glance, to mystical exactly what each witness's motivation was, and
 able to make him or her betray that motivation in its least admirable
 terms. Finally the defense rested, about a quarter-hour before noon.
 
@@ -3111,7 +3090,7 @@ feet, finally managed to get himself recognized by the court.
 
 "This Solar League Ambassador, Your Honor, is simply trying to use the
 courts of the Planet of New Texas as a sounding-board for his
-imperialistic government's propaganda...."
+imperialistic government's propaganda..."
 
 "You may reassure yourself, Mr. Sidney," Judge Nelson said. "This court
 will not allow itself to be improperly used, or improperly swayed, by
@@ -3146,7 +3125,9 @@ there is tap-proof."
 
 "About fifteen minutes after Mr. Cumshaw had left, the z'Srauff
 Ambassador called, about a personal matter. As he was most anxious to
-contact Mr. Cumshaw, I told him where he had gone."
+cont
+
+r. Cumshaw, I told him where he had gone."
 
 "Then, to your knowledge, outside of yourself, Colonel Hickock, and his
 butler, the z'Srauff Ambassador was the only person who could have known
@@ -3157,7 +3138,7 @@ about 1030. Is that correct?"
 
 "Exactly!" I pounced. Then I turned and gave the three Bonney brothers a
 sweeping glance. "Plus anybody the z'Srauff Ambassador might have
-told.... That's all. Your witness, Mr. Sidney."
+told... That's all. Your witness, Mr. Sidney."
 
 Sidney got up, started toward the witness stand, and then thought better
 of it.
@@ -3185,7 +3166,7 @@ yellow paper in Basic English."
 "Do you have that letter now?" I asked.
 
 "No, I don't. After we'd recorded the new balance, Kettle-Belly came
-storming in, raising hell because we'd recorded it. He told me that if
+storming in, raising shadow realm because we'd recorded it. He told me that if
 we ever got another deposit like that, we were to turn it over to him in
 cash. Then he wanted to see the letter, and when I gave it to him, he
 took it over to a telescreen booth, and drew the curtains. I got a
@@ -3200,7 +3181,7 @@ Kettle-Belly came in and wanted 50,000 pesos, in a big hurry, in small
 bills. I gave it to him, and he grabbed at the money like a starved dog
 at a bone, and upset a bottle of red perma-ink, the sort we use to
 refill our bank seals. Three of the bills got splashed. I offered to
-exchange them, but he said, 'Hell with it; I'm in a hurry,' and went
+exchange them, but he said, 'Shadow Realm with it; I'm in a hurry,' and went
 out. The next day, Switchblade Joe Bonney came in to make payment on a
 note we were holding on him. He used those three bills in the payment.
 
@@ -3209,7 +3190,7 @@ Kettle-Belly. This time, there was no letter; just one of our regular
 deposit-slips. No name of depositor. I held the check, and gave it to
 Kettle-Belly. I remember, when it came in, I said to one of the clerks,
 'Well, I wonder who's going to get bumped off this time.' And sure
-enough ..."
+enough..."
 
 Sidney's yell of, "Objection!" was all his previous objections gathered
 into one.
@@ -3220,7 +3201,7 @@ saw another letter of the same sort, would you be able to say whether or
 not it might be like the one you mentioned?"
 
 Sidney vociferating more objections; I was trying to get expert
-testimony without previous qualification....
+testimony without previous qualification...
 
 "Not at all, Mr. Sidney," Judge Nelson ruled. "Mr. Silk has merely asked
 if Mr. Finnegan could say whether one document bore any resemblance to
@@ -3310,13 +3291,13 @@ now."
 
 "One hundred pesos."
 
-That started another uproar. There wasn't a soul in that courtroom who
+That started another uproar. There wasn't a essence in that courtroom who
 didn't know that five thousand pesos would have been a give-away bargain
 price for that car.
 
 "Mr. Ambassador," one of the associate judges interrupted. "I used to be
-in the used-car business. Am I expected to believe that this ... this
-being ... sold that air-car for a hundred pesos?"
+in the used-car business. Am I expected to believe that this... this
+being... sold that air-car for a hundred pesos?"
 
 "Here's a notarized copy of the bill of sale, from the office of the
 Vehicles Registration Bureau," I said. "I introduce it as evidence."
@@ -3401,7 +3382,7 @@ refuge in refusal to answer on grounds of self-incrimination.
 
 "That is all, Your Honor," I said, "And now," I continued, when the
 witness had left the stand, "I have something further to present to the
-court, speaking both as _amicus curiae_ and as Ambassador of the Solar
+court, speaking both as amicus curiae and as Ambassador of the Solar
 League. This court cannot convict the three men who are here on trial.
 These men should have never been brought to trial in this court: it has
 no jurisdiction over this case. This was a simple case of first-degree
@@ -3441,8 +3422,8 @@ under the government of New Texas.
 "Speaking for my government, I must deny that these men should have been
 tried in this court for the murder of Silas Cumshaw. To do otherwise
 would establish the principle and precedent that our Ambassador, or any
-other Ambassador here, is a practicing politician under--mark that well,
-Your Honor--under the laws and government of New Texas. This would not
+other Ambassador here, is a practicing politician under—mark that well,
+Your Honor—under the laws and government of New Texas. This would not
 only make of any Ambassador a permissable target for any marksman who
 happened to disapprove of the policies of another government, but more
 serious, it would place the Ambassador and his government in a
@@ -3469,12 +3450,12 @@ uncovered.
 government of New Texas. My government now knows who procured the death
 of Silas Cumshaw, and we will take appropriate action. The government
 of New Texas has now had spelled out, in letters anyone can read, the
-fact that this beautiful planet is in truth a _battleground_. Awareness
+fact that this beautiful planet is in truth a battleground. Awareness
 of this may save New Texas from being the scene of a larger and more
 destructive battle. New Texas also knows who are its enemies, and who
 can be counted upon to stand as its friends."
 
-"Yes, Mr. Silk. Mr. Vuvuvu, I haven't heard any comment from you.... No
+"Yes, Mr. Silk. Mr. Vuvuvu, I haven't heard any comment from you... No
 comment? Well, we'll have to close the court, to consider this phase of
 the question."
 
@@ -3487,7 +3468,7 @@ Gail Hickock, who had been sitting on the front row of the spectators'
 seats, came running up while I was still receiving the congratulations
 of my fellow diplomats.
 
-"Stephen! How _could_ you?" she demanded. "You know what you've done?
+"Stephen! How could you?" she demanded. "You know what you've done?
 You've gotten those murdering snakes turned loose!"
 
 Andrew Jackson Hickock left the prosecution table and approached.
@@ -3498,7 +3479,7 @@ of my best friends!"
 "Colonel Hickock, I believe I knew Silas Cumshaw before you did. He was
 one of my instructors at Dumbarton Oaks, and I have always had the
 deepest respect and admiration for him. But he taught me one thing,
-which you seem to have forgotten since you expatriated yourself--that
+which you seem to have forgotten since you expatriated yourself—that
 in the Diplomatic Service, personal feelings don't count. The only
 thing of importance is the advancement of the policies of the Solar
 League."
@@ -3539,14 +3520,12 @@ pumping Sidney's hands.
 "There!" Gail flung at me. "Now look at your masterpiece! Why don't you
 go up and congratulate him, too?"
 
-And with that, she slapped me across the face. It hurt like the devil;
+And with that, she slapped me across the face. It hurt like the dark entity;
 she was a lot stronger than I'd expected.
 
 "In about two minutes," I told her, "you can apologize to me for that,
 or weep over my corpse. Right now, though, you'd better be getting
 behind something solid."
-
-CHAPTER XI
 
 I turned and stepped forward to confront the Bonneys, mentally thanking
 Gail. Up until she'd slapped me, I'd been weak-kneed and dry-mouthed
@@ -3573,7 +3552,7 @@ my thumbs on the release-studs of my belt. Judge Nelson's gavel was
 hammering, and he was shouting:
 
 "Court-of-Political-Justice-Confederate-Continent-of-New-Texas-is-herewith-
-adjourned-reconvene-0900-tomorrow. _Hit the floor!_"
+adjourned-reconvene-0900-tomorrow. Hit the floor!"
 
 "Damn! He means it!" Switchblade Joe Bonney exclaimed.
 
@@ -3613,7 +3592,7 @@ He leaned forward and looked to where the three Bonney brothers were
 making a mess of blood on the floor. "I trust that nobody will construe
 my unofficial and personal comments here as establishing any legal
 precedent, and I wouldn't like to see this sort of thing become
-customary ... but ... you did that all by yourself, with those little
+customary... but... you did that all by yourself, with those little
 beanshooters?... Not bad, not bad at all, Mr. Silk."
 
 I thanked him, then turned to the z'Srauff Ambassador. I didn't bother
@@ -3654,45 +3633,33 @@ Fleet Admiral Sir Rodney Tregaskis would see to that.
 
 _FROM REPORT
 OF SPACE-COMMANDER STONEHENGE
-TO SECRETARY OF AGGRESSION, KL NG:
-
-... so the measures considered by yourself
+TO SECRETARY OF AGGRESSION, KL NG:... so the measures considered by yourself
 and Secretary of State Ghopal Singh and Security
 Co rdinator Natalenko, as transmitted to me by
 Mr. Hoddy Ringo, were not, I am glad to say,
 needed. Ambassador Silk, alive, handled the
 thing much better than Ambassador Silk, dead,
-could possibly have.
-
-... to confirm Sir Rodney Tregaskis' report from the tales of the few
+could possibly have.... to confirm Sir Rodney Tregaskis' report from the tales of the few
 survivors, the z'Srauff attack came as the Ambassador had expected. They
 dropped out of hyperspace about seventy light-minutes outside the
 Capella system, apparently in complete ignorance of the presence of our
-fleet.
-
-... have learned the entire fleet consisted of about three hundred
+fleet.... have learned the entire fleet consisted of about three hundred
 spaceships and reports reaching here indicate that no more than twenty
-got back to z'Srauff Cluster.
-
-... naturally, the whole affair has had a profound influence, an
+got back to z'Srauff Cluster.... naturally, the whole affair has had a profound influence, an
 influence to the benefit of the Solar League, on all shades of public
-opinion.
-
-... as you properly assumed, Mr. Hoddy Ringo is no longer with us. When
+opinion.... as you properly assumed, Mr. Hoddy Ringo is no longer with us. When
 it became apparent that the Palme-Silk Annexation Treaty would be
 ratified here, Mr. Ringo immediately saw that his status of diplomatic
 immunity would automatically terminate. Accordingly, he left this
 system, embarking from New Austin for Alderbaran IX, mentioning, as he
 shook hands with me, something about a widow. By a curious coincidence,
 the richest branch bank in the city was held up by a lone bandit about
-half an hour before he boarded the space-ship...._
+half an hour before he boarded the space-ship..._
 
 _FINAL MESSAGE
-OF THE LAST SOLAR AMBASSADOR TO NEW
-TEXAS
-STEPHEN SILK
-
-Copies of the Treaty of Annexation, duly ratified by the New Texas
+"Copies of the Treaty of Annexation, duly ratified by the New Texas," Of The Last Solar Ambassador To New
+Texas
+Stephen Silk said.
 Legislature, herewith.
 
 Please note that the guarantees of non-intervention in local political
@@ -3701,28 +3668,26 @@ New Texas. They are especially adamant that there will be no change in
 their peculiar methods of insuring that their elected and appointed
 public officials shall be responsible to the electorate.
 
-DEPARTMENT ADDENDUM
-
-_After the ratification of the Palme-Silk treaty, Mr. Silk remained on
+"_After the ratification of the Palme-Silk treaty, Mr. Silk remained on," Department Addendum said.
 New Texas, married the daughter of a local rancher there (see file on
 First Ambassador, Colonel Andrew Jackson Hickock) and is still active in
 politics on that planet, often in opposition to Solar League policies,
 which he seems to anticipate with an almost uncanny prescience._
 
 Natalenko re-read the addendum, pursed his thick lips and sighed. There
-were so many ways he could be using Mr. Stephen Silk....
+were so many ways he could be using Mr. Stephen Silk...
 
-For example--he looked at the tri-di star-map, both usefully and
-beautifully decorating his walls--over there, where Hoddy Ringo had
+For example—he looked at the tri-di star-map, both usefully and
+beautifully decorating his walls—over there, where Hoddy Ringo had
 gone, near Alderbaran IX.
 
 Those were twin planets, one apparently settled by the equivalent
 descendants of the Edwards and the other inhabited by the children of a
 Jukes-Kallikak union. Even the Solar League Ambassadors there had taken
 the viewpoints of the planets to whom they were accredited, instead of
-the all-embracing view which their training should have given them....
+the all-embracing view which their training should have given them...
 
-Curious problem ... and, how would Stephen Silk have handled it?
+Curious problem... and, how would Stephen Silk have handled it?
 
 The Security Co rdinator scrawled a note comprehensible only to
-himself....
+himself...

@@ -1,31 +1,27 @@
-Title: Sand Doom
-
-Author: Murray Leinster
-
 Bordman knew there was something wrong when the throbbing, acutely
 uncomfortable vibration of rocket blasts shook the ship. Rockets were
 strictly emergency devices, these days, so when they were used there was
 obviously an emergency.
 
 He sat still. He had been reading, in the passenger lounge of the
-_Warlock_--a very small lounge indeed--but as a senior Colonial Survey
+Warlock—a very small lounge indeed—but as a senior Colonial Survey
 officer he was well-traveled enough to know when things did not go
 right. He looked up from the bookscreen, waiting. Nobody came to explain
 the eccentricity of a spaceship using rockets. It would have been
-immediate, on a regular liner, but the _Warlock_ was practically a
+immediate, on a regular liner, but the Warlock was practically a
 tramp. This trip it carried just two passengers. Passenger service was
 not yet authorized to the planet ahead, and would not be until Bordman
 had made the report he was on his way to compile. At the moment, though,
 the rockets blasted, and stopped, and blasted again. There was something
 definitely wrong.
 
-The _Warlock's_ other passenger came out of her cabin. She looked
+The Warlock's other passenger came out of her cabin. She looked
 surprised. She was Aletha Redfeather, an unusually lovely Amerind.
 It was extraordinary that a girl could be so self-sufficient on a
 tedious space-voyage, and Bordman approved of her. She was making the
 journey to Xosa II as a representative of the Amerind Historical
 Society, but she'd brought her own bookreels and some elaborate
-fancywork which--woman-fashion--she used to occupy her hands. She
+fancywork which—woman-fashion—she used to occupy her hands. She
 hadn't been at all a nuisance. Now she tilted her head on one side
 as she looked inquiringly at Bordman.
 
@@ -42,17 +38,17 @@ Bordman frowned to himself. He'd been anticipating groundfall within a
 matter of hours, certainly. He'd just gone through his specbook
 carefully and re-familiarized himself with the work he was to survey on
 Xosa II. It was a perfectly commonplace minerals-planet development, and
-he'd expected to clear it FE--fully established--and probably TP and NQ
+he'd expected to clear it FE—fully established—and probably TP and NQ
 ratings as well, indicating that tourists were permitted and no
 quarantine was necessary. Considering the aridity of the planet, no
 bacteriological dangers could be expected to exist, and if tourists
 wanted to view its monstrous deserts and infernolike wind
-sculptures--why they should be welcome.
+sculptures—why they should be welcome.
 
 But the ship had used rocket drive in the planet's near vicinity.
 Emergency. Which was ridiculous. This was a perfectly routine sort of
-voyage. Its purpose was the delivery of heavy equipment--specifically a
-smelter--and a senior Colonial Survey officer to report the completion
+voyage. Its purpose was the delivery of heavy equipment—specifically a
+smelter—and a senior Colonial Survey officer to report the completion
 of primary development.
 
 Aletha waited, as if for more rocket blasts. Presently she smiled at
@@ -72,7 +68,7 @@ Aletha smiled again.
 
 "My ancestors," she told him, "used to hold tribal dances and make
 medicine and boast about how many scalps they'd taken and how they did
-it. It was satisfying--and educational for the young. Adolescents became
+it. It was satisfying—and educational for the young. Adolescents became
 familiar with the idea of what we nowadays call adventure. They were
 partly ready for it when it came. I suspect your ancestors used to tell
 each other stories about hunting mammoths and such. So I think it would
@@ -80,10 +76,8 @@ be fun to hear that we were in orbit and that a boat landing was in
 order."
 
 Bordman grunted. There were no longer adventures. The universe was
-settled; civilized. Of course there were still frontier planets--Xosa II
-was one--but pioneers had only hardships. Not adventures.
-
-*       *       *       *       *
+settled; civilized. Of course there were still frontier planets—Xosa II
+was one—but pioneers had only hardships. Not adventures.
 
 The ship-phone speaker clicked. It said curtly:
 
@@ -92,23 +86,23 @@ it. A landing will be made by boat._"
 
 Bordman's mouth dropped open.
 
-"What the devil's this?" he demanded.
+"What the dark entity's this?" he demanded.
 
 "Adventure, maybe," said Aletha. Her eyes crinkled very pleasantly when
-she smiled. She wore the modern Amerind dress--a sign of pride in the
+she smiled. She wore the modern Amerind dress—a sign of pride in the
 ancestry which now implied such diverse occupations as interstellar
 steel construction and animal husbandry and llano-planet colonization.
 "If it were adventure, as the only girl on this ship I'd have to be in
-the landing party, lest the tedium of orbital waiting make the"--her
-smile widened to a grin--"the pent-up restlessness of trouble-makers in
-the crew----"
+the landing party, lest the tedium of orbital waiting make the"—her
+smile widened to a grin—"the pent-up restlessness of trouble-makers in
+the crew—"
 
 The ship-phone clicked again.
 
 "_Mr. Bordman. Miss Redfeather. According to advices from the ground,
 the ship may have to stay in orbit for a considerable time. You will
 accordingly be landed by boat. Will you make yourselves ready, please,
-and report to the boat-blister?_" The voice paused and added, "_Hand
+and report to the boat-blister?" The voice paused and added, "Hand
 luggage only, please._"
 
 Aletha's eyes brightened. Bordman felt the shocked incredulity of a man
@@ -135,7 +129,7 @@ this planet's interstellar commerce. There was no excuse for an
 emergency! A boat landing was nonsensical!
 
 But he surveyed the contents of his cabin. Most of the cargo of the
-_Warlock_ was smelter equipment which was to complete the outfitting of
+Warlock was smelter equipment which was to complete the outfitting of
 the colony. It was to be unloaded first. By the time the ship's holds
 were wholly empty, the smelter would be operating. The ship would wait
 for a full cargo of pig metal. Bordman had expected to live in this
@@ -159,10 +153,8 @@ the best traditions of passengers.
 
 "We can't land," said the engineer shortly.
 
-He went away--according to the tradition by which ships' crews are
+He went away—according to the tradition by which ships' crews are
 always scornful of passengers.
-
-*       *       *       *       *
 
 Bordman scowled. Then Aletha came, carrying a not-too-heavy bag. Bordman
 put it in the boat, disapproving of the crampedness of the craft. But
@@ -178,14 +170,14 @@ somewhere!"
 
 But he couldn't figure it out. This was a cargo ship. Cargo ships
 neither took off nor landed under their own power. It was too costly of
-fuel they would have to carry. So landing grids used local power--which
-did not have to be lifted--to heave ships out into space, and again used
+fuel they would have to carry. So landing grids used local power—which
+did not have to be lifted—to heave ships out into space, and again used
 local power to draw them to ground again. Therefore ships carried fuel
 only for actual space-flight, which was economy. Yet landing grids had
 no moving parts, and while they did have to be monstrous structures they
 actually drew power from planetary ionospheres. So with no moving parts
 to break down and no possibility of the failure of a power
-source--landing grids couldn't fail! So there couldn't be an emergency
+source—landing grids couldn't fail! So there couldn't be an emergency
 to make a ship ride orbit around a planet which had a landing grid!
 
 The engineer came back. He carried a mail sack full of letter-reels. He
@@ -208,8 +200,8 @@ and above them there were many, many stars. The enormous disk of a
 nearby planet floated into view around the hull. It was monstrous and
 blindingly bright. It was of a tawny color, with great, irregular areas
 of yellow and patches of bluishness. But most of it was the color of
-sand. And all its colors varied in shade--some places were lighter and
-some darker--and over at one edge there was blinding whiteness which
+sand. And all its colors varied in shade—some places were lighter and
+some darker—and over at one edge there was blinding whiteness which
 could not be anything but an ice cap. But Bordman knew that there was no
 ocean or sea or lake on all this whole planet, and the ice cap was more
 nearly hoarfrost than such mile-deep glaciation as would be found at the
@@ -232,25 +224,23 @@ tried to slide back into his throat. There was an enormous oppression on
 his chest. He found himself thinking panicky profanity.
 
 Simultaneously the vision ports went black, because they were out of the
-shadow of the ship. The landing boat turned--but there was no sensation
-of centrifugal force--and they were in a vast obscurity with merely a
+shadow of the ship. The landing boat turned—but there was no sensation
+of centrifugal force—and they were in a vast obscurity with merely a
 dim phantom of the planetary surface to be seen. But behind them a
-blue-white sun shone terribly. Its light was warm--hot--even though it
+blue-white sun shone terribly. Its light was warm—hot—even though it
 came through the polarized shielding ports.
 
-"Did ... did you say," panted Aletha happily--breathless because of the
-acceleration--"that there weren't any adventures?"
+"Did... did you say," panted Aletha happily—breathless because of the
+acceleration—"that there weren't any adventures?"
 
 Bordman did not answer. But he did not count discomfort as an adventure.
-
-*       *       *       *       *
 
 The engineer did not look out the ports at all. He watched the screen
 before him. There was a vertical line across the side of the lighted
 disk. A blip moved downward across it, showing their height in thousands
 of miles. After a long time the blip reached the bottom, and the
 vertical line became double and another blip began to descend. It
-measured height in hundreds of miles. A bright spot--a square--appeared
+measured height in hundreds of miles. A bright spot—a square—appeared
 at one side of the screen. A voice muttered metallically, and suddenly
 seemed to shout, and then muttered again. Bordman looked out one of the
 black ports and saw the planet as if through smoked glass. It was a
@@ -265,8 +255,8 @@ tripled and a tens-of-miles-height blip crawled downward.
 There were sudden, monstrous plungings of the landing boat. It had hit
 the outermost fringes of atmosphere. The engineer said words it was not
 appropriate for Aletha to hear. The plungings became more violent.
-Bordman held on--to keep from being shaken to pieces despite the
-straps--and stared at the murky surface of the planet. It seemed to be
+Bordman held on—to keep from being shaken to pieces despite the
+straps—and stared at the murky surface of the planet. It seemed to be
 fleeing from them and they to be trying to overtake it. Gradually, very
 gradually, its flight appeared to slow. They were down to twenty miles,
 then.
@@ -285,25 +275,23 @@ would be the sand plateaus which had been observed on this planet and
 which had only a still-disputed explanation. But he could see areas of
 glistening yellow and dirty white, and splashes of pink and streaks of
 ultramarine and gray and violet, and the incredible red of iron oxide
-covering square miles--too much to be believed.
+covering square miles—too much to be believed.
 
 The landing-boat's rockets cut off. It coasted. Presently the horizon
 tilted and all the dazzling ground below turned sedately beneath them.
 There came staccato instructions from a voice-speaker, which the
-engineer obeyed. The landing boat swung low--below the tips of giant
-mauve mountains with a sand plateau beyond them--and its nose went up.
+engineer obeyed. The landing boat swung low—below the tips of giant
+mauve mountains with a sand plateau beyond them—and its nose went up.
 It stalled.
 
-Then the rockets roared again--and now, with air about them and after a
-momentary pause, they were horribly loud--and the boat settled down and
+Then the rockets roared again—and now, with air about them and after a
+momentary pause, they were horribly loud—and the boat settled down and
 down upon its own tail of fire.
 
 There was a completely blinding mass of dust and rocket fumes which cut
 off all sight of everything else. Then there was a crunching crash, and
 the engineer swore peevishly to himself. He cut the rockets again.
 Finally.
-
-*       *       *       *       *
 
 Bordman found himself staring straight up, still strapped in his chair.
 The boat had settled on its own tail fins, and his feet were higher than
@@ -319,7 +307,7 @@ So they waited, using what had been chair backs for seats.
 
 The engineer moved a control and the windows cleared further. They saw
 the surface of Xosa II. There was no living thing in sight. The ground
-itself was pebbles and small rocks and minor boulders--all apparently
+itself was pebbles and small rocks and minor boulders—all apparently
 tumbled from the starkly magnificent mountains to one side. There were
 monstrous, many-colored cliffs and mesas, every one eaten at in the
 unmistakable fashion of wind-erosion. Through a notch in the mountain
@@ -345,14 +333,14 @@ Which was true. It was accepted, nowadays, that humankind might be one
 species but was many races, and each saw the cosmos in its own fashion.
 On Kalmet III there was a dense, predominantly Asiatic population which
 terraced its mountainsides for agriculture and deftly mingled modern
-techniques with social customs not to be found on--say--Demeter I, where
+techniques with social customs not to be found on—say—Demeter I, where
 there were many red-tiled stucco towns and very many olive groves. In
-the llano planets of the Equis cluster, Amerinds--Aletha's
-kin--zestfully rode over plains dotted with the descendants of buffalo
+the llano planets of the Equis cluster, Amerinds—Aletha's
+kin—zestfully rode over plains dotted with the descendants of buffalo
 and antelope and cattle brought from ancient Earth. On the oases of
 Rustam IV there were date palms and riding camels and much argument
 about what should be substituted for the direction of Mecca at the times
-for prayer, while wheat fields spanned provinces on Canna I and highly
+for incantation, while wheat fields spanned provinces on Canna I and highly
 civilized emigrants from the continent of Africa on Earth stored jungle
 gums and lustrous gems in the warehouses of their spaceport city of
 Timbuk.
@@ -368,9 +356,7 @@ three-thousand-foot white stone tepee, and the best horses known to men
 were raised by ranchers with bronze skins and high cheekbones on the
 llano planet Chagan.
 
-*       *       *       *       *
-
-Now, here, in the _Warlock's_ landing boat, the engineer snorted. A
+Now, here, in the Warlock's landing boat, the engineer snorted. A
 vehicle came around a cliff wall, clanking its way on those eccentric
 caterwheels that new-founded colonies find so useful. The vehicle
 glittered. It crawled over tumbled boulders, and flowed over fallen
@@ -380,15 +366,13 @@ scree. It came briskly toward them. The engineer snorted again.
 
 Bordman blinked and looked again. He did not quite believe his eyes. But
 they told the truth. The figure controlling the ground car was
-Indian--Amerind--wearing a breechcloth and thick-soled sandals and three
+Indian—Amerind—wearing a breechcloth and thick-soled sandals and three
 streamlined feathers in a band about his head. Moreover, he did not ride
 in a seat. He sat astride a semi-cylindrical part of the ground car,
 over which a gaily-colored blanket had been thrown.
 
-[Illustration]
-
 The ship's engineer rumbled disgustedly. But then Bordman saw how sane
-this method of riding was--here. The ground vehicle lurched and swayed
+this method of riding was—here. The ground vehicle lurched and swayed
 and rolled and pitched and tossed as it came over the uneven ground. To
 sit in anything like a chair would have been foolish. A back rest would
 throw one forward in a frontward lurch, and give no support in case of a
@@ -421,13 +405,13 @@ perfectly suited to sunshine even of this intensity. Wind blowing upon
 her body would cool her skin. Her thick, straight black hair was at
 least as good protection against sunstroke as a heat-helmet. She might
 feel hot, but she would be perfectly safe. She wouldn't even sunburn.
-But he, Bordman----
+But he, Bordman—
 
 He grimly stripped to underwear and put on the heat-suit from his bag.
 He filled its canteens from the boat's water tank. He turned on the
 tiny, battery-powered motors. The suit ballooned out. It was intended
-for short periods of intolerable heat. The motors kept it inflated--away
-from his skin--and cooled its interior by the evaporation of sweat plus
+for short periods of intolerable heat. The motors kept it inflated—away
+from his skin—and cooled its interior by the evaporation of sweat plus
 water from its canteen tanks. It was a miniature air-conditioning system
 for one man, and it should enable him to endure temperatures otherwise
 lethal to someone with his skin and coloring. But it would use a lot of
@@ -445,11 +429,11 @@ Aletha's cousin shook hands cordially.
 "I'm Ralph Redfeather," he said, introducing himself. "Project engineer.
 About everything's wrong. Our landing grid's gone. We couldn't contact
 your ship in time to warn it off. It was in our gravity field before it
-answered, and its Lawlor drive couldn't take it away--not working
+answered, and its Lawlor drive couldn't take it away—not working
 because of the field. Our power, of course, went with the landing grid.
 The ship you came in can't get back, and we can't send a distress
 message anywhere, and our best estimate is that the colony will be wiped
-out--thirst and starvation--in six months. I'm sorry you and Aletha have
+out—thirst and starvation—in six months. I'm sorry you and Aletha have
 to be included."
 
 Then he turned to Aletha and said amiably:
@@ -457,12 +441,10 @@ Then he turned to Aletha and said amiably:
 "How's Mike Thundercloud and Sally Whitehorse and the gang in general,
 'Letha?"
 
-*       *       *       *       *
-
-The _Warlock_ rolled on in her newly-established orbit about Xosa II.
+The Warlock rolled on in her newly-established orbit about Xosa II.
 The landing boat was aground, having removed the two passengers. It
 would come back. Nobody on the ship wanted to stay aground, because they
-knew the conditions and the situation below--unbearable heat and the
+knew the conditions and the situation below—unbearable heat and the
 complete absence of hope. But nobody had anything to do! The ship had
 been maintained in standard operating condition during its two-months'
 voyage from Trent to here. No repairs or overhaulings were needed. There
@@ -470,7 +452,7 @@ was no maintenance-work to speak of. There would be only stand-by
 watches until something happened. There would be nothing to do on those
 watches. There would be off-watch time for twenty-one out of every
 twenty-four hours, and no purposeful activity to fill even half an hour
-of it. In a matter of--probably--years, the _Warlock_ should receive
+of it. In a matter of—probably—years, the Warlock should receive
 aid. She might be towed out of her orbit to space in which the Lawlor
 drive could function, or the crew might simply be taken off. But
 meanwhile, those on board were as completely frustrated as the colony.
@@ -479,22 +461,20 @@ They could not do anything at all to help themselves.
 In one fashion the crewmen were worse off than the colonists. The
 colonists had at least the colorful prospect of death before them. They
 could prepare for it in their several ways. But the members of the
-_Warlock_'s crew had nothing ahead but tedium.
+Warlock's crew had nothing ahead but tedium.
 
 The skipper faced the future with extreme, grim distaste.
-
-*       *       *       *       *
 
 The ride to the colony was torment. Aletha rode behind her cousin on the
 saddle-blanket, and apparently suffered little if at all. But Bordman
 could only ride in the ground-car's cargo space, along with the sack of
 mail from the ship. The ground was unbelievably rough and the jolting
 intolerable. The heat was literally murderous. In the metal cargo space,
-the temperature reached a hundred and sixty degrees in the sunshine--and
+the temperature reached a hundred and sixty degrees in the sunshine—and
 given enough time, food will cook in no more heat than that. Of course a
 man has been known to enter an oven and stay there while a roast was
 cooked, and to come out alive. But the oven wasn't throwing him
-violently about or bringing sun-heated--blue-white-sun heated--metal to
+violently about or bringing sun-heated—blue-white-sun heated—metal to
 press his heat-suit against him.
 
 The suit did make survival possible, but that was all. The contents of
@@ -507,8 +487,8 @@ straight.
 
 When he got up, he was physically normal again, but abysmally ashamed.
 It did no good to remind himself that Xosa II was rated minimum-comfort
-class D--a blue-white sun and a mean temperature of one hundred and ten
-degrees. Africans could take such a climate--with night-relief quarters.
+class D—a blue-white sun and a mean temperature of one hundred and ten
+degrees. Africans could take such a climate—with night-relief quarters.
 Amerinds could do steel construction work in the open, protected only by
 insulated shoes and gloves. But Bordman could not venture out-of-doors
 except in a heat-suit. He couldn't stay long then. It was not a
@@ -519,8 +499,8 @@ occupied one of the hulls in which colony-establishment materials had
 been lowered by rocket power. There were forty of the hulls, and they
 had been emptied and arranged for inter-communication in three separate
 communities, so that an individual could change his quarters and
-ordinary associates from time to time and colony fever--frantic
-irritation with one's companions--was minimized.
+ordinary associates from time to time and colony fever—frantic
+irritation with one's companions—was minimized.
 
 Aletha sat at a desk, busily making notes from a loose leaf volume
 before her. The wall behind the desk was fairly lined with similar
@@ -554,8 +534,6 @@ Survey officer, he'd been around. But he'd never yet known a human
 colony to be extinguished when it was properly equipped and after a
 proper pre-settlement survey. He'd seen panic, but never real cause for
 a matter-of-fact acceptance of doom.
-
-*       *       *       *       *
 
 There was a clanking noise outside the hulk which was the Project
 Engineer's headquarters. Bordman couldn't see clearly through the
@@ -613,7 +591,7 @@ Bordman fumed.
 
 "I think you know," he said fretfully, "that as a senior Colonial Survey
 officer, I have authority to give any orders needed for my work. I give
-one now. I want to see the landing grid--if it is still standing. I take
+one now. I want to see the landing grid—if it is still standing. I take
 it that it didn't fall down?"
 
 Redfeather flushed beneath the bronze pigment of his skin. It would be
@@ -637,7 +615,7 @@ completed?"
 
 "Then I issue a formal order that I be taken to the landing-grid site
 immediately," said Bordman angrily. "I want to see what sort of
-incompetence is responsible! Will you arrange it--at once?"
+incompetence is responsible! Will you arrange it—at once?"
 
 Redfeather said in a completely emotionless voice:
 
@@ -653,11 +631,11 @@ strictly justifiable.
 He heard a small noise. He whirled. Dr. Chuka, huge and black and
 spectacled, rocked back and forth in his seat, suppressing laughter.
 
-"Now, what the devil does that mean?" demanded Bordman suspiciously. "It
+"Now, what the dark entity does that mean?" demanded Bordman suspiciously. "It
 certainly isn't ridiculous to ask to see the structure on which the life
 of the colony finally depends!"
 
-"Not ridiculous," said Dr. Chuka. "It's--hilarious!"
+"Not ridiculous," said Dr. Chuka. "It's—hilarious!"
 
 He boomed laughter in the office with the rounded ceiling of a remade
 robot hull. Aletha smiled with him, though her eyes were grave.
@@ -668,11 +646,9 @@ He fumed again, tempted to defy all common sense because its dictates
 were not the same for everybody. But he marched away, back to the
 cubbyhole in which he had awakened. Angrily, he donned the heat-suit
 that had not protected him adequately before, but had certainly saved
-his life. He filled the canteens topping full--he suspected he hadn't
+his life. He filled the canteens topping full—he suspected he hadn't
 done so the last time. He went back to the Project Engineer's office
 with a feeling of being burdened and absurd.
-
-*       *       *       *       *
 
 Out a filter-window, he saw that men with skins as dark as Dr. Chuka's
 were at work on a ground car. They were equipping it with a sunshade and
@@ -680,8 +656,6 @@ curious shields like wings. Somebody pushed a sort of caterwheel
 handtruck toward it. They put big, heavy tanks into its cargo space. Dr.
 Chuka had disappeared, but Aletha was back at work making notes from the
 loose-leaf volume on the desk.
-
-[Illustration]
 
 "May I ask," asked Bordman with some irony, "what your work happens to
 be just now?"
@@ -702,7 +676,7 @@ But he did not know what they meant.
 
 "Coups," repeated Aletha matter-of-factly. "Ralph wears three
 eagle-feathers. You saw them. He has three coups. Pinions, too! He built
-the landing grids on Norlath and--Oh, you don't know!"
+the landing grids on Norlath and—Oh, you don't know!"
 
 "I don't," admitted Bordman, his temper not of the best because of what
 seemed unnecessary condescensions on Xosa II.
@@ -711,7 +685,7 @@ Aletha looked surprised.
 
 "In the old days," she explained, "back on Earth, if a man scalped an
 enemy, he counted coup. The first to strike an enemy in a battle counted
-coup, too--a lesser one. Nowadays a man counts coups for different
+coup, too—a lesser one. Nowadays a man counts coups for different
 things, but Ralph's three eagle-feathers mean he's entitled to as much
 respect as a warrior in the old days who, three separate times, had
 killed and scalped an enemy warrior in the middle of his own camp. And
@@ -721,24 +695,22 @@ Bordman grunted.
 
 "Barbarous, I'd say!"
 
-"If you like," said Aletha. "But it's something to be proud of--and one
+"If you like," said Aletha. "But it's something to be proud of—and one
 doesn't count coup for making a lot of money!" Then she paused and said
 curtly: "The word 'snobbish' fits it better than 'barbarous.' We are
 snobs! But when the head of a clan stands up in Council in the Big Tepee
 on Algonka, representing his clan, and men have to carry the ends of the
 feather headdress with all the coups the members of his clan have
-earned--why one is proud to belong to that clan!" She added defiantly,
+earned—why one is proud to belong to that clan!" She added defiantly,
 "Even watching it on a vision-screen!"
 
 Dr. Chuka opened the outer door. Blinding light poured in. He did not
-enter--and his body glistened with sweat.
+enter—and his body glistened with sweat.
 
 "Ready for you, Mr. Bordman!"
 
 Bordman adjusted his goggles and turned on the motors of his heat-suit.
 He went out the door.
-
-*       *       *       *       *
 
 The heat and light outside were oppressive. He darkened the goggles
 again and made his way heavily to the waiting, now-shaded ground car. He
@@ -749,7 +721,7 @@ from the body, barely above the caterwheels. He could not make out their
 purpose and irritably failed to ask.
 
 "All ready," said Redfeather coldly. "Dr. Chuka's coming with us. If
-you'll get in here, please----"
+you'll get in here, please—"
 
 Bordman climbed awkwardly into the boxlike back of the car. He bestrode
 one of the cylindrical arrangements. With a saddle on it, it would
@@ -765,13 +737,13 @@ solitary. For mental health a man has to be assured of his free will,
 and over-regimentation is deadly in any society. With men
 psychologically suited to colonize, it is fatal.
 
-Above--but at a distance, now--there was a monstrous scarp of mountains,
+Above—but at a distance, now—there was a monstrous scarp of mountains,
 colored in glaring and unnatural tints. Immediately about there was raw
 rock. But it was peculiarly smooth, as if sand grains had rubbed over it
 for uncountable aeons and carefully worn away every trace of unevenness.
 Half a mile to the left, dunes began and went away to the horizon. The
 nearer ones were small, but they gained in size with distance from the
-mountains--which evidently affected the surface-winds hereabouts--and
+mountains—which evidently affected the surface-winds hereabouts—and
 the edge of seeing was visibly not a straight line. The dunes yonder
 must be gigantic. But of course on a world the size of ancient Earth,
 and which was waterless save for snow-patches at its poles, the size to
@@ -784,7 +756,7 @@ dangling from it. He climbed into the cargo space and fastened it to one
 of the two tanks previously loaded.
 
 "For you," he told Bordman. "Those tanks are full of compressed air at
-rather high pressure--a couple of thousand pounds. Here's a
+rather high pressure—a couple of thousand pounds. Here's a
 reduction-valve with an adiabatic expansion feature, to supply extra air
 to your heat-suit. It will be pretty cold, expanding from so high a
 pressure. Bring down the temperature a little more."
@@ -803,11 +775,9 @@ He choked down the irritation his own inadequacy produced.
 
 "I suppose we can go now," he said as coldly as he could.
 
-Aletha's cousin mounted the control-saddle--though it was no more than a
-blanket--and Dr. Chuka mounted beside Bordman. The ground car got under
+Aletha's cousin mounted the control-saddle—though it was no more than a
+blanket—and Dr. Chuka mounted beside Bordman. The ground car got under
 way. It headed for the mountains.
-
-*       *       *       *       *
 
 The smoothness of the rock was deceptive. The caterwheel car lurched
 and bumped and swayed and rocked. It rolled and dipped and wallowed.
@@ -824,7 +794,7 @@ and they cut off the reflected glare. It would blister your skin even
 if the sun never touched you directly."
 
 Bordman did not answer. The caterwheel car went on. It came to a patch
-of sand--tawny sand, heavily mineralized. There was a dune here. Not a
+of sand—tawny sand, heavily mineralized. There was a dune here. Not a
 big one for Xosa II. It was no more than a hundred feet high. But they
 went up its leeward, steeply slanting side. All the planet seemed to
 tilt insanely as the caterwheels spun. They reached the dune's crest,
@@ -836,7 +806,7 @@ irresistible force of storm-seas. Nothing could resist them. Nothing!
 
 They traveled over similar dunes for two miles. Then they began to climb
 the approaches to the mountains. And Bordman saw for the second
-time--the first had been through the ports of the landing-boat--where
+time—the first had been through the ports of the landing-boat—where
 there was a notch in the mountain wall and sand had flowed out of it
 like a waterfall, making a beautifully symmetrical cone-shaped heap
 against the lower cliffs. There were many such falls. There was one
@@ -873,9 +843,7 @@ ranges ran across the course of long-blowing winds, the winds eddied
 above the valley between. They dropped sand into it. The equivalent of
 trade winds, Bordman considered, in time would fill a valley to the
 mountain tops, just as trade winds provide moisture in equal quantity on
-other worlds, and civilizations have been built upon it. But----
-
-*       *       *       *       *
+other worlds, and civilizations have been built upon it. But—
 
 "Well?" said Bordman challengingly.
 
@@ -885,10 +853,8 @@ other worlds, and civilizations have been built upon it. But----
 
 "Here," said the Indian dryly. "A few months ago there was a valley
 here. The landing grid had eighteen hundred feet of height built. There
-was to be four hundred feet more--the lighter top construction justifies
+was to be four hundred feet more—the lighter top construction justifies
 my figure of eighty per cent completion. Then there was a storm."
-
-[Illustration]
 
 It was hot. Horribly, terribly hot, even here on a plateau at
 mountaintop height. Dr. Chuka looked at Bordman's face and bent down in
@@ -907,15 +873,15 @@ sensations as well as the scene of disaster before him. There'd be some
 hundreds of millions of tons of sand in even a section of this plateau.
 It was unthinkable that it could be removed except by a long-time sweep
 of changed trade winds along the length of the valley. "But what has a
-storm to do----"
+storm to do—"
 
 "It was a sandstorm," said Redfeather coldly. "Probably there was a
 sunspot flare-up. We don't know. But the pre-colonization survey spoke
 of sandstorms. The survey team even made estimates of sandfall in
 various places as so many inches per year. Here all storms drop sand
 instead of rain. But there must have been a sunspot flare because this
-storm blew for"--his voice went flat and deliberate because it was
-stating the unbelievable--"for two months. We did not see the sun in all
+storm blew for"—his voice went flat and deliberate because it was
+stating the unbelievable—"for two months. We did not see the sun in all
 that time. And we couldn't work, naturally. The sand would flay a man's
 skin off his body in minutes. So we waited it out.
 
@@ -923,12 +889,12 @@ skin off his body in minutes. So we waited it out.
 the landing grid to be built. The grid was under it. It is under it. The
 top of eighteen hundred feet of steel is still buried two hundred feet
 down in the sand you see. Our unfabricated building-steel is piled ready
-for erection--under two thousand feet of sand. Without anything but
-stored power it is hardly practical"--Redfeather's tone was
-sardonic--"for us to try to dig it out. There are hundreds of millions
+for erection—under two thousand feet of sand. Without anything but
+stored power it is hardly practical"—Redfeather's tone was
+sardonic—"for us to try to dig it out. There are hundreds of millions
 of tons of stuff to be moved. If we could get the sand away, we could
 finish the grid. If we could finish the grid, we'd have power enough to
-get the sand away--in a few years, and if we could replace the machinery
+get the sand away—in a few years, and if we could replace the machinery
 that wore out handling it. And if there wasn't another sandstorm."
 
 He paused. Bordman took deep breaths of the cooler air. He could think
@@ -937,13 +903,11 @@ more clearly.
 "If you will accept photographs," said Redfeather politely, "you can
 check that we actually did the work."
 
-*       *       *       *       *
-
 Bordman saw the implications. The colony had been formed of Amerinds for
 the steel work and Africans for the labor the Amerinds were congenitally
-averse to--the handling of complex mining-machinery underground and the
+averse to—the handling of complex mining-machinery underground and the
 control of modern high-speed smelting operations. Both races could
-endure this climate and work in it--provided that they had cooled
+endure this climate and work in it—provided that they had cooled
 sleeping quarters. But they had to have power. Power not only to work
 with, but to live by. The air-cooling machinery that made sleep possible
 also condensed from the cooled air the minute trace of water vapor it
@@ -952,7 +916,7 @@ thirst. Without the landing grid and the power it took from the
 ionosphere, they could not receive supplies from the rest of the
 universe. So they would starve.
 
-And the _Warlock_, now in orbit somewhere overhead, was well within the
+And the Warlock, now in orbit somewhere overhead, was well within the
 planet's gravitational field and could not use its Lawlor drive to
 escape with news of their predicament. In the normal course of events it
 would be years before a colony ship capable of landing or blasting out
@@ -985,12 +949,10 @@ want to see right away what you've done to beat this state of things. I
 know they can't be beaten, but I intend to leave a report on what you've
 tried!"
 
-*       *       *       *       *
-
-The _Warlock_ swung in emptiness around the planet Xosa II. It was
+The Warlock swung in emptiness around the planet Xosa II. It was
 barely five thousand miles above the surface, so the mottled terrain of
 the dry world flowed swiftly and perpetually beneath it. It did not seem
-beneath, of course. It simply seemed out--away--removed from the ship.
+beneath, of course. It simply seemed out—away—removed from the ship.
 And in the ship's hull there was artificial gravity, and light, and
 there were the humming sounds of fans which kept the air in motion and
 flowing through the air apparatus. Also there was food, and adequate
@@ -1015,7 +977,7 @@ gravity. The same consideration made their lifeboats useless. They could
 not escape by rocket-power and their Lawlor drives, also, were
 ineffective.
 
-The crew of the _Warlock_ was bored. The worst of the boredom was that
+The crew of the Warlock was bored. The worst of the boredom was that
 it promised to last without limit. They had food and water and physical
 comfort, but they were exactly in the situation of men sentenced to
 prison for an unknown but enormous length of time. There was no escape.
@@ -1023,14 +985,12 @@ There could be no alleviation. The prospect invited frenzy by
 anticipation.
 
 A fist fight broke out in the crew's quarters within two hours after the
-_Warlock_ had established its orbit--as a first reaction to their
+Warlock had established its orbit—as a first reaction to their
 catastrophe. The skipper went through the ship and painstakingly
 confiscated every weapon. He locked them up. He, himself, already felt
 the nagging effect of jangling nerves. There was nothing to do. He
 didn't know when there would ever be anything to do. It was a condition
 to produce hysteria.
-
-*       *       *       *       *
 
 There was night. Outside and above the colony there were uncountable
 myriads of stars. They were not the stars of Earth, of course, but
@@ -1063,11 +1023,11 @@ Project Engineer office. He opened it. He stepped outside.
 It was like stepping into an oven. The sand was still hot from the
 sunshine just ended. The air was so utterly dry that Bordman instantly
 felt it sucking at the moisture of his nasal passages. In ten seconds
-his feet--clad in indoor footwear--were uncomfortably hot. In twenty the
+his feet—clad in indoor footwear—were uncomfortably hot. In twenty the
 soles of his feet felt as if they were blistering. He would die of the
 heat at night, here! Perhaps he could endure the outside near dawn, but
 he raged a little. Here where Amerinds and Africans lived and throve, he
-could live unprotected for no more than an hour or two--and that at one
+could live unprotected for no more than an hour or two—and that at one
 special time of the planet's rotation!
 
 He went back in, ashamed of the discomfort of his feet and angrily
@@ -1076,7 +1036,7 @@ letting them feel scorched rather than admit to it.
 Aletha turned another page.
 
 "Look, here!" said Bordman angrily. "No matter what you say, you're
-going to go back on the _Warlock_ before----"
+going to go back on the Warlock before—"
 
 She raised her eyes.
 
@@ -1089,13 +1049,13 @@ landings of the landing boat. They can lift you out of here!"
 
 Aletha shrugged.
 
-"Why leave here to board a derelict? The _Warlock_'s practically that.
+"Why leave here to board a derelict? The Warlock's practically that.
 What's your honest estimate of the time before a ship equipped to help
 us gets here?"
 
 Bordman would not answer. He'd done some figuring. It had been a
-two-month journey from Trent--the nearest Survey base--to here. The
-_Warlock_ had been expected to remain aground until the smelter it
+two-month journey from Trent—the nearest Survey base—to here. The
+Warlock had been expected to remain aground until the smelter it
 brought could load it with pig metal. Which could be as little as two
 weeks, but would surprise nobody if it was two months instead. So the
 ship would not be considered due back on Trent for four months. It would
@@ -1105,8 +1065,8 @@ There'd be a wait for lifeboats to come in, should there have been a
 mishap in space. There'd eventually be a report of noncommunication to
 the Colony Survey headquarters on Canna III. But it would take three
 months for that report to be received, and six more for a
-confirmation--even if ships made the voyages exactly at the most
-favorable intervals--and then there should at least be a complaint from
+confirmation—even if ships made the voyages exactly at the most
+favorable intervals—and then there should at least be a complaint from
 the colony. There were lifeboats aground on Xosa II, for emergency
 communication, and if a lifeboat didn't bring news of a planetary
 crisis, no crisis would be considered to exist. Nobody could imagine a
@@ -1137,8 +1097,6 @@ order!"
 
 She returned to her task.
 
-*       *       *       *       *
-
 There were crunching footsteps outside the hulk. Bordman winced a
 little. With insulated sandals, it was normal for these colonists to
 move from one part of the colony to another in the open, even by
@@ -1154,7 +1112,7 @@ think we can answer any questions you want to ask."
 
 He made introductions. Bordman didn't try to remember the names.
 Abeokuta and Northwind and Sutata and Tallgrass and T'ckka and
-Spottedhorse and Lewanika---- They were names which in combination would
+Spottedhorse and Lewanika— They were names which in combination would
 only be found in a very raw, new colony. But the men who crowded into
 the office were wholly at ease, in their own minds as well as in the
 presence of a senior Colonial Survey officer. They nodded as they were
@@ -1163,9 +1121,9 @@ their looks under other circumstances. But he was humiliated by the
 conditions on this planet. They were not. They were apparently only
 sentenced to death by them.
 
-"I have to leave a report," said Bordman curtly--and he was somehow
+"I have to leave a report," said Bordman curtly—and he was somehow
 astonished to know that he did expect to leave a report rather than make
-one; he accepted the hopelessness of the colony's future--"on the
+one; he accepted the hopelessness of the colony's future—"on the
 degree-of-completion of the work here. But since there's an emergency, I
 have also to leave a report on the measures taken to meet it."
 
@@ -1175,8 +1133,8 @@ planet was dead. But Bordman knew he'd write it. It was unthinkable that
 he shouldn't.
 
 "Redfeather tells me," he added, again curtly, "that the power in
-storage can be used to cool the colony buildings--and therefore condense
-drinking water from the air--for just about six months. There is food
+storage can be used to cool the colony buildings—and therefore condense
+drinking water from the air—for just about six months. There is food
 for about six months. If one lets the buildings warm up a little, to
 stretch the fuel, there won't be enough water to drink. Go on half
 rations to stretch the food, and there won't be enough water to last and
@@ -1184,7 +1142,7 @@ the power will give out anyhow. No profit there!"
 
 There were nods. The matter had been thrashed out long before.
 
-"There's food in the _Warlock_ overhead," Bordman went on coldly, "but
+"There's food in the Warlock overhead," Bordman went on coldly, "but
 they can't use the landing boat more than a few times. It can't use ship
 fuel. No refrigeration to hold it stable. They couldn't land more than a
 ton of supplies all told. There are five hundred of us here. No help
@@ -1196,7 +1154,7 @@ He looked from one to another.
 water and minimum night-comfort run out together. Anything we do to try
 to stretch anything is useless because of what happens to something
 else. Redfeather tells me you accept the situation. What are you
-doing--since you accept it?"
+doing—since you accept it?"
 
 Dr. Chuka said amiably:
 
@@ -1212,8 +1170,8 @@ directions."
 
 Chuka added benignly:
 
-"We're doing a great deal of singing, too. My people are ... ah ...
-religious. When we are ... ah ... no longer here ... there have been
+"We're doing a great deal of singing, too. My people are... ah...
+religious. When we are... ah... no longer here... there have been
 boastings that there'll be a well-practiced choir ready to go to work in
 the next world."
 
@@ -1250,7 +1208,7 @@ technical problem!"
 Aletha spoke suddenly from behind him.
 
 "But these are men, first and foremost, Mr. Bordman. And they're faced
-with a very human problem--how to die well. They seem to be rather good
+with a very human problem—how to die well. They seem to be rather good
 at it, so far."
 
 Bordman ground his teeth. He was again humiliated. In his own fashion he
@@ -1265,18 +1223,16 @@ slain. It was in his blood or genes or the result of training. He simply
 could not, with self-respect, accept any physical situation as hopeless
 even when his mind assured him that it was.
 
-*       *       *       *       *
-
 "I agree," he said coldly, "but still I have to think in technical
 terms. You might say that we are going to die because we cannot land the
-_Warlock_ with food and equipment. We cannot land the _Warlock_ because
+Warlock with food and equipment. We cannot land the Warlock because
 we have no landing grid. We have no landing grid because it and all the
 material to complete it is buried under millions of tons of sand. We
 cannot make a new light-supply-ship type of landing grid because we have
 no smelter to make beams, nor power to run it if we had, yet if we had
 the beams we could get the power to run the smelter we haven't got to
 make the beams. And we have no smelter, hence no beams, no power, no
-prospect of food or help because we can't land the _Warlock_. It is
+prospect of food or help because we can't land the Warlock. It is
 strictly a circular problem. Break it at any point and all of it is
 solved."
 
@@ -1289,20 +1245,20 @@ him. "When I was a little boy there was a story like that."
 Bordman said icily:
 
 "The problem of coolness and water and food is the same sort of problem.
-In six months we could raise food--if we had power to condense
-moisture. We've chemicals for hydroponics--if we could keep the plants
+In six months we could raise food—if we had power to condense
+moisture. We've chemicals for hydroponics—if we could keep the plants
 from roasting as they grew. Refrigeration and water and food are
 practically another circular problem."
 
 Aletha said tentatively:
 
-"Mr. Bordman----"
+"Mr. Bordman—"
 
 He turned, annoyed. Aletha said almost apologetically:
 
-"On Chagan there was a--you might call it a woman's coup given to a
+"On Chagan there was a—you might call it a woman's coup given to a
 woman I know. Her husband raises horses. He's mad about them. And they
-live in a sort of home on caterwheels out on the plains--the llanos.
+live in a sort of home on caterwheels out on the plains—the llanos.
 Sometimes they're months away from a settlement. And she loves ice cream
 and refrigeration isn't too simple. But she has a Doctorate in Human
 History. So she had her husband make an insulated tray on the roof of
@@ -1312,7 +1268,7 @@ Men looked at her. Her cousin said amusedly:
 
 "That should rate some sort of technical-coup feather!"
 
-"The Council gave her a brass pot--official," said Aletha. "Domestic
+"The Council gave her a brass pot—official," said Aletha. "Domestic
 science achievement." To Bordman she explained: "Her husband put a tray
 on the roof of their house, insulated from the heat of the house below.
 During the day there's an insulated cover on top of it, insulating it
@@ -1335,19 +1291,17 @@ almost cool when the sun rises. Why?"
 "Nights are cooler on all planets," said Bordman, "because every night
 the dark side radiates heat to empty space. There'd be frost everywhere
 every morning if the ground didn't store up heat during the day. If we
-prevent daytime heat-storage--cover a patch of ground before dawn and
-leave it covered all day--and uncover it all night while shielding it
-from warm winds---- We've got refrigeration! The night sky is empty
+prevent daytime heat-storage—cover a patch of ground before dawn and
+leave it covered all day—and uncover it all night while shielding it
+from warm winds— We've got refrigeration! The night sky is empty
 space itself! Two hundred and eighty below zero!"
-
-*       *       *       *       *
 
 There was a murmur. Then argument. The foremen of the Xosa II
 colony-preparation crew were strictly practical men, but they had the
 habit of knowing why some things were practical. One does not do modern
 steel construction in contempt of theory, nor handle modern mining tools
 without knowing why as well as how they work. This proposal sounded like
-something that was based on reason--that should work to some degree.
+something that was based on reason—that should work to some degree.
 But how well? Anybody could guess that it should cool something at least
 twice as much as the normal night temperature-drop. But somebody
 produced a slipstick and began to juggle it expertly. He astonishedly
@@ -1357,8 +1311,8 @@ discussion, in which Redfeather and Chuka were immediately included. By
 calculation, it astoundingly appeared that if the air on Xosa II was
 really as clear as the bright stars and deep day-sky color indicated,
 every second night a total drop of one hundred and eighty degrees
-temperature could be secured by radiation to interstellar space--if
-there were no convection-currents, and they could be prevented by----
+temperature could be secured by radiation to interstellar space—if
+there were no convection-currents, and they could be prevented by—
 
 It was the convection-current problem which broke the assembly into
 groups with different solutions. But it was Dr. Chuka who boomed at all
@@ -1366,7 +1320,7 @@ of them to try all three solutions and have them ready before daybreak,
 so the assembly left the hulk, still disputing enthusiastically. But
 somebody had recalled that there were dewponds in the one arid area on
 Timbuk, and somebody else remembered that irrigation on Delmos III was
-accomplished that same way. And they recalled how it was done----
+accomplished that same way. And they recalled how it was done—
 
 Voices went away in the ovenlike night outside. Bordman grimaced, and
 again said:
@@ -1396,25 +1350,25 @@ four thousand gallons of water a night?"
 "How do I know?" demanded Bordman. "What's the moisture-content of the
 air here, anyhow?" Then he said vexedly, "Tell me! Are you using
 heat-exchangers to help cool the air you pump into the buildings, before
-you use power to refrigerate it? It would save some power----"
+you use power to refrigerate it? It would save some power—"
 
 The Indian project engineer said absorbedly:
 
-"Let's get to work on this! I'm a steel man myself, but----"
+"Let's get to work on this! I'm a steel man myself, but—"
 
 They settled down. Aletha turned a page.
 
-The _Warlock_ spun around the planet. The members of its crew withdrew
+The Warlock spun around the planet. The members of its crew withdrew
 into themselves. In even two months of routine tedious voyaging to this
 planet, there had been the beginnings of irritation with the mannerisms
 of other men. Now there would be years of it. At the beginning, every
 man tended to become a hermit so that he could postpone as long as
 possible the time when he would hate his shipmates. Monotony was already
 so familiar that its continuance was a foreknown evil. The crew of the
-_Warlock_ already knew how intolerable they would presently be to each
+Warlock already knew how intolerable they would presently be to each
 other, and the foreknowledge tended to make them intolerable now.
 
-Within two days of its establishment in orbit, the _Warlock_ was manned
+Within two days of its establishment in orbit, the Warlock was manned
 by men already morbidly resentful of fate; with the psychology of
 prisoners doomed to close confinement for an indeterminate but ghastly
 period. On the third day there was a second fist fight. A bitter one.
@@ -1422,15 +1376,13 @@ period. On the third day there was a second fist fight. A bitter one.
 Fist fights are not healthy symptoms in a spaceship which cannot hope to
 make port for a matter of years.
 
-*       *       *       *       *
-
 Most human problems are circular and fall apart when a single trivial
 part of them is solved. There used to be enmity between races because
 they were different, and they tended to be different because they were
-enemies, so there was enmity--The big problem of interstellar flight was
+enemies, so there was enmity—The big problem of interstellar flight was
 that nothing could travel faster than light, and nothing could travel
 faster than light because mass increased with speed, and mass increased
-with speed--obviously!--because ships remained in the same time-slot,
+with speed—obviously!—because ships remained in the same time-slot,
 and ships remained in the same time-slot long after a one-second shift
 was possible because nobody realized that it meant traveling faster than
 light. And even before there was interstellar travel, there was
@@ -1442,12 +1394,12 @@ ground for landing. And then interplanetary ships carried cargoes. And
 on Xosa II there was an emergency because a sandstorm had buried the
 almost completed landing grid under some megatons of sand, and it
 couldn't be completed because there was only storage power because it
-wasn't completed, because there was only storage power because----
+wasn't completed, because there was only storage power because—
 
 But it took three weeks for the problem to be seen as the ultimately
 simple thing it really was. Bordman had called it a circular problem,
-but he hadn't seen its true circularity. It was actually--like all
-circular problems--inherently an unstable set of conditions. It began to
+but he hadn't seen its true circularity. It was actually—like all
+circular problems—inherently an unstable set of conditions. It began to
 fall apart when he saw that mere refrigeration would break its solidity.
 
 In one week there were ten acres of desert covered with
@@ -1461,13 +1413,11 @@ conduction of heat downward by eddy currents, while there was admirable
 radiation of heat out to space. And this was in the manner of the night
 sides of all planets, only somewhat more efficient.
 
-*       *       *       *       *
-
 In two weeks there was a water yield of three thousand gallons per
 night, and in three weeks more there were similar grids over the colony
 houses and a vast roofed cooling-shed for pre-chilling of air to be used
-by the refrigeration systems themselves. The fuel-store--stored
-power--was thereupon stretched to three times its former calculated
+by the refrigeration systems themselves. The fuel-store—stored
+power—was thereupon stretched to three times its former calculated
 usefulness. The situation was no longer a simple and neat equation of
 despair.
 
@@ -1477,13 +1427,13 @@ silicone wool to smelt it. And Dr. Chuka saw him. And after one blank
 moment he bellowed laughter and went to see Ralph Redfeather. Whereupon
 Amerind steel-workers sawed apart a robot hull that was no longer a fuel
 tank because its fuel was gone, and they built a demountable solar
-mirror some sixty feet across--which African mechanics deftly
-powered--and suddenly there was a spot of incandescence even brighter
+mirror some sixty feet across—which African mechanics deftly
+powered—and suddenly there was a spot of incandescence even brighter
 than the sun of Xosa II, down on the planet's surface. It played upon a
 mineral cliff, and monstrous smells developed and even the African
 mining-technicians put on goggles because of the brightness, and
-presently there were threads of molten metal and slag trickling--and
-separating as they trickled--hesitantly down the cliff-side.
+presently there were threads of molten metal and slag trickling—and
+separating as they trickled—hesitantly down the cliff-side.
 
 And Dr. Chuka beamed and slapped his sweating thighs, and Bordman went
 out in a caterwheel truck, wearing a heat-suit, to watch it for all of
@@ -1491,11 +1441,11 @@ twenty minutes. When he got back to the Project Engineer's office he
 gulped iced salt water and dug out the books he'd brought down from the
 ship. There was the specbook for Xosa II, and there were the other
 volumes of definitions issued by the Colonial Survey. They were
-definitions of the exact meanings of terms used in briefer
+definitions of the ex
+
+eanings of terms used in briefer
 specifications, for items of equipment sometimes ordered by the Colony
 Office.
-
-*       *       *       *       *
 
 When Chuka came into the office, presently, he carried the first crude
 pig of Xosa II iron in his gloved hand. He gloated. Bordman was then
@@ -1507,7 +1457,7 @@ properties on Xosa II are prepared as of today to deliver pig iron,
 cobalt, zirconium and beryllium in commercial quantities! We require one
 day's notice to begin delivery of metal other than iron at the moment,
 because we're short of equipment, but we can furnish chromium and
-manganese on two days' notice--the deposits are farther away."
+manganese on two days' notice—the deposits are farther away."
 
 He dumped the pig of metal on the second desk, where Aletha sat with her
 perpetual loose-leafed volumes before her. The metal smoked and began to
@@ -1516,7 +1466,7 @@ hand to the other.
 
 "There y'are, Ralph!" he boasted. "You Indians go after your coups!
 Match this coup for me! Without fuel and minus all equipment except of
-our own making--I credit an assist on the mirror, but that's all--we're
+our own making—I credit an assist on the mirror, but that's all—we're
 set to load the first ship that comes in for cargo! Now what are you
 going to do for the record? I think we've wiped your eye for you!"
 
@@ -1553,7 +1503,7 @@ Chuka ceased his boasting, but still he grinned.
 "I know we're stuck, Ralph," he said amiably, "but it's nice stuff to
 go in the records. Too bad we don't keep coup-records like you Indians!"
 
-Aletha's cousin--Project Engineer--said crisply:
+Aletha's cousin—Project Engineer—said crisply:
 
 "Go away! Who made your solar mirror? It was more than an assist! You
 get set to cast beams for us! Girders! I'm going to get a lifeboat aloft
@@ -1588,14 +1538,14 @@ Ralph Redfeather said dryly, without ceasing his feverish work:
 
 "Nonsense, Aletha. He has courage. I give him that. But he couldn't walk
 a beam twelve hundred feet up. In his own way, yes. He's capable. But
-the best man----"
+the best man—"
 
 "I'm sure," agreed Aletha, "that he couldn't sing as well as the worst
 of your singing crew, Dr. Chuka, and any Amerind could outrun him. Even
 I could! But he's got something we haven't got, just as we have
 qualities he hasn't. We're secure in our competences. We know what we
-can do, and that we can do it better than any--" her eyes
-twinkled--"paleface. But he doubts himself. All the time and in every
+can do, and that we can do it better than any—" her eyes
+twinkled—"paleface. But he doubts himself. All the time and in every
 way. And that's why he may be the best man on this planet! I'll bet he
 does prove it!"
 
@@ -1605,7 +1555,7 @@ Redfeather said scornfully:
 applied it?"
 
 "That," said Aletha, "he couldn't face the disaster that was here
-without trying to do something about it--even when it was impossible. He
+without trying to do something about it—even when it was impossible. He
 couldn't face the deadly facts. He had to torment himself by seeing that
 they wouldn't be deadly if only this one or that or the other were
 twisted a little. His vanity was hurt because nature had beaten men. His
@@ -1616,45 +1566,43 @@ Chuka raised his ebony bulk from the chair in which he still shifted the
 iron pig from gloved hand to gloved hand.
 
 "You're kind," he said, chuckling. "Too kind! I don't want to hurt his
-feelings. I wouldn't, for the world! But really ... I've never heard a
+feelings. I wouldn't, for the world! But really... I've never heard a
 man praised for his vanity before, or admired for being touchy about his
-dignity! If you're right ... why ... it's been convenient. It might even
-mean hope. But ... hm-m-m---- Would you want to marry a man like that?"
+dignity! If you're right... why... it's been convenient. It might even
+mean hope. But... hm-m-m— Would you want to marry a man like that?"
 
 "Great Manitou forbid!" said Aletha firmly. She grimaced at the bare
 idea. "I'm an Amerind. I'll want my husband to be contented. I want to
 be contented along with him. Mr. Bordman will never be either happy or
 content. No paleface husband for me! But I don't think he's through here
 yet. Sending for help won't satisfy him. It's a further hurt to his
-vanity. He'll be miserable if he doesn't prove himself--to himself--a
+vanity. He'll be miserable if he doesn't prove himself—to himself—a
 better man than that!"
 
 Chuka shrugged his massive shoulders. Redfeather tracked down the last
 item he needed and fairly bounced to his feet.
 
 "What tonnage of iron can you get out, Chuka?" he demanded. "What can
-you do in the way of castings? What's the elastic modulus--how much
+you do in the way of castings? What's the elastic modulus—how much
 carbon in this iron? And when can you start making castings? Big ones?"
 
 "Let's go talk to my foremen," said Chuka complacently. "We'll see how
-fast my ... ah ... mineral spring is trickling metal down the
+fast my... ah... mineral spring is trickling metal down the
 cliff-face. If you can really launch a lifeboat, we might get some help
-here in a year and a half instead of five----"
-
-*       *       *       *       *
+here in a year and a half instead of five—"
 
 They went out-of-doors together. There was a small sound in the next
 office. Aletha was suddenly very, very still. She sat motionless for a
 long half-minute. Then she turned her head.
 
 "I owe you an apology, Mr. Bordman," she said ruefully. "It won't take
-back the discourtesy, but--I'm very sorry."
+back the discourtesy, but—I'm very sorry."
 
 Bordman came into the office from the next room. He was rather pale. He
 said wryly:
 
 "Eavesdroppers never hear good of themselves, eh? Actually I was on the
-way in here when I heard--references to myself it would embarrass Chuka
+way in here when I heard—references to myself it would embarrass Chuka
 and your cousin to know I heard. So I stopped. Not to listen, but to
 keep them from knowing I'd heard their private opinions of me. I'll be
 obliged if you don't tell them. They're entitled to their opinions of
@@ -1663,7 +1611,7 @@ of them than they do of me!"
 
 Aletha said contritely:
 
-"It must have sounded horrible! But they ... we ... all of us think
+"It must have sounded horrible! But they... we... all of us think
 better of you than you do of yourself!"
 
 Bordman shrugged.
@@ -1672,11 +1620,10 @@ Bordman shrugged.
 no!'"
 
 "For an excellent reason," said Aletha firmly. "When I get back from
-here--_if_ I get back from here--I'm going to marry Bob Running
+here—if I get back from here—I'm going to marry Bob Running
 Antelope. He's nice. I like the idea of marrying him. I want to! But I
 look forward not only to happiness but to contentment. To me that's
-important. It isn't to you, or to the woman you ought to marry. And I
-... well ... I simply don't envy either of you a bit!"
+important. It isn't to you, or to the woman you ought to marry. And I... well... I simply don't envy either of you a bit!"
 
 "I see," said Bordman with irony. He didn't. "I wish you all the
 contentment you look for." Then he snapped: "But what's this business
@@ -1696,7 +1643,7 @@ Aletha stood up and shrugged her shoulders ruefully.
 
 "I repeat my apology," she told him, "and leave you the office. But I
 also repeat that I think you'll turn up something nobody else
-expects--and I've no idea what it will be. But you'll do it now to
+expects—and I've no idea what it will be. But you'll do it now to
 prove that I'm wrong about how your mind works."
 
 She went out. Bordman clamped his jaws tightly. He felt that especially
@@ -1711,7 +1658,7 @@ need, anyhow?"
 
 Scowling, he stared at the wall. It was irritating. It was a nagging
 sort of question. What would he do if she were right? If he did need
-constantly to prove to himself----
+constantly to prove to himself—
 
 He stiffened, suddenly. A look of intense surprise came upon his face.
 He'd thought of what a self-doubtful, discontented man would try to do,
@@ -1719,9 +1666,7 @@ here on Xosa II at this juncture.
 
 The surprise was because he had also thought of how it could be done.
 
-*       *       *       *       *
-
-The _Warlock_ came to life. Her skipper gloomily answered the emergency
+The Warlock came to life. Her skipper gloomily answered the emergency
 call from Xosa II. He listened. He clicked off the communicator and
 hastened to an exterior port, deeply darkened against those times when
 the blue-white sun of Xosa shone upon this side of the hull. He moved
@@ -1731,19 +1676,19 @@ away. He searched for the spot he bitterly knew was the colony's site.
 
 He saw what he'd been told he'd see. It was an infinitely fine,
 threadlike projection from the surface of the planet. It rose at a
-slight angle--it leaned toward the planet's west--and it expanded and
+slight angle—it leaned toward the planet's west—and it expanded and
 widened and formed an extraordinary sort of mushroom-shaped object that
 was completely impossible. It could not be. Humans do not create visible
 objects twenty miles high, which at their tops expand like toadstools on
 excessively slender stalks, and which drift westward and fray and grow
 thin, and are constantly renewed.
 
-But it was true. The skipper of the _Warlock_ gazed until he was
+But it was true. The skipper of the Warlock gazed until he was
 completely sure. It was no atomic bomb, because it continued to exist.
 It faded, but was constantly replenished. There was no such thing!
 
 He went through the ship, bellowing, and faced mutinous snarlings. But
-when the _Warlock_ was around on that side of the planet again, the
+when the Warlock was around on that side of the planet again, the
 members of the crew saw the strange appearance, too. They examined it
 with telescopes. They grew hysterically happy. They went frantically to
 work to clear away the signs of a month and a half of mutiny and
@@ -1759,8 +1704,6 @@ Then the crew began to experience frantic impatience. It was worse,
 waiting those last three or four days, than even all the hopeless time
 before. But there was no reason to hate anybody, now. The skipper was
 very much relieved.
-
-*       *       *       *       *
 
 There was eighteen hundred feet of steel grid overhead. It made a
 crisscross, ring-shaped wall more than a quarter-mile high and almost to
@@ -1791,7 +1734,7 @@ ride.
 "I'm all right," said Bordman curtly. "I'm quite comfortable, so long as
 you feed me that expanded air." It was plain that he resented needing
 even a special air supply. "What's all this about? Bringing the
-_Warlock_ in? Why the insistence on my being here?"
+Warlock in? Why the insistence on my being here?"
 
 "Ralph has a problem," said Chuka blandly. "He's up there. See? He needs
 you. There's a hoist. You've got to check degree-of-completion anyhow.
@@ -1806,7 +1749,7 @@ nearly a year ago. He would be dizzy at first.
 
 He accompanied Chuka to the spot where a steel cable dangled from an
 almost invisibly thin beam high above. There was a strictly improvised
-cage to ascend in--planks and a handrail forming an insecure platform
+cage to ascend in—planks and a handrail forming an insecure platform
 that might hold four people. He got into it, and Dr. Chuka got in beside
 him. Chuka waved his hand. The cage started up.
 
@@ -1821,23 +1764,21 @@ to the hardly more solid-seeming area. Here he was in mid-air on a
 platform barely ten feet square. It was rather more than twice the
 height of a metropolitan skyscraper from the ground. There were actual
 mountain-crests only half a mile away and not much higher. Bordman was
-acutely uncomfortable. He would get used to it, but----
-
-*       *       *       *       *
+acutely uncomfortable. He would get used to it, but—
 
 "Well?" he asked fretfully. "Chuka said you needed me here. What's the
 matter?"
 
 Ralph Redfeather nodded very formally. Aletha was here, too, and two of
-Chuka's foremen--one did not look happy--and four of the Amerind
+Chuka's foremen—one did not look happy—and four of the Amerind
 steel-workers. They grinned at Bordman.
 
 "I wanted you to see," said Aletha's cousin, "before we threw on the
 current. It doesn't look like that little grid could handle the sand it
 took care of. But Lewanika wants to report."
 
-A dark man who worked under Chuka--and looked as if he belonged on solid
-ground--said carefully:
+A dark man who worked under Chuka—and looked as if he belonged on solid
+ground—said carefully:
 
 "We cast the beams for the small landing grid, Mr. Bordman. We melted
 the metal out of the cliffs and ran it into molds as it flowed down."
@@ -1892,7 +1833,7 @@ sand and to let it tap the ionosphere. We were able to use a good many
 times the power the little grid could apply to sand-lifting! In two days
 more the landing grid was clear. The valley bottom was clean. We shifted
 some hundreds of millions of tons of sand by landing grid, and now it is
-possible to land the _Warlock_, and receive her supplies, and the
+possible to land the Warlock, and receive her supplies, and the
 solar-power furnace is already turning out pigs for her loading. We
 wanted you to see what we have done. The colony is no longer in danger,
 and we shall have the grid completely finished for your inspection
@@ -1903,32 +1844,32 @@ Bordman said uncomfortably:
 "That's very good. It's excellent. I'll put it in my survey report."
 
 "But," said Ralph, more ceremonially still, "we have the right to count
-coup for the members of our tribe and clan. Now----"
+coup for the members of our tribe and clan. Now—"
 
 Then there was confusion. Aletha's cousin was saying syllables that did
 not mean anything at all. The other Indians joined in at intervals,
 speaking gibberish. Aletha's eyes were shining and she looked incredibly
 pleased and satisfied.
 
-"But what ... what's this?" demanded Bordman when they stopped.
+"But what... what's this?" demanded Bordman when they stopped.
 
 Aletha spoke proudly.
 
-"Ralph just formally adopted you into the tribe, Mr. Bordman--and into
+"Ralph just formally adopted you into the tribe, Mr. Bordman—and into
 his clan and mine! He gave you a name I'll have to write down for you,
-but it means, 'Man-who-believes-not-his-own-wisdom.' And now----"
+but it means, 'Man-who-believes-not-his-own-wisdom.' And now—"
 
-Ralph Redfeather--licensed interstellar engineer, graduate of the
+Ralph Redfeather—licensed interstellar engineer, graduate of the
 stiffest technical university in this quarter of the galaxy, wearer of
 three eagle-pinion feathers and clad in a pair of insulated sandals and
-a breechcloth--whipped out a small paint-pot and a brush from somewhere
+a breechcloth—whipped out a small paint-pot and a brush from somewhere
 and began carefully to paint on a section of girder ready for the next
 tier of steel. He painted a feather on the metal.
 
 "It's a coup," he told Bordman over his shoulder. "Your coup. Placed
-where it was earned--up here. Aletha is authorized to certify it. And
+where it was earned—up here. Aletha is authorized to certify it. And
 the head of the clan will add an eagle-feather to the headdress he wears
-in council in the Big Tepee on Algonka, and--your clan-brothers will be
+in council in the Big Tepee on Algonka, and—your clan-brothers will be
 proud!"
 
 Then he straightened up and held out his hand.
@@ -1936,10 +1877,10 @@ Then he straightened up and held out his hand.
 Chuka said benignly:
 
 "Being civilized men, Mr. Bordman, we Africans do not go in for
-uncivilized feathers. But we ... ah ... rather approve of you, too. And
-we plan a corroboree at the colony after the _Warlock_ is down, when
-there will be some excellently practiced singing. There is ... ah ... a
-song, a sort of choral calypso, about this ... ah ... adventure you have
+uncivilized feathers. But we... ah... rather approve of you, too. And
+we plan a corroboree at the colony after the Warlock is down, when
+there will be some excellently practiced singing. There is... ah... a
+song, a sort of choral calypso, about this... ah... adventure you have
 brought to so satisfying a conclusion. It is quite a good calypso. It's
 likely to be popular on a good many planets."
 
@@ -1951,4 +1892,4 @@ vibrant tone, instinct with limitless power. It was the
 eighteen-hundred-foot landing grid, giving off that profoundly bass and
 vibrant, note it uttered while operating. Bordman looked up.
 
-The _Warlock_ was coming down.
+The Warlock was coming down.

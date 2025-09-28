@@ -69,6 +69,12 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 # Test basic functionality
 python -c "from iterative_novel_trainer import IterativeTrainer; print('Installation successful!')"
 
+# Test tagging system
+python -c "from corpus_tagger import SimpleNovelTagger; print('Tagging system ready!')"
+
+# Test memory integration
+python -c "from episodic_memory_system import EpisodicMemorySystem; print('Memory system ready!')"
+
 # Run test suite
 python -m pytest tests/ -v
 ```
@@ -322,13 +328,16 @@ python -c "import torch; print(f'GPU name: {torch.cuda.get_device_name(0)}')"
 
 ```bash
 # Test basic import
-python -c "from iterative_novel_trainer import IterativeTrainer; print('✓ Core module imported')"
+python -c "from iterative_novel_trainer import IterativeTrainer; print('[OK] Core module imported')"
 
 # Test memory system
-python -c "from episodic_memory_system import EpisodicMemorySystem; print('✓ Memory system imported')"
+python -c "from episodic_memory_system import EpisodicMemorySystem; print('[OK] Memory system imported')"
 
-# Test pipeline
-python -c "from model_tea.core.pipeline import MLPipeline; print('✓ Pipeline imported')"
+# Test tagging system
+python -c "from corpus_tagger import SimpleNovelTagger; print('[OK] Tagging system imported')"
+
+# Test batch processing
+python -c "from batch_tag_novels import batch_tag_novels; print('[OK] Batch processing imported')"
 
 # List available novels
 python iterative_novel_trainer.py --list
@@ -358,6 +367,9 @@ python -m pytest tests/ --cov=. --cov-report=html
 ```bash
 # Quick training test
 python iterative_novel_trainer.py --novel alice_in_wonderland --iterations 2 --steps 1
+
+# Tagging system test
+python batch_tag_novels.py specific alice_in_wonderland call_of_cthulhu
 
 # Memory system test
 python -c "
@@ -449,7 +461,7 @@ config = IterativeConfig(
 ```python
 # Reduce memory usage
 config = IterativeConfig(
-    base_model="distilgpt2",  # Smaller model
+    base_model="gpt2",  # Smaller model
     max_seq_length=256,       # Shorter sequences
     batch_size=1,             # Smaller batches
     gradient_accumulation_steps=8  # Maintain effective batch size

@@ -1,9 +1,5 @@
-Title: Star Pirate
-
-Author: Frederic Arnold Kummer
-
 It was cold that night, I remember. Cold and clear as ice. And although
-Ceres has no moon ... it's hardly more than a satellite itself, ... the
+Ceres has no moon... it's hardly more than a satellite itself,... the
 starlight penetrated its thin, dustless atmosphere with surprising
 brilliance, throwing weird shadows across the icy plain.
 
@@ -40,7 +36,7 @@ busy trying to visualize earth, planning what I would do there when I
 arrived.
 
 About eleven o'clock, earth-time, however, I awoke with a start from
-my day-dreaming. A light ... a lurid flickering light ... was dancing
+my day-dreaming. A light... a lurid flickering light... was dancing
 through the big glassex window. I leaped to my feet, gripping the flame
 gun, and peered out. A sleek, silvery little space-ship was settling
 down on the plain outside!
@@ -50,8 +46,6 @@ uneasiness filled me. Vessels weren't accustomed to put in at the
 Cerean Mining field; especially swift little craft that were neither
 slovenly freighters nor stately liners. Gun in hand, I stepped to the
 door of the administration building.
-
-*       *       *       *       *
 
 The ship had landed as lightly as a snowflake on the barren plain,
 switched off her rockets. The air-lock clanged open and two bulky
@@ -63,14 +57,14 @@ the other, a slender earthman, his face hidden by the hood that
 protected him from the cold. I waited until they were within twenty
 feet of me, then raised the flame-gun.
 
-"Stop where you are!" I said curtly. "This is private property ... the
+"Stop where you are!" I said curtly. "This is private property... the
 property of the Cerean Mining Company. What do you want?"
 
 The earthman paused, studying me as I stood there in the light that
 streamed from the doorway.
 
 "So big," I heard him mutter as though to himself. "Who'd have thought
-it! Eleven years! It's passed quickly ... for some."
+it! Eleven years! It's passed quickly... for some."
 
 This didn't make much sense, but it wasn't the meaning of his words
 that struck me. It was his voice. There was something about the voice
@@ -100,8 +94,6 @@ a quick involuntary gasp. No mistaking those clean, sharp features,
 those frosty, sardonic eyes, that lined, thin mouth, lips twisted in an
 ironic smile! The man who stood there in the light that jetted from the
 doorway was my father!
-
-*       *       *       *       *
 
 It had been eleven years since I'd seen him, but he hadn't changed
 much, except that his black hair was gray at the temples. Apart from
@@ -148,13 +140,13 @@ of having a father who was a murderer, a thief, a fugitive in the solar
 system, wasn't pleasant. Better to think he'd died bravely, decently,
 on some far-flung world. And now, after eleven years...!
 
-"You remember me, then ... son?" My father laughed ironically; he
+"You remember me, then... son?" My father laughed ironically; he
 strode by me into the room, followed by the big Jovian. The latter, I
 noticed, carried several large cylinders on his back.
 
 I stood there undecided, confused, fumbling with the flame-gun. My
 father perched himself on the edge of the table, lit a slender,
-aromatic Martian cigarette, an _eyla_, the same kind he'd smoked in
+aromatic Martian cigarette, an eyla, the same kind he'd smoked in
 the past. Its fragrant, sharp aroma awoke memories of my childhood.
 Suddenly he spoke.
 
@@ -167,7 +159,7 @@ worked out."
 in time, then. And from the close watch you were keeping, I'd say the
 palladium was still here." For a long moment he eyed me, studying my
 face. "Healthy, and as sanctimonious as John, from the looks of you.
-Taon" ... he turned to the big silent Jovian ... "his gun!"
+Taon"... he turned to the big silent Jovian... "his gun!"
 
 Before I realized what had happened, the Jovian had snatched the
 flame-gun from my grasp.
@@ -178,16 +170,14 @@ people are unaccustomed to yield to reason. It's for your own good, as
 well. Some years ago on Jupiter I saved Taon's life. If you were to
 commit an indiscretion, such as killing me, he would tear you to bits.
 A faithful fellow, Taon. And since I am about to force this safe, I
-felt that you might do something rash with that gun...."
-
-*       *       *       *       *
+felt that you might do something rash with that gun..."
 
 I stood there, speechless, as the huge Taon swung a double-cylindered
 oxy-hydrogen burner from his shoulders. He tinkered for a moment with
 first the hydrogen flash, then the oxygen one; a moment later a jet of
 cruel white flame bit into the big wall-safe.
 
-"Good Lord!" I whispered. "I've known all along that you were a thief,
+"Good Master!" I whispered. "I've known all along that you were a thief,
 a murderer, but with all the solar system to prey upon, why must you
 come back here! To rob your own brother-in-law, after he let you escape
 that night! And to make sure your son is known as the son of a common
@@ -199,30 +189,30 @@ bitter smile clung to his lips.
 "Very melodramatic," he applauded. "You inherit that, I think, from
 the other side of the family. John has the same flair for theatrics.
 I regret now that the business of obtaining a space-ship, of finding
-certain ... necessary persons ... took so long. Had I come sooner, I
+certain... necessary persons... took so long. Had I come sooner, I
 might have aided in your education." He turned to the big Jovian. "How
 goes it?"
 
-"Safe good steel," Taon grunted. "One ... two ... hour job."
+"Safe good steel," Taon grunted. "One... two... hour job."
 
-"No hurry." My father puffed lazily at his _eyla_, flicked a bit
+"No hurry." My father puffed lazily at his eyla, flicked a bit
 of ash from his coat sleeve. His gestures, his well chosen words,
 his carefully modulated voice, all indicated that he was playing
 the role of debonair, cosmopolitan man of the worlds. The perfect
-gentleman--even when engaged in cracking a safe! I hated him for
-it! This space-rover, thief, murderer ... my father! Better to see
+gentleman—even when engaged in cracking a safe! I hated him for
+it! This space-rover, thief, murderer... my father! Better to see
 him imprisoned at Verlis, than to have him at large, adding to the
 shame of our name. With one leap, I crossed the room, snapped on the
 micro-wave communications set.
 
-"Cerean Mining, calling Verlis!" I snapped. "Come...."
+"Cerean Mining, calling Verlis!" I snapped. "Come..."
 
 My father hardly seemed to move, but a pencil of blue flame from his
 gun leaped across the room, blasting the radio to bits.
 
 "All right, Taon." He motioned back the Jovian, who, like a great
 faithful mastiff had sprung to his side. "No need to worry." Wiping off
-the gun, he turned to me. "As for you, Steve, you show more spirit than
+the gun, he turned to me. "As for you, Steve, you show more specter than
 I had suspected. Although misdirected, since there was never a chance
 of contacting Verlis. However, I am going to pay you the compliment of
 putting you under lock and key while we complete our business here. In
@@ -235,10 +225,8 @@ one furious glance at my father; who was perched upon the edge of the
 table, swinging one foot, humming placidly. For just an instant as he
 felt my gaze upon him, he paused in his humming, a peculiar expression
 upon his face. Then Taon carried me into the next room, pushed me into
-the closet, slid the loose, rattling bolt. I was a prisoner--a prisoner
+the closet, slid the loose, rattling bolt. I was a prisoner—a prisoner
 of my own father!
-
-*       *       *       *       *
 
 For my first few minutes in the closet, my mind was a skein of tangled
 thoughts. The past that I had believed securely buried, returned to
@@ -252,7 +240,7 @@ out, and my chances of finding a job, a decent place in society, would
 be wrecked when the solar system learned that I was the son of the
 notorious Vance McClean. And Uncle John, who had been like a father
 to me since that night of Conroy's murder, would be rendered penniless
-after fifteen years' work! Unless I could escape, summon help....
+after fifteen years' work! Unless I could escape, summon help...
 
 The closet was roomy and had a light. Not one of the new astra-lux
 arcs, but an old-fashioned electric bulb hanging from the ceiling. We
@@ -275,7 +263,7 @@ Then suddenly the idea struck me. A wild idea, true, but one which, if
 it succeeded, would enable me to draw the bolt quietly. I turned to the
 rear of the closet, and began working back and forth one of the nails
 upon which over-suits were hung. After some difficulty, it came loose.
-My next task was more difficult ... stripping the wire from one of the
+My next task was more difficult... stripping the wire from one of the
 electrically heated suits. The point of the nail aided me in ripping
 open the tough asbestoid. At length I obtained fully ten feet of wire
 and commenced wrapping it about the nail. This done, I tore loose the
@@ -286,7 +274,7 @@ powerful enough to be effective through the thin, tough plastic door?
 
 I paused, listening. The sound of the torch would cover the noise of
 drawing the bolt. And if I could escape unobserved, climb through one
-of the windows.... Holding my magnet against the door jamb, I moved it
+of the windows... Holding my magnet against the door jamb, I moved it
 slowly to one side. A faint squeak seemed to indicate that the bolt
 had moved. I repeated the operation again, and again, drawing the bolt
 a fraction of an inch each time. The little magnet, separated from
@@ -310,8 +298,6 @@ slid the bolt again to make it appear that I was still a prisoner. On
 tiptoe I approached a window, raised it. Still no sound other than the
 hiss of the torch. I swung down to the ground, closed the window behind
 me, and ran toward the sleek silvery little space-ship.
-
-*       *       *       *       *
 
 The ice-covered plain was bitter cold; I had neglected to put on one
 of the asbestoid over-suits. The deserted huts, the head of the mine
@@ -364,9 +350,9 @@ called their letters. The voice of the operator there answered me.
 the mike. "My uncle, John Gibson, is in Verlis. He'll be either at
 the hotel or the space-port, making arrangements for the transport of
 his palladium to earth. Send someone to find him at once! It's vital!
-Tell him" ... I hesitated a moment, wondering whether to mention the
-robbery and bring in the I.P. patrolmen. But it might be possible to
-stop my father's evil work without disgracing our name ... "tell him,"
+Tell him"... I hesitated a moment, wondering whether to mention the
+robbery and bring in the I. P. patrolmen. But it might be possible to
+stop my father's evil work without disgracing our name... "tell him,"
 I went on, "that Vance McClean is here, that he'd better round up a few
 men and return as quickly as possible! Got it? As quickly as possible!
 It's urgent!"
@@ -378,7 +364,7 @@ message to me.
 
 "Anything wrong?" the operator asked.
 
-"Only a ... family affair," I said, and snapped off the set.
+"Only a... family affair," I said, and snapped off the set.
 
 The message sent, my nerves lost some of their tension. Uncle John had
 gone to Verlis in his big rocket-sled. With its exhausts opened full,
@@ -392,23 +378,21 @@ glare of the oxy-hydrogen torch. An hour was necessary to cut through
 the steel doors of the safe, Taon had said. But the hour must be
 nearly up. I had to make sure that they didn't get away before Uncle
 John arrived. But how? At that moment my glance fell on the intricate
-control panel. If that were smashed....
+control panel. If that were smashed...
 
 My eyes swept the crowded control room, fell upon a heavy metal stool,
 drawn up at the navigator's table. I seized it, swung it high above my
 head. Thrown into the panel, it was sure to wreck the array of delicate
 instruments. And with them smashed, the ship would be grounded here
 indefinitely. My muscles tensed as I prepared to heave the stool into
-the fragile mass of wire and glass tubing. Another moment and....
+the fragile mass of wire and glass tubing. Another moment and...
 
 "Don't throw that chair!" A clear, firm feminine voice came from the
 doorway behind me. "Set it gently on the floor! Any tricks and I'll
 shoot!"
 
-*       *       *       *       *
-
 For just a moment I hesitated, the stool held high over my head. A
-woman ... here! Then I felt the muzzle of a gun dig into my back, and I
+woman... here! Then I felt the muzzle of a gun dig into my back, and I
 knew that whoever the woman was, she meant business. I set the stool
 carefully on the floor, turned, hands raised, to face my captor.
 
@@ -455,7 +439,7 @@ administration building. The blue-white light no longer streamed from
 the window. Which meant only one thing. The great wall-safe had been
 forced! A million in palladium, Uncle John's life savings, were at my
 father's disposal! Unless that rocket-sled broke all records returning
-from Verlis....
+from Verlis...
 
 "Hurry up!" the girl behind me said through chattering teeth. "I'm
 freezing!"
@@ -466,13 +450,11 @@ sprawled like grotesque monsters on the pale ice. At length we reached
 the low crystalloid building; the girl's gun digging into my back, I
 opened the door, entered.
 
-*       *       *       *       *
-
 The room was a scene of desolation. To one side of the safe stood the
 twin-cylindered blow torch, shut off, now that its work of destruction
 was done. The huge door of the safe, its lock melted away, the edges
 of the hole glowing cherry-red, gaped wide, revealing stacks of small,
-steel-white ingots. Palladium ... a million dollars' worth! Taon, the
+steel-white ingots. Palladium... a million dollars' worth! Taon, the
 big silent Jovian, was busy taking the bars of precious metal from the
 safe, grunting with satisfaction as he stacked the ingots on the floor.
 My father, as we entered, had just taken a small, leather-bound book
@@ -497,24 +479,24 @@ an air of satisfaction.
 He radioed John Gibson at Verlis to return at once! He put the call
 through before I knew he was on the ship!"
 
-For a long minute my father remained silent, puffing at his eternal
-Martian _eyla_ studying the greenish clouds of smoke as though the
+For a long minute my father remained silent, puffing at his endless
+Martian eyla studying the greenish clouds of smoke as though the
 future lay revealed in their swirling tendrils. The girl bit her lip
 impatiently, glanced nervously toward the door. Taon stood motionless,
 his broad, ugly face stolid, awaiting orders.
 
 "I must confess," my father said at length, "that matters haven't
 turned out just as I had expected. I had intended to take the
-palladium ... and my loving son, here ... aboard the ship, make a quick
+palladium... and my loving son, here... aboard the ship, make a quick
 getaway. Now, thanks to that message to Verlis, I am known to be the
-person responsible for the ... ah ... robbery, and will be pursued by
-the I.P. men. Moreover, there is another matter" ... his glance fell
-upon the leather-bound book he had taken from the safe ... "that has
+person responsible for the... ah... robbery, and will be pursued by
+the I. P. men. Moreover, there is another matter"... his glance fell
+upon the leather-bound book he had taken from the safe... "that has
 caused me unexpectedly to change my plans. I think it is wiser all
 around for us to remain here."
 
 "But you can't!" the girl cried. "It's madness! He can have you
-arrested for murder! My father's...."
+arrested for murder! My father's..."
 
 I never heard the rest of what she was going to say. The staccato roar
 of rockets, the grinding of steel brakes biting into ice, drowned
@@ -547,12 +529,12 @@ citizen!" He surged to his feet, leaned across the desk; for the
 second time that night his cold, mocking mask dropped, revealing the
 man beneath. Eyes like glowing coals, face etched in savage lines, he
 stared at my uncle. "I've thought of you a great deal these eleven
-years! In the radium fields of that hell-planet Mercury, hunting gold
+years! In the radium fields of that shadow realm-planet Mercury, hunting gold
 in the stinking Venusian jungles, prospecting the dusty, choking
 deserts of Mars! And there was one thing that kept me going! The
 thought of this minute! A year ago I'd scraped together enough to
 buy the little space-yacht outside. Then I had to go to Terra, find
-Clare...." He motioned toward the girl.
+Clare..." He motioned toward the girl.
 
 Uncle John swung about, noticing the girl for the first time as she
 stepped from the shadows. His face took on a drawn, tight look.
@@ -564,12 +546,10 @@ of the late Carl Conroy."
 
 "Daughter of...! But I didn't know he had a daughter! Why is she here?"
 Uncle John whirled about. "What deviltry is this? You, the murderer of
-her father, kidnaping the daughter...."
+her father, kidnaping the daughter..."
 
 "Not kidnaping, Mr. Gibson," Clare said quietly. "I came of my own free
 will."
-
-*       *       *       *       *
 
 I gasped. This girl, Conroy's daughter! And she'd come with the man
 who had killed her father, to the scene of the crime, was aiding him
@@ -577,9 +557,9 @@ in stealing the palladium. I felt as though I were living some mad
 nightmare.
 
 My father, on the other hand, seemed to be enjoying himself hugely. He
-stumped out his _eyla_, smiled ironically across the desk.
+stumped out his eyla, smiled ironically across the desk.
 
-"You see," he said, "Clare has faith in me. She believes that after her
+"You see," he said, "Clare has conviction in me. She believes that after her
 father's death, and my own foolish flight, the partnership agreements
 were destroyed, leaving you, John, sole possessor of Cerean Mining.
 You didn't know Conroy had a daughter on earth. I was a fugitive who'd
@@ -588,7 +568,7 @@ arrangement, and wouldn't have contested if he had. Thus Cerean Mining
 was yours."
 
 "You're accusing me of robbery?" Uncle John roared, the veins of his
-temple standing out. "You ... a murderer, a thief! Good Lord! You
+ancient hall standing out. "You... a murderer, a thief! Good Master! You
 accuse me when I arrive to find you committing burglary!" He pointed
 to the blasted safe door.
 
@@ -615,14 +595,14 @@ held him back as one would hold a child.
 My father, who had not even blinked, flipped through the pages of the
 little black book.
 
-"It _was_ clever, John," he said serenely. "Very subtle. You heard me
+"It was clever, John," he said serenely. "Very subtle. You heard me
 coming, that night, rayed Conroy, ran outside. I entered, knelt at his
 side. It was then, dying, that he told me of his daughter on earth. A
 moment later you entered, caught me supposedly red-handed. Stephen,
 on the stairs above, saw me kneeling beside Conroy, saw you enter.
 Even so, I might have had a chance in court if I hadn't lost my head,
 run away. Naturally you hushed the matter up, 'for the honor of the
-family.' You didn't want an I.P. patrol investigating the crime. The
+family.' You didn't want an I. P. patrol investigating the crime. The
 mine was in your control and you won Stephen over by not prosecuting
 me. It might have been wiser if you had. However, I also believe in
 the honor of the family. Clare and I have no wish to see you in the
@@ -667,20 +647,18 @@ earth with me!"
 "So far as Ceres knows, you will have left aboard the yacht with me. So
 far as Terra will know, you four contracted space-fever and were buried
 in the void. All heirs, claimants, to the palladium gone, leaving me
-sole owner. As for this diary" ... he tossed the book onto the floor,
+sole owner. As for this diary"... he tossed the book onto the floor,
 blasted it to ashes with a beam from his flame-gun. "And now," he went
 on calmly, "my men will take the four of you outside, dispose of you.
 Buried under a few feet of ice, your bodies will certainly never be
 found."
-
-*       *       *       *       *
 
 Clare's hand fluttered to her throat. I stood there stupidly, gaping.
 My whole life seemed to be whirling like a pin-wheel. This cold killer,
 my Uncle John! My Uncle John whom I had trusted, who had been a father
 to me these eleven years! I felt that I should say something, do
 something heroic, but I could only stare. The six space-rats, their
-guns ready.... Clare's pallid face ... Taon, standing there like a
+guns ready... Clare's pallid face... Taon, standing there like a
 colossal robot. All at once my father's voice broke the brittle silence.
 
 "Come, come, John!" he said dryly. "You're being melodramatic now. Such
@@ -717,13 +695,13 @@ of rock, on the edge of the landing field, the half-breed paused.
 They placed us with our backs to the rock, retreated several paces,
 flame-guns ready. I shot a furious look at my father. Was he going
 to see us all butchered by the energy blasts without so much as a
-struggle? Better to go down fighting than this. And Clare ... so young,
-lovely.... I was just flexing my muscles for a desperate leap when my
+struggle? Better to go down fighting than this. And Clare... so young,
+lovely... I was just flexing my muscles for a desperate leap when my
 father spoke.
 
 "Gentlemen," he said, "it would be to your credit to permit at least
 one of us to die happy. Now it so happens that I am addicted to the use
-of the Martian _eyla_. It is, I find, far superior to terrestial tobacco,
+of the Martian eyla. It is, I find, far superior to terrestial tobacco,
 having a cheering effect not unlike benzedrine. If you would permit me
 to enjoy one last smoke of it, I would find my transition to another
 and, I hope, better world infinitely more pleasant."
@@ -732,7 +710,7 @@ The half-breed glanced questioningly at his companions, then at the
 little administration building across the plain.
 
 "Come," my father said pleasantly. "Surely you won't refuse a man's
-last wish. It takes only eight minutes to smoke an _eyla_ tube. And at
+last wish. It takes only eight minutes to smoke an eyla tube. And at
 the first sign of any trickery, you can shoot."
 
 The half-breed shrugged. "Okay," he grunted.
@@ -741,7 +719,7 @@ With elaborate care my father drew one of the slim, greenish tubes from
 his pocket, lit it.
 
 Quickly the minutes slipped by. The half-breed stamped his feet against
-the cold, glanced at the _eyla_. Only a tiny stump remained in my
+the cold, glanced at the eyla. Only a tiny stump remained in my
 father's fingers.
 
 "All right," the Venusian growled. "Let's get this over with!"
@@ -749,14 +727,12 @@ father's fingers.
 "As you wish," my father said cheerfully. He took a last puff of the
 tube, tossed it onto the ice, ground it out with his foot. One long
 glance he shot toward the lights of the administration building,
-shining through the gloom, then straightened up. "And now--" he
+shining through the gloom, then straightened up. "And now—" he
 murmured.
 
 Six flame-guns swung up to face us. Taon, betraying his first signs of
 emotion, gazed anxiously at my father. The latter's face was tense,
-anxious. In another moment....
-
-*       *       *       *       *
+anxious. In another moment...
 
 And then it happened. A blasting, thundering roar echoed across the
 plain! Dazed, I saw the windows of the administration building give
@@ -799,11 +775,11 @@ child. Let's go back to the house."
 As soon as our prisoners were disarmed and bound, we returned to the
 administration building. It was wrecked by the explosion. Doors and
 windows blown out, walls blackened. Inside, it was even worse. Chairs,
-desks, splintered, the floor littered with d  bris--and Uncle John, a
+desks, splintered, the floor littered with d bris—and Uncle John, a
 charred and terrible figure, sprawled before the safe, one hand still
 clutching an ingot of palladium.
 
-"What ... what was it?" I whispered. "What caused the explosion?"
+"What... what was it?" I whispered. "What caused the explosion?"
 
 "Hydrogen," my father said gravely. "As I stood there with my hands
 behind my back, I opened the hydrogen valve of that oxy-hydrogen blow
@@ -816,7 +792,7 @@ oxygen already present. A gas explosion, and a powerful one."
 "And you've been working at these mines all these years?" he cried.
 "Don't you know that certain metals like platinum, or palladium, act as
 a catalyst? The gases are absorbed on their surface, unite. And when
-hydrogen and oxygen unite...." He stooped, picked up one of the gray
+hydrogen and oxygen unite..." He stooped, picked up one of the gray
 ingots. "Here's what ignited that mixture! I knew I had only to stall
 until enough hydrogen had entered the room to create an explosion."
 He shrugged. "I suppose the play's ended. Now that John's gone, the
@@ -832,15 +808,15 @@ I stared at him. From that smiling mask his eyes were fastened upon me.
 "And you, sir?" I asked.
 
 "Me?" he seemed surprised. "I'll be taking Clare and her little fortune
-back to Terra. After that" ... he shrugged again. "It'd be of no
+back to Terra. After that"... he shrugged again. "It'd be of no
 interest to you, I'm sure. Taon, take half of these ingots and put them
 aboard the rocket-sled outside."
 
-"No!" I heard myself saying in a queer choked voice. "No! I ... I'm
-coming with you and Clare. If you'll have me ... Dad."
+"No!" I heard myself saying in a queer choked voice. "No! I... I'm
+coming with you and Clare. If you'll have me... Dad."
 
 For the third time that night my father's bitter mocking mask fell from
-him ... and this time for good.
+him... and this time for good.
 
 "Steve!" he murmured, putting an arm about my shoulders. "Steve!"
 

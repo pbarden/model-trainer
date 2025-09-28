@@ -1,19 +1,11 @@
-Title: The Treasure Hunt of the S-18
-
-Author: Graham M. Dean
-
-CHAPTER ONE
-
-The Man of Mystery
-
 The high pitched drone of a wasp engine sounded over the municipal
 field at Atkinson and Tim Murphy, famous flying reporter of the
-Atkinson _News_, poked a grease-smudged face out from behind the
+Atkinson News, poked a grease-smudged face out from behind the
 cowling of a trim biplane and squinted skyward. Against the brilliant
 sky of the late summer afternoon was the outline of one of the new high
 speed transports of the Red Arrow Transcontinental Air Express Company.
 
-The _Day Express_, Chicago to the west coast, was swinging around,
+The Day Express, Chicago to the west coast, was swinging around,
 preparatory to landing on the smooth, crushed-rock runway. Tim watched
 with appreciative eyes. The new transports, capable of winging their
 way from coast to coast at better than three miles a minute, always
@@ -47,7 +39,7 @@ of determination.
 "I'll get you a job on the Transcontinental any day you want one," he
 said. "Come over to my office and fill out the application blank."
 
-"That would mean leaving the _News_," said Tim. Then, as Hunter grinned
+"That would mean leaving the News," said Tim. Then, as Hunter grinned
 broadly, he added, "I guess the smell of printer's ink is stronger than
 the call of the skyways. I'm a reporter first and a flyer second."
 
@@ -92,7 +84,7 @@ Seven.' That's the chair he occupied on the trip out."
 
 Tim thanked the stewardess and hurried into Carl Hunter's office.
 
-"Who's the mysterious man who came in on the _Day Express_?"
+"Who's the mysterious man who came in on the Day Express?"
 
 "He's just as mysterious to me as he is to you," replied the field
 chief. "Why don't you ask him what it's all about? I've had a radio
@@ -110,7 +102,7 @@ must have been paid for the transport of the heavy bags by air.
 When "Mr. Seven" had made sure that his baggage was in proper order,
 Tim stepped up.
 
-"I'm Tim Murphy of the Atkinson _News_," he said. "Your face seems
+"I'm Tim Murphy of the Atkinson News," he said. "Your face seems
 vaguely familiar but I can't place your name. Since you are stopping
 here, I'd like very much to have a story."
 
@@ -129,11 +121,11 @@ persisted in his questioning.
 
 "I told you before that I wouldn't talk. You can fire away with
 questions all the rest of the afternoon and you'll get the same
-result--zero. Now if you'll be good enough to suggest your best hotel,
+result—zero. Now if you'll be good enough to suggest your best hotel,
 I'll be on my way up town."
 
 Tim named the city's leading hotel. "I'll be glad to take you there in
-one of the _News_' cars," he added.
+one of the News' cars," he added.
 
 "Thanks, but I'd have to parry too many of your questions."
 
@@ -160,11 +152,9 @@ him."
 Tim's hunches were notoriously right and just how correct this one was,
 even Tim would never have dared dream.
 
-CHAPTER TWO
-
 A Secret Service Case
 
-When Tim reached the _News_ office he found a note rolled into his
+When Tim reached the News office he found a note rolled into his
 typewriter asking him to see the managing editor. He crossed the large
 news room and knocked at the glass-panelled door which bore the printed
 words, "George Carson, Managing Editor."
@@ -173,18 +163,18 @@ words, "George Carson, Managing Editor."
 office. "You wanted to see me?"
 
 "Sit down, Tim," smiled the sandy-haired editor who guided the
-destinies of the _News_. He motioned toward a chair.
+destinies of the News. He motioned toward a chair.
 
 "I've had some correspondence with Ace McDowell of the High Flyers, a
 flying circus that is rated one of the best in the country. He wants to
-bring his show in here this week-end under the auspices of the _News_.
+bring his show in here this week-end under the auspices of the News.
 What do you think about it?"
 
 "I've never met Ace or any of his fliers," replied Tim, "but they have
 the reputation of putting on a good air show."
 
 "It struck me as rather a good idea," went on the managing editor. "We
-could give the show a lot of space in the _News_ and it would help
+could give the show a lot of space in the News and it would help
 popularize the airport. Some people are kicking about the taxes they
 have to pay to help support the field. Do you think you could arrange
 things with Carl Hunter so the show can come in Saturday afternoon and
@@ -201,7 +191,7 @@ they'll have to pay the field the usual percentage for taking up
 passengers."
 
 "I'll put that in the contract," promised Tim. "Keep this under your
-hat for I wouldn't want the _Advance_ to print the story of our own air
+hat for I wouldn't want the Advance to print the story of our own air
 show first."
 
 "I'll forget all about it until I read your story tomorrow," promised
@@ -229,7 +219,7 @@ would be on hand to see the stunt flying.
 
 "Get the Jupiter all tuned up?" asked someone behind him.
 
-Tim turned to face Ralph Graves, another _News_ reporter who had been
+Tim turned to face Ralph Graves, another News reporter who had been
 his flying companion on many an adventure. Two years before when news
 had been breaking fast on the skyways, Tim had trained Ralph in flying
 and the other reporter now held a transport license. They were bosom
@@ -249,13 +239,13 @@ Sunday afternoon."
 "Which means plenty of work for us," commented Ralph.
 
 "It will mean plenty of work but it will have everyone talking about
-the _News_ being alive and wide awake and that's what we want. The
-_Advance_ is slipping every day and some morning this fall I wouldn't
+the News being alive and wide awake and that's what we want. The
+Advance is slipping every day and some morning this fall I wouldn't
 be surprised if we wake up and find that our rival paper has folded up
 and, like the Arabs, silently stolen away."
 
 "That won't hurt my feelings a bit," said Ralph. "The fellows on the
-_Advance_ have made it mighty tough for us these last few months. They
+Advance have made it mighty tough for us these last few months. They
 lie, cheat and steal to get their stories and I've run into some actual
 bribery."
 
@@ -265,7 +255,7 @@ working for a paper and an editor that's clean from top to bottom."
 Returning to his desk, Tim rummaged through the drawers until he found
 an aviation magazine which contained an illustrated sketch of Ace
 McDowell and his flying circus. McDowell was short and swarthy with
-eyes that were a little too close together to suit Tim. But the _News_
+eyes that were a little too close together to suit Tim. But the News
 reporter knew that the head of the flying circus was a real flyer and
 would put on a good show. There was no sense in building up a prejudice
 just from a picture.
@@ -361,7 +351,7 @@ circus I'll be glad to have a little extra help. Look sharp now. Here
 comes our man."
 
 "Mr. Seven" was dressed in the same well-tailored suit he had worn when
-he stepped out of the _Day Express_ and into the life of the flying
+he stepped out of the Day Express and into the life of the flying
 reporter. He walked slowly from the dining room toward the elevators in
 full view of the sharp eyes of the newspapermen. They watched the
 elevator doors close and turned to pool the results.
@@ -383,7 +373,7 @@ said Tim, who felt that "Mr. Seven" had challenged his ability as a
 reporter.
 
 On leaving the hotel, they parted, the chief copy reader returning to
-his bachelor headquarters and Tim and Ralph going to the _News_
+his bachelor headquarters and Tim and Ralph going to the News
 building where they hauled out files of the paper and spread the
 heavily-bound books on their desks.
 
@@ -411,7 +401,7 @@ with close-cropped, iron-gray hair, piercing blue eyes and large,
 capable hands.
 
 "I'm looking for Tim Murphy and Ralph Graves, flying reporters of the
-_News_" he said.
+News" he said.
 
 "I'm Murphy," said Tim, "and my companion is Ralph Graves."
 
@@ -425,17 +415,13 @@ Tim took the engraved piece of pasteboard and read the following words:
 card hasn't given me any clue on what you're here for."
 
 "I understand the High Flyers and Ace McDowell are going to put on
-their air circus here Sunday under the auspices of the _News_."
+their air circus here Sunday under the auspices of the News."
 
 "That's correct, but no announcement has been made yet."
 
 "Then you're likely to have two stories for your paper next Monday, the
 actual story of the flying circus and the story of the arrest of Ace
 McDowell as the head of a notorious ring of dope smugglers."
-
-CHAPTER THREE
-
-The High Flyers
 
 The federal narcotic agent sat down on the edge of Tim's desk and
 smiled at the amazed expressions on the faces of the flying reporters.
@@ -448,7 +434,7 @@ customer but I think we've got all the evidence we need this time."
 
 "What a sensation this will make," whistled Ralph.
 
-Tim was thoughtful. "It's too bad the _News_ is sponsoring the
+Tim was thoughtful. "It's too bad the News is sponsoring the
 appearance of the High Flyers if their leader is to be arrested on a
 federal charge," he said.
 
@@ -457,7 +443,7 @@ federal charge," he said.
 you are now aware of McDowell's identity, you will go on and help a
 federal law enforcement agency to carry out its duty."
 
-"You're right on that point," agreed Tim. "I'm sure that the _News_
+"You're right on that point," agreed Tim. "I'm sure that the News
 will do all in its power to help you."
 
 "I'm wondering why you looked us up," said Ralph. "You could just as
@@ -551,7 +537,7 @@ light, and left the office. As Ralph had observed, things never came
 singly, and Tim felt a weight of apprehension settling on his shoulders.
 
 The next morning a board of strategy met in the office of the managing
-editor. Grouped around the table facing the heads of the _News_ were
+editor. Grouped around the table facing the heads of the News were
 the narcotics officer, Tim and Ralph.
 
 "Of course we'll help in every way possible," the managing editor
@@ -611,7 +597,7 @@ time.
 McDowell called to a flyer who was squirming out of coveralls.
 
 "Tommy," he said, "come over and meet the flying reporters from the
-_News_. There isn't enough going on here on the ground, so these
+News. There isn't enough going on here on the ground, so these
 fellows hop around in the clouds hunting stories."
 
 "Glad to know you," grinned Tommy, as he shook hands with Tim and
@@ -624,7 +610,7 @@ down the rustlers single-handed. He's getting to be quite a sleuth."
 Tim saw McDowell's eyes narrow and he felt them boring into him. He
 changed the trend of the conversation at once.
 
-"We brought several cars from the _News_ down," he said. "Let's get out
+"We brought several cars from the News down," he said. "Let's get out
 your baggage and we'll be glad to take you uptown."
 
 By pre-arrangement, Ralph stepped over to help McDowell while Tim went
@@ -660,7 +646,7 @@ field with more arriving every minute. Tim's plans for handling the big
 crowd were working out smoothly and he felt some of the tension
 slipping from his shoulders.
 
-At an early morning conference in the _News_ office with Tommy Larkin
+At an early morning conference in the News office with Tommy Larkin
 and his chief, it had been decided to arrest McDowell when he floated
 down in his chute after the plane crash. In the meantime, Prentiss
 would seize the dope in the flyer's plane and they would spring the net
@@ -784,7 +770,9 @@ Tommy. They were up a thousand feet when Tim felt a tug at his arm and
 turned to face the narcotics inspector. "Give me a hand and we'll see
 what we can find in McDowell's plane," said Prentiss. They hastened
 into the hangar and climbed into the cabin. Tommy had given them the
-exact location of the hidden compartment and without wasting time
+ex
+
+ocation of the hidden compartment and without wasting time
 Prentiss took an iron bar and smashed his way to it. With eager fingers
 he ripped away the splintered wood of the top and delved inside. When
 his hands came into view again they held small white containers.
@@ -806,10 +794,6 @@ A commotion near the pilot's quarters drew his attention just then.
 Someone broke away and started running toward him. It was Ralph,
 staggering slightly, and holding a blood-stained handkerchief to his
 head.
-
-CHAPTER FOUR
-
-The Mad Pursuit
 
 Something was radically wrong and Tim, forgetting for the moment the
 drama soon to be enacted in the sky, ran toward Ralph. He caught his
@@ -842,7 +826,7 @@ Prentiss gathered Ralph in his arms and stalked toward the
 administration building while Tim and Hunter ran down the ramp.
 
 Tim scanned the field. It would be impossible to get the fast Jupiter
-which the _News_ owned or the American Ace which he and Ralph operated
+which the News owned or the American Ace which he and Ralph operated
 out of their hangars. He turned toward the other planes on the field.
 It would take a fast ship to get up there in time to stop the crash of
 the two planes. His eyes rested on McDowell's own monoplane. It was
@@ -1090,7 +1074,7 @@ was coming back. But McDowell's ship was winging steadily along on the
 the inspector's voice sounded unnatural.
 
 Tim glanced back. The ship was familiar. His heart leaped. It was the
-fast Jupiter owned by the _News_. Someone had managed to get it out of
+fast Jupiter owned by the News. Someone had managed to get it out of
 the hangar and was coming to help them.
 
 The flying reporter opened the window on his left and waved wildly,
@@ -1100,7 +1084,7 @@ down.
 
 "Looks like Tommy Larkin in the other plane," said the inspector.
 
-"That's the _News_' ship and I don't care who's flying it," said Tim,
+"That's the News' ship and I don't care who's flying it," said Tim,
 "just as long as it's got a full tank of gas. McDowell is going to be
 in for a surprise when we shoot up in the Jupiter. That's an airplane."
 
@@ -1210,10 +1194,6 @@ The old ship was breaking up! McDowell had been pushing it too hard,
 the spins and rolls and loops had been more than the ancient spruce
 could stand. The right wing was giving way, the top section drooping
 down in the lower one.
-
-CHAPTER FIVE
-
-Death Rides the Air
 
 McDowell was making a game fight, attempting to nurse the old craft
 over the rough country to the more level reaches ahead. Tim eased up on
@@ -1343,16 +1323,16 @@ catch on with some other circus."
 "My head feels like someone was using a trip hammer on it," said Ralph.
 "I'm going home and to bed."
 
-"Here comes a reporter from the _Advance_," interjected Tim. "He'll
+"Here comes a reporter from the Advance," interjected Tim. "He'll
 probably want to know all about the McDowell case," the last words were
 directed at the inspector.
 
-Mogridge, police reporter for the _Advance_, nodded to Tim and Ralph.
+Mogridge, police reporter for the Advance, nodded to Tim and Ralph.
 
 "I'd like to get all the facts on this story," he said to Inspector
 Prentiss.
 
-"Sorry," smiled the inspector, "but since the _News_' men played such
+"Sorry," smiled the inspector, "but since the News' men played such
 an important part I'm afraid that the story will have to be exclusive
 with them."
 
@@ -1372,7 +1352,7 @@ the border."
 
 Ralph took a cab for home while Tim superintended the return of the
 Jupiter to its hangar. Then, with the inspector and Tommy Larkin, he
-climbed into the _News_' car he had used that morning and started
+climbed into the News' car he had used that morning and started
 uptown.
 
 "This is a long ways from the McDowell case," said Tim, "but I've got a
@@ -1389,7 +1369,7 @@ left the car in front of the Ransom House.
 "Right," agreed the inspector. "Say about eight-thirty. Good night."
 
 "Good night," replied Tim as he eased in the clutch and headed the car
-for the garage behind the _News_ building.
+for the garage behind the News building.
 
 It was getting late, but tomorrow he would be on the trail of "Mr.
 Seven." In spite of the let-down after the strain of the afternoon, he
@@ -1516,10 +1496,6 @@ Seven' got away before Inspector Prentiss could see him."
 rented a car. It's from one of two places and I may be able to learn
 where he has gone."
 
-CHAPTER SIX
-
-Another Visitor
-
 The battery of presses in the basement awoke with a roar and newsboys
 scurried on to the street, their shrill cries of "Extra! Extra!"
 echoing between the lanes of buildings.
@@ -1593,7 +1569,7 @@ Seven' out of your head."
 business," grinned Tim.
 
 "It didn't take a mind reader to figure that one out." Dan dialed the
-automatic telephone. "Ransom House? This is the _News_. Has 'Mr. Seven'
+automatic telephone. "Ransom House? This is the News. Has 'Mr. Seven'
 returned?"
 
 "Not back yet," said Dan as he hung up the receiver. "Let's go out to
@@ -1607,7 +1583,7 @@ asked Dan.
 "Only three or four blocks. The porter at the Ransom House recommended
 both Kelleys and Brackens."
 
-They paid their checks and Tim turned toward the _News_, but Dan
+They paid their checks and Tim turned toward the News, but Dan
 stopped him.
 
 "Things are light today. We'll take a few extra minutes and see what we
@@ -1642,7 +1618,7 @@ map. He made a detailed study of it, but never asked a question of me
 nor any of the boys who serviced the car for him."
 
 There was no further information to be gained at the garage and Tim and
-the chief copyreader returned to the _News_ office.
+the chief copyreader returned to the News office.
 
 "Looks like you're on the trail of a real story," commented Dan.
 "What's going to be the next angle of attack?"
@@ -1658,9 +1634,9 @@ available he carried the large, sturdily bound books to his desk where
 he placed them one on top of another. Ralph's desk was not in use and
 he opened the last volume of the file and placed it there. Drawing up a
 chair he started the slow task of scrutinizing every picture which had
-appeared in the _News_ for the last year.
+appeared in the News for the last year.
 
-The job was doubly difficult since one of the boasts of the _News_ was
+The job was doubly difficult since one of the boasts of the News was
 that it carried an interesting picture on every page. Members of the
 staff left the office, one by one, until Tim alone remained, bent over
 the file and scanning the pages as he riffled through them.
@@ -1670,7 +1646,7 @@ glow of the electric he continued his task until his shoulders ached
 from the continued strain of bending over. When he finally straightened
 up it was 7:30 o'clock and the telephone was buzzing.
 
-"Atkinson _News_," said Tim.
+"Atkinson News," said Tim.
 
 "Hello, Tim," said Carl Hunter. "There's a big amphibian coming in
 within the next half hour. Thought you might want a story. We don't get
@@ -1682,7 +1658,7 @@ many ships like that here."
 
 "Right away," promised Tim. He closed the file, snapped off the light
 and hurried around to the garage in the rear where he signed an order
-for one of the _News_' cars.
+for one of the News' cars.
 
 Hunter was waiting for him at the airport. In one hand he held one of
 the pink slips on which the radiograms were copied.
@@ -1711,12 +1687,12 @@ fifteen minutes."
 "That's just time enough for me to get a lunch. I got interested in a
 little work at the office and forgot to go out and get supper." Tim
 ordered a hot lunch and while he ate scanned the last edition of the
-_Advance_, the rival newspaper. He chuckled once or twice as he read
-the story of the pursuit of McDowell. The _Advance_ had only the
+Advance, the rival newspaper. He chuckled once or twice as he read
+the story of the pursuit of McDowell. The Advance had only the
 sketchiest of details and all of the rest of the story was obviously
 the product of the imagination of Mogridge, the reporter who had been
 assigned to the story. It could not compare with the brilliant
-accurately written story which Tim had woven for the _News_ and which
+accurately written story which Tim had woven for the News and which
 had been featured on the front page through all the editions that day.
 As Tim finished his lunch the drone of twin motors sounded high
 overhead. The amphibian was coming in. He stepped out of the lunchroom.
@@ -1762,10 +1738,8 @@ with suspicious eyes.
 Sladek went into the administration building and scanned the large
 scale map of the state which hung on one wall. Tim, loitering behind,
 started involuntarily as he saw the section of the state which
-interested Sladek. It was the Cedar river country--the same section
+interested Sladek. It was the Cedar river country—the same section
 into which his mysterious "Mr. Seven" had gone.
-
-CHAPTER SEVEN
 
 On the Trail of "Mr. Seven"
 
@@ -1794,7 +1768,7 @@ Tim Murphy may be able to help you," suggested Hunter.
 
 "Who's Tim Murphy?" demanded Sladek.
 
-"He's the flying reporter for the Atkinson _News_. He's flown all over
+"He's the flying reporter for the Atkinson News. He's flown all over
 that country and with the exception of a small field near the village
 of Auburn there isn't another place to land safely and then a big ship
 like yours couldn't make it."
@@ -1896,11 +1870,13 @@ as he replaced the receiver on its hook.
 "I've found the key to the presence of both Ford and Sladek in the
 middle west," he said. "Listen to this:
 
-"NEW YORK CITY--(Special to the Atkinson _News_)--Adventure is
+"NEW YORK CITY—(Special to the Atkinson News)—Adventure is
 again calling Grenville Ford, world famous adventurer and globe
 trotter. This time it is the sunken millions in the stone box of
 the tramp steamer, Southern Queen, which went down in the Caribbean
-in the fall of 1923. The exact location of the sinking of the
+in the fall of 1923. The ex
+
+ocation of the sinking of the
 Southern Queen has never been known but Ford is believed to have
 learned the whereabouts of the wreckage and to be making plans for
 the salvage of the sunken treasure."
@@ -1914,12 +1890,12 @@ the managing editor. He continued reading from the story in the files:
 
 "When the revolution headed by Manuel Crespes in Guato failed,
 Crespes and his fellow adventurers looted the rich mines there and
-fled aboard the _Southern Queen_. Estimates at the amount of gold
+fled aboard the Southern Queen. Estimates at the amount of gold
 taken by the fleeing rebels have varied from $500,000 to more than
 $5,000,000 but it is safe to say that sufficient gold was taken to
 make an attempt at its recovery highly worthwhile.
 
-"The _Southern Queen_ left Martee, the main port of Guato,
+"The Southern Queen left Martee, the main port of Guato,
 apparently in good condition but the vessel never reached port.
 Exactly what happened has never been known. Her disappearance has
 been one of the mysteries of the seven seas. Various theories have
@@ -1927,18 +1903,18 @@ been advanced. One of the most persistent was that the leaders of
 the futile revolution in Guato killed all members of the crew when
 they neared a safe coast, scuttled the ship, took the treasure and
 escaped in small boats. Another is that a storm which raged in the
-Caribbean shortly after the _Southern Queen_ left Martee caught the
+Caribbean shortly after the Southern Queen left Martee caught the
 little tramp steamer in its center and sent it whirling to the
 bottom with the loss of everyone on board. Several expeditions have
 been formed to hunt for the treasure but none of them have been
-successful and so far no actual trace of the _Southern Queen_ has
+successful and so far no actual trace of the Southern Queen has
 been found.
 
-"_News_ that Ford is planning to search for the treasure brings the
+"News that Ford is planning to search for the treasure brings the
 story into the forefront again for he is known as a soldier of
 fortune of the higher type. While Ford refuses to divulge his plans
 in any detail, friends believe that he has learned the whereabouts
-of one of the survivors of the _Southern Queen_"
+of one of the survivors of the Southern Queen"
 
 The story went on to recount other adventures in which Ford had played
 a prominent part but added nothing more in the way of information about
@@ -1957,16 +1933,16 @@ Cedar river valley for the one and only purpose of learning something
 which is vital to the success of his treasure hunt."
 
 "If he is seeking information in connection with the treasure of the
-_Southern Queen_ that would explain his use of an assumed name and his
+Southern Queen that would explain his use of an assumed name and his
 evasion of reporters," agreed Tim. "It would also account for the
 presence of Sladek, who tries to vote himself into anything that looks
 like easy money."
 
 "In other words both Ford and Sladek are after the sunken treasure in
-the _Southern Queen_ and there's some information over in the valley of
+the Southern Queen and there's some information over in the valley of
 the Cedar that both are after," said Carson.
 
-"All of which may mean a good story for the _News_" smiled Tim.
+"All of which may mean a good story for the News" smiled Tim.
 
 "When can you start for the valley?"
 
@@ -2011,11 +1987,11 @@ the copy desk.
 "You'll hear full details when the story breaks," cried Tim as he
 headed for the stairs.
 
-He took the best of the cars which the _News_ owned for the trip, a
+He took the best of the cars which the News owned for the trip, a
 powerful coupe capable of high speed and standing lots of abuse on the
 rough roads of the Cedar valley.
 
-He swung in front of the _News_ building, just as the others came down
+He swung in front of the News building, just as the others came down
 from the editorial office.
 
 "I'll take you home," he called.
@@ -2044,10 +2020,6 @@ have an excuse to visit the field."
 
 Tim left Ralph at the airport and sped on alone toward the valley of
 the mighty Cedar.
-
-CHAPTER EIGHT
-
-A Sudden Attack
 
 For the first fifty miles of the trip the roads were hard-surfaced and
 Tim sped along at a fast pace, the long, powerful coupe eating up the
@@ -2122,7 +2094,7 @@ The old man shook his head. "All the movin' that's done is the other
 way. Keeps up much longer and there won't be anybody in the valley and
 no Indians to give it back to."
 
-"I just though there might have been some new people came in--maybe a
+"I just though there might have been some new people came in—maybe a
 sailor or two."
 
 "Nothin' to sail around here except the clammers and they don't sail.
@@ -2315,10 +2287,6 @@ ahead. Risking a sand bar, Tim cut the comers close and before the
 amphibian could swing back upstream he was safely hidden under the
 shelter of heavy foliage from the bank.
 
-CHAPTER NINE
-
-In the Valley
-
 From his temporary place of refuge Tim watched the amphibian circle
 over the valley. They were hunting for his hiding place and he pulled
 his boat in closer to shore where the dense foliage would effectually
@@ -2326,7 +2294,9 @@ screen him from the eyes of the observers above.
 
 For fifteen minutes the big plane soared overhead. Then as quickly as
 it had come it vanished upstream and Tim guessed that it was going to
-Auburn to learn exact directions for reaching the island of Crazy John.
+Auburn to learn ex
+
+rections for reaching the island of Crazy John.
 
 Once sure that he was safe from the amphibian for the time being, Tim
 started his engine and chugged away from his refuge. The water of the
@@ -2368,7 +2338,7 @@ behind him.
 
 "What do you want?" called Ford.
 
-"I'm Tim Murphy of the Atkinson _News_. Let me come ashore."
+"I'm Tim Murphy of the Atkinson News. Let me come ashore."
 
 "Nobody lands here, mate," boomed the man behind Ford, and Tim was
 surprised at the vigor of the tone. Crazy John, from his voice, was
@@ -2388,7 +2358,7 @@ just an assumed name."
 things commenced to click. You know what I'm after."
 
 Ford nodded. "You want a story about my plans to hunt for the treasure
-in the _Southern Queen_?"
+in the Southern Queen?"
 
 "Right. The fact that both you and Sladek are here in this valley is
 enough to make a rattling good story. I'd rather have facts but if I
@@ -2542,7 +2512,7 @@ water jug and went in search of water. By the time he was back, Tim had
 a fire, built from dry, smokeless wood, burning well. Supper was not
 long, with two experts in camping lending a hand.
 
-The meal was simple--bacon, eggs, fried potatoes, bread and jam, but
+The meal was simple—bacon, eggs, fried potatoes, bread and jam, but
 there was plenty of everything.
 
 After they had eaten their fill, they spread their blankets beside the
@@ -2595,11 +2565,7 @@ you were a good man. I'd take Crazy John's word for it even if I didn't
 know the other things about you."
 
 "Then you can count me in right now if it can be arranged so I can get
-a leave of absence from the _News_."
-
-CHAPTER TEN
-
-"Mr. Seven's" Secret
+a leave of absence from the News."
 
 Under the flickering firelight in the camp in the valley of the Cedar,
 Grenville Ford unfolded for Tim the story of the revolt in Guato, the
@@ -2608,7 +2574,7 @@ steamer.
 
 "I was covering the revolution in Guato at the time for the old _New
 York Globe_," said Ford, as he traced the events which had finally
-brought him into contact with the flying reporter of the _News_.
+brought him into contact with the flying reporter of the News.
 
 "The revolution was headed by Manuel Crespes, who was a professional
 trouble maker. He got together a band of desperadoes, all of the
@@ -2743,10 +2709,6 @@ real thrillers. We're going to make the trip in a submarine."
 
 Tim stared across the flames at Ford, wondering if he had heard
 correctly.
-
-CHAPTER ELEVEN
-
-Rescue from the Air
 
 In quick phrases and with vivid description Grenville Ford sketched for
 him his plan to search for the treasure in the Southern Queen.
@@ -2932,10 +2894,6 @@ The Jupiter was a good 40 miles an hour faster than the big ship and
 Ralph waved his fingers derisively at the amphibian as he lined the
 biplane away for Auburn.
 
-CHAPTER TWELVE
-
-Against Time
-
 The fleet, powerful Jupiter soon outdistanced the slower amphibian and
 with Ralph at the controls, they sped toward Atkinson at 150 miles an
 hour. The roar of the motor was too loud for conversation and Tim
@@ -2957,7 +2915,7 @@ to any length to obtain the treasure.
 
 The thought of making the trip into the Caribbean in a submarine
 appealed strongly to Tim. What a contrast it would be after his
-stirring adventures in the air as the flying reporter for the _News_.
+stirring adventures in the air as the flying reporter for the News.
 
 Tim glanced at his companion. Grenville Ford appeared to be enjoying
 every minute of the flight back to Atkinson. There was a pleasant
@@ -3099,7 +3057,7 @@ Tim stripped off his coat, flung it over the back of his chair, rolled
 a sheet of copypaper into his typewriter, and plunged headlong into the
 story. Swiftly, graphically he painted the picture of the treasure hunt
 in the Caribbean with an unknown fortune in gold at stake, informing
-the readers of the _News_ that they would have the first information on
+the readers of the News that they would have the first information on
 the progress of the expedition.
 
 At his desk across the aisle Ralph was beating a frantic tattoo on his
@@ -3153,11 +3111,7 @@ us some swell yarns."
 
 "I'll do my best," promised Tim.
 
-CHAPTER THIRTEEN
-
-Eastward Bound
-
-After a hasty lunch Tim and Ralph returned to the _News_ office to
+After a hasty lunch Tim and Ralph returned to the News office to
 complete the polishing up of the stories which had appeared in the noon
 edition. They expanded on the details of their adventures in the valley
 of the Cedar and by two o'clock Tim was through. George Carson came out
@@ -3243,19 +3197,15 @@ Tim, looking from a window, saw Carl Hunter waving at him. Then they
 were swinging down the runway, headed on the first lap of what was to
 be Tim's greatest adventure.
 
-CHAPTER FOURTEEN
-
-The _S-18_
-
 The next morning found Tim in New York, actively engaged in plans for
 the trip into the Caribbean. While Ford completed negotiations for the
-purchase of the _S-18_, the government submarine which the navy was
+purchase of the S-18, the government submarine which the navy was
 forced to scrap by treaty limitations, Tim called at the office of the
 New York Journal.
 
 The managing editor was enthusiastic over the chance for exclusive
 stories on the expedition in return for relaying the radio stories on
-to the _News_. At his request, Tim sat down and wrote a two-column
+to the News. At his request, Tim sat down and wrote a two-column
 story on the plans for the treasure hunt. Ford had lifted restrictions
 on publicity for he realized that nothing said in print would deter
 Jack Sladek from his attempt to find the treasure first.
@@ -3263,7 +3213,7 @@ Jack Sladek from his attempt to find the treasure first.
 Tim met Ford at their hotel at noon and the leader of the expedition
 was jubilant.
 
-"I've completed the purchase and the _S-18_ is being towed from the
+"I've completed the purchase and the S-18 is being towed from the
 Brooklyn navy yard right now down to a yard where it will be fitted out
 for the trip."
 
@@ -3280,14 +3230,14 @@ your crew?"
 
 "I'll have to guard against that," admitted Ford, "but it's a chance
 I'll have to take." After lunch they departed for Brooklyn and the
-Laidlaw private shipyard where the _S-18_ was to be outfitted for the
+Laidlaw private shipyard where the S-18 was to be outfitted for the
 cruise.
 
 It was Tim's first glimpse of a real submarine and he stood for several
 minutes gazing at the smooth, glistening grey hull in the water beside
 the dock.
 
-The _S-18_ had been started in 1920 and completed two years later. The
+The S-18 had been started in 1920 and completed two years later. The
 sub was 240 feet long and ahead of the conning tower was the turret
 which housed the four-inch gun. The craft was a picture of sinister
 power and Tim felt just a little shivery as he stepped down the gangway
@@ -3315,7 +3265,7 @@ ducking their heads under the low doors which separated the various
 compartments.
 
 Directly back of the control room were the huge Diesel engines which
-propelled the _S-18_ when it was running on the surface. Bank after
+propelled the S-18 when it was running on the surface. Bank after
 bank of cylinders were ranged on each side of the steel runway. Each
 engine was capable of generating 900 horsepower and the two of them
 could force the submarine along at fourteen knots an hour on the
@@ -3323,7 +3273,7 @@ surface.
 
 Behind the engine room were the electric motors which propelled the
 craft when it was submerged. There were two of these, developing
-between them 1,500 horsepower. The underwater speed of the _S-18_ was
+between them 1,500 horsepower. The underwater speed of the S-18 was
 rated at eleven knots an hour. In this room was located the master
 switchboard for the complicated electrical devices on which the life of
 the submarine depended so much of the time when it was underwater.
@@ -3424,10 +3374,6 @@ so far they haven't been able to get anything on him that would warrant
 a trial. None of them would be sorry if Sladek just didn't return from
 the Caribbean."
 
-CHAPTER FIFTEEN
-
-An Unknown Intruder
-
 Pat started forward and Tim followed him through the motor room, the
 engine room back into the control room, and then into the forward
 compartments.
@@ -3449,7 +3395,7 @@ Ahead of the radio room was a white-walled compartment which had been
 stripped of its former equipment.
 
 "This used to be crew's quarters, but when Ford got an option on the
-_S-18_, the bunks and lockers were taken out. Our diving equipment and
+S-18, the bunks and lockers were taken out. Our diving equipment and
 stores will be kept here."
 
 They went on, ducking their heads to enter the forward torpedo room. In
@@ -3469,7 +3415,7 @@ makes the front page and the navy goes hunting for another lost
 submarine."
 
 Tim felt an uncomfortable feeling in the pit of his stomach. He knew
-the _S-18_ was going to be undermanned, but then the only diving they
+the S-18 was going to be undermanned, but then the only diving they
 intended to do would be at the actual scene of the salvage operations.
 
 "This torpedo compartment will be made into a diving room," went on
@@ -3504,7 +3450,7 @@ of fact the galley will be installed in the rear torpedo room. The
 entire crew will eat and sleep there and rations won't be anything
 fancy."
 
-A watchman at the shipyard boarded the _S-18_ and informed Tim that Mr.
+A watchman at the shipyard boarded the S-18 and informed Tim that Mr.
 Ford wanted to talk to him by telephone.
 
 Tim hastened out of the submarine and followed the watchman to his
@@ -3515,7 +3461,7 @@ said Ford. "Come over as soon as possible and we'll make the final
 decision on the type of plane we're going to take with us."
 
 Tim promised to get across the river as rapidly as possible and ran
-back to the _S-18_. Shouting down the main hatch, he informed Pat that
+back to the S-18. Shouting down the main hatch, he informed Pat that
 he was leaving. Then he hastened outside, flagged a cruising taxi, and
 sped toward the office of the airplane company.
 
@@ -3547,12 +3493,12 @@ made several test trips," he said.
 
 "I've a great many things remaining on my list to do for today," said
 Ford as they left the office, "and I'm a little hesitant about leaving
-Pat alone on the _S-18_ all night. Of course the Laidlaw yard has
+Pat alone on the S-18 all night. Of course the Laidlaw yard has
 plenty of watchmen but you never can tell what Sladek may attempt. I'd
 feel a little better if you would take your duffle and go across the
 river and spend the night with Pat."
 
-"I might just as well get used to sleeping on the _S-18_ now as later,"
+"I might just as well get used to sleeping on the S-18 now as later,"
 said Tim. "I'll get my things and be over at the yard in less than an
 hour."
 
@@ -3568,7 +3514,7 @@ shipyard and was admitted.
 night," the watchman informed him. "Mr. Ford has given strict orders
 about admitting anyone after six o'clock."
 
-"Two of us are to stay aboard the _S-18_ tonight to see that nothing
+"Two of us are to stay aboard the S-18 tonight to see that nothing
 happens," said Tim.
 
 "There'll be no one getting through this gate," said the watchman
@@ -3588,10 +3534,10 @@ submarine, but wait until I get you into the air. Believe me I'll show
 you a trick or two in an airplane."
 
 "Which is just what you won't do," countered Pat. "I know when I'm well
-enough off and the _S-18_ suits me. No wings, thank you."
+enough off and the S-18 suits me. No wings, thank you."
 
 With dusk softening the hard outlines of the shipyard, Tim descended
-into the interior of the _S-18_, where the bright glow of the electrics
+into the interior of the S-18, where the bright glow of the electrics
 dispelled the gloom.
 
 "Ford send you back to keep me company or is he afraid we may have
@@ -3601,7 +3547,7 @@ visitors?" asked Pat as they placed Tim's duffle in the crew's quarters.
 avoided. The watchman at the main gate told me that strict orders had
 been issued to admit no one after six o'clock." Pat nodded toward the
 river. "They'll come from there if they come. Have you got a gun?" Tim
-pulled a sturdy .38 revolver from his traveling bag.
+pulled a sturdy.38 revolver from his traveling bag.
 
 Pat whistled. "That's a real popgun. How about a permit to carry it?
 You don't want to run into trouble in New York."
@@ -3628,12 +3574,12 @@ cleaned up every bit of food Tim had brought aboard.
 
 Pat leaned back against the steel wall.
 
-"Anyone could come aboard now and steal the _S-18_. I'm so full of food
+"Anyone could come aboard now and steal the S-18. I'm so full of food
 I wouldn't be able to move."
 
 "I feel about the same way," conceded Tim.
 
-But despite their sluggishness no disaster befell the _S-18_ and after
+But despite their sluggishness no disaster befell the S-18 and after
 a time they bestirred themselves to make a final tour of inspection of
 the submarine.
 
@@ -3642,7 +3588,7 @@ Tim, fascinated, stared at the majestic scene. A tramp steamer, outward
 bound for some distant port, hooted dismally as it swung down stream.
 Lights in the boatyard itself were few and far between and there was a
 distinct feeling of isolation to the flying reporter on the deck of the
-_S-18_.
+S-18.
 
 While Tim was on deck, Pat closed all of the doors between the forward
 compartments, then joined Tim in front of the conning tower.
@@ -3668,10 +3614,6 @@ It was sometime after midnight when he awoke with a feeling of alarm
 gripping him. He looked toward the hatch above. The light was out.
 Someone was in the control room!
 
-CHAPTER SIXTEEN
-
-The First Test
-
 There was no actual sound to which Tim could attribute his sudden
 awakening, but he was certain someone was in the control room beside
 Pat for he could hear the steady breathing of his companion.
@@ -3683,19 +3625,19 @@ His right hand moved cautiously and his fingers closed around the hard,
 cold butt of his revolver. There was a slight scraping sound from the
 dense blackness at the base of the ladder which came down from the main
 hatch and Tim wished for a flashlight. He didn't even know where the
-switch which controlled the interior lights of the _S-18_ was located.
+switch which controlled the interior lights of the S-18 was located.
 
 Only the slightest of shuffling sounds warned Tim that the intruder was
 coming toward him. Evidently he was in his stocking feet.
 
 Tim managed to free his legs from the folds of his blankets and he
-crouched on the steel floor of the _S-18_, ready for whatever might
+crouched on the steel floor of the S-18, ready for whatever might
 happen.
 
 The hatch which led to the main deck was visible for the sky outside
 was much lighter than the black interior of the submarine. In this
 circle Tim saw the head of a man peer into the control room. Unless he
-did something at once, the _S-18_ soon might be swarming with unwanted
+did something at once, the S-18 soon might be swarming with unwanted
 visitors.
 
 Tim heard a slight grunt as the man coming toward him struck his head
@@ -3743,7 +3685,7 @@ hatch, more to scare the second man than to actually harm him. On the
 echo of the crash of his gun came a scream of pain and the head
 promptly disappeared.
 
-"Good shooting!" cried Pat. "Now we'll get this fellow. He's in a cross
+"Good shooting!" cried Pat. "Now we'll get this fellow. He's in a symbol
 fire. Next time he shoots let him have it. I'll see if I can get around
 to the switch and turn on the lights. This party is going to end all of
 a sudden."
@@ -3757,14 +3699,14 @@ lunged toward the shadowy form.
 Just as Tim moved, the man on the ladder lashed out viciously with one
 foot. The blow caught Tim squarely on the chin and he dropped to the
 deck, out cold. His gun clattered from his nerveless hands and the man
-on the ladder leaped for the hatch just as the interior of the _S-18_
+on the ladder leaped for the hatch just as the interior of the S-18
 blazed with light.
 
 Pat, momentarily blinded by the glare, recovered in time to see the
 legs of their assailant disappearing over the edge of the hatch and
 with snap aim he sent a volley of shots crashing upward.
 
-Feet pounded along the deck of the _S-18_ and Pat heard the sudden
+Feet pounded along the deck of the S-18 and Pat heard the sudden
 splashing of oars as a small boat pulled away from the hull of the sub
 in great haste. Pursuit, he knew, was useless and he bent over Tim.
 
@@ -3830,7 +3772,7 @@ companion's action but where Pat was soon in a deep sleep, Tim remained
 awake, thinking over the attack and the dangers of their long voyage
 into the Caribbean. He was glad Commander Ford had decided to take a
 seaplane on the trip. It made him feel more comfortable for if anything
-happened to the _S-18_ on the treasure hunt, they might be able to get
+happened to the S-18 on the treasure hunt, they might be able to get
 word of their plight to the world by using the seaplane.
 
 Tim finally slept and when he awoke, sunlight was streaming down
@@ -3850,8 +3792,8 @@ but we may fool him if we decide to travel underwater for a few miles."
 "We might release the plane and have you fly on ahead, meeting us at
 the rendezvous on the island," suggested Ford.
 
-If Tim thought his days on the _News_ had been busy, they were nothing
-compared with the bustle of activity which settled down on the _S-18_.
+If Tim thought his days on the News had been busy, they were nothing
+compared with the bustle of activity which settled down on the S-18.
 For his own part, he was busy testing the seaplanes at the Sea King
 factory and he finally selected the craft which the sales manager had
 recommended. It was a three passenger job, light but sturdy and
@@ -3867,7 +3809,7 @@ of a thousand miles and the pontoons were especially reinforced for the
 rough work which Tim and his plane might encounter.
 
 By the end of the week great changes had been effected in the hull of
-the _S-18_. Steel workers had cut out the special diving chamber in the
+the S-18. Steel workers had cut out the special diving chamber in the
 forward torpedo room, the galley had been installed in the rear
 compartment which was the crew's quarters, a special radio set capable
 of communicating instantly with the New York Journal office was in
@@ -3902,9 +3844,9 @@ The Commander, Ford was discussing final plans.
 "We're going down the sound for a trial run tomorrow morning. If
 everything goes well, we'll start south the day after tomorrow."
 
-Early the next morning lines were cast off and the _S-18_, pulsating to
+Early the next morning lines were cast off and the S-18, pulsating to
 the clicking of her powerful Diesels, was backed slowly away from the
-shipyard. A tug stood by to give any assistance needed, but the _S-18_
+shipyard. A tug stood by to give any assistance needed, but the S-18
 cleared the yard and nosed slowly down river. Overhead a seaplane
 wheeled.
 
@@ -3914,10 +3856,10 @@ Tim was in the conning tower with Commander Ford and he pointed upward.
 understand his ship is ready to go at a moment's notice. He's gathered
 a crew of thirty of the toughest characters on the waterfront and
 promised them all a good slice of the bullion if he gets it. Knowing
-Sladek as I do, I wouldn't put much faith in his word if I were a
+Sladek as I do, I wouldn't put much conviction in his word if I were a
 member of that crew."
 
-When the _S-18_ was clear of the lower bay, the warning bell sounded
+When the S-18 was clear of the lower bay, the warning bell sounded
 and everyone on deck went below. Hatches were made fast and every
 member of the crew went to his station. For Tim there was nothing to do
 but stand in the control room and watch the activities of the others
@@ -3926,7 +3868,7 @@ at one of the important posts.
 
 Commander Ford's commands were crisp and alert. The Diesels were silent
 and only the faint humming of the big electric motors could be heard.
-Then the _S-18_ moved on a slight angle and Tim knew they were going
+Then the S-18 moved on a slight angle and Tim knew they were going
 below. He had encountered a good many queer sensations in an airplane,
 but none quite so alarming as the one which gripped him now. He was
 actually going under the surface with only the thin steel walls of the
@@ -3954,7 +3896,7 @@ Commander Ford left his post and visited each compartment, making sure
 that everything was functioning smoothly. When he returned, he said
 calmly: "We'll go a little deeper."
 
-The diving rudders were inclined again and the _S-18_ nosed its way
+The diving rudders were inclined again and the S-18 nosed its way
 deeper into the water.
 
 Tim watched the depth gauge, fascinated. The needle was marking the
@@ -3968,16 +3910,12 @@ George Gadd, the engineer, came into the control room.
 "Then we'll go the rest of the way," decided Commander Ford.
 
 Tim knew what the order meant. They were going to the bottom, going
-down to make absolutely sure that the _S-18_ was ready for the
+down to make absolutely sure that the S-18 was ready for the
 Caribbean treasure hunt.
 
-CHAPTER SEVENTEEN
-
-On the Bottom
-
-The depth gauge was dropping steadily as the _S-18_ plunged downward
+The depth gauge was dropping steadily as the S-18 plunged downward
 through the black waters. From Commander Ford on down, everyone was
-tense. This was the big test. If anything went wrong--
+tense. This was the big test. If anything went wrong—
 
 But they couldn't think of that, that is, no one except Tim who had
 nothing else to do.
@@ -3991,7 +3929,7 @@ down."
 again."
 
 The depth gauge showed 205 feet when there was a gentle scraping sound
-and the _S-18_ came to rest on the bottom of the sound. Beads of water
+and the S-18 came to rest on the bottom of the sound. Beads of water
 were standing all over the interior of the glistening white hull for
 the pressure at that depth was tremendous.
 
@@ -4009,11 +3947,11 @@ and lighten the sub for the rise to the surface.
 
 Compressed air hissed through the high pressure lines and Tim knew that
 despite the pressure of the water at that depth the air was blowing the
-ballast from the tanks. In a moment or two the _S-18_ would quiver,
+ballast from the tanks. In a moment or two the S-18 would quiver,
 come to life, and start the upward ascent.
 
 Commander Ford was watching the gauges intently. There was no movement
-of the _S-18_ and he turned toward Gay and Gaunt.
+of the S-18 and he turned toward Gay and Gaunt.
 
 "We're giving the tanks all we've got," said Gaunt. "There's 1,500
 pounds of air pressure pushing that water out."
@@ -4032,7 +3970,7 @@ shoulder, he hurried him forward. Tim, who had no duty to attend,
 followed them into the diving compartment where a special quartz window
 to observe diving operations had been placed. A powerful searchlight
 had been turned on by Gill and it revealed the trap into which the
-_S-18_ had settled. They were tight against the slime-encrusted hull of
+S-18 had settled. They were tight against the slime-encrusted hull of
 an old barge, probably a garbage scow used in hauling the refuse from
 New York City.
 
@@ -4057,7 +3995,7 @@ answer to that."
 Commander Ford nodded. "We'll try it again."
 
 He returned to the control room where the motors were raced first ahead
-and then in reverse, but the _S-18_ failed to rise out of the muck and
+and then in reverse, but the S-18 failed to rise out of the muck and
 instead seemed to be burrowing its way further into the soft stuff.
 
 Commander Ford ordered the motors cut out and called the crew into the
@@ -4097,43 +4035,43 @@ water shot into the inner chamber and the bomb bobbed from side to
 side. Then the force of the water pushed it outside the hull of the
 submarine. In the glow from the searchlight they saw the bomb drift
 away from the side of the submarine. The same current which was holding
-the _S-18_ fast against the derelict was driving the bomb against it.
+the S-18 fast against the derelict was driving the bomb against it.
 
 Commander Ford, watch in hand, was counting the seconds.
 
 "Better close the outer door of the diving compartment," he told
 Charlie Gill. "There's little more than a minute left."
 
-The Commander of the _S-18_ hurried back to the control room.
+The Commander of the S-18 hurried back to the control room.
 
 "On the alert," he told the men. "Everyone be ready for double quick
 action. There's thirty seconds left before the bomb explodes." Tim
 glanced around the room. Erich Gaunt and Forman Gay were bent over the
 levers which controlled the ballast tanks. Pat was tense at the diving
 rudders while back in the motor room George Gadd stood by to help the
-chief electrician. The crew of the _S-18_ was ready.
+chief electrician. The crew of the S-18 was ready.
 
 The flying reporter was fascinated as the second hand of his own watch
 ticked off the precious seconds. It might be ticking life and death for
-all aboard the _S-18_, 205 feet below the surface of the sound.
+all aboard the S-18, 205 feet below the surface of the sound.
 
 Ten, seven, five, three seconds left.
 
-A muffled explosion shook the hull of the _S-18_.
+A muffled explosion shook the hull of the S-18.
 
 "Motors full ahead!" shouted Commander Ford.
 
 The powerful electrics leaped into action. The steel deck beneath them
 quivered.
 
-They were moving! It was slow at first, but the _S-18_ was shaking the
+They were moving! It was slow at first, but the S-18 was shaking the
 slime of the bottom off its hull.
 
 Then, with a sickening leap, they shot upward, motors on full, diving
 planes at the sharpest angle.
 
 Men tumbled around in the control room like dry leaves before an autumn
-gale. The _S-18_, out of control, was shooting toward the surface.
+gale. The S-18, out of control, was shooting toward the surface.
 
 Pat managed to scramble to his feet and seized the wheel which
 controlled the forward diving rudders. With a quick twist he lessened
@@ -4149,7 +4087,7 @@ aboard was jarred by the shock.
 lips of Commander Ford.
 
 Before the main hatch was opened and the sunlight streamed in, he made
-sure that the _S-18_ had not been seriously damaged by its sudden rise.
+sure that the S-18 had not been seriously damaged by its sudden rise.
 In spite of the great pressure, not a seam in the hull had been opened
 and the crew scrambled out on deck for a breath of fresh air.
 
@@ -4170,12 +4108,12 @@ the seaplane gracefully circling overhead.
 Commander Ford joined them.
 
 "After that test there's no question about the seaworthiness of the
-_S-18_. We're putting back to the Laidlaw yard at once. We'll start
+S-18. We're putting back to the Laidlaw yard at once. We'll start
 south sometime tomorrow."
 
 That was news and Tim went below and dictated a story to Ike Green, who
 sent it to the Journal station. It was the first story sent directly
-from the _S-18_.
+from the S-18.
 
 That night when they were back in the yard, a truck lumbered through
 the main gate, a winch on the dock clattered noisily and a long,
@@ -4197,30 +4135,26 @@ them a little trouble in following us."
 
 The next day Tim went to the Sea King factory on Long Island and made
 sure his plane was ready. Then he wrote the final stories of plans for
-the departure and sent them to both the New York Journal and the _News_
+the departure and sent them to both the New York Journal and the News
 at home, with release dates for the next day, when they would be well
 out to sea and off the Jersey coast.
 
-A subdued air of excitement gripped the crew of the _S-18_. This was
+A subdued air of excitement gripped the crew of the S-18. This was
 the big night. Before midnight they would be headed down the East
 river, bound for the open sea and the start of the big adventure.
 
-CHAPTER EIGHTEEN
-
-The Missing Cook
-
 Across the East river the lights of Manhattan glowed brightly while in
-the Laidlaw yard last minute preparations for the voyage of the _S-18_
+the Laidlaw yard last minute preparations for the voyage of the S-18
 were being rushed. Supplies were being checked and every possible test
 of equipment was made.
 
 In the radio room Ike Green got in contact with the New York Journal
 station and Tim filed his last story. The next would be sent when the
-_S-18_ was out to sea.
+S-18 was out to sea.
 
 A whistle shrilled on the deck overhead and Tim mounted the ladder and
 climbed through the main hatch. Riding lights of the submarine were on.
-Yard workers were casting off the lines which held the _S-18_ to the
+Yard workers were casting off the lines which held the S-18 to the
 towering dock.
 
 The huge Diesels came to life and the submarine pulsated gently to
@@ -4228,14 +4162,14 @@ their song of power. Commander Ford was at his station in the conning
 tower while near him at the auxiliary controls was Pat Reynolds. Half a
 dozen other members of the crew were on deck.
 
-Down in the inky waters at the rear of the _S-18_ the propellers
+Down in the inky waters at the rear of the S-18 the propellers
 churned. Slowly the submarine nosed away from the boatyard, heading out
 toward the East river. There was no sound from the workers on the dock;
 no sound from the men on deck. This business of hunting sunken
 treasures was deadly serious.
 
 There was little traffic on the river after the midnight hour and the
-_S-18_ felt its way out into mid-stream and then dropped down toward
+S-18 felt its way out into mid-stream and then dropped down toward
 the open sound.
 
 Somewhere behind them a ferryboat hooted dismally and a tramp steamer,
@@ -4259,13 +4193,13 @@ underwater to the Sea King plant. That may throw Sladek's ship off our
 trail."
 
 They tumbled below, the main hatch was sealed, and Pat checked every
-gauge before Commander Ford gave the order to submerge. The _S-18_ went
+gauge before Commander Ford gave the order to submerge. The S-18 went
 down twenty feet and then levelled off, the electric motors pushing it
 smoothly underwater.
 
 With his eyes glued to a periscope, Commander Ford scanned the surface
 of the sound for another craft. At almost an instant's notice the
-_S-18_ was ready to dive lower.
+S-18 was ready to dive lower.
 
 At the microphones, Ike Green was listening intently for the beat of
 the propeller of the tramp steamer. He grinned as Commander Ford
@@ -4274,10 +4208,10 @@ entered the tiny room.
 "They're puzzled," said the radio man, "and they're zig-zagging all
 over the lower bay."
 
-The _S-18_ continued to run underwater at a bare four knots an hour. It
+The S-18 continued to run underwater at a bare four knots an hour. It
 was three hours later when they came to the surface and the sky was
 lighter in the east. Sunrise was less than half an hour away. To their
-left was the factory of the Sea King company and the _S-18_ nosed
+left was the factory of the Sea King company and the S-18 nosed
 slowly toward the dock.
 
 As the sky brightened they saw the smudge of a steamer well out to sea.
@@ -4286,7 +4220,7 @@ As the sky brightened they saw the smudge of a steamer well out to sea.
 expedition," grinned Pat.
 
 The seaplane purchased for their trip was on the dock ready and it took
-less than half an hour to load the craft on the deck of the _S-18_ and
+less than half an hour to load the craft on the deck of the S-18 and
 make it fast.
 
 "There'll be no more diving with that sky-hopping bug on deck," said
@@ -4304,12 +4238,12 @@ probably use that seaplane of his to do a lot of scouting."
 Breakfast was served by Al Hardy, who was the cook, and they enjoyed
 the morning meal before casting loose from the Sea King dock. Then,
 with all hands on deck and a bright sun shining down on them, the
-_S-18_ resumed its southward voyage. The next port of call was to be
+S-18 resumed its southward voyage. The next port of call was to be
 Key West, where the fuel tanks would be replenished for the voyage
 across the Caribbean.
 
 Once out to sea, half of the crew turned in, for there had been no
-sleep aboard the _S-18_ during the hours they had been submerged. The
+sleep aboard the S-18 during the hours they had been submerged. The
 Jersey coast gradually dropped from view and they moved southward at a
 steady ten knots an hour.
 
@@ -4322,7 +4256,7 @@ rejoined Pat in the conning tower. Commander Ford was down in the
 diving room talking with the chief divers and Tim and Pat were alone.
 
 "Do you think we're going to be in for trouble before we get through?"
-Tim asked as he watched the sharp bow of the _S-18_ cut through the
+Tim asked as he watched the sharp bow of the S-18 cut through the
 gentle swells.
 
 "Commander Ford told me this morning that Sladek had rounded up about
@@ -4339,13 +4273,13 @@ the seaplane winging up from the south.
 "Company coming," he informed Pat, who was back in the conning tower.
 
 Commander Ford was summoned and they watched the approach of the fast
-craft. The plane was flying high, but as it neared the _S-18_, the
+craft. The plane was flying high, but as it neared the S-18, the
 pilot put it into a dive.
 
 "That fellow knows how to handle a plane," said Tim, half to himself.
 
 The seaplane came out of the dive at a thousand feet and circled the
-_S-18_.
+S-18.
 
 "The answer to that is plain," said Commander Ford grimly. "That's
 Sladek's ship and it won't be long until his dirty old tramp steamer is
@@ -4353,20 +4287,20 @@ on our trail again."
 
 The seaplane winged away again and in less than two hours they saw a
 smudge of smoke on the horizon. Before sundown the tramp steamer, the
-_Iron Mate_, was riding a half mile off their port bow.
+Iron Mate, was riding a half mile off their port bow.
 
 "There's no use trying to sneak away from them now," said the
 commander. "When we get out of Key West and head across the Caribbean
 we'll find some way to give them the slip."
 
-Down the east coast the _S-18_ made its leisurely way with the _Iron
+Down the east coast the S-18 made its leisurely way with the _Iron
 Mate_ a constant companion. The sky was clearer, the air warmer, as
 they neared the southern tip of Florida and nosed into the harbor at
 Key West. The Iron Mate stood out to sea, waiting for the return of the
-_S-18_, for Sladek was taking no chances on getting into trouble with
+S-18, for Sladek was taking no chances on getting into trouble with
 federal officials.
 
-The _S-18_ replenished its fuel oil tanks, fresh supplies were taken
+The S-18 replenished its fuel oil tanks, fresh supplies were taken
 aboard, and the crew stretched its legs before the voyage into the
 Caribbean.
 
@@ -4378,8 +4312,8 @@ the men at the oars were particularly vicious looking.
 
 "I wouldn't want to meet them on a dark night," said Pat.
 
-When they returned to the _S-18_, Commander Ford divulged his plans for
-eluding the _Iron Mate_ and its crew of cutthroats.
+When they returned to the S-18, Commander Ford divulged his plans for
+eluding the Iron Mate and its crew of cutthroats.
 
 "Tim," he said, "we'll hoist your seaplane overboard at once. Then
 we'll slip out of the harbor and run submerged until we are well away
@@ -4401,7 +4335,7 @@ allow our departure at any hour we care to leave."
 
 Tim directed the unloading of the Sea King and made sure that trim
 little craft was fast to the dock before he returned to the deck of the
-_S-18_.
+S-18.
 
 Pat was checking over the crew list. Everyone answered present except
 Al Hardy, the cook.
@@ -4417,13 +4351,13 @@ Commander Ford that the cook was missing.
 A half hour elapsed and Al was still among the missing. At Commander
 Ford's Order, the crew scattered along the docks, seeking their missing
 cook. By ten o'clock, with still no trace of Al, the commander gave the
-order to clear the lines. The _S-18_ was going without its cook.
+order to clear the lines. The S-18 was going without its cook.
 
 "Maybe you can find him in the hoosegow in the morning," Pat told Tim.
 "If you do, load him in your plane and bring him along. We need a good
 cook."
 
-"I'll do my best to find him," promised Tim as the _S-18_ slipped away
+"I'll do my best to find him," promised Tim as the S-18 slipped away
 from the dock.
 
 Tim watched the submarine until its lights faded into the night. He
@@ -4444,11 +4378,7 @@ light.
 He bent down again and looked into the battered face of Al Hardy, the
 missing cook.
 
-CHAPTER NINETEEN
-
-The Warning Note
-
-The cook of the _S-18_ had been badly beaten and Tim realized that he
+The cook of the S-18 had been badly beaten and Tim realized that he
 was in need of immediate medical attention. He managed to get the
 unconscious Hardy over his shoulders and he staggered down the block
 until he was under the street light.
@@ -4492,7 +4422,7 @@ beat me."
 Tim's eyes blazed with anger. There was no question in his mind who the
 "they" Al was referring to meant. It was the boatload of ruffians he
 and Pat had seen rowing in from the open sea. Undoubtedly they were
-from the _Iron Mate_, Sladek's ship.
+from the Iron Mate, Sladek's ship.
 
 "I went almost crazy with the pain." There was a choked sob in the
 cook's voice. "They burned the bottom of my feet with cigarettes."
@@ -4511,7 +4441,7 @@ I'm sorry I talked."
 
 "Don't worry about that, Al," said Tim, gripping the cook's hand
 firmly. "Any of the rest of us would have talked a lot sooner. I'm
-going to leave you now. I've got to contact the _S-18_ with the
+going to leave you now. I've got to contact the S-18 with the
 seaplane in the morning. I've made arrangements for them to take good
 care of you here. By the time you're well we'll be on our way back and
 you'll have a good share of the treasure."
@@ -4528,16 +4458,16 @@ emergency you can communicate with Commander Ford's representative in
 New York for further instructions."
 
 The information Al Hardy had given made Tim change his plans
-completely. Sladek and his crew knew the _S-18_ was bound for the coast
+completely. Sladek and his crew knew the S-18 was bound for the coast
 of Yucatan and Tim felt sure they would abandon any attempt to follow
-the _S-18_ across the Caribbean. Instead they would use their own
+the S-18 across the Caribbean. Instead they would use their own
 seaplane to locate Commander Ford's expedition after it reached the
 island which held the secret of the Southern Queen.
 
 To Tim it seemed the most important thing was to get in touch with
 Commander Ford and appraise him of the sudden turn in events. Instead
 of waiting to keep the rendezvous on the following day, he would
-attempt to overtake the _S-18_ as soon as dawn broke.
+attempt to overtake the S-18 as soon as dawn broke.
 
 On his way back to the waterfront Tim stopped at an all-night
 restaurant and ate a hearty breakfast. The watchman at the dock lent a
@@ -4554,22 +4484,22 @@ The powerful engine ran true and sweet and after getting it thoroughly
 warmed up, Tim scudded across the gray water and lifted the dripping
 pontoons into the sky.
 
-He knew the _S-18_ would be following the course to the rendezvous set
+He knew the S-18 would be following the course to the rendezvous set
 for the next day and he charted a compass path through the air.
 
 Key West dropped from sight in the greyness of the morning and he
 winged a solitary way out over the Caribbean. Below the swells were
 sharper. It wouldn't be easy landing and getting the Sea King aboard
-the _S-18_.
+the S-18.
 
 For nearly an hour Tim bored into the west. He should be near the
-_S-18_ and he scanned the surface of the ocean with anxious eyes. For
+S-18 and he scanned the surface of the ocean with anxious eyes. For
 half an hour he circled in wide swoops. The wind was freshening and the
 sea beneath him was choppy when he finally sighted the conning tower of
 the submarine.
 
 Tim dropped down until he was just above the surface of the water. The
-nose of the _S-18_ was plowing through the swells and there were only
+nose of the S-18 was plowing through the swells and there were only
 two huddled figures in the conning tower. Tim recognized them as he
 flashed by, Commander Ford and Pat. They waved wildly as Tim gauged the
 strength of wind and wave. It was too risky to attempt a landing and he
@@ -4577,7 +4507,7 @@ scrawled a note on a sheet of paper and crammed it into an old tobacco
 can he had found along the waterfront and brought along for just such a
 purpose.
 
-With his motor almost idling, he swept down on the _S-18_ again.
+With his motor almost idling, he swept down on the S-18 again.
 Watching his speed carefully, he hurled the tin can toward the
 submarine. It landed well in front and bobbed restless on the water.
 
@@ -4590,9 +4520,9 @@ conning tower.
 Pat signalled that they understood the contents of Tim's message, and
 the flying reporter zoomed the Sea King sharply in a farewell salute as
 he opened the throttle and roared back toward Key West. On the way back
-he sighted the _Iron Mate_ far to his right and a good thirty miles
-behind the _S-18_. If anything, the submarine was a good two knots and
-hour faster than the _Iron Mate_ when it was running on the surface.
+he sighted the Iron Mate far to his right and a good thirty miles
+behind the S-18. If anything, the submarine was a good two knots and
+hour faster than the Iron Mate when it was running on the surface.
 
 Tim reached Key West safely, saw that the Sea King was refueled and
 ready to go on short notice, and then went to the hospital to see the
@@ -4612,20 +4542,18 @@ sweet morning air.
 The Sea King responded to the impulse of the starter with a roar and
 Tim flashed across the surface of the bay and into the air. He made a
 half circle into the west and lined away for a fast flight to overhaul
-the _S-18_.
+the S-18.
 
 It was better than two hours later and fifty miles beyond their
 rendezvous when Tim finally sighted the submarine, sliding through the
 water at a strong twelve knots an hour.
 
 He brought the Sea King down to an easy landing and then taxied
-alongside the _S-18_, which was now lying motionless. Willing hands
+alongside the S-18, which was now lying motionless. Willing hands
 helped fasten the crane and its rigging to the seaplane and the craft
 was soon lodged safely on the deck of the submarine. Then they were
-under way again, the thin nose of the _S-18_ cleaving its way toward
+under way again, the thin nose of the S-18 cleaving its way toward
 the sunken treasure in the hold of the Southern Queen.
-
-CHAPTER TWENTY
 
 Isle of the Singing Trees
 
@@ -4640,16 +4568,18 @@ that. We'll continue ahead as fast as possible and once over the wreck
 of the Southern Queen we'll lose no time in going down and getting what
 we can."
 
-Only Commander Ford knew the exact location of the island they sought
+Only Commander Ford knew the ex
+
+ocation of the island they sought
 off the coast of Yucatan. As the hours rolled into days, the tension
-aboard the _S-18_ grew. There had been no further sign of the _Iron
+aboard the S-18 grew. There had been no further sign of the _Iron
 Mate_ and they wondered whether Sladek was ahead or behind.
 
 Tim wrote a story each day and Ike Green flashed it over his powerful
 set to the station of the New York Journal, where it was relayed to
 Tim's own paper at Atkinson.
 
-The third night after Tim joined the _S-18_ out of Key West he felt the
+The third night after Tim joined the S-18 out of Key West he felt the
 pulse of the diesels slowing down. He tossed on his clothes and made
 his way to the control room and climbed the ladder to the conning
 tower. Commander Ford and Pat were intently scanning the horizon.
@@ -4670,7 +4600,7 @@ of the Singing Trees."
 "The Isle of the Singing Trees. It's marked here on the chart and is
 uninhabited."
 
-The _S-18_ crept through the thinning night at half speed and with the
+The S-18 crept through the thinning night at half speed and with the
 coming of the dawn, they saw the outline of the island. It was small
 and seemed barely able to keep its head above the restless Caribbean.
 Breakers, indicating the danger of hidden reefs, fringed the isle.
@@ -4678,7 +4608,7 @@ Through the powerful glasses they could see a dense tangle of
 vegetation and beyond the Isle of the Singing Trees the dim outlines of
 the mainland, which was still shrouded by the morning mists.
 
-The pulses of the men aboard the _S-18_ quickened. They were within
+The pulses of the men aboard the S-18 quickened. They were within
 sight of their goal.
 
 Tim scanned the surface of the ocean. There was no sign of the _Iron
@@ -4699,9 +4629,9 @@ feeling his way past the dangerous reefs, one of which had brought a
 sudden end to the Southern Queen eleven years before.
 
 Jagged splinters of rock reached up from the ocean bottom to impale the
-hull of the _S-18_, but each time the skilful hands of her commander
+hull of the S-18, but each time the skilful hands of her commander
 directed the submarine past the danger spot. There was a brisk wind,
-and waves broke sharply over the hull, but at last the _S-18_ was past
+and waves broke sharply over the hull, but at last the S-18 was past
 the outer rim of rock which encircled the island and safely into the
 smoother water. Everyone breathed easier as the order to let go the
 anchor came from the conning tower and the mud hook was dropped sharply
@@ -4713,15 +4643,15 @@ the chief divers, checked over their equipment and Pat gave Tim a hand
 in loosening the fastenings which held the seaplane to the deck.
 
 Joe Gartner even found time to polish his beloved four inch gun and Tim
-felt that Joe was secretly praying for a chance to get into action
-against the _Iron Mate_.
+felt that Joe was secretly invoking for a chance to get into action
+against the Iron Mate.
 
 When the first boat was lowered into the water, Commander Ford stepped
 into the stern and Charlie Gill and Russ Graham manned the oars. The
 commander was going to waste no time in attempting to locate the wreck
 of the treasure ship.
 
-The crew of the _S-18_, clustered on deck, watched the progress of the
+The crew of the S-18, clustered on deck, watched the progress of the
 small boat as it bobbed about inside the reefs. Both Gill and Commander
 Ford were busy making soundings while the other diver handled the boat.
 Back and forth they crept along the reef, their lines dragging the
@@ -4733,11 +4663,11 @@ first in the quest for the location of the old vessel.
 Tim remained on deck, squatting in the shadow of the seaplane. Ike
 Green joined him.
 
-"Why don't they take the _S-18_ down and creep along the bottom until
+"Why don't they take the S-18 down and creep along the bottom until
 they find the Southern Queen?" asked Tim.
 
 "Commander Ford's afraid of the currents around the reef. He wants to
-know something about the bottom before he takes the _S-18_ down."
+know something about the bottom before he takes the S-18 down."
 
 The remainder of the afternoon was spent with the two small boats
 dragging their grappling hooks along the bottom. At sundown the weary
@@ -4755,7 +4685,7 @@ Commander Ford was silent, planning the activities for the next day,
 and everyone aboard the submarine, except the watch, was in their
 blankets early.
 
-The next morning at dawn the men of the _S-18_ were on deck, preparing
+The next morning at dawn the men of the S-18 were on deck, preparing
 for another day of grappling for the wreckage of the Southern Queen.
 
 "I wonder if Crazy John could have been mistaken?" Tim asked Pat.
@@ -4765,7 +4695,7 @@ out an expensive expedition like this if he hadn't been pretty sure of
 his facts. We've got a lot of territory inside the reefs to explore
 before we give up hope."
 
-"Or before Sladek and the _Iron Mate_ arrive," put in Tim, searching
+"Or before Sladek and the Iron Mate arrive," put in Tim, searching
 the sky for a possible trace of the seaplane from the tramp steamer.
 
 There was a bright, burning sun and throughout the morning hours the
@@ -4784,19 +4714,17 @@ grapnels were dropped.
 
 Fifteen minutes later the men waiting on the deck of the submarine knew
 that the Southern Queen had been found. Commander Ford dropped a line
-with a buoy and the two boats headed back for the _S-18_. Fatigue was
+with a buoy and the two boats headed back for the S-18. Fatigue was
 miraculously wiped from the faces of the boatmen as they pulled
 alongside, and Commander Ford gave them the information they all sought.
 
 "Diving operations will start in the morning," he said.
 
-There was a joyous whoop from the crew of the _S-18_. This was what
+There was a joyous whoop from the crew of the S-18. This was what
 they had been watching for, a chance to get the treasure of the
 Southern Queen.
 
-CHAPTER TWENTY-ONE
-
-The Battle with the _Iron Mate_
+The Battle with the Iron Mate
 
 Plans for the recovery of the treasure of the Southern Queen were
 talked over fully at mess that night.
@@ -4805,17 +4733,17 @@ talked over fully at mess that night.
 not a bad depth in itself but the currents down there are tough. They
 might sweep a diver into a hole in the hull and he'd never get out."
 
-"Then you think we'd better take the _S-18_ right down beside the old
+"Then you think we'd better take the S-18 right down beside the old
 ship so you can work out of our own hull?" asked Commander Ford.
 
 "From the standpoint of the diver, that's going to be the safest way,"
 said Charlie, "and it will be a whole lot faster. Once we get our hands
-on the gold we'll be able to transfer it directly aboard the _S-18_"
+on the gold we'll be able to transfer it directly aboard the S-18"
 
 Commander Ford nodded thoughtfully.
 
 "You're right. The currents you speak of can cause trouble even for a
-submarine the size of the _S-18_, but I guess that's the only solution.
+submarine the size of the S-18, but I guess that's the only solution.
 We'll make our first dive in the morning."
 
 Turning to Tim, he added: "You'd better get your seaplane off the deck
@@ -4826,24 +4754,24 @@ Members of the crew aided Tim in getting the Sea King off the deck and
 into the water. It was night before the task was completed, and he
 taxied the trim little craft up to the beach under the guiding rays of
 a searchlight on the conning tower. While Tim was making the plane fast
-for the night, Pat rowed in from the _S-18_ to take him back.
+for the night, Pat rowed in from the S-18 to take him back.
 
 The Isle of the Singing Trees was living up to its name that night. The
 tangled mat of underbrush came down close to the water's edge and from
 it came a mournful melody. Now and then a vagrant breeze, skipping
 through the tree tops, added a higher note and Tim shivered at the
-loneliness and the desolation. The lights of the _S-18_, a bare 200
+loneliness and the desolation. The lights of the S-18, a bare 200
 yards from the shore, looked far away. He was glad when Pat's boat
 grated on the rocky beach.
 
 Pat also felt the weird atmosphere of the island.
 
-"It isn't healthy here," he said. "Let's get back to the _S-18_."
+"It isn't healthy here," he said. "Let's get back to the S-18."
 
 Tim jumped into the boat and they pulled lustily toward the safety and
 comfort of the submarine.
 
-Men slept restlessly on the _S-18_ that night. Tomorrow they were going
+Men slept restlessly on the S-18 that night. Tomorrow they were going
 to the bottom of the bay. If fortune favored them, they would come back
 to the surface with a wealth of gold.
 
@@ -4861,7 +4789,7 @@ kind over to our left."
 Tim turned sharply. Low in the water, and far out, he caught the faint
 glow of lights.
 
-"The _Iron Mate_?" he asked breathlessly.
+"The Iron Mate?" he asked breathlessly.
 
 "Perhaps. We'll have to wait until dawn to know the truth."
 
@@ -4886,25 +4814,25 @@ quarters. Men, only half awake, tumbled from their bunks.
 "Everyone out!" cried Tim. "Joe, you're to issue arms at once. Then
 Commander Ford wants to see you on deck."
 
-"Glory be," croaked Joe. "It must be the _Iron Mate_. Maybe I'll get a
+"Glory be," croaked Joe. "It must be the Iron Mate. Maybe I'll get a
 chance to unlimber my gun after all."
 
 They tumbled into their clothes and went forward where Joe issued
 ammunition belts and revolvers. A stack of rifles was placed in a
 special rack in the control room with a box of ammunition beside them.
-The _S-18_ was getting ready for trouble.
+The S-18 was getting ready for trouble.
 
 On deck Joe Gartner tore the tarpaulin off the four inch gun. From the
-depths of the _S-18_ a half dozen shells were brought on deck and the
+depths of the S-18 a half dozen shells were brought on deck and the
 gun was trained on the cluster of lights.
 
 The sky lightened and a few minutes later the tense group on the deck
-of the _S-18_ made out the outlines of the ship which was beyond the
-reefs. It was the _Iron Mate_, rolling gently in the swell.
+of the S-18 made out the outlines of the ship which was beyond the
+reefs. It was the Iron Mate, rolling gently in the swell.
 
 Through field glasses they could see men clustered along the rail of
 the tramp steamer and Tim thought he could see Sladek on the bridge.
-The first move was up to the _Iron Mate_ and it was not long in coming.
+The first move was up to the Iron Mate and it was not long in coming.
 From the far side of the steamer came the roar of an airplane engine
 and the seaplane took wing, its colors flashing in the bright rays of
 the sun.
@@ -4917,7 +4845,7 @@ Pat got the gun and plenty of ammunition from Joe Gartner and they
 tumbled into one of the small boats and started for shore.
 
 Out to sea the other plane was climbing rapidly, circling over the
-_Iron Mate_. It was up 2,000 feet by the time Tim and Pat reached the
+Iron Mate. It was up 2,000 feet by the time Tim and Pat reached the
 Sea King and had torn off the motor coverings and loosened the moorings.
 
 Tim piled into the after cockpit and snapped on the starter. The motor
@@ -4937,26 +4865,26 @@ aloft, grinned gamely.
 
 "I can take it," he said.
 
-The plane from the _Iron Mate_ was darting toward the Isle of the
+The plane from the Iron Mate was darting toward the Isle of the
 Singing Trees. The ship was coming down now in a terrific power dive.
 Tim estimated the speed at nearly 150 miles an hour. The air was filled
 with the roar of the motor.
 
-Then the oncoming plane levelled off and flashed over the _S-18_.
+Then the oncoming plane levelled off and flashed over the S-18.
 Something black hurtled over the side.
 
 Tim tried to shout, but his throat closed and he could only gasp.
 Automatically he leaped into action, his hand jamming the throttle on
 full. The Sea King scuttled across the water, angling away from the
-_S-18_ while down from the sky plummeted the black object. It struck
-the water a good hundred yards away from the _S-18_ and a fountain of
+S-18 while down from the sky plummeted the black object. It struck
+the water a good hundred yards away from the S-18 and a fountain of
 water arose in the air. The noise of the bomb could be heard even above
 the roar of the Sea King's powerful motor.
 
 Tim lifted the finely trimmed craft into the air and set out in pursuit
-of the bomber. Below them on deck of the _S-18_ Gunner Joe was training
-his sights on the _Iron Mate_. Tim, looking down, saw a puff of smoke
-and a fountain of water leap into the air beyond the _Iron Mate_. Joe
+of the bomber. Below them on deck of the S-18 Gunner Joe was training
+his sights on the Iron Mate. Tim, looking down, saw a puff of smoke
+and a fountain of water leap into the air beyond the Iron Mate. Joe
 had overshot his target.
 
 But there was no time to watch the Iron Mate now. Tim concentrated on
@@ -4964,7 +4892,7 @@ the task of bringing down the other plane. Ahead of him, Pat crouched
 in the cockpit, the machine gun ready.
 
 The seaplane was making a desperate attempt to get under the shelter of
-the _Iron Mate_ but Tim drove on relentlessly on the tail of the other
+the Iron Mate but Tim drove on relentlessly on the tail of the other
 ship. There was no chance for the pilot to land and taxi back to the
 steamer.
 
@@ -4985,7 +4913,7 @@ stream of bullets into the motor of the other plane.
 
 Suddenly there was only the sound of their own motor. The other
 seaplane was falling away with its prop turning idly. Pat, thoroughly
-angered at the attempt to sink the _S-18_ with a bomb, trained his gun
+angered at the attempt to sink the S-18 with a bomb, trained his gun
 on the other pilot but Tim pulled the nose of the Sea King up and
 spoiled his aim.
 
@@ -4993,12 +4921,12 @@ spoiled his aim.
 motor."
 
 Spread out below them was a strange panorama. Against the green
-background of the Isle of the Singing Trees the _S-18_ was throwing
-shell after shell at the _Iron Mate_, and the tramp steamer was
-responding. One good, solid shot would sink the _S-18_, while the _Iron
+background of the Isle of the Singing Trees the S-18 was throwing
+shell after shell at the Iron Mate, and the tramp steamer was
+responding. One good, solid shot would sink the S-18, while the _Iron
 Mate_ could stand a lot of shelling without going down.
 
-Tim noticed that the _S-18_ was moving slowly back and forth behind the
+Tim noticed that the S-18 was moving slowly back and forth behind the
 reef and that the submarine was ready to submerge at a moment's notice.
 Only Gunner Joe and the men he had selected to help him load the gun
 were on deck.
@@ -5011,15 +4939,15 @@ A white line of bubbles streaked the water.
 
 "Joe's fired his torpedo!" cried Pat.
 
-A lookout on the _Iron Mate_ saw the torpedo and the old tramp swung
+A lookout on the Iron Mate saw the torpedo and the old tramp swung
 its stern into the clear just in time. The torpedo streaked on out to
 sea.
 
 Tim's attention shifted back to the pilot of the crippled seaplane. It
-was landing at least a mile away from the _Iron Mate_ and he admired
+was landing at least a mile away from the Iron Mate and he admired
 the cool nerve of the other pilot, who brought his craft down to a safe
 landing. With motor dead, the flyer would have to wait for a boat from
-the _Iron Mate_ to pick him up.
+the Iron Mate to pick him up.
 
 Tim sent the Sea King into a dive while Pat shouted questions at him,
 landed and taxied alongside the disabled plane.
@@ -5039,12 +4967,12 @@ trigger finger."
 
 "Don't let that trouble you," retorted Tim. "You'd better worry how
 you're going to get away from here. You know if we decided to put a few
-holes in your pontoons it would be a long swim to the _Iron Mate_ and
+holes in your pontoons it would be a long swim to the Iron Mate and
 the sharks might be hungry."
 
 "You wouldn't dare do that."
 
-"You tried to sink the _S-18_," snapped Tim. "Now get out of that
+"You tried to sink the S-18," snapped Tim. "Now get out of that
 cockpit and crawl down on the other pontoon."
 
 "What are you going to do?"
@@ -5066,18 +4994,18 @@ clinging to the pontoon. "I guess we won't sink your plane after all."
 
 "You can't gauge air speed," replied Tim. "I can fly and handle the
 bombing at the same time. We'll go low and you may be able to rake the
-deck of the _Iron Mate_ with your gun."
+deck of the Iron Mate with your gun."
 
 Pat grinned and gave voice to a wild, Irish battle cry as the Sea King
 leaped into the air.
 
-There was a gun both fore and aft on the _Iron Mate_, and both of them
-were firing steadily at the _S-18_ when the Sea King flashed over the
+There was a gun both fore and aft on the Iron Mate, and both of them
+were firing steadily at the S-18 when the Sea King flashed over the
 first time.
 
 Pat, leaning over the edge of the cockpit, let a blistering blast of
 fire loose and Tim dropped one of the bombs. It struck a scant 25 yards
-beyond the _Iron Mate_, sending a great spray of water into the air.
+beyond the Iron Mate, sending a great spray of water into the air.
 
 Banking the Sea King sharply, they swept back toward the tramp steamer.
 Men were running excitedly about the deck for the attack from the air
@@ -5100,25 +5028,21 @@ ship badly damaged.
 Once more the Sea King, struts and wires screaming vengeance, swept
 down. Again Tim scored a hit, the blast from the third bomb leveling
 the stubby masts and the funnel. The deck of the ship was strewn with
-wreckage and the _Iron Mate_ was definitely out of commission as far as
+wreckage and the Iron Mate was definitely out of commission as far as
 any more fighting was concerned.
 
 Tim landed the Sea King inside the barrier of reefs and taxied
-alongside the _S-18_.
+alongside the S-18.
 
 "Splendid work," shouted Commander Ford, and the others in the crew
 were loud in their praise.
 
 Tim and Pat made the Sea King fast again at its moorings and rowed back
-to the submarine. In the distance the _Iron Mate_ was painfully limping
+to the submarine. In the distance the Iron Mate was painfully limping
 away from the scene.
 
-CHAPTER TWENTY-TWO
-
-Trapped
-
-With the menace of the _Iron Mate_ definitely removed from their
-thoughts, the crew of the _S-18_ turned their full attention to the
+With the menace of the Iron Mate definitely removed from their
+thoughts, the crew of the S-18 turned their full attention to the
 task of retrieving the treasure in the Southern Queen.
 
 Mess that noon was a hasty meal with Commander Ford and the chief
@@ -5149,13 +5073,13 @@ compartment seems to be all right."
 "Tell them we're going down."
 
 Commander Ford hastened back to the control room. From the rear of the
-_S-18_ came the hum of the powerful electrics. Tim felt the submarine
+S-18 came the hum of the powerful electrics. Tim felt the submarine
 move slightly. They were going down, going to the bottom of the
 treacherous bay in search of a fortune in gold, a fortune which had
 been under water for eleven years.
 
 The special diving compartment in which Charlie and Russ were seated
-filled with water. Gently the _S-18_ eased toward the bottom, scarcely
+filled with water. Gently the S-18 eased toward the bottom, scarcely
 more than a foot at a time.
 
 Ten, twenty, thirty, forty feet they went down. Tim watched the gauges
@@ -5164,7 +5088,7 @@ fascinated.
 The two divers, in their heavily armored suits, sat quietly in their
 compartment as the pressure increased with the depth.
 
-The 100-foot mark was passed. Still the _S-18_ was going down. Roy
+The 100-foot mark was passed. Still the S-18 was going down. Roy
 Gould snapped on a switch. Powerful searchlights set in the outer hull
 especially for this operation cut the blackness of the water. Strange
 fish blinked their eyes and scuttled away from this monster which was
@@ -5178,12 +5102,12 @@ descending almost on top of the Southern Queen.
 A stubby funnel, rising at a crazy angle, was next, and ahead of that
 Tim thought he could glimpse the battered bridge.
 
-The motion of the _S-18_ was almost imperceptible now. The divers,
+The motion of the S-18 was almost imperceptible now. The divers,
 watching the descent closely, were giving orders which Earl Bell
 relayed on to the control room.
 
 The main deck of the Southern Queen, now heavily encrusted with sea
-growth, came into view and the _S-18_ slid lower. There was a gentle
+growth, came into view and the S-18 slid lower. There was a gentle
 bump as it touched the bottom.
 
 Commander Ford came forward and took the telephone from Earl. There was
@@ -5221,7 +5145,7 @@ each word low but distinct.
 Eagerly they waited for the next message from the interior of the
 Southern Queen. Would the divers be able to get into the strong room?
 Would the treasure be there? A dozen questions hammered through the
-mind of every man aboard the _S-18_.
+mind of every man aboard the S-18.
 
 Roy Gould checked the even flow of air through the air lines. It was
 the life blood for the men outside. Once that stopped they wouldn't
@@ -5235,7 +5159,7 @@ Then he turned toward them, his voice hoarse with excitement.
 
 "They're in the strong room; they've found the treasure!"
 
-His words echoed the length of the _S-18_ and a shout went up from the
+His words echoed the length of the S-18 and a shout went up from the
 crew.
 
 "Charlie Gill says someone must have made an attempt to get the
@@ -5245,7 +5169,7 @@ They're bringing them out now."
 
 Minutes passed as the divers, each carrying a steel chest, made their
 way out of the interior of the Southern Queen and back along the side
-of the _S-18_.
+of the S-18.
 
 Tim's keen eyes were the first to see them. Russ Graham was ahead, his
 arms wrapped around a rusty steel chest. Close behind came Charlie
@@ -5271,7 +5195,7 @@ Ike Green came running forward from his radio room.
 "My microphones are picking up all kinds of noises within the last two
 minutes."
 
-A slight tremor ran through the hull of the _S-18_.
+A slight tremor ran through the hull of the S-18.
 
 Commander Ford shouted into the telephone.
 
@@ -5288,7 +5212,7 @@ outer doors snapped shut.
 the hull of the Southern Queen at once," snapped Commander Ford.
 
 Men hastened back to their posts, but before they could get there, the
-_S-18_ moved again. From the outside there was the sound of metal
+S-18 moved again. From the outside there was the sound of metal
 scraping against metal. Then silence.
 
 They took their places, diving planes were adjusted for the ascent and
@@ -5302,10 +5226,6 @@ Earl Bell came into the control room.
 "You might as well shut off the motors and save the air," he said
 dully. "That last shock put a part of the hull of the Southern Queen on
 top of us. We're trapped."
-
-CHAPTER TWENTY-THREE
-
-Desperate Hours
 
 The men in the control room stared at Bell with unbelieving eyes.
 
@@ -5353,7 +5273,7 @@ fashion on the floor of the outer diving compartment. All thought of
 the treasure had left their minds now. The one desire was to get back
 to the surface.
 
-The _S-18_ quivered occasionally as new earth shocks rocked the bottom
+The S-18 quivered occasionally as new earth shocks rocked the bottom
 of the ocean.
 
 Commander Ford put down the headset and turned back toward the control
@@ -5370,7 +5290,7 @@ struggled out of their diving suits.
 Commander Ford called them to one side, and they conversed at length.
 Tim caught only snatches of the conversation, but it was enough to tell
 him that their situation was almost hopeless. Already the air inside
-the _S-18_ seemed heavy and his head ached miserably.
+the S-18 seemed heavy and his head ached miserably.
 
 "How long can we last?" he asked Pat, who was standing by in the
 control room.
@@ -5393,15 +5313,15 @@ Commander Ford decided upon a desperate plane of action. A special bomb
 with a time fuse was rigged and Charlie Gill donned his diving suit
 again and went outside. They saw him working his way along the hull of
 the Southern Queen. Somewhere out there he would plant the bomb in the
-hope that the explosion would loosen the wreckage and allow the _S-18_
+hope that the explosion would loosen the wreckage and allow the S-18
 to shoot toward the surface.
 
 Fifteen minutes later he was back. In five more minutes the bomb would
 go off. Tim literally counted every second. The crew waited at their
-posts and the motors were ready to push the _S-18_ toward the surface
+posts and the motors were ready to push the S-18 toward the surface
 if they broke free.
 
-The _S-18_ shook slightly. The propellers threshed madly, but there was
+The S-18 shook slightly. The propellers threshed madly, but there was
 no upward movement.
 
 This time Russ Graham went outside. When he came back he shook his head.
@@ -5410,15 +5330,15 @@ This time Russ Graham went outside. When he came back he shook his head.
 of nitro at this depth and we haven't any nitro."
 
 Despair lined the face of every man who heard those words. Most of them
-were submarine men, and they knew what was ahead--bad air, headaches,
-dimming lights, then darkness for the _S-18_ and for them.
+were submarine men, and they knew what was ahead—bad air, headaches,
+dimming lights, then darkness for the S-18 and for them.
 
 "We might as well save the electricity," said Commander Ford. Lights
 were turned off until only one bulb gleamed in each compartment.
 
 Some of the men got together a meal. Tim didn't feel like eating. Still
 true to the code of reporters, he sat down and with pencil and paper
-wrote the story of the last dive of the _S-18_. For an hour he wrote.
+wrote the story of the last dive of the S-18. For an hour he wrote.
 Time meant nothing to the men now. The end would come when the light
 faded and the air gave out.
 
@@ -5440,17 +5360,17 @@ the water splashing on the floor.
 
 The light was dimmer, only a faint glow now. Then it was gone. Writing
 was a thing of the past, but in his hands he held the record of their
-tragedy. Perhaps someday the _S-18_ would be found and their story
+tragedy. Perhaps someday the S-18 would be found and their story
 known.
 
 Tim fumbled for his blankets. The air was cold. He laid down on the
 bunk. Up ahead was the steady splashing of the water. Back of him a man
-was quietly praying.
+was quietly invoking.
 
 Tim closed his eyes. His head was splitting. Perhaps sleep would bring
 peace.
 
-There was no sound in the _S-18_ except the low breathing of men who
+There was no sound in the S-18 except the low breathing of men who
 were saving every precious breath and the sound of the water coming in
 through the opened seam.
 
@@ -5465,7 +5385,7 @@ Another half hour, not much longer.
 
 An occasional earth tremor could be felt, but they were less distinct.
 
-Tim was on the verge of unconsciousness when the _S-18_ rocked sharply
+Tim was on the verge of unconsciousness when the S-18 rocked sharply
 as though a giant hand had grasped the conning tower and was shaking
 the big undersea craft in a playful manner. There was the faint sound
 of scraping metal, followed by another shock which threw men from their
@@ -5483,7 +5403,7 @@ someone knocked him down. Pat was shouting wildly.
 Men paused, dazed by the words. Gradually the meaning penetrated their
 fagged brains and through the darkness they hunted for their places.
 
-Pat was right. Without power of its own, the _S-18_ was moving. Slowly
+Pat was right. Without power of its own, the S-18 was moving. Slowly
 at first, then with an upward rush that tumbled them about like
 jack-straws. The slim nose burst through the water and rose above the
 surface.
@@ -5494,7 +5414,7 @@ down into grateful faces. One by one the men crawled out on the deck.
 
 It was the dawn of the second day. They had been saved from death below
 the surface, saved by an earthquake which had shifted the wreckage of
-the Southern Queen off the hull of the _S-18_.
+the Southern Queen off the hull of the S-18.
 
 Tim looked toward the Isle of the Singing Trees. The seaplane was
 riding safely just off the beach. It was less than 48 hours since they
@@ -5502,13 +5422,13 @@ had gone below but he had lived a lifetime in those desperate hours of
 darkness and despair.
 
 For half an hour they relaxed, basking in the sunshine of the early
-morning. Then they set about making the _S-18_ ready for the long
+morning. Then they set about making the S-18 ready for the long
 cruise back to New York.
 
 Tim, remembering the story he had written while they were on the
 bottom, plunged below. Part of the paper was wet, but Ike Green decided
 he could read it and he sat down at the radio to transmit it to the New
-York Journal and the Atkinson _News_.
+York Journal and the Atkinson News.
 
 "I'm sending a story on the recovery of the treasure," Tim said to
 Commander Ford. "How much shall I say the gold totals?"
@@ -5520,17 +5440,17 @@ means a tidy sum for every member of the crew."
 replied Tim.
 
 "Neither would I," agreed the Commander. "It was little short of a
-miracle that saved us from death."
+manifestation that saved us from death."
 
 Out of the air crackled a message that afternoon. It was from George
 Carson, back in Atkinson.
 
 "Your story is the best of the year," radioed the managing editor of
-the _News_. "Congratulations on a fine piece of writing, but don't take
+the News. "Congratulations on a fine piece of writing, but don't take
 any more chances by going down in a submarine."
 
 Tim slipped the message in a pocket. It had been a great adventure,
 more thrilling by far than he had ever dared to dream, but he would be
-glad when the _S-18_ nosed its way back into New York harbor.
+glad when the S-18 nosed its way back into New York harbor.
 
 THE END

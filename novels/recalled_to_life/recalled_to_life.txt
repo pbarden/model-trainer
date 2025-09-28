@@ -1,16 +1,10 @@
-Title: Recalled to life
-
-Author: Robert Silverberg
-
-CHAPTER I
-
 That morning James Harker was not expecting anything unusual to
 happen. He had painstakingly taught himself, these six months since
 the election, not to expect anything. He had returned to private law
 practice, and the Governorship and all such things were now bright
 memories, growing dimmer each month.
 
-_Morning of an Ex-Governor._ There was plenty to do: the Bryant
+Morning of an Ex-Governor. There was plenty to do: the Bryant
 trust-fund business was due for a hearing next Thursday, and before
 that time Harker had to get his case in order. A pitiful thing: old
 Bryant, one of the glorious pioneers of space travel, assailed by
@@ -27,17 +21,17 @@ His secretary primly replied, "Do you mean Mr. Harker?"
 
 "That's right."
 
-"Oh. He--he doesn't like to be called the Governor, you know. Do you
+"Oh. He—he doesn't like to be called the Governor, you know. Do you
 have an appointment with him?"
 
-"I'm afraid not. Terribly foolish of me--I didn't realize I'd need one.
-I don't live in New York, you see, and I'm just here for a few hours--"
+"I'm afraid not. Terribly foolish of me—I didn't realize I'd need one.
+I don't live in New York, you see, and I'm just here for a few hours—"
 
 "I'm extremely sorry, sir. I cannot permit you to see Mr. Harker
-without an appointment. He's _extremely_ busy."
+without an appointment. He's extremely busy."
 
 "I'm quite aware of that," came the nervous, oddly edgy voice. "But
-it's something of an emergency, and--"
+it's something of an emergency, and—"
 
 "Dreadfully sorry, sir. Won't you phone for an appointment?"
 
@@ -50,12 +44,12 @@ he found himself positively yearning to be interrupted.
 He leaned forward and said, "Joan, I'm not very busy right now. Suppose
 you send the gentleman in."
 
-"Oh--uh--Mr. Harker. Of course, Mr. Harker." She sounded startled and
+"Oh—uh—Mr. Harker. Of course, Mr. Harker." She sounded startled and
 irritated; perhaps she wanted to scold him for having listened in.
 Harker cut the audio circuit, slipped the Bryant file out of sight,
 cleared his desk, and tried to look keenly awake and responsive.
 
-A timid knock sounded at his office door. Harker pressed the _open_
+A timid knock sounded at his office door. Harker pressed the open
 button; the door split laterally, the segments rising into the ceiling
 and sliding into the floor, and a man in short frock coat and white
 unpressed trousers stepped through, grinning apologetically. A moment
@@ -77,18 +71,18 @@ BELLER RESEARCH
 LABORATORIES
 Litchfield, N. J.
 
-_Dr. Benedict Lurie_
+Dr. Benedict Lurie
 
 Harker frowned in concentration, shook his head, and said, "I'm sorry,
 Dr. Lurie. I'm afraid I've never heard of this particular laboratory."
 
 "Understandable. We don't seek publicity. I'd be very surprised if you
-_had_ heard of us." Lurie's head bobbed boyishly as he spoke; he seemed
+had heard of us." Lurie's head bobbed boyishly as he spoke; he seemed
 about as ill-at-ease a person as Harker had ever met.
 
 "Cigarette?" Harker asked.
 
-"Oh, no--never!"
+"Oh, no—never!"
 
 Grinning, Harker took one himself, squeezed the igniting capsule with
 his index-finger's nail, and put the pack away. He leaned back. Lurie's
@@ -102,14 +96,14 @@ Lurie interspliced his long and slightly quivering fingers, then, as if
 dissatisfied, separated his hands again, crossed his legs, and gripped
 his kneecaps. He blinked and swiveled his chair slightly to the left.
 Sensing that the sun slanting through the window behind the desk was
-bothering Lurie, Harker pressed the _opaque_ button and the room's
+bothering Lurie, Harker pressed the opaque button and the room's
 three windows dimmed.
 
 Lurie said finally, "I'll begin at the beginning, Mr. Harker. The
 Beller Research Laboratories were established in 2024 by a grant from
 the late Darwin F. Beller, of whom you may have heard."
 
-"The oil magnate," Harker said. _And a notorious crank._ The lawyer
+"The oil magnate," Harker said. And a notorious crank. The lawyer
 began to regret his impulsive action in inviting the gawky stranger in
 to see him.
 
@@ -118,10 +112,10 @@ virtually unlimited funds, established us in a secluded area in New
 Jersey, and posed us a scientific problem: could we or could we not
 develop a certain valuable process? I'll be more specific in a moment.
 Let me say that many of the men Mr. Beller assembled for the project
-were openly skeptical of its success, but were willing to try--a
+were openly skeptical of its success, but were willing to try—a
 triumphant demonstration of the scientific frame of mind."
 
-_Or of the willingness to grab a good thing when it comes along_,
+Or of the willingness to grab a good thing when it comes along,
 Harker thought. He had had little experience with scientists, but
 plenty with human beings. Lurie's speech sounded as if it had been
 carefully rehearsed.
@@ -131,7 +125,7 @@ eight years of research, our project has reached the point of success.
 In short, we've developed a workable technique for doing what we had
 hoped to do. Now we need a legal adviser."
 
-Harker became more interested. "This is where _I'm_ to come in, I
+Harker became more interested. "This is where I'm to come in, I
 suppose?"
 
 "Exactly. Our process is, to say the least, a controversial one. We
@@ -139,7 +133,7 @@ foresee multitudes of legal difficulties and other problems."
 
 "I'm not a patent lawyer, Dr. Lurie. That's a highly specialized field
 of which I know very little. I can give you the name of a friend of
-mine--"
+mine—"
 
 "We're not interested in a patent," Lurie said. "We want to give our
 process to mankind without strings. The problem is, will mankind accept
@@ -152,8 +146,6 @@ A funny little smile flickered at the corners of Lurie's wide mouth.
 He said, flatly, "All right. We've developed a process for bringing
 newly-dead people back to life. It works if there's no serious organic
 damage and the body hasn't been dead more than twenty-four hours."
-
-*       *       *       *       *
 
 For a long moment there was silence in Harker's office. Harker sat
 perfectly still, and it seemed to him he could hear the blood pumping
@@ -194,14 +186,14 @@ me to blow up the labs and cut my throat. So we came to you."
 Harker nodded slowly. He had a fairly good idea of whom the three
 others were, judging from the nature of their reactions. He himself
 had made no reaction yet, either visceral or intellectual. A year ago,
-perhaps, he might have reacted differently--but a year ago he had been
+perhaps, he might have reacted differently—but a year ago he had been
 a different person.
 
 He said, "You can expect tremendous opposition to any such invention.
 I can guess that there'll be theological opposition, and plenty of
-hysterical public outbursts. And the implications are immense--a
+hysterical public outbursts. And the implications are immense—a
 new set of medical ethics, for one thing. There'll be a need for
-legislation covering--ah--resurrection." He drummed on the desk with
+legislation covering—ah—return." He drummed on the desk with
 his fingertips, "Whoever agrees to serve as your adviser is taking on a
 giant assignment."
 
@@ -214,19 +206,19 @@ of a bunch of underpaid scientists."
 
 Lurie smiled winningly. "Naturally we would not think of asking you
 to make a decision until you've seen our lab. If you think you're
-interested, a visit could be arranged sometime this week or next--"
+interested, a visit could be arranged sometime this week or next—"
 
 Harker closed his eyes for a moment. He said, "If I accepted, I'd be
 exposing myself to public abuse. I'd become a storm-center, wouldn't I?"
 
 "You should be used to that, Mr. Harker. As a former national political
-figure--"
+figure—"
 
-The _former_ stung. Harker had a sudden glaring vision of his rise
+The former stung. Harker had a sudden glaring vision of his rise
 through the Nat-Lib Party ranks, his outstanding triumph in the 2024
 mayoralty contest, his natural ascension to the gubernatorial post four
-years later--and then, the thumping fall, the retirement into private
-life, the painful packing-away of old aspirations and dreams--
+years later—and then, the thumping fall, the retirement into private
+life, the painful packing-away of old aspirations and dreams—
 
 He nodded wearily. "Yes, I know what it's like to be on the spot. I was
 just wondering whether it's worthwhile to get back on the firing line
@@ -242,7 +234,7 @@ most of the afternoon, if you'd like to call."
 Harker pocketed the card. "I'll let you know," he said.
 
 Lurie rose with typical lack of grace and shambled toward the door.
-Harker pressed the _open_ button and the two halves of the door moved
+Harker pressed the open button and the two halves of the door moved
 into their slots. Rising from the desk, he accompanied Lurie through
 the door and into the outer office. The scientist's stringy frame
 towered five or six inches over Harker's compact, still-lean bulk.
@@ -252,7 +244,7 @@ Harker glanced up at the strangely soft eyes.
 
 "I hope so. Thank you for listening, Governor."
 
-Harker returned to the office, reflecting that the final _Governor_
+Harker returned to the office, reflecting that the final Governor
 had either been savagely unkind or else a bit of unconscious
 absent-mindedness. Either way, he tried to ignore it.
 
@@ -260,7 +252,7 @@ He dumped himself behind his desk, frowning deeply, and dug his thumbs
 into his eyeballs. After a moment he got up, crossed to the portable
 bar, and dialed himself a whiskey sour. He sipped thoughtfully.
 
-_Resurrection._ A crazy, grotesque idea. A frightening one. But science
+Resurrection. A crazy, grotesque idea. A frightening one. But science
 had come up with a method for containing the hundred-million-degree
 fury of a fusion reaction; why not a method for bringing the recent
 dead back to life?
@@ -275,7 +267,7 @@ advocate, arguing their case before the courts of law and of human
 opinion. It was a frighteningly big job, and if the tide swept against
 him he would be carried away.
 
-Then he smiled. _What have I to lose?_
+Then he smiled. What have I to lose?
 
 He eyed the tri-dims of his wife and sons that occupied one corner of
 his desk. His political career, he thought, couldn't be any deader
@@ -288,7 +280,7 @@ investments.
 He had nothing to lose but his good name, and he had already lost most
 of that in the political mess. And he had a whole world to win.
 
-Revival of the dead? _How about a dead career_, Harker wondered. _Can I
+Revival of the dead? How about a dead career, Harker wondered. _Can I
 revive that too?_
 
 Rising from his desk, he paced round the office, pausing to depolarize
@@ -301,7 +293,7 @@ A sudden sharp image came to him: himself, nine years before, standing
 spread-legged on the beach at Riis Park, with Lois staring white-faced
 at him and three-year-old Chris peeking strangely around her legs. It
 was a blisteringly hot day; his skin, to which sand had adhered, was
-red, raw, tender. He heard the booming of the surf, the overhead _zoop_
+red, raw, tender. He heard the booming of the surf, the overhead zoop
 of a Europe-bound rocket, the distant cry of refreshment-venders and
 the nearer laughter of small girls.
 
@@ -310,19 +302,17 @@ and he was crying for the first time in twenty years. He huddled his
 drowned five-year-old daughter to him, and tried to pretend it had not
 happened.
 
-It _had_ happened, and Eva was dead--the girl-child who he had planned
+It had happened, and Eva was dead—the girl-child who he had planned
 would be America's darling when he reached the White House, fifteen
 years or so from now.
 
 That had been nine years ago. Eva would have been nearly fifteen,
 now, flowering into womanhood. He had no daughter. _But she could have
-lived_, Harker thought. _Maybe._
+lived, Harker thought. Maybe._
 
 He returned to his desk and sat quietly for a while. After twenty
 minutes of silent thought he reached for the phone and punched out
 Lurie's number.
-
-CHAPTER II
 
 Harker had an appointment with old Richard Bryant at three that
 afternoon. He was not looking forward to it. Since Bryant was confined
@@ -343,7 +333,7 @@ without thinking of the vast dynamos of the puritron stations every
 ten blocks apart, gulping in tons and tons of city soot each second.
 In his second year as Mayor, the entire Brooklyn puritron assembly had
 "accidentally" conked out for four hours, thanks to some half-forgotten
-labor squabble. Harker remembered the uproar _that_ had caused.
+labor squabble. Harker remembered the uproar that had caused.
 
 At 125th Street he boarded the crosstown monorail and moments later
 found himself disembarking at the Riverside Drive exit. He signaled for
@@ -356,7 +346,7 @@ Watchtower Society. As he stuffed it in the corner disposal-bin, he
 smiled in recollection of that organization's motto: _Millions now
 living will never die._
 
-Gravely he proposed a substitute: _Millions now dead will live again._
+Gravely he proposed a substitute: Millions now dead will live again.
 
 The attendant images effectively choked off the mood of good humor
 that had been stealing over him. He remembered that in only two days
@@ -402,8 +392,8 @@ features. A horde of vultures, Harker thought. He nodded to them with
 professional courtesy and passed on, through the inner rooms, to the
 old man's sick room.
 
-The place was lined with trophies--one room, Harker knew, consisted
-of the cockpit of the _Mars One_, that slender needle of a ship that
+The place was lined with trophies—one room, Harker knew, consisted
+of the cockpit of the Mars One, that slender needle of a ship that
 had borne Rick Bryant to the red planet nearly fifty years ago, an
 epoch-making flight that still stood large in the annals of space
 travel. Trophy cases in the halls held medals, souvenir watches,
@@ -424,7 +414,7 @@ harpy.
 Harker said, "If you'll excuse me, Miss Bryant, your father and I have
 some important business to discuss."
 
-"I'm his daughter. Can't I--"
+"I'm his daughter. Can't I—"
 
 "I'm afraid not," Harker said coldly. He waited while she made her
 proud retreat, then took her seat at the side of the bed.
@@ -432,7 +422,7 @@ proud retreat, then took her seat at the side of the bed.
 "Afternoon, Harker," Bryant said in a tomblike croak.
 
 He was not a pretty sight. He was seventy-three, and could easily
-pass for twice that age--a shrunken, leathery little man with rheumy,
+pass for twice that age—a shrunken, leathery little man with rheumy,
 cataracted eyes and a flat, drooping face. There was little about him
 that was heroic, now. He was just a dying old man.
 
@@ -472,7 +462,7 @@ were a hateful bunch. Bryant had garnered millions from his space
 journey, and had invested the money wisely and well; there had been an
 undignified scramble for the old hero's wealth when a stroke appeared
 to have killed him in '28. He had confounded them all by recovering,
-and by cutting most of them out of his revised will--a document that
+and by cutting most of them out of his revised will—a document that
 was being contested in the courts even while the old man still lived.
 
 At three-thirty, the penguinish doctor knocked discreetly at the
@@ -500,8 +490,6 @@ trophy-cluttered halls to the elevator. It was a depressing place, and
 the sight of the shattered hero always clouded his mind with gloom. He
 was glad to get away.
 
-*       *       *       *       *
-
 Riding a cab downtown to Grand Central, he boarded the 4:13 express
 to Larchmont, and eleven minutes later was leaving the Larchmont tube
 depot and heading in a local cab toward his home. At quarter to five,
@@ -511,7 +499,7 @@ Lois was in the front room, standing on a chair and doing something to
 the ceiling mobile. Silently Harker crept in; standing with arms akimbo
 at the door, he said, "It's high time we junked that antique, darling."
 
-She nearly fell off the chair in surprise. "_Jim!_ What are you--"
+She nearly fell off the chair in surprise. "Jim! What are you—"
 
 "Home early," Harker said. "Had an appointment with old Bryant and the
 medics tossed me out quick, so I came home. Gah! Filthy business, that
@@ -521,8 +509,8 @@ He slipped out of his jacket and loosened his throat-ribbon. He paused
 for a moment at the mirror, staring at himself: the fine, strong
 features, the prematurely iron-gray hair, the searching blue eyes. It
 was the face of a natural leader, an embryo President. But there was
-something else in it now--a coldness around the eyes, a way of quirking
-the corners of his mouth--that showed a defeated man, a man who has
+something else in it now—a coldness around the eyes, a way of quirking
+the corners of his mouth—that showed a defeated man, a man who has
 climbed to the top of his string and toppled back to the ground. With
 forty years of active life ahead of him.
 
@@ -548,8 +536,8 @@ go upstairs and give him some help. I want to talk to Mum."
 
 "Sure, Dad."
 
-When the boy had gone, Harker turned to his wife. Lois at forty--three
-years his junior--was still slim and attractive; her blonde hair had
+When the boy had gone, Harker turned to his wife. Lois at forty—three
+years his junior—was still slim and attractive; her blonde hair had
 lost its sheen and soon would be shading into gray, but she seemed to
 welcome rather than fear the imprint of age.
 
@@ -574,9 +562,9 @@ swirling streaks of red and gold and dark black. He shook it; the
 color-patterns changed. "I mean," he said carefully, "that Eva might
 have been saved, even after the accident."
 
-"They tried to revive her. The pulmotor--"
+"They tried to revive her. The pulmotor—"
 
-"No. Lois, I had a--a person visit me this morning. A certain Dr.
+"No. Lois, I had a—a person visit me this morning. A certain Dr.
 Lurie, from a certain research laboratory in New Jersey. He claims
 they've developed a technique for bringing the dead back to life, and
 he wants me to handle promotion and legal aspects. For a fat fee, may I
@@ -592,24 +580,24 @@ visit their lab on Friday."
 "And you'll take the job, if they've really hit on something?"
 
 Harker nodded. "Sure I'll take it. It's risky, of course, and there's
-sure to be a lot of public clamor in both directions--"
+sure to be a lot of public clamor in both directions—"
 
 "And haven't we had enough of that? Weren't you satisfied when you
 tried to reform the state government, and wound up being read out of
 the party? Jim, do you have to be Quixote all the time?"
 
 Her words had barbs. Harker thought bleakly that being able always to
-see both sides of a question, as he could, was a devil-granted gift.
+see both sides of a question, as he could, was a dark entity-granted gift.
 Wearily he said, "All right. I tried to do something I thought was
 right, and I got my head chopped off as a result. Well, here's my
-second chance--maybe. For all I know they're a bunch of lunatics over
-there. I owe it to myself and to the world to find out--and to help
+second chance—maybe. For all I know they're a bunch of lunatics over
+there. I owe it to myself and to the world to find out—and to help
 them, if I can."
 
-He pointed at the tri-dim of Eva. "Suppose that happened _now_--Eva,
+He pointed at the tri-dim of Eva. "Suppose that happened now—Eva,
 I mean. Wouldn't you want to save her? Or," he said, making his words
 deliberately harsh, "suppose Paul dies. Wouldn't you want to be able to
-call him back from--from wherever he had gone?"
+call him back from—from wherever he had gone?"
 
 For a moment there was silence.
 
@@ -618,12 +606,10 @@ For a moment there was silence.
 Lois shrugged, turning her hands palm outward. "Jim, I don't know. I
 just honestly don't know."
 
-CHAPTER III
-
 At three minutes past two on Friday afternoon Harker's secretary buzzed
 him to let him know Dr. Lurie had arrived. Harker felt momentary
 apprehension. Cautious, even a little conservative by nature, he felt
-uneasy about paying a visit to a laboratory of--for all he knew--mad
+uneasy about paying a visit to a laboratory of—for all he knew—mad
 scientists.
 
 He turned on an amiable grin when Lurie arrived. The scientist looked
@@ -636,7 +622,7 @@ Harker left word at the front desk that he was leaving for the day,
 telling the girl to refer all calls to one of the other partners in the
 firm. He followed Lurie into the gravshaft.
 
-The car idled in the temporary-parking area outside--a long, low,
+The car idled in the temporary-parking area outside—a long, low,
 thrumming '33 turbo-job, sleekly black and coming with a $9,000
 price-tag at the least. There were three men inside. Lurie touched
 a knob; the back door peeled back, and he and Harker got in. Harker
@@ -652,7 +638,7 @@ thought), and sitting at the far side in back was the third, a coolly
 self-possessed individual in unobtrusive black clothes.
 
 The fleshy man at the wheel said, "How do you do, Governor Harker. I'm
-Cal Mitchison--no scientist I, heh-heh! I'm public-liaison man for
+Cal Mitchison—no scientist I, heh-heh! I'm public-liaison man for
 Beller Labs."
 
 Harker smiled relatively courteously.
@@ -675,13 +661,11 @@ capable of displaying any amount of energy or drive when it was needed.
 "And you already know Ben Lurie, of course," Mitchison said. "So we
 might as well get on our way."
 
-*       *       *       *       *
-
 The trip took a little over an hour, with Mitchison making a crosstown
 hop via the 125th Street overpass, then ducking downtown to 110th
-Street and taking the Cathedral Avenue rivertube across the Hudson
+Street and taking the Great Refuge Avenue rivertube across the Hudson
 into New Jersey. The village of Litchfield turned out to be one of
-those Jersey towns of a thousand souls or so that look just like every
+those Jersey towns of a thousand essences or so that look just like every
 other small Jersey town: a railroad siding, a block or two of shopping
 center, bank, post office, then a string of old split-levels rambling
 away from the highway in every direction.
@@ -732,7 +716,7 @@ It was every bit as old-fashioned on the inside as outside.
 The lighting was, of all things, by incandescent bulbs; the
 air-conditioners were noisily evident, and the windows did not have
 opaquing controls. Harker followed the other three into a small,
-untidy, book-lined room--and, suddenly, he realized that Dr. Raymond
+untidy, book-lined room—and, suddenly, he realized that Dr. Raymond
 was taking charge.
 
 "This is my office," Raymond said. "Won't you be seated?"
@@ -785,8 +769,8 @@ Harker moistened his lips nervously. He knew better than to protest,
 but the idea of casually killing animals in the name of science touched
 off a host of involuntary repugnance-reactions in him.
 
-He watched stonily as Vogel fitted a mask over the dog's face--it was a
-big, shaggy animal of indeterminate breed--and attached instruments to
+He watched stonily as Vogel fitted a mask over the dog's face—it was a
+big, shaggy animal of indeterminate breed—and attached instruments to
 its body.
 
 "We're recording heartbeat and respiration," Raymond murmured. "The
@@ -808,7 +792,7 @@ respiration dropped away. At last Vogel looked up and nodded.
 
 "The dog is dead," he declared. "The blood has been drained away. This
 pump will ensure oxygenation of the blood during the period of the
-animal's death. We will now proceed to the next table--"
+animal's death. We will now proceed to the next table—"
 
 Where, Harker saw, another dog had been placed while his attention had
 been riveted on the death scene. This dog lay in a slumped furry heap
@@ -817,7 +801,7 @@ pulled her from the sea. His throat felt terribly dry.
 
 "This animal," Vogel said stiffly, "underwent the killing treatment
 nine hours and thirteen minutes ago. Its blood has been stored during
-that time. Now--"
+that time. Now—"
 
 Spellbound, Harker watched the surgeon's busy hands as he and the
 assistant fastened tubes to the dead animal's body and lowered a
@@ -840,12 +824,12 @@ was fluttering; respiration was beginning. The dog's eyes opened
 wearily. It wagged its tail feebly and almost comically.
 
 Lurie remarked, "For the next several hours the dog will show signs of
-having undergone a serious operation--which it has. In a day or two
-it'll be as good as new--once the stitches have healed, of course. In
+having undergone a serious operation—which it has. In a day or two
+it'll be as good as new—once the stitches have healed, of course. In
 Lab Building Two we can show you dozens of dogs that have been through
-the killing process and were returned to life, happy, hearty--"
+the killing process and were returned to life, happy, hearty—"
 
-"This dog," Raymond said calmly, "is the _son_ of a dog we temporarily
+"This dog," Raymond said calmly, "is the son of a dog we temporarily
 'killed' two years ago. The period of death doesn't seem to interfere
 with later mating or with any other life-process."
 
@@ -853,20 +837,20 @@ While they spoke, Vogel was repeating the process of revivification on
 the dog that had been killed twenty minutes before. This time Harker
 watched with less revulsion as life returned to the animal.
 
-In a dry voice he said, "Your experiments--are--well, impressive."
+In a dry voice he said, "Your experiments—are—well, impressive."
 
 Raymond shook his head. "On the contrary. We've merely repeated work
 that was first carried out more than eighty years ago. These techniques
-are far from new. But our application of them to--"
+are far from new. But our application of them to—"
 
-"Yes," Harker said weakly. "To _human_ life. That's--that's the
+"Yes," Harker said weakly. "To human life. That's—that's the
 clincher, I'd say."
 
 Harker realized that Raymond was staring at him coldly, appraisingly,
 as if trying to read his mind before proceeding to the next
 demonstration. Harker felt his face reddening under the scrutiny.
 
-"We're lucky enough to be able to--ah--_clinch_ things," Raymond said.
+"We're lucky enough to be able to—ah—clinch things," Raymond said.
 
 "With a human being?"
 
@@ -888,13 +872,13 @@ dead.
 said. "He died of syncope during an abdominal operation. Would you care
 to examine the body?"
 
-"I'll accept the evidence on faith, thanks."
+"I'll accept the evidence on conviction, thanks."
 
 "As you will. Dr. Vogel, you can begin."
 
 While Vogel worked over the cadaver, Raymond went on, "The process is
 essentially compounded out of techniques used for decades with varying
-success--that is, a combination of pulmotor respiration, artificial
+success—that is, a combination of pulmotor respiration, artificial
 heart massage, hormone injection, and electrochemical stimulation. The
 last two are the keys to the process: you can massage a heart for days
 and keep it pumping blood, but that isn't restoration of life."
@@ -907,7 +891,7 @@ best men in the nation. A hormone, you know, is a kind of chemical
 messenger. We've synthesized the hormones that tell the body it's
 alive. Of course, the electrochemical stimulation is important: the
 brain's activity is essentially electrical in nature, you know. And so
-we devised techniques which--"
+we devised techniques which—"
 
 "Ready, Dr. Raymond."
 
@@ -956,14 +940,12 @@ together.
 "I guess we did it," Vogel said.
 
 The dead man's arms moved slowly. His eyelids fluttered, but the
-anesthetic ensured continued unconsciousness. His lips parted--and the
+anesthetic ensured continued unconsciousness. His lips parted—and the
 soft groan that came forth was, for Harker, the clincher he had been
 half-hoping would not be forthcoming.
 
 The man groaned again. Harker felt suddenly weary, and turned his head
 away.
-
-CHAPTER IV
 
 Harker's shock reaction was violent, instinctive, and brief. He
 quivered uncontrollably, put his hands to his face, and started to lose
@@ -983,7 +965,7 @@ shot for Harker, a single for himself, and replaced the bottle.
 "Drink up. Straight."
 
 Harker swallowed the liquor in two frantic gulps. He gasped, grinned
-again, and shakily set down the glass. "God. I'm roasting in my own
+again, and shakily set down the glass. "Entity. I'm roasting in my own
 sweat."
 
 "It isn't a pleasant sight the first time, I guess. I wish I could
@@ -1026,15 +1008,13 @@ to check.
 
 Raymond smiled and reached into his desk. He handed Harker a check
 drawn on a Manhattan bank for $2,400, payable to James Harker, and
-signed _Simeon Barchet, Treasurer_.
+signed Simeon Barchet, Treasurer.
 
 "What's this?"
 
 "That's four weeks salary, in advance. Barchet's the trustee who
 administers the Beller Fund. I had him write the check yesterday. I was
 pretty confident you'd join us, you see."
-
-*       *       *       *       *
 
 Harker spent a quietly tense weekend at home with his family. He told
 Lois about the assignment, of course; he never kept things from her,
@@ -1060,7 +1040,7 @@ reaction of the organized churches will be, and what political capital
 will be made. More likely than not the parties will take opposite
 stands. Somebody will dig up the fact that I used to be a National
 Liberal bigwig, and that'll enter into the situation. After a while
-it'll become so confused by side-issues that--" He stopped. "I don't
+it'll become so confused by side-issues that—" He stopped. "I don't
 sound very enthusiastic about this job, do I?"
 
 "No," Lois said. "You don't."
@@ -1072,8 +1052,6 @@ sound very enthusiastic about this job, do I?"
 
 Harker shook his head. "I'm trying not to think about them. This is my
 day off, remember?"
-
-*       *       *       *       *
 
 On Monday he polished off his routine work early, by half-past-ten, and
 stepped out of his office. He walked down the beige corridor to the
@@ -1115,7 +1093,7 @@ you take on, Jim. You're a free agent here."
 
 Calmly Harker said, "I thought I'd let you know because the account's
 a controversial one. I want you to realize that I'm doing it on my own
-hook and not as a member of K.H.P. & K. When and if the boomerang comes
+hook and not as a member of K. H. P. & K. When and if the boomerang comes
 around and hits me in the face, I don't want you and Mike and Phil to
 get black eyes too."
 
@@ -1127,7 +1105,7 @@ I ever backed off a hot item, Jim?"
 Kelly leaned forward and turned on all his considerable personal charm.
 "Look here, son, I'm a decade older than you are and a damned sight
 cagier. Maybe you better talk this thing out with me. If you're free
-for lunch--"
+for lunch—"
 
 "I'm not," Harker said doggedly. "Bill, let's drop the whole thing. I
 know what I'm getting into and I didn't come here for advice. Okay?"
@@ -1138,7 +1116,7 @@ you were going to turn the whole State machine upside-down? I warned
 you, and I warn you again, but you don't learn. The only thing that got
 turned upside-down was you."
 
-"So I'm a fool. But at least I'm a _dedicated_ fool."
+"So I'm a fool. But at least I'm a dedicated fool."
 
 "That's the worst kind," Kelly drawled amiably. As Harker started
 to leave the older man's office Kelly added, "Good luck, anyway, on
@@ -1147,11 +1125,11 @@ whatever you're getting your fool feet tangled up in."
 "Thanks, Bill. Sorry I have to be so tight-mouthed."
 
 On his way back to his office he passed the reception-desk; Joan looked
-up at him and said, "Oh, Mr. Harker--call just came in for you. Mr.
+up at him and said, "Oh, Mr. Harker—call just came in for you. Mr.
 Jonathan Bryant's on the phone. He's waiting."
 
 "Switch it into my office," Harker told her. His brows contracted.
-_Jonathan? What does that particular vulture want?_
+Jonathan? What does that particular vulture want?
 
 Harker cut round the desks in the outer office and let himself into
 his sanctum. He activated the phone. There was the usual three-second
@@ -1169,7 +1147,7 @@ about it."
 
 "Go ahead," Harker said. "Gloat all you want, if it gives you pleasure.
 Your father's will is unbreakable, and you know it damn well. All this
-stalling--"
+stalling—"
 
 "Legal delay," Jonathan corrected.
 
@@ -1182,33 +1160,31 @@ out. It'll save a lot of heartache for all of us, him included."
 "Harker, you lousy politico, you should have been debarred twenty years
 ago."
 
-"The word you want to use is _disbarred_," Harker said coldly.
+"The word you want to use is disbarred," Harker said coldly.
 "Suppose you get off my line and stop bothering me now? I'd call you a
 filthy jackal except that I'm too busy for slander suits just now, even
 suits that I'd win."
 
-Angrily he snapped off contact and the screen blanked. _Nuisance_, he
+Angrily he snapped off contact and the screen blanked. Nuisance, he
 thought, referring both to Jonathan and to the postponement of the
 hearing. He didn't seriously believe that the Bryant heirs were going
 to upset the old man's will, and the quicker he got the case off his
 personal docket the faster he would be free for full-time work on the
 Beller Labs account.
 
-*       *       *       *       *
-
 He took a doodlepad from his desk and scrawled three names on it:
 
-_Winstead._
+Winstead.
 
-_Thurman._
+Thurman.
 
-_Msgnr. Carteret._
+Msgnr. Carteret.
 
 Leo Winstead was the man who had succeeded him in the Governor's
-mansion in Albany--a steady, reliable National-Liberal party-line man,
+mansion in Albany—a steady, reliable National-Liberal party-line man,
 flexible and open in his views but loyal to the good old machine. He
 would be one of the first men Harker would have to see; Winstead would
-give him the probable Nat-Lib party line on the resurrection gimmick,
+give him the probable Nat-Lib party line on the return gimmick,
 and he could be trusted to keep things to himself until given the
 official release.
 
@@ -1230,9 +1206,9 @@ likely candidate for an Archepiscopacy and beyond that the red hat.
 
 Harker had met Father Carteret through Kelly. While he was no Catholic
 himself, nor currently a member of any other organized group, Harker
-had struck up a close friendship with the priest. He could rely on
+had struck up a close friendship with the keeper. He could rely on
 Carteret to give him an accurate and confidential appraisal of the
-possible Church reaction to announcement of a successful technique for
+possible Refuge reaction to announcement of a successful technique for
 resuscitating the dead.
 
 Harker ripped the sheet off the doodlepad and pocketed it. He hung
@@ -1248,7 +1224,7 @@ A pleasantly monkish face appeared on the screen after several rings.
 
 "I'd like to speak to Father Carteret, please. My name is James Harker."
 
-"Pardon, Mr. Harker. Father Carteret is in conference with Bishop
+"Pardon, Mr. Harker. Father Carteret is in conference with Prelate
 O'Loughlin. Would you care to have him call you when he's free?"
 
 "When will that be?"
@@ -1274,7 +1250,7 @@ face of David Klaus appeared on the screen.
 in an hour or so."
 
 Harker frowned impatiently; he had taken an immediate dislike to this
-jittery little enzyme researcher. He said, "You tell Raymond--"
+jittery little enzyme researcher. He said, "You tell Raymond—"
 
 "Just a minute," a new voice said. There was confusion on the screen
 for an instant; then Klaus' face disappeared and the precise, tranquil
@@ -1290,7 +1266,7 @@ inaccurate, Mr. Harker. What's on your mind?"
 I'm lining up interviews with key people for today and tomorrow as a
 preliminary investigation of your legal situation."
 
-"Good. By the way--Mitchison's prepared some publicity handouts on the
+"Good. By the way—Mitchison's prepared some publicity handouts on the
 process. He wants you to okay them before we send them to the papers."
 
 Harker repressed a strangled cough. "Okay them? Listen, Mart, that's
@@ -1298,7 +1274,7 @@ exactly why I called. My first official instruction is that the present
 wrap of ultra-security is to continue unabated until I'm ready to lift
 it. Tell that to Mitchison and tell him in spades."
 
-Raymond smiled evenly. "Of course--Jim. All secrecy wraps on until you
+Raymond smiled evenly. "Of course—Jim. All secrecy wraps on until you
 give the word. I'll let Mitchison know."
 
 "Good. I'll be out at the lab sometime between here and Wednesday to
@@ -1310,14 +1286,12 @@ Harker broke contact and stared puzzledly at the tips of his fingers
 for a moment. His uneasiness widened. His original suspicion that
 behind the smooth facade of the Beller Research Laboratories lay
 possible dissension was heightened by Klaus' peculiar behavior on the
-phone--and the idea of Mitchison doing anything as premature as sending
+phone—and the idea of Mitchison doing anything as premature as sending
 out press handouts now, before the ground had been surveyed and the ice
 broken, gave him the cold running shudders.
 
 It was going to be enough of a job putting this thing across as it
-was--without tripping over the outstretched toes of his employers.
-
-CHAPTER V
+was—without tripping over the outstretched toes of his employers.
 
 Monseigneur Carteret's private office reminded Harker of Mart
 Raymond's. Like Raymond's, it was small, and like Raymond's it was
@@ -1326,7 +1300,7 @@ old and well-worn. As a concession to the 21st century Carteret had
 installed a video pickup and a telescreen attachment to go with his
 phone. A small crucifix hung on the one wall not encumbered with books.
 
-Carteret leaned forward and peered curiously at Harker. The priest,
+Carteret leaned forward and peered curiously at Harker. The keeper,
 Harker knew, suffered from presbyopia. He was a lean man with the sharp
 facial contours of an ascetic: upthrust cheekbones, lowering brows,
 grizzled close-cropped hair turning gray. His lips were fleshless, pale.
@@ -1335,15 +1309,15 @@ Harker said, "I have to apologize for insisting on such a prompt
 audience, Father."
 
 Carteret frowned reprovingly. "You told me yesterday it was an urgent
-matter. To me urgency means--well, _urgency_. My column for the
-_Intelligencer_ can wait a few hours, I guess."
+matter. To me urgency means—well, urgency. My column for the
+Intelligencer can wait a few hours, I guess."
 
 His voice was dramatically resonant. He flashed his famous smile.
 
 Harker said, "Fair enough. I'm here seeking an ecclesiastical opinion."
 
-"I'll do my best. You understand that any _real_ opinion on a serious
-matter would have to come from the Bishop, not from me--and ultimately
+"I'll do my best. You understand that any real opinion on a serious
+matter would have to come from the Prelate, not from me—and ultimately
 from Rome."
 
 "I know that. I wouldn't want this to get to Rome just yet. I want a
@@ -1351,31 +1325,31 @@ private, off-the-record statement from you."
 
 "I'll try. Go ahead."
 
-Harker took a deep breath. "Father, what's the official Church position
-on resurrection of the dead? Actual physical resurrection here and now,
+Harker took a deep breath. "Father, what's the official Refuge position
+on return of the dead? Actual physical return here and now,
 I mean, not the Last Trump."
 
-Carteret's eyes twinkled. "Officially? Well, I've never heard Jesus
+Carteret's eyes twinkled. "Officially? Well, I've never heard The Chosen One
 being condemned for raising Lazarus. And on the third day after the
-crucifixion Jesus Himself was raised, if that's what you mean. I don't
-see--"
+crucifixion The Chosen One Himself was raised, if that's what you mean. I don't
+see—"
 
-"Let me make myself clear," Harker said. "The resurrections of Jesus
-and of Lazarus both fall into the miracle category. Suppose--suppose
+"Let me make myself clear," Harker said. "The resurrections of The Chosen One
+and of Lazarus both fall into the manifestation category. Suppose—suppose
 a mortal being, a doctor, could take a man who had been dead eight or
 nine hours, or even a day, and bring him back to life."
 
 Carteret looked momentarily troubled. "You speak hypothetically, of
 course." When Harker did not answer he went on, "Our doctrine holds
 that death occurs at the moment of 'complete and definitive separation
-of body and soul.' Presumably the process you discuss makes no
-provision for restoring the soul."
+of body and essence.' Presumably the process you discuss makes no
+provision for restoring the essence."
 
 Harker shrugged. "I'm not capable to judge that. Neither, I'd say, are
-the men who have developed this--ah--hypothetical process."
+the men who have developed this—ah—hypothetical process."
 
-"In that case," Carteret said, "the official Church position would be
-that any human beings revived by this method would be without souls,
+"In that case," Carteret said, "the official Refuge position would be
+that any human beings revived by this method would be without essences,
 and therefore no longer human. The whole procedure would be considered
 profoundly irreligious."
 
@@ -1386,12 +1360,12 @@ profoundly irreligious."
 Harker was silent for a moment. He said at length, "How about
 artificial respiration, heart massage, adrenalin injections? For
 decades seemingly dead people have been brought back to life with these
-techniques. Are _they_ all without souls too?"
+techniques. Are they all without essences too?"
 
 Carteret seemed to squirm. His strong fingers toyed with a cruciform
 paperweight on his desk. "I recall a statement of Pius XII, eighty or
-ninety years ago, about that. The Pope admitted that it was impossible
-to tell precisely when the soul had left the body--and that so long as
+ninety years ago, about that. The Supreme Keeper admitted that it was impossible
+to tell precisely when the essence had left the body—and that so long as
 the vital functions maintained themselves, it could be held that the
 person in question was not dead."
 
@@ -1401,8 +1375,8 @@ successfully, the patient is considered never to have been dead?"
 Carteret nodded slowly.
 
 "But if the patient had been pronounced dead by science and left
-in that state for half a day or more, and _then_ reanimated by a
-hypothetical new technique--?"
+in that state for half a day or more, and then reanimated by a
+hypothetical new technique—?"
 
 "In that case there has been a definite discontinuity of the
 life-process," Carteret said. "I may be wrong, but I can't see how the
@@ -1410,19 +1384,19 @@ Vatican could give such a technique its approval."
 
 "Ever?"
 
-Carteret smiled. "Jim, it's a verity that the Church is founded
+Carteret smiled. "Jim, it's a verity that the Refuge is founded
 on a Rock, but that doesn't mean our heads are made of stone. No
 organization lasts two thousand years without being susceptible to
 change. If in the course of time we're shown that a reanimation
-technique restores both body _and_ soul, no doubt we'll give it
+technique restores both body and essence, no doubt we'll give it
 approval. At present, though, I can foresee only one outcome."
 
-Harker knotted his fingers together tensely. The priest's response had
+Harker knotted his fingers together tensely. The keeper's response had
 not been a surprise to him, but he had hoped for some wild loophole. If
 any loophole existed, Carteret would have found it.
 
 Quietly he said, "All right, Father. I'll put my cards on the table
-now. Such a process _has_ been invented. I've seen it work. I've been
+now. Such a process has been invented. I've seen it work. I've been
 retained as legal adviser for the group that developed it, and I'm
 shopping around for religious and secular opinions before I let them
 spring the news on the public."
@@ -1435,21 +1409,21 @@ one?"
 "Drop it. Get out of this thing as fast as you can. You're asking for
 trouble."
 
-"I know that. But I can only see this process as a force for good--for
+"I know that. But I can only see this process as a force for good—for
 minimizing tragedy in everyday life."
 
 "Naturally. And I could offer you six arguments showing how it'll
-_increase_ suffering. Is it a complex technique requiring skilled
+increase suffering. Is it a complex technique requiring skilled
 operators?"
 
-"Yes, but--"
+"Yes, but—"
 
-"In that case it won't be available to everybody right away. Are _you_
+"In that case it won't be available to everybody right away. Are you
 going to decide who lives and who stays dead? Suppose you're faced with
 the choice between a good and virtuous nobody or an evil but talented
 creative artist."
 
-"I know. _The Doctor's Dilemma_. I don't have any slick answers to
+"I know. The Doctor's Dilemma. I don't have any slick answers to
 that, Father. But I still don't think it's any reason to suppress this
 thing."
 
@@ -1459,16 +1433,16 @@ religious groups. Jim, listen to me: you had a wonderful career once.
 You wrecked it. But now you're continuing your headstrong ways right to
 the point of self-destruction."
 
-"Which is frowned upon by your Church," Harker snapped, irritated.
-"But--"
+"Which is frowned upon by your Refuge," Harker snapped, irritated.
+"But—"
 
-"I'm not talking about my Church!" Carteret thundered. "I'm talking
+"I'm not talking about my Refuge!" Carteret thundered. "I'm talking
 about you, your family, the rest of your life. You're getting into very
 deep waters."
 
 "I'll shoulder the responsibility myself."
 
-"I wish you could," the priest murmured. "I wish any of us could. But
+"I wish you could," the keeper murmured. "I wish any of us could. But
 we can't ever do that, of course."
 
 He shrugged, "Go in peace, Jim. Any time you want to talk to me, just
@@ -1484,14 +1458,12 @@ Chuckling, Harker opened the door and stood at the threshold a moment.
 "Thanks for talking to me, Father. Even if I can't agree with you."
 
 "I'm used to disagreement," Carteret said. "If everyone who came in
-here agreed with everything I said, I think I'd lose my faith. So
+here agreed with everything I said, I think I'd lose my conviction. So
 long, Jim."
 
 "Good-bye, Father."
 
-*       *       *       *       *
-
-Harker emerged on the steps of the old cathedral where Carteret had his
+Harker emerged on the steps of the old great refuge where Carteret had his
 office, paused for a few deep breaths, and looked around. Fifth Avenue
 was humming with activity, here at noontime on a Tuesday in mid-month.
 
@@ -1506,14 +1478,14 @@ importance, each blithely shortening his life-span with each new ulcer
 and each new deposit of cholesterol in the arteries. Well, before long
 it would be possible to bring these fat executives back to life each
 time they keeled over, Harker thought. What a frantic speedup would
-result _then_!
+result then!
 
 He bought a round-trip ticket to Litchfield, put through a call to the
 laboratory, and boarded the slim graceful yellow-hulled bullet that was
 the New Jersey monobus. He sat back, cushioning himself against the
 first jolt of acceleration, and waited for departure.
 
-The eleventh commandment: _Thou need not die._ Harker shivered a little
+The eleventh commandment: Thou need not die. Harker shivered a little
 at the magnitude of the Beller project; each day he realized a little
 more deeply the true awesome nature of the whole breakthrough.
 
@@ -1522,24 +1494,24 @@ the big black limousine. Harker climbed in, sitting next to the
 public-relations man on the front seat.
 
 "Well?" Mitchison jammed his cigar into one corner of his mouth. "What
-did the padr  have to say?"
+did the padr have to say?"
 
 "Precisely what we all expected."
 
 "Nix?"
 
 "Double-double nix with molasses and cherries on top," Harker said.
-"His unofficial feeling is that the Church will ixnay this thing the
+"His unofficial feeling is that the Refuge will ixnay this thing the
 second it's announced."
 
-"Umm. Take some heavy thinking to cancel _that_ out. How about the
+"Umm. Take some heavy thinking to cancel that out. How about the
 politicos?"
 
 The car pulled into the Beller Labs' private road. Harker said, "I'm
 going to Albany later in the week to see Governor Winstead. After him
-I'll go after Senator Thurman. Depending on what they say--"
+I'll go after Senator Thurman. Depending on what they say—"
 
-"The hell with that," Mitchison growled. "When do you figure we can
+"The shadow realm with that," Mitchison growled. "When do you figure we can
 release this thing to the public?"
 
 Harker turned round in his seat. In a level voice he said, "When
@@ -1571,7 +1543,7 @@ think we've met, have we?"
 Administrator of the Beller Fund."
 
 Harker smiled at the little man and looked past him to Raymond. He
-shook his head. "It's no go, Mart. The Father says the Church will
+shook his head. "It's no go, Mart. The Father says the Refuge will
 oppose us."
 
 Raymond shrugged. "We could have figured on that, I guess. What's the
@@ -1601,23 +1573,23 @@ Mitchison?"
 "I'll be blunt," Harker said. "I'd like to bounce him. He does not seem
 very capable and he's awfully trigger-happy about releasing data on the
 project. If it's okay with you, I'd like to bring in a couple of the
-boys who handled my gubernatorial campaign. They--"
+boys who handled my gubernatorial campaign. They—"
 
 Interrupting icily, Barchet said, "It seems to me we have more than
 enough people of radical political affiliation working for us now.
 Anyone who handled a Nat-Lib campaign would be no asset to our work."
 
-Harker goggled. "_I_ was a Nat-Lib Governor! You hired me, and you
-think that two press-agents--"
+Harker goggled. "I was a Nat-Lib Governor! You hired me, and you
+think that two press-agents—"
 
 "I might as well tell you," Barchet said. "You were hired over my
 positive objections, Mr. Harker. Your party happens to be the one
 in power, but it definitely does not represent the main ideological
 current of American enterprise. And if we succeed in our aims, I like
-to think it will be _despite_ your presence on our team, not because of
+to think it will be despite your presence on our team, not because of
 it."
 
-"Huh? Who the hell--"
+"Huh? Who the shadow realm—"
 
 "Wait a minute, Jim," Raymond cut in. "And you too, Simeon. I don't
 want any fighting in here!"
@@ -1628,24 +1600,24 @@ the best publicity agent money can buy. I will not consent to his
 dismissal."
 
 "You may have to consent to my resignation, then," Harker said angrily.
-"Dammit, Mart, if I knew this outfit was run by--"
+"Dammit, Mart, if I knew this outfit was run by—"
 
 "Watch yourself, Mr. Harker," Barchet warned.
 
 "Calm down, Jim." Raymond disengaged himself from his desk and,
 glowering down at Barchet, said, "Simeon, you know damned well Harker
 was approved by a majority of the shareholders. You have no business
-raising a squabble like this now. He was hired and given free rein--and
+raising a squabble like this now. He was hired and given free rein—and
 if he wants to fire Mitchison, it's within his province."
 
-"I insist on bringing the matter before the Board--and if Mitchison is
+"I insist on bringing the matter before the Board—and if Mitchison is
 dismissed without full vote, I'll cause trouble. Good day, Dr. Raymond."
 
 The little man sailed past Harker without a word and slammed the door.
-Harker grinned and said, "What was _he_ so upset about?"
+Harker grinned and said, "What was he so upset about?"
 
 Raymond slumped wearily behind his desk. "Barchet's the official voice
-of old Beller in this outfit--and Beller was as conservative as they
+of old Beller in this outfit—and Beller was as conservative as they
 come. Barchet thinks you're an arch-radical because you held office
 for the Nat-Libs. And the little bugger carries a lot of weight on the
 Board, so we have to humor him."
@@ -1656,7 +1628,7 @@ did not increase his opinion of Beller Research Laboratories.
 
 "I wouldn't blame you if you quit today," Raymond said suddenly. "With
 Mitchison on pins and needles to give the word to the public, and that
-idiot Klaus battling for my job because he's tired of enzyme work--"
+idiot Klaus battling for my job because he's tired of enzyme work—"
 
 "Klaus? But he's just a kid!"
 
@@ -1666,7 +1638,7 @@ him or he'll put a scalpel in my back."
 
 "Why not fire him?" Harker suggested.
 
-"Two reasons. He's got a contract, for one--and for another I'd rather
+"Two reasons. He's got a contract, for one—and for another I'd rather
 have him with us than agin us, if you know what I mean. Lesser of two
 evils."
 
@@ -1679,15 +1651,13 @@ He reached into the bookshelf and produced the liquor bottle. "One
 quick shot apiece," he said. "Then I want to take you round back to
 show you the rest of the lab."
 
-CHAPTER VI
-
 The grand tour of the laboratory grounds was as disturbing as it was
 stimulating. Seemingly tireless, Raymond marched him through room after
 room where elaborate experiments were going on.
 
 "Serotonin-diffraction goes on in here. This room's plasma research;
 remind me to bring you back some time when the big centrifuge is
-running. Fascinating. This is Klaus' enzyme lab, and down here--"
+running. Fascinating. This is Klaus' enzyme lab, and down here—"
 
 Harker puffed along behind the lab director, listening to the flow
 of unfamiliar terms, dazzled by the array of formidable scientific
@@ -1716,7 +1686,7 @@ office. "It's a busy place."
 Raymond nodded. "We keep it moving. And it gets results. Despite
 everything, it gets results."
 
-_Despite everything._ Harker didn't like the implications of that. He
+Despite everything. Harker didn't like the implications of that. He
 was beginning to form a picture of Raymond as an able man surrounded by
 stumbling-blocks and obstacles, and bulling his way through none the
 less. He wondered how it would be once he got the campaign into full
@@ -1737,14 +1707,14 @@ Harker did not smile. "Then we have a fight."
 "Why do you say that? Can't we just set up an instruction center and
 start resuscitating?"
 
-"Pardon me, Mart, if I say that your approach's a naive one. We _can't_
+"Pardon me, Mart, if I say that your approach's a naive one. We can't
 do any such thing. Not even if you limit use of the apparatus to fully
-qualified M.D.'s. You see, anything as radical as this will have to be
+qualified M. D.'s. You see, anything as radical as this will have to be
 routed through the Federal Health Department, and they'll simply boot
 it on up to the President, and he'll refer it to Congress. What we need
 is a law making use of your technique legal."
 
-"Is there any law saying it's _illegal_ to reanimate the dead?" Raymond
+"Is there any law saying it's illegal to reanimate the dead?" Raymond
 asked.
 
 "Not yet. But you can bet there'll be an attempt to ram one through,
@@ -1757,11 +1727,11 @@ public-relations budget is?"
 Raymond shrugged. "Pretty big. I guess you can have three or four
 hundred thousand, if you need it."
 
-"Three or four hundred _million_ is more in line with what we'll need,"
+"Three or four hundred million is more in line with what we'll need,"
 Harker said. He saw the stunned expression on Raymond's face and added,
 "Certainly at least a million, to begin with."
 
-"But why? Why should it be necessary to _sell_ the idea of restoring
+"But why? Why should it be necessary to sell the idea of restoring
 life? You'd think the people of America would rise up and acclaim us as
 saviors."
 
@@ -1786,8 +1756,6 @@ badly?"
 
 "We'll manage," Harker said tiredly.
 
-*       *       *       *       *
-
 Harker spent the next morning, Wednesday, at his office, tidying
 up unfinished business. The delayer on the Bryant hearing had come
 through, and he read the document carefully, scowled, and jammed it
@@ -1795,7 +1763,7 @@ into his desk drawer. He phoned the Bryant home and learned that the
 old man was very low; the penguinoid doctor refused to let Harker speak
 with him. Harker suspected the fine hand of Jonathan Bryant lurking
 behind that ukase, but there wasn't much he could do about it. The old
-man wasn't going to last forever, anyway--but Harker genuinely wanted
+man wasn't going to last forever, anyway—but Harker genuinely wanted
 him to hold out until after the hearing, at least.
 
 Nasty business. Jonathan had deliberately obtained the stay of hearing
@@ -1811,7 +1779,7 @@ of withdrawn introversion, which made things tough on the children.
 Still, they all were very cooperative about it, Harker thought. He
 hoped he could make it up to them when the pressure let up.
 
-_If_ the pressure ever let up.
+If the pressure ever let up.
 
 Thursday passed slowly. Harker remained at home, in his study, and
 tried to read the books he had brought from the library. He was
@@ -1828,7 +1796,7 @@ A politician's trick, he thought. But what else could he do?
 
 He woke early on Friday, before six, and made breakfast for himself. By
 the time he had turned off the autocook and set the kitchen-servo to
-_mop-up_, Lois and the children were moving about upstairs. They had
+mop-up, Lois and the children were moving about upstairs. They had
 come down for breakfast before he was ready to leave.
 
 "Morning, Dad," Chris said. "Up early, eh?"
@@ -1843,10 +1811,10 @@ Paul appeared, thumbing his eyes, yawning. "Where you going, Daddy?"
 The seven-year-old looked awake immediately. "Albany? Are you Governor
 again, Daddy?"
 
-"_Hush_, stupid!" Chris said savagely.
+"Hush, stupid!" Chris said savagely.
 
 But Harker merely smiled and shook his head. "No, I won't be Governor
-any more, Paul. I'm going to visit Mr. Winstead. _He's_ the Governor
+any more, Paul. I'm going to visit Mr. Winstead. He's the Governor
 now."
 
 "Oh," the boy said gravely.
@@ -1869,7 +1837,7 @@ bus to bring them across the Hudson into Albany proper after the flight.
 
 His appointment with Governor Winstead was for eleven that morning.
 Declining the public transport service, Harker walked through town to
-the governor's mansion--a walk that he had come to know well, in his
+the governor's mansion—a walk that he had come to know well, in his
 four years in Albany.
 
 The town hadn't changed much. Still third-rate, dirty, bedraggled;
@@ -1881,11 +1849,9 @@ American-Conservative Party, whose New York stronghold Albany was.
 He smiled at the memory. He had fought so many losing battles, in his
 four years as Governor.
 
-*       *       *       *       *
-
 The guards at Winstead's mansion recognized him, of course, and tipped
 their hats. Harker grinned amiably at them and passed through, but he
-felt inward discomfort. _Their_ jobs were pegged down by civil-service
+felt inward discomfort. Their jobs were pegged down by civil-service
 regulations; his had not been, and he had lost it. In an odd way it
 made him feel inferior.
 
@@ -1901,7 +1867,7 @@ abashed smile.
 
 Harker experienced a moment of disorientation as he took a seat facing
 Winstead across the big desk that had been his until a few months ago.
-It was strange to find himself sitting on _this_ side of the desk.
+It was strange to find himself sitting on this side of the desk.
 
 He looked for ways to begin saying what he had come here to say. He
 sensed the other man's deep embarrassment, and shared it in a way,
@@ -1924,7 +1890,7 @@ using the Governorship as a spring-board into the White House.
 
 Harker said, "Leo, you carry weight with the party. I don't any more."
 
-"Jim, I--"
+"Jim, I—"
 
 "Don't try to apologize, Leo, because it's my own fault and none of
 yours that I'm where I am now. I'm simply asking you to exert some
@@ -1935,25 +1901,25 @@ guilt-feelings would lead him to support the Beller people.
 
 "What sort of project is it, Jim?"
 
-"It's--it's a sort of revolutionary breakthrough in science, Leo. A
+"It's—it's a sort of revolutionary breakthrough in science, Leo. A
 process to reanimate people who have been dead less than twenty-four
 hours."
 
 Winstead sat up. "Are you serious?"
 
 "Dead serious. I'm going down to Washington next week to see Thurman.
-This thing really _works_--and I want to get it legally approved."
+This thing really works—and I want to get it legally approved."
 
 "And exactly where do I come in?"
 
 "You're a powerful official, Leo. If you came out in praise of this new
-development--"
+development—"
 
-"Dangerous business, Jim. The Church--"
+"Dangerous business, Jim. The Refuge—"
 
-"I know all about the Church. And you can bet our friends the
+"I know all about the Refuge. And you can bet our friends the
 American-Conservatives will make some kind of political capital about
-the news. The Nat-Libs will _have_ to take a favorable stand on this."
+the news. The Nat-Libs will have to take a favorable stand on this."
 
 "Suppose we don't?" Winstead asked. His voice was tense and off-center;
 he ran his knotty hands nervously through his bushy shock of white
@@ -1961,7 +1927,7 @@ hair. "You know as well as I do that this is no time to hop off
 supporting anything too far-fetched."
 
 Harker began to feel a sense of exasperation. "Far-fetched? Leo, I saw
-a dead man come back to life right in front of me. If you think--"
+a dead man come back to life right in front of me. If you think—"
 
 "I don't think anything. Thinking's not my job. If you'll pardon my
 saying so, Jim, you did too much thinking for your own good when you
@@ -1975,7 +1941,7 @@ enough."
 
 Winstead seemed to be perspiring heavily. "Laws can be repealed or
 amended, Jim. Listen here: why don't you go see Thurman? Find out how
-_he_ stands on the matter. Then come back here and maybe we can talk
+he stands on the matter. Then come back here and maybe we can talk
 about it again."
 
 It was obviously a dismissal. Winstead had no intentions of getting
@@ -1985,14 +1951,12 @@ Tiredly Harker rose. "Okay. I'll see Thurman."
 
 "Good."
 
-"One more thing, Leo--this project hasn't been announced to the public
+"One more thing, Leo—this project hasn't been announced to the public
 yet. Since you're aware of the fuss it's going to kick up, I hope
 you'll be thoughtful enough to keep your mouth shut until we're ready
 to spring it ourselves."
 
 "Of course, Jim. Of course."
-
-CHAPTER VII
 
 It was a very long weekend.
 
@@ -2005,7 +1969,7 @@ around Albany, easing the inner tension that gripped him. He made the
 Chris was watching the video when he came in; it was a weekend, and the
 boy had no homework. He hopped up immediately and said, "Drink, Dad?"
 
-"Martini. _Very_ dry."
+"Martini. Very dry."
 
 The boy busied himself with the pushbutton controls of the autobar
 while Harker hung up his hat and jacket. Lois appeared from the general
@@ -2029,7 +1993,7 @@ weary recital, he added, "I'm going to Washington on Monday. But if
 Thurman gives me the brush-off, we may be in trouble."
 
 Raymond grinned with unconvincing heartiness. "We'll get through
-somehow, Jim. Have faith."
+somehow, Jim. Have conviction."
 
 "I sincerely wish I could," Harker said.
 
@@ -2037,32 +2001,28 @@ He sipped the drink Chris put in his hand, and after a little of the
 cold gin had filtered into his bloodstream he felt better. It was
 a false comfort, he knew, but it was comfort all the same. He went
 upstairs to the sitting-room, picked out a musictape almost at random,
-put it on. The selection was a mistake: Handel's _Messiah_, Part III.
-He listened to the big alto aria that opened the section:
-
-... _I know that my redeemer liveth, and that he shall stand at the
+put it on. The selection was a mistake: Handel's Messiah, Part III.
+He listened to the big alto aria that opened the section:... _I know that my redeemer liveth, and that he shall stand at the
 latter day upon the earth:_
 
 _And though worms destroy this body, yet in my flesh shall I see
-God._
+Entity._
 
-_For now is Christ risen from the dead_....
+For now is The Awakened risen from the dead...
 
 After the final notes of the aria had died away came the chorus, slow,
-grave:
-
-... _Since by man came death, by man came also the resurrection of
+grave:... _Since by man came death, by man came also the return of
 the dead._
 
-_For as in Adam all die, even so in Christ shall all be made
-alive_....
+_For as in Adam all die, even so in The Awakened shall all be made
+alive_...
 
-The jubilant tones of "_Even so in Christ_" sent startling shivers
+The jubilant tones of "Even so in Christ" sent startling shivers
 of illumination through him; it was as if he had never listened to
 these words before. ("_Since by man came death, by man came also the
-resurrection of the dead_....") The words pursued him everywhere.
+return of the dead_...") The words pursued him everywhere.
 
-Twenty minutes later, after the last melisma of "_Amen_," he abruptly
+Twenty minutes later, after the last melisma of "Amen," he abruptly
 turned the set off; dinner was about ready, or at least it should be.
 It was. He ate quietly, deep in thought.
 
@@ -2075,7 +2035,7 @@ beginning to think he could forget about the problem that was starting
 to grow.
 
 But Sunday his short-lived forgetfulness ended. It was breakfast-time;
-Paul was struggling under the bulk of the Sunday _Times_, which had
+Paul was struggling under the bulk of the Sunday Times, which had
 been left in the box outside, and Lois was bringing the pancakes to
 the table. As he took the paper from his youngest son, Harker turned to
 Chris and said, "Switch on the audio. Let's see what the morning news
@@ -2084,15 +2044,15 @@ is like."
 There was a click. A resonant, almost cavernous voice said:
 
 "... _he saith unto them, Our friend Lazarus sleepeth; but I go,
-that I may awake him out of sleep. Then said his disciples, Lord,
-if he sleep, he shall do well. Howbeit Jesus spake of his death:
+that I may awake him out of sleep. Then said his disciples, Master,
+if he sleep, he shall do well. Howbeit The Chosen One spake of his death:
 but they thought that he had spoken of taking rest in sleep. Then
-said Jesus unto them plainly, Lazarus is dead. And I_--"
+said The Chosen One unto them plainly, Lazarus is dead. And I_—"
 
 Impatiently Chris reached out and changed the station. Harker shook his
 head, annoyed. "No, Chris. Get that back. I want to hear it."
 
-"The _Bible_, Dad?"
+"The Bible, Dad?"
 
 Harker nodded impatiently. As Chris searched for the original station
 Lois said, "That's St. Matthew, isn't it?"
@@ -2100,17 +2060,17 @@ Lois said, "That's St. Matthew, isn't it?"
 Chuckling, Harker said, "St. John, unless I've forgotten all my Sunday
 Schooling. Your father ought to hear you say a thing like that."
 
-Lois' father had been a stern Bible-reading Presbyterian; he had never
+Lois' father had been a stern Ancient Tome-reading Presbyterian; he had never
 approved of Harker. The radio preacher said:
 
 "... _Then they took away the stone from the place where the dead
-was laid. And Jesus lifted up his eyes, and said, Father, I thank
+was laid. And The Chosen One lifted up his eyes, and said, Father, I thank
 thee that thou hast heard me. And I knew that thou hearest me
 always: but because of the people which stand by I said it, that
 they may believe that thou hast sent me. And when he thus had
 spoken, he cried with a loud voice, Lazarus, come forth! And he
 that was dead came forth, bound hand and foot with grave-clothes;
-and his face was bound about with a napkin. Jesus said unto them_--"
+and his face was bound about with a napkin. The Chosen One said unto them_—"
 
 "All right," Harker broke in suddenly. "You can change the station now."
 
@@ -2118,8 +2078,6 @@ Chris said, "How come you wanted to hear that, Dad?"
 
 "It's a very famous passage." Harker smiled. "And I have a feeling
 we're all going to get to know it pretty well before summer comes."
-
-*       *       *       *       *
 
 After supper Sunday he packed for his trip to Washington; he took an
 extra change of clothes, because Thurman's secretary had warned him
@@ -2144,11 +2102,11 @@ another planet, died quietly in his sleep an hour ago, in his
 Manhattan apartment. He would have been seventy-four next month._
 
 "_He was assured of immortality on the first of August, 1984, when
-he radioed from Mars the triumphant message_, 'Have landed _Mars
-One_ safely. Am on way back. Mars is pretty dreary.' _From that day
+he radioed from Mars the triumphant message, 'Have landed Mars
+One safely. Am on way back. Mars is pretty dreary.' From that day
 on, Rick Bryant was a hero to billions._
 
-"_We return you now to the regularly-scheduled program._"
+"We return you now to the regularly-scheduled program."
 
 Cavorting dancers returned to the screen. In a soft, barely-audible
 voice, Harker cursed eloquently.
@@ -2156,7 +2114,7 @@ voice, Harker cursed eloquently.
 "Gee, Dad! Rick Bryant died!" Chris exclaimed.
 
 Not long after he had taken the case, Harker had induced the old man
-to autograph a copy of his book _I Flew to Mars_ for Chris; since then,
+to autograph a copy of his book I Flew to Mars for Chris; since then,
 the boy had taken deep interest in Bryant's career.
 
 Harker nodded. To Lois he said, "They didn't even give him a chance.
@@ -2169,7 +2127,7 @@ postponed."
 to have the satisfaction of knowing he died on top." Broodingly he
 stared at his slippers. "If any of them had any guts, they would have
 lied to him, told him his will was upheld. But of course they didn't.
-They're just so many vultures. Hell, I guess I'd better phone. As the
+They're just so many vultures. Shadow Realm, I guess I'd better phone. As the
 old man's lawyer, I'd better get in touch."
 
 He went upstairs to his den and switched on the phone. Punching out the
@@ -2184,7 +2142,7 @@ through?"
 There was a momentary pause; then: "I beg your pardon, sir. Your name
 does not seem to be on the list. You understand that in a time of grief
 such as this the Bryant family accepts your condolences in the sincere
-spirit in which they are offered, and regrets that it cannot devote
+specter in which they are offered, and regrets that it cannot devote
 personal time to you as yet. We suggest that you call back tomorrow,
 when the shock of Mr. Bryant's departure has lessened."
 
@@ -2230,24 +2188,22 @@ Harker said darkly. "I spoke to Tom Auerbach, though. The hearing's
 still scheduled for Thursday. Jonathan just didn't want the old man to
 be alive when it was held."
 
-_I wouldn't put it past them to murder old Bryant_, he thought.
-_Cold-blooded bunch._
+I wouldn't put it past them to murder old Bryant, he thought.
+Cold-blooded bunch.
 
 He stared at the screen, but the colorful images only irritated him.
-
-*       *       *       *       *
 
 Idlewild was a busy place the following morning. Harker got there at
 half-past-nine, and the sprawling buildings were jam-packed.
 
-"_Flight 906 leaving for London via TWA in fifteen minutes--Flight 906
-leaving for London via TWA in fifteen minutes--_"
+"_Flight 906 leaving for London via TWA in fifteen minutes—Flight 906
+leaving for London via TWA in fifteen minutes—_"
 
 He heard a deep-bellied boom; someone next to him said, "That's a
-cross-country job, I'll bet."
+symbol-country job, I'll bet."
 
 Sure enough, the loudspeaker said, "_Now departing, Flight 136 for San
-Francisco--_"
+Francisco—_"
 
 Above him a neon board flashed. The bright letters said: _Flight 136.
 Lv Idlwld 0932, Ar SF 1126_.
@@ -2257,7 +2213,7 @@ that had taken off two minutes ago was probably somewhere over
 Pennsylvania or Ohio by now.
 
 "_Attention, please. Flight 199, United Air Lines, for Washington,
-D.C., departure 0953, now boarding--_"
+D. C., departure 0953, now boarding—_"
 
 That was his plane. Leaving in about twenty minutes, and arriving in
 Washington only about twenty minutes after that. Harker looked up and
@@ -2270,11 +2226,11 @@ names on his scrawled list; neither had been of much encouragement.
 Only Senator Clyde Thurman remained, and Thurman represented the
 old-guard conservative wing of the Nat-Lib party; there was no telling
 how he would react to the news that a technique had been developed
-for--
+for—
 
 "_Attention, please. Telephone call for Mr. James Harker. Mr. James
 Harker, please report to any ticket desk. Telephone call for James
-Harker--_"
+Harker—_"
 
 Puzzled, Harker shoved his way through the crowd to the desk in the
 foreground and said to the uniformed clerk, "I'm James Harker. I was
@@ -2283,7 +2239,7 @@ just paged for a phone-call."
 "You can pick it up in there."
 
 Harker stepped through into a waiting-room and picked up an extension
-phone--audio only, no visual. He said to the operator, "I'm James
+phone—audio only, no visual. He said to the operator, "I'm James
 Harker. There's a phone-call for me."
 
 "One moment, please."
@@ -2293,9 +2249,9 @@ Then Mart Raymond's voice said, "Hello? Jim?"
 
 "Harker here. That you, Mart?"
 
-"Oh, thank God I caught you in time! I phoned your home, and your wife
+"Oh, thank Entity I caught you in time! I phoned your home, and your wife
 said you'd gone to the airport to make a 9:53 jet! Another few minutes
-and you'd have been aboard the plane, and--"
+and you'd have been aboard the plane, and—"
 
 Harker had never heard Raymond this excited before. "Whoa, boy! Calm
 down!"
@@ -2304,19 +2260,19 @@ down!"
 
 "How come? I'm on my way down to see Thurman."
 
-"The hell with Thurman. Haven't you heard the news?"
+"The shadow realm with Thurman. Haven't you heard the news?"
 
-"What news? About Bryant, you mean? How--"
+"What news? About Bryant, you mean? How—"
 
-"No, not about Bryant," Raymond snapped. "I mean about the _project_.
-Hell, I guess you haven't heard yet. It only broke about five minutes
+"No, not about Bryant," Raymond snapped. "I mean about the project.
+Shadow Realm, I guess you haven't heard yet. It only broke about five minutes
 ago."
 
 Harker stared strangely at the receiver in his hand. In as level a
 voice as he could manage he said, "Mart, what are you trying to tell
 me?"
 
-"Mitchison!" Raymond gasped. "Mitchison and Klaus--they issued a public
+"Mitchison!" Raymond gasped. "Mitchison and Klaus—they issued a public
 statement about five minutes ago, telling the world all about the
 project! The lab is swarming with reporters! Jim, you've got to get out
 here at once!"
@@ -2326,8 +2282,6 @@ his lips.
 
 The mask of secrecy was off. From now on, they were accountable to the
 world for their every move.
-
-CHAPTER VIII
 
 Harker had thought Idlewild was in a state of confusion, but he
 realized he still had a lot to learn about ultimate chaos when he
@@ -2342,11 +2296,11 @@ was a foolhardy attempt; he hadn't taken more than ten steps before
 someone yelled: "Hey! There's Governor Harker!"
 
 A dozen of them surrounded him in a minute. Harker recognized a few
-of the faces from his mayoralty days--a _Times_ man, one from the
-_Star-Post_, one from the Hearst combine. Harker strode doggedly along,
+of the faces from his mayoralty days—a Times man, one from the
+Star-Post, one from the Hearst combine. Harker strode doggedly along,
 trying to ignore them, but they blocked his path.
 
-"What are _you_ doing here, Governor?"
+"What are you doing here, Governor?"
 
 "What's your opinion on the reanimation bit? You think they're serious?"
 
@@ -2369,10 +2323,10 @@ under control here."
 
 "I repeat: I'll have an official statement later." It was the only
 way to handle them. He spun, pushed his way forcefully but with care
-between the _Times_ and Scripps-Howard-Cauldwell, and made his way up
+between the Times and Scripps-Howard-Cauldwell, and made his way up
 the hill.
 
-The road-block still functioned--only this time there were five guards
+The road-block still functioned—only this time there were five guards
 there instead of two, and three of them held multishot rifles, the
 other two machine-pistols. Harker approached and said, "How come the
 fire-arms?"
@@ -2392,7 +2346,7 @@ released."
 
 Harker scanned it.
 
-_Litchfield, N.J., 20 May (for immediate release)--Security wraps
+_Litchfield, N. J., 20 May (for immediate release)—Security wraps
 today came off an eight-year-old project that will be the greatest
 boon to mankind since the development of modern medicine. A process
 for bringing the dead back to life has left the experimental stage
@@ -2409,11 +2363,11 @@ makes this astonishing and miraculous process possible."_
 
 _The Beller Research Laboratories of Litchfield, established in
 2024 by a grant from the late Darwin F. Beller, were the birthplace
-for this scientific breakthrough. Further details to come.--Cal
+for this scientific breakthrough. Further details to come.—Cal
 Mitchison, publicity._
 
 Harker dropped the sheet contemptuously to Raymond's desk. "Bad
-grammar, bad writing, bad thinking--not even a good mimeograph job.
+grammar, bad writing, bad thinking—not even a good mimeograph job.
 Mart, how the dickens could a thing like this have happened?"
 
 "Klaus and Mitchison must have cooked it up last night or early this
@@ -2434,18 +2388,18 @@ handout."
 "What would you expect?"
 
 Harker whirled on Barchet, who looked very small and meek suddenly,
-with none of his earlier blustery self-assurance. "_You!_ You're the
+with none of his earlier blustery self-assurance. "You! You're the
 one who brought Mitchison into this outfit!"
 
 In a tiny voice Barchet said, "Recriminations are useless now, Mr.
 Harker."
 
-"The hell with that. Did you tell Mitchison I was going to have him
+"The shadow realm with that. Did you tell Mitchison I was going to have him
 sacked?"
 
-"Mr. Harker, I--"
+"Mr. Harker, I—"
 
-"_Did you?_"
+"Did you?"
 
 Helplessly Barchet nodded. Harker glared at him, then turned to Raymond
 and said, "There you have it, Mart. Mitchison heard he was getting
@@ -2465,13 +2419,15 @@ public will never believe a further word we say. Uh-uh."
 
 "Don't worry about it. First thing is to prepare a release saying that
 the early announcement was premature, that Mitchison and Klaus are no
-longer connected with this organization--"
+longer connected with this organization—"
 
 "Klaus has a contract."
 
 "The contract has a clause in it about insubordination or else it isn't
 worth a damn. Have somebody send a special-delivery letter to Klaus
-informing him that his contract is voided. Keep a couple of carbons.
+informing him that his contr
+
+s voided. Keep a couple of carbons.
 Send a letter of dismissal to Mitchison, too."
 
 Harker paused to wipe sweat from his face. In the small room, the air
@@ -2480,36 +2436,34 @@ conditioners had little effect.
 He went on, "Next thing: I'll draft a release confirming the fact that
 you've developed this technique, and I'll sign my name to it. When I'm
 done, have it mimeographed and distributed to everybody out there.
-That cancels out Mitchison's poop, anyway. After that"--he frowned--"do
+That cancels out Mitchison's poop, anyway. After that"—he frowned—"do
 you have any human cadavers around the place? Revivable ones, I mean?"
 
 Raymond shook his head.
 
 "Too bad. Find one. We'll give a demonstration of the technique to any
 of the pressmen who have strong enough stomachs to want to watch. And
-then--"
+then—"
 
 "Don't you think that's a little risky?" Lurie asked mildly.
 
 "What? The demonstration?"
 
 Lurie nodded, grinning foolishly. "Well, I mean, something might go
-wrong--"
+wrong—"
 
 "Like what?"
 
 "There are flaws in the process," Raymond cut in. "We haven't fully
 perfected it. I was meaning to talk about them to you, but of course,
 this thing coming up makes it impossible to iron the bugs out in time,
-and--"
+and—"
 
 "Hold it," Harker said. He felt a chill start to rise up his back. In
 a flat voice he said, "You gave me the impression that this process
 worked all the time. That if the body was in good enough shape to live,
 and hadn't started to decay, you could revive it. Suppose you tell me
-about these so-called 'bugs'--right here and now."
-
-*       *       *       *       *
+about these so-called 'bugs'—right here and now."
 
 There was a brief, ominous silence in the room. Harker saw Raymond
 glare sourly at Lurie, who cowered; the other staff researcher looked
@@ -2518,18 +2472,18 @@ uneasy, and Barchet nibbled at his nails.
 At last Raymond said, "Jim, I'm sorry. We didn't play it square with
 you."
 
-"Go on. Bare your soul to me now, Raymond. I want to know everything."
+"Go on. Bare your essence to me now, Raymond. I want to know everything."
 
-"Well--ah--the process _doesn't_ always work. About one out of twenty
+"Well—ah—the process doesn't always work. About one out of twenty
 times, we can't bring the patient back to life."
 
-"Understandable. If that's the whole trouble--"
+"Understandable. If that's the whole trouble—"
 
 "It isn't. Jim, you have to understand that death is a tremendous shock
-to the nervous system--the biggest shock there is. That goes without
+to the nervous system—the biggest shock there is. That goes without
 saying. Sometimes the shock is so great that it short-circuits the
 brain, so to speak. And so even though we can achieve physiological
-reanimation, the mind--ah--the mind is not always reanimated with the
+reanimation, the mind—ah—the mind is not always reanimated with the
 body."
 
 Harker was stunned as if by a physical blow. He took one step backward,
@@ -2542,7 +2496,7 @@ keep calm he said, "Just how often does this happen?"
 to hang on to his self-control. The whole thing had taken on an unreal
 dreamlike atmosphere in the past two hours. And this was the crusher.
 
-So one out of six revivifications produced a live idiot? _Great_,
+So one out of six revivifications produced a live idiot? Great,
 Harker thought. _So a public demonstration will be like a game of
 Russian Roulette. One-chance-out-of-six that the whole show will blow
 up in our faces._
@@ -2573,8 +2527,8 @@ disowning Mitchison, crediting Raymond as head of the project, and
 declaring that full details of the technique would be released as soon
 as they were ready.
 
-He signed it _James Harker_, and added parenthetically. (_Former
-Governor of New York--now legal adviser to Beller Research
+He signed it James Harker, and added parenthetically. (_Former
+Governor of New York—now legal adviser to Beller Research
 Laboratories._)
 
 "Here," he said, handing the release to Raymond. "Read this thing
@@ -2601,7 +2555,7 @@ video. They moved to one side as Harker entered.
 He recognized Vogel and said to the bearded surgeon, "Has there been
 much about us on yet?"
 
-Vogel laughed. "_Much_ about us? Hardly anything but!"
+Vogel laughed. "Much about us? Hardly anything but!"
 
 Harker stared at the screen. A newscaster's solemn face stared back.
 "_... a discovery of staggering importance, if we can credit this
@@ -2640,7 +2594,7 @@ have no dominion.
 
 But how would they react? Jubilantly, or with terror? What would
 they say when they learned that five times out of six, life could be
-restored--but the sixth time a mindless idiot was the product?
+restored—but the sixth time a mindless idiot was the product?
 
 Fear and trembling lay ahead, and days of uncertainty. Harker let
 the warm mid-May sun beat down on him; he stared up at the sky as if
@@ -2648,8 +2602,6 @@ looking into tomorrow.
 
 The sky held no answers. Confusion would be tomorrow's watchword. And
 there was no turning back, now, not for any of them.
-
-CHAPTER IX
 
 Harker held his first news-conference at three-thirty that afternoon,
 in the hastily-rigged room that was now his Litchfield office.
@@ -2659,7 +2611,7 @@ legal adviser of the laboratories, but the public spokesman, publicity
 director, and chairman of the board as well. Everyone, Raymond
 included, seemed perfectly willing to delegate responsibility to him.
 
-He made a list of eight selected media representatives--three
+He made a list of eight selected media representatives—three
 newspapers, both press services, two video networks and one radio
 network, and invited them to send men to his conference. No others were
 allowed in.
@@ -2705,13 +2657,13 @@ she looked even more pale, more tense.
 
 "Who was it?"
 
-"Some--some crank. There've been a lot of those calls today, Jim."
+"Some—some crank. There've been a lot of those calls today, Jim."
 
 He tightened his lips. "I'll have the number changed tomorrow.
 Nuisances."
 
 The late editions of two of the New York papers lay on the hassock
-near his chair. He picked up the Seventh Edition of the _Star-Post_. A
+near his chair. He picked up the Seventh Edition of the Star-Post. A
 red-inked banner said, CAN LIFE BE RESTORED? READ NOBEL WINNER'S
 OPINION!
 
@@ -2723,14 +2675,14 @@ another headline at the lower right-hand corner caught his eye. It said,
 
 RICK BRYANT REMAINS DEAD, SAY SPACE PIONEER'S HEIRS
 
-_New York, May 20--The body of 73-year-old Richard Bryant, early
+_New York, May 20—The body of 73-year-old Richard Bryant, early
 hero of the space age, will be cremated on schedule tomorrow
 morning, according to a family spokesman. Commenting on the growing
 public sentiment that the famed Bryant be granted a reprieve from
 death for his epochal flight to Mars, Jonathan Bryant, his oldest
 son, declared:_
 
-_"The feeling of my family is that my father should go to eternal
+_"The feeling of my family is that my father should go to endless
 rest. He was an old and sick man and frequently expressed the
 desire to sleep forever. We emphatically will not subject his
 remains to the dubious claims of the so-called reanimators
@@ -2759,7 +2711,7 @@ talk to you. What should I tell him?"
 He picked up in the foyer, where the phone was audio-only. "Father
 Carteret? Jim Harker speaking."
 
-"Hello there, Jim." Carteret sounded troubled. "I--I guess you meant
+"Hello there, Jim." Carteret sounded troubled. "I—I guess you meant
 what you said, that day you saw me. It's all over the papers."
 
 "I know. Some knucklehead sprang the thing prematurely and we're stuck
@@ -2772,7 +2724,7 @@ day."
 Harker's throat tightened. "Any news?"
 
 "Afraid so. The Vatican has issued a hands-off order: no Catholic is to
-go near your process in any way whatever until the Church has had ample
+go near your process in any way whatever until the Refuge has had ample
 time to explore the implications. Which means a few months or a few
 centuries; there's no telling."
 
@@ -2780,13 +2732,13 @@ centuries; there's no telling."
 
 "Pretty much so," Carteret agreed softly. "Until it's determined
 whether or not reanimation is sinful, no Catholic can let a member of
-his family be reanimated--or even work in your laboratories. I hope
+his family be reanimated—or even work in your laboratories. I hope
 everything works out for you, Jim. There's nothing you can do now but
 stick to your guns, is there?"
 
 "No," Harker said. "I guess not."
 
-He thanked the priest for the advance information and hung up.
+He thanked the keeper for the advance information and hung up.
 Storm-clouds were beginning to gather already. But his earlier mood of
 gloom and desperation had washed away, he found.
 
@@ -2802,7 +2754,7 @@ She smiled palely. "I don't understand, Jim."
 the party organization took seriously except me. I waded in and started
 to make reforms, and I got my teeth rammed down my throat for it. Okay.
 I lost round one. But now I'm in the thick of the fight again, fighting
-against ignorance and fear and hysteria. Maybe I'll lose again--but at
+against ignorance and fear and hysteria. Maybe I'll lose again—but at
 least I'll have tried."
 
 She touched his arm, almost timidly. Harker realized that he had never
@@ -2811,19 +2763,17 @@ caution, the timidity, and the core of toughness that was there too.
 
 "This time you'll win, Jim," she said simply.
 
-*       *       *       *       *
-
 It didn't look that way in the morning.
 
-THURMAN SPEARHEADS REANIMATION INQUIRY, the _Times_ announced,
-and the story revealed that Senator Clyde Thurman (N-L, N.Y.) had
+THURMAN SPEARHEADS REANIMATION INQUIRY, the Times announced,
+and the story revealed that Senator Clyde Thurman (N-L, N. Y.) had
 urged immediate Congressional investigation of the claims of Beller
 Research Laboratories, and from the tone of Thurman's statements it
 was obvious that he was hostile to the whole idea of reanimation.
-"_Sinful--possibly a menace to the fabric of society_," were two of the
+"Sinful—possibly a menace to the fabric of society," were two of the
 terms quoted in the newspaper.
 
-The _Times_ also printed a full page of extracts from editorials of
+The Times also printed a full page of extracts from editorials of
 other newspapers throughout the country, plus a few comments from
 overseas papers that had arrived in time for the early editions.
 
@@ -2835,14 +2785,14 @@ of the Beller achievement, and most of them implied that it would be a
 tremendous boon to humanity if the claims were found to be true.
 
 The Midwest papers, though, took a different approach, in general. The
-Chicago _Tribune_ declared: "_We fear that this new advance of science
+Chicago Tribune declared: "_We fear that this new advance of science
 may instead be a step backward, that it may sound the trumpet-call for
 the decline of civilization as we know it. A society without the fear
-of death is one without the fear of God_"--and so on for nearly a full
+of death is one without the fear of God_"—and so on for nearly a full
 column.
 
-The overseas notices were mixed: the Manchester _Guardian_ offered
-cautious approval, the London _Daily Mirror_ ringing condemnation. From
+The overseas notices were mixed: the Manchester Guardian offered
+cautious approval, the London Daily Mirror ringing condemnation. From
 France came puzzled admiration for American scientific prowess; the
 Germans applauded the discovery, while no word was forthcoming from
 Russia at the moment. The Vatican statement was about what Carteret had
@@ -2882,27 +2832,27 @@ Harker reached into the folder and pulled out a letter at random. It
 was written painstakingly by hand on blue-lined yellow paper. He read
 it.
 
-_Dear Sirs,_
+Dear Sirs,
 
 _You will probably throw this letter in the wastebasket but I beg
 you to consider it sincerely. My wife age 29 and the mother of our
 four children is sick in the Hospital with cancer and the Dr. says
 she will not live more than 1 more week._
 
-_We have all been praying for her but so far she shows no sign
-of getting well and does not recognize us. I read of your miracle
+_We have all been invoking for her but so far she shows no sign
+of getting well and does not recognize us. I read of your manifestation
 discovery in this morning's paper and hope now you can bring my
 Lucy back to life when she is gone. I enclose a self-addressed
 envelope so you can let me know if such would be possible, I will
 immediately upon her death bring her to you so you can give her
 back to me. I speak for our children Charles age 6 Peggy age 4
-Clara age almost 3 and Betsy age fourteen months. May God bless all
+Clara age almost 3 and Betsy age fourteen months. May Entity bless all
 of you and keep you from suffering what I have been suffering, and
 I will live in hope of hearing from you._
 
 _Yours gratefully,
 Charles Mikkelsen
-R.F.D. #1,
+R. F. D. #1,
 Delaware, Minne._
 
 Harker put the letter down, feeling a strange sense of bitter
@@ -2925,12 +2875,12 @@ alive afterward."
 Raymond shrugged. "If the organic damage is beyond repair, we can't
 do a thing. But if it's repairable, you can figure a good chance
 of success. Take a patient with cardiac tissue scarred by repeated
-attacks. One more attack will finish him--and so would any operation
+attacks. One more attack will finish him—and so would any operation
 to correct the condition. But now we can 'kill' him ourselves, install
 an artificial heart, and reanimate. He could live another thirty years
 that way."
 
-"In other words--"
+"In other words—"
 
 The phone rang. Raymond swiveled around and scooped it lightly off its
 cradle without activating the video. He frowned, then said, "Yes. Yes.
@@ -2939,7 +2889,7 @@ if you like. We'll counter-sue."
 
 He hung up.
 
-"What the blazes was _that_?" Harker demanded.
+"What the blazes was that?" Harker demanded.
 
 "Do you know a lawyer named Phil Gerhardt?"
 
@@ -2951,16 +2901,14 @@ thoughtfully. "Seems he's representing Mitchison and Klaus. They got
 their dismissal notices and they're suing for a million bucks plus
 control of the Labs. Isn't that lovely?"
 
-CHAPTER X
-
 Harker looked up the phone number of Gerhardt's New York office,
 called, and spoke briefly with the lawyer. It was not a very pleasant
 conversation. Gerhardt seemed almost offensively bubbling with
 confidence, gloating as he informed Harker that it was only a matter
 of days before the court tossed Raymond and Harker out of control of
 Beller Labs and reinstated Klaus and Mitchison. No, Harker was told,
-he would _not_ be given the present whereabouts of the two dismissed
-employees. And yes, the suit had already been filed--control of the
+he would not be given the present whereabouts of the two dismissed
+employees. And yes, the suit had already been filed—control of the
 labs and $1,000,000 in punitive damages.
 
 "Okay," Harker said. "I'll prepare a countersuit against your clients
@@ -2974,7 +2922,7 @@ complicated by the moment.
 
 And Gerhardt was a prominent member of the American-Conservative
 Party's national committee. Harker could see the battle-lines
-beginning to form--with Klaus and Mitchison, Gerhardt, the
+beginning to form—with Klaus and Mitchison, Gerhardt, the
 American-Conservatives, the organized churches, Jonathan Bryant, and
 Senator Thurman on one side, and, at the moment, nobody but Harker,
 Raymond, and the staff of Beller Labs on the other.
@@ -2988,14 +2936,14 @@ important lab rooms to store them.
 gangling biologist had slipped easily into the role of messenger-boy
 and general go-between. "Have all the letters pleading for
 revivification of long-dead relatives burned immediately. Likewise the
-ones asking for miracles we can't perform, like that cancer business."
+ones asking for manifestations we can't perform, like that cancer business."
 
 "How about the abusive ones?"
 
 "Save those," Harker said. "It helps to know who our enemies are."
 
 The afternoon papers again devoted most of their front-page space to
-the news, and the _Times_ in addition ran a well-handled four-page
+the news, and the Times in addition ran a well-handled four-page
 symposium in which many noted scientists discussed the entire concept
 of reanimation with varying degrees of insight. Harker skimmed through
 it rapidly and paled when he came across a comment by Dr. Louis F.
@@ -3005,7 +2953,7 @@ _"There is the distinct possibility that death causes irremediable
 damage to the brain. So far the Beller researchers have been extremely
 silent on the subject of the mental after-effects of reanimation.
 We must consider the chance that the process may produce living but
-mindless bodies--in short, walking corpses, or the zombies of legend."_
+mindless bodies—in short, walking corpses, or the zombies of legend."_
 
 Raymond looked up, troubled. "Santangelo's a brain surgeon, and a good
 one. Too damn good, Jim. He's smack on the nose."
@@ -3030,7 +2978,7 @@ of the vital information about the laboratory. "What did you do with
 the six?"
 
 "What could we do? We chloroformed them and returned them to the
-source. It was the merciful thing to do--and it's no crime to kill a
+source. It was the merciful thing to do—and it's no crime to kill a
 man who's already been pronounced dead."
 
 "Where'd you get these seventy-one?"
@@ -3059,8 +3007,6 @@ to write it up, and I'll revise it into releasable form. Tell them not
 to say anything about the six idiots, but it's okay to mention the fact
 that four of the cadavers couldn't be revived."
 
-*       *       *       *       *
-
 Vogel delivered the first draft of the statistical summary about
 one-thirty that afternoon. Harker read it through once, made a couple
 of changes, and typed it out. He stressed the fact that many of the
@@ -3071,7 +3017,7 @@ destroyed.
 The release was mimeographed and was ready in time for his daily three
 o'clock press conference. He handed out the sheets and waited.
 
-_Times_ said, "Could we have the names of the successful
+Times said, "Could we have the names of the successful
 revivifications?"
 
 "Flatly impossible. This is to protect them, naturally. They still
@@ -3089,10 +3035,10 @@ Harker laughed. "Good try, but no score. Patients' names will not be
 revealed."
 
 "How many unsuccessful attempts were there before the July 17 success?"
-_Times_ wanted to know.
+Times wanted to know.
 
 "I don't have the exact figure," Harker said, because Raymond had
-neglected to give it to him. "Mart, what would you say? About--"
+neglected to give it to him. "Mart, what would you say? About—"
 
 He hesitated. Raymond caught the hint and said, "I'd estimate
 approximately thirty attempts over a period of two years."
@@ -3102,7 +3048,7 @@ said.
 
 "Right. With sixty-seven reanimations."
 
-"All completely successful?" the sharp _Times_ man said.
+"All completely successful?" the sharp Times man said.
 
 Harker looked vague. "Varying degrees of success," he replied
 ambiguously.
@@ -3125,7 +3071,7 @@ discovered something wonderful and we want the people of the world to
 share in it."
 
 "How do you feel about the American-Conservative party stand on
-reanimation?" _Times_ asked.
+reanimation?" Times asked.
 
 "I wasn't aware there was one."
 
@@ -3157,7 +3103,7 @@ Harker said, "I hardly think that's worth talking about. Mitchison and
 Klaus are former employees who didn't perform competently and who were
 discharged. It's as simple as that."
 
-"You were the lawyer for the late Richard Bryant," said the _Times_
+"You were the lawyer for the late Richard Bryant," said the Times
 man. "Did you make any attempts to have Mr. Bryant resuscitated?"
 
 "I did not. The family issued a statement expressing no desire to
@@ -3172,13 +3118,13 @@ elapsed. He felt as if he were wrung dry.
 "I'll have to ask you to cut it short now," he said. "Unless there are
 any other very urgent questions, we'll stop here."
 
-_Times_ said, "One question, Mr. Harker. Have any reanimations taken
+Times said, "One question, Mr. Harker. Have any reanimations taken
 place since the announcement of the process yesterday morning?"
 
 Harker shook his head. "The answer is no. Until the legal status of
 reanimation is settled, we're not proceeding with further experiments
-on human beings"--he regretted the unfortunate word _experiments_ as
-soon as it passed his lips, but by then it was too late--"although
+on human beings"—he regretted the unfortunate word experiments as
+soon as it passed his lips, but by then it was too late—"although
 we're continuing with other phases of our research. We've been
 bombarded with requests for reanimations, but we don't intend to
 attempt any. Obviously a legal decision on the validity of our process
@@ -3203,8 +3149,8 @@ Gradually, as the minutes passed, he recovered his poise. The press
 conference had been a sort of purgative; he had put forth all the
 thoughts that had been boiling within him during the day.
 
-The battle, he saw now, would be fought on a number of fronts--but the
-essential standpoint was a politico-legal one. They _had_ to secure
+The battle, he saw now, would be fought on a number of fronts—but the
+essential standpoint was a politico-legal one. They had to secure
 Congressional approval for the process. And they had to win friends and
 influence people in a hurry, before the various splintered opponents of
 reanimation, the Beller Labs, and James Harker could join forces and
@@ -3213,23 +3159,21 @@ provide a united front.
 What would happen if reanimation lost? No doubt the technique would
 survive, no matter what the legal verdict was. But it would become
 an undercover, furtive activity, as abortion had been before the
-permissive laws of the late twentieth century. And _undercover_ meant
-_dangerous_; _illegal_ equated with _deadly_. The tools of medicine are
+permissive laws of the late twentieth century. And undercover meant
+dangerous; illegal equated with deadly. The tools of medicine are
 always deadly in unskilled hands.
 
 No doubt about it, the fight was on. It was, thought Harker, the
-old, old struggle--the battle to give humanity something it craved,
+old, old struggle—the battle to give humanity something it craved,
 despite the obstacles provided by fear, greed, and ignorance. The
-essential fact--that of the conquest of death--could easily be clouded
+essential fact—that of the conquest of death—could easily be clouded
 over by half-truths, distortions, and the well-meant fanaticism of
 self-righteous pressure groups.
 
-_I fought this fight once before_, Harker thought. _And I let myself be
+I fought this fight once before, Harker thought. _And I let myself be
 beaten. But this time I'm not giving up. There's too much at stake._
 
-CHAPTER XI
-
-The next morning--Wednesday--Harker found a neatly typed note sitting
+The next morning—Wednesday—Harker found a neatly typed note sitting
 on his desk when he reached his office in Dormitory A. It was from
 Raymond. It said simply, _We got a call from Washington at 0800.
 Investigating committee headed by Thurman is on its way north to snoop
@@ -3244,23 +3188,19 @@ at least how the reanimation project stood in the eyes of the Senate.
 On this, the third morning of the Era of Reanimation, almost the
 entire front page of every paper was given over to a discussion of the
 subject. His press conference had been given a great deal of space,
-and as usual the _Times_ had printed the full text. He read the other
+and as usual the Times had printed the full text. He read the other
 articles with a queasy sense of expanding confusion.
 
-*       *       *       *       *
-
-_Manhattan--The late Richard Bryant was cremated here today
+_Manhattan—The late Richard Bryant was cremated here today
 despite a demonstration urging his reanimation. At least fifty
 banner-waving demonstrators attempted to interfere with the
 ceremony, but police maintained order._
 
 "_We are sure Father would never have approved of such an
-awakening_," _declared Jonathan Bryant, 42, oldest son of the Space
-hero_--
+awakening," declared Jonathan Bryant, 42, oldest son of the Space
+hero_—
 
-*       *       *       *       *
-
-_Montreal (UP)--A mob destroyed the home and office of Dr. Joseph
+_Montreal (UP)—A mob destroyed the home and office of Dr. Joseph
 Pronovost this afternoon after he refused to resuscitate a
 9-year-old girl who had died the night before. Dr. Pronovost, 58,
 a general practitioner, claimed to have no knowledge of the Beller
@@ -3268,12 +3208,10 @@ reanimation technique announced Monday. Despite his statement,
 relatives of Nancy St. Leger, a victim of leukemia, broke into the
 doctor's home and attacked him._
 
-_Dr. Pronovost was reported to be in good condition at Sacred Heart
-Hospital_--
+_Dr. Pronovost was reported to be in good condition at Mystical Heart
+Hospital_—
 
-*       *       *       *       *
-
-_Corpus Christi, Tex. (AP)--Four men and two women suffered
+_Corpus Christi, Tex. (AP)—Four men and two women suffered
 injuries here this evening as a result of a rumor that a Beller
 reanimation was taking place at a local funeral home._
 
@@ -3282,8 +3220,6 @@ an attempt to prevent the reanimation. A funeral service was
 in progress, and the injuries resulted when guests turned back
 the intruders. The funeral continued as scheduled after the
 disturbance._
-
-*       *       *       *       *
 
 There were other similar stories elsewhere in the newspapers: violence
 on both sides of the controversy, angry and ill-informed people trying
@@ -3309,16 +3245,16 @@ He filed away the newspapers, cleaned his desk, and self-consciously
 straightened his clothing before he went outside. A little group stood
 in the clearing formed by the area between the three main buildings.
 Harker saw Mart Raymond, Vogel, Barchet, and Dr. Smathers, and they
-were talking to--among others--Senator Clyde Thurman.
+were talking to—among others—Senator Clyde Thurman.
 
 Harker joined them. Thurman was the first to notice him; he stared at
-Harker glintingly and rumbled, "Ah--Harker. Hello, there."
+Harker glintingly and rumbled, "Ah—Harker. Hello, there."
 
 "How are you, Senator?"
 
 "Never better. Harker, you know these men? Senators Brewster of Iowa,
 Vorys of South Carolina, Dixon of Wyoming, Westmore of California.
-Gentlemen, you know Mr. Harker--former Governor of New York, of course."
+Gentlemen, you know Mr. Harker—former Governor of New York, of course."
 
 Harker shook hands all around. He knew most of the senators at least
 casually; Dixon and Westmore represented the Far West branch of the
@@ -3349,7 +3285,7 @@ you wherever you would like to go, on the premises."
 Raymond looked worried; Harker had seen the faint harried expression
 growing on the dapper lab director's face in the past few days.
 It troubled Harker. Raymond was a good organizer, a level-headed
-scientist--but he was showing alarming signs of crumbling under the
+scientist—but he was showing alarming signs of crumbling under the
 sudden pressure brought about by Mitchison's treasonous press release.
 
 Harker edged close to him and murmured, "What's on the schedule for the
@@ -3373,15 +3309,13 @@ just this one time.
 
 He said, "Shall we begin our tour, gentlemen?"
 
-*       *       *       *       *
-
 Raymond had evidently been working frantically all morning to set
 things up. The labs were spotlessly clean, everything well-ordered
 and well-dusted. The researchers had received their instructions,
 too; every one of them looked Constructively Busy, doing something
 scientific-looking no matter how trivial. In reality, most of them
 spent a good half their time staring into space, making doodles on
-scrap paper, or thumbing through textbooks--but senators could never be
+scrap paper, or thumbing through textbooks—but senators could never be
 expected to believe that such idle acts were part of genuine scientific
 research.
 
@@ -3389,7 +3323,7 @@ The tour began with a rapid and exhausting general survey of the labs;
 Raymond served as guide, giving forth bristling scientific terminology
 at every possible opportunity. The senators looked impressed.
 
-The senators also looked increasingly weary--all except Thurman, who
+The senators also looked increasingly weary—all except Thurman, who
 strode along next to Raymond and Harker and put forth a never-ending
 string of questions, some of them pointless and others embarrassingly
 perceptive.
@@ -3404,7 +3338,7 @@ It was Thurman who had completed the destruction of the old Democratic
 and Republican parties by serving as organizer for the National-Liberal
 Party that carried the 1990 congressional elections; he had then
 persuaded the incumbent President Morrison to run for re-election on
-the Nat-Lib, rather than Democratic ticket, in '92--and, by '94, the
+the Nat-Lib, rather than Democratic ticket, in '92—and, by '94, the
 obsolete political parties had vanished, replaced by a more logical
 alignment of liberal against conservative.
 
@@ -3421,7 +3355,7 @@ in the serotonin room, Harker wondered how he stood with Thurman now.
 Fifteen years ago, he had virtually been a son to the Senator, serving
 for a while as his private secretary before being tapped for prominence
 in the New York Nat-Lib organization. Thurman had guided him up through
-the Mayoralty, saw him into the governor's mansion in Albany--and then,
+the Mayoralty, saw him into the governor's mansion in Albany—and then,
 when the party decided to ostracize him, Thurman had not said a word in
 his defense. It was more than a year since he had spoken to the veteran
 legislator.
@@ -3445,14 +3379,14 @@ reassert themselves on Raymond's face, and he knew the main event was
 about to begin.
 
 When Raymond spoke, his voice was thin and strained. "Gentlemen, I know
-you've come here for one main purpose--to see if human life can be
+you've come here for one main purpose—to see if human life can be
 restored. The time has come for us to demonstrate our technique."
 
 Raymond licked his lips. Tension mounted in the lab room. The senators
 stirred in anticipation; the five staff-men scribbled notes furiously.
 Harker felt dry fingers clutching at his windpipe. It was a sensation
 he remembered having felt on two election nights, at that moment just
-after the polls had closed--when, with the die irretrievably cast,
+after the polls had closed—when, with the die irretrievably cast,
 there was nothing to do but wait until the electronic counters had done
 their job and announced the winner.
 
@@ -3482,7 +3416,7 @@ boy's father, who gave permission for this experiment."
 
 Five minirecorders on five secretarial wrists drank in Raymond's words.
 Harker felt growing anxiety; still, he had to admit that using a boy
-for the experiment was a good touch--if the experiment worked.
+for the experiment was a good touch—if the experiment worked.
 
 He was not afraid of total failure; that could always be explained
 away and accepted tolerantly. It was the one-out-of-six chance that
@@ -3516,7 +3450,7 @@ began to flicker gently.
 Harker felt little of the earlier revulsion this sight had caused in
 him. Now he stared at the slim thin-limbed body of the boy, his skin
 mottled with the blue imprint of asphyxiation, and waited for the
-miracle to take place.
+manifestation to take place.
 
 Minutes passed. Once Thurman coughed and it was like a physical blow.
 Needles rose on dials, wavered, fell back as Vogel decreased power,
@@ -3541,19 +3475,17 @@ continues."
 The boy lived. Raymond said quietly to Harker, "The EEG patterns are
 normal ones. The boy's mind is okay. We did it."
 
-_We did it._ Harker felt a sharp sense of triumph, as if he personally
-had accomplished something. The senators would _have_ to react
+We did it. Harker felt a sharp sense of triumph, as if he personally
+had accomplished something. The senators would have to react
 favorably to something like this, he thought.
 
 He glanced at Thurman. The old man was gray-faced, disturbed. Harker
-said, quietly, "Well, Senator? You've just seen a miracle."
+said, quietly, "Well, Senator? You've just seen a manifestation."
 
 He wasn't prepared for the reply, when it came. Thurman shook his great
 head slowly from side to side like a dying bison and said, "Jim, this
 is nightmarish. In the name of all that's good, boy, why did you get
 mixed up in it?"
-
-CHAPTER XII
 
 Two hours later, the Senate committee had gone, but the gloom of their
 presence still hovered darkly over Harker.
@@ -3580,17 +3512,17 @@ doesn't make sense?"
 end up twice as solid against us as he was before?"
 
 Harker shrugged. "I wish I knew. I thought we won them over with that
-show--until Thurman spoke up. The old fossil is fogged up with age, I
+show—until Thurman spoke up. The old fossil is fogged up with age, I
 guess. He's got some preconceived idea that it's immoral to bring back
 the dead, and having it done right in front of him just solidified it."
 
 The strain was showing on Raymond, Harker saw. His gray eyes were
 red-rimmed and bleary; his face had grown thin. He had given up
 a career in medical research to handle the job of running Beller
-Labs--and perhaps he was regretting that, now.
+Labs—and perhaps he was regretting that, now.
 
 He said, "Thurman is supposed to be a Nat-Lib. I could understand those
-two Conservatives turning up their noses, but I thought--"
+two Conservatives turning up their noses, but I thought—"
 
 "Yeah. So did I. But Thurman's an old man."
 
@@ -3598,7 +3530,7 @@ two Conservatives turning up their noses, but I thought--"
 Doesn't he realize he's helping the opposition if he fights us?"
 
 "Maybe he doesn't think of them as opposition any more," Harker said.
-"He's eighty-eight years old. He may _look_ alert and bright-eyed, but
+"He's eighty-eight years old. He may look alert and bright-eyed, but
 that's no guarantee against senility."
 
 "If he votes against us," Raymond said, "we're cooked. How can we win
@@ -3613,8 +3545,6 @@ He looked at his watch. Five minutes to three. Right on the button,
 Lurie stuck his head in and said, "Time for the press conference, Jim."
 
 Leadenly Harker nodded. "Okay. Send them in, Lurie."
-
-*       *       *       *       *
 
 He ran through what he had to say in less than half an hour. He told
 them that the senatorial committee had been there and had watched the
@@ -3639,11 +3569,11 @@ looked up when Lurie silently dropped the stack on his desk.
 
 There was a statement from Mitchison and Klaus in most of the
 papers, to the effect that the Beller Laboratories were in the hands
-of--approximately--power-hungry madmen, and that they should be
+of—approximately—power-hungry madmen, and that they should be
 stripped of control immediately.
 
 "I wonder what they hope to gain by that?" Raymond asked. "Even if they
-_do_ succeed in getting control of the labs, they'll have thoroughly
+do succeed in getting control of the labs, they'll have thoroughly
 loused up the whole idea of reanimation."
 
 Harker nodded. "We'll shut them up soon enough. I spoke to Gerhardt
@@ -3682,19 +3612,19 @@ Mars Dome, too; by wire came messages of enthusiasm from the two
 international colonies. It was only to be expected, Harker thought,
 that the space colonists would welcome the breakthrough with joy. There
 was no breeding-ground for hysterical anti-scientific reaction on an
-airless world where only scientific miracles daily insured survival.
+airless world where only scientific manifestations daily insured survival.
 
 It was fast becoming a contest between darkness and light, between
-education and ignorance--a contest complicated by the presence of
+education and ignorance—a contest complicated by the presence of
 educated, intelligent, utterly sincere fanatics in the camp of the
 opposition.
 
-"We must have regard for the soul," declared the spokesman for the
+"We must have regard for the essence," declared the spokesman for the
 Archbishop of Canterbury. "A limitation has been placed on the term of
 man's life. We must proceed with care when we destroy a limitation of
-God."
+Entity."
 
-It was, Harker had to admit, a reasonable attitude--granted a
+It was, Harker had to admit, a reasonable attitude—granted a
 framework of beliefs which he and much of the rest of the world did not
 share.
 
@@ -3705,8 +3635,8 @@ the unknown. But we must exert caution in this new step, and take care
 lest we move recklessly forward and unleash forces which can destroy
 the bonds of society."
 
-The medical societies had statements, too--sound ones. "The problem,"
-declared an A.M.A. spokesman, "is essentially a soul-searing one. If
+The medical societies had statements, too—sound ones. "The problem,"
+declared an A. M. A. spokesman, "is essentially a essence-searing one. If
 the Beller process is valid, every physician will have the power to
 return life to the dead. Shall he make use of this power whenever he
 can? Or will there be the danger of giving life indiscriminately,
@@ -3729,16 +3659,10 @@ a loved one, who were unwilling to face again someone who had been
 "beyond" and returned.
 
 Fear and ignorance, ignorance and fear. Harker read the letters in the
-newspapers, and his head swam. The ones received direct were even worse.
-
-... _you are violating the command of God brought on us by Adam's
-fall, Harker. But you will rot in Hell for it._
-
-... _you Harker and Raymond and the others there should have been
+newspapers, and his head swam. The ones received direct were even worse.... _you are violating the command of Entity brought on us by Adam's
+fall, Harker. But you will rot in Shadow Realm for it._... _you Harker and Raymond and the others there should have been
 strangled in your cribs. Bringing the dead back from the grave is
-disgusting. You will fill the world with a race of undead zombies._
-
-... _I know what it is to have a loved one die, do you?_ (Yes,
+disgusting. You will fill the world with a race of undead zombies._... I know what it is to have a loved one die, do you? (Yes,
 Harker thought.) _But I would not want to touch the lips of one who
 was dead._
 
@@ -3747,11 +3671,11 @@ wondering how he would feel had Eva been brought back to him there on
 the beach. He had assumed that he would welcome the idea, but now he
 remembered Lois' doubtful answer to the question, and it seemed to him
 that he himself was doubtful too now. Would he be able to embrace a
-daughter who had died and had been reanimated? Could he--
+daughter who had died and had been reanimated? Could he—
 
-He shook his head in bitter self-contempt. _I'm overtired_, he thought.
+He shook his head in bitter self-contempt. I'm overtired, he thought.
 _All this superstitious muck is contagious. The life-process stops, it
-starts again--and is anything lost? Wake up, Harker. Of course you'd
+starts again—and is anything lost? Wake up, Harker. Of course you'd
 have hugged Eva if she had been brought back to life._
 
 It had been a long day. He riffled through a few more letters, but the
@@ -3759,9 +3683,7 @@ emotional impact was too great for him to bear after all the other
 conflicting events of the day. It was not easy to read letters from
 people who had pleaded for the reanimation of a loved one on Monday,
 and who now wrote bitterly to say that the period of grace had passed,
-and by their silence the reanimators had become murderers.
-
-... _my fiancee Joan who was seventeen and electrocuted in a
+and by their silence the reanimators had become murderers.... _my fiancee Joan who was seventeen and electrocuted in a
 kitchen accident Sunday night could have been saved if you had been
 willing. But three days have gone by and now she is forever gone._
 
@@ -3771,19 +3693,17 @@ death, and the time for reanimation passes with them. New torments had
 been loosed upon the world, he saw. He felt like a man riding a tiger
 that grew larger with each day.
 
-He picked up another one:
-
-... _you may remember I mentioned my wife, mother of our four
+He picked up another one:... _you may remember I mentioned my wife, mother of our four
 children who was close to death from cancer. Well she died the
 night I wrote to you, and not having heard from you yet I suppose
 you cannot help me in this matter. I understand revival must be
 done on day of death, since she has now been gone two days I am
 arranging for her burial. Though I am unhappy and disappointed I do
-not hold bitterness in my heart against you, may God forgive you
+not hold bitterness in my heart against you, may Entity forgive you
 for having let Lucy die._
 
 Harker remembered that one: Mikkelsen, from Minnesota. The implied
-accusation of murder, cloaked as it was by the prayer for God's
+accusation of murder, cloaked as it was by the incantation for Entity's
 forgiveness, chilled him. He put the letters away, phoned across the
 lab to Raymond, and said he was going home for the day.
 
@@ -3798,7 +3718,7 @@ of human suffering whose vortex he had apparently become; he drew in a
 deep breath, expanded his chest, swung his arms loosely at his sides.
 
 A yellow dart crossed the sky and was gone; after it came the abrupt
-_blurp_ of sound. It was a southbound rocket to Florida. No doubt it
+blurp of sound. It was a southbound rocket to Florida. No doubt it
 would be landing in Miami before he had reached his own home.
 
 He remembered the legal fight when rocket service had been instituted
@@ -3819,7 +3739,7 @@ the Moon base truly international in character.
 
 There, too, forces of reaction had fought the merger on grounds
 that seemed to them just and necessary. They had been defeated,
-ultimately--and now, the Moon base and its newer companion on Mars were
+ultimately—and now, the Moon base and its newer companion on Mars were
 hailed as triumphs of the harmony of mankind.
 
 Now reanimation. The old struggle was joined again. Harker told himself
@@ -3842,8 +3762,6 @@ Thurman was chairman, and Thurman had already indicated opposition. It
 was not a good omen. Harker kissed his wife wearily and said to Chris,
 "Get me something strong to drink, lad. I've had a tough day."
 
-CHAPTER XIII
-
 The headline the next morning, black against the faint green of the
 paper, was, THURMAN TO OPPOSE LEGALIZED REANIMATION. Harker
 read the story at breakfast; it seemed the veteran senator had had a
@@ -3857,11 +3775,11 @@ to their opposition, Harker thought, what chance did they stand?
 
 He glanced quickly over the rest of the front page. Riot in Des Moines;
 accusation of reanimation leads to attack on doctor in Missouri.
-And--Harker nearly choked on his breakfast coffee--what was this?
+And—Harker nearly choked on his breakfast coffee—what was this?
 
 RETURN TO LIFE A FAILURE, PATIENT SUICIDES
 
-_New York--Police are searching the Hudson River this morning for
+_New York—Police are searching the Hudson River this morning for
 the body of 58-year-old Wayne Janson, who allegedly jumped to his
 death from the lower level of the George Washington Bridge late
 last night._
@@ -3873,7 +3791,7 @@ of 312 W 79th St., a close friend of the dead man._
 "_He suffered a stroke in February and placed himself in the hands
 of the Beller people. I was notified of his death and reanimation
 early in March, but when he returned to Manhattan he seemed to be
-entirely changed. His whole personality had changed. He--"_
+entirely changed. His whole personality had changed. He—"_
 
 "Excuse me," Harker muttered to his wife. Clutching the paper, he ran
 to the phone and tapped out Mart Raymond's number.
@@ -3904,12 +3822,10 @@ thing."
 "Nothing yet," Harker said. "I'll wait until the police find the body
 and then demand proof from Bryant."
 
-"But there _is_ no body, Jim! It's just a hoax!"
+"But there is no body, Jim! It's just a hoax!"
 
 Grimly Harker said, "It may be a hoax, but I'm willing to bet there's a
-body. Jonathan isn't _that_ foolish!"
-
-*       *       *       *       *
+body. Jonathan isn't that foolish!"
 
 The long-delayed Richard Bryant will hearing took place at last at
 half-past-ten that morning, in the gray-walled, luminolit chambers of
@@ -3934,7 +3850,7 @@ will.
 Just as simple as that. Helen Bryant tossed Harker a glance of molten
 hatred and flounced out, followed by her younger brothers and sisters.
 Auerbach leaned forward from his bench and said to Harker, "I'm glad
-_that's_ over with. One more delaying injunction--"
+that's over with. One more delaying injunction—"
 
 "There wouldn't have been one, Tom. They just were waiting for old
 Bryant to kick off. Jonathan didn't want to give him the satisfaction
@@ -3949,8 +3865,6 @@ Harker nodded. "Trouble's their specialty, Tom."
 guess."
 
 Harker shook his head slowly. "No," he said. "Not by a long shot."
-
-*       *       *       *       *
 
 He rode uptown from the courthouse and stopped off at his law office
 for the first time in a week. The girls in the outer office stared at
@@ -3974,7 +3888,7 @@ minutes!"
 
 "What else? It was just a case of willful petty obstruction on the
 part of the Bryant family. They're mean, twisted people, Bill. They've
-lived all their lives in the shadow of one great man--Rick Bryant--and
+lived all their lives in the shadow of one great man—Rick Bryant—and
 I guess they chose this time to show him and everyone else just what
 Great Big Important Persons they really were." He scowled.
 
@@ -3983,7 +3897,7 @@ nothing to do with the Bryant affair. Slowly Kelly said, "Jim, this
 completes all the current work you're doing here, isn't that right?"
 
 Harker nodded. "I turned over the Fuller and Heidell cases to
-Portobello. That was to leave me clear for--"
+Portobello. That was to leave me clear for—"
 
 "Yes. I know." Kelly's face reddened even more than normally, and he
 squirmed wretchedly in his inflated pneumatic desk-chair. "I've been
@@ -3994,28 +3908,28 @@ following the papers, Jim. I've been following the whole thing."
 "I know. I didn't know how hot it was, though. Jim, this hurts me,"
 Kelly said. "I'm going to ask a favor of you. It's a lousy thing
 to ask, because it shows I don't have guts or the courage of your
-convictions or something along those lines. But--"
+convictions or something along those lines. But—"
 
 Harker said, "I'll spare you the trouble of putting it into words. The
 answer is yes. If you think my presence on your firm letterhead will
 hurt the firm, Bill, I'll resign."
 
 A look of gratitude appeared on Kelly's fleshy sweat-shiny face. "Jim,
-I want you to understand--that is--look here, I asked you to come in
+I want you to understand—that is—look here, I asked you to come in
 with me when your party booted you out, and don't think I didn't get my
 wrist slapped for it. But this reanimation thing is too big. I don't
-want to get associated with it in any way. And so--well it seemed to
-Portobello and Klein and me--"
+want to get associated with it in any way. And so—well it seemed to
+Portobello and Klein and me—"
 
 "Sure, Bill." Harker had a sudden dizzying vision of himself standing
 at the rim of a bottomless abyss, but he heard his voice saying,
 calmly, rock-steady, "I'll draft a note informing you that I'm
 resigning because of the pressure of outside activities."
 
-Hoarsely Kelly said, "Thanks, Jim. And if this thing blows over--if it
-all works out---we'll have a spot for you here. Don't forget that."
+Hoarsely Kelly said, "Thanks, Jim. And if this thing blows over—if it
+all works out—we'll have a spot for you here. Don't forget that."
 
-"I won't." _Not even because you don't mean it_, Harker thought. It
+"I won't." Not even because you don't mean it, Harker thought. It
 wasn't possible for Kelly to mean it. It was just a formal ritualistic
 statement, this implication that he could come back at a future time.
 
@@ -4031,17 +3945,15 @@ He stood up.
 you about the wrap-up on the Bryant case. I'll clear out my office next
 week."
 
-"No hurry about it. Oh--nearly forgot." Kelly consulted a memo slip.
+"No hurry about it. Oh—nearly forgot." Kelly consulted a memo slip.
 "Leo Winstead's office phoned here for you earlier today. The Governor
 wants you to call him back between one-thirty and three o'clock this
 afternoon."
 
-Harker frowned momentarily. _Winstead? What does he want with me?_ He
+Harker frowned momentarily. Winstead? What does he want with me? He
 said to Kelly, "Thanks, Bill. And so long."
 
-*       *       *       *       *
-
-He bought a noontime edition of the _Star-Post_ and ate a gloomy little
+He bought a noontime edition of the Star-Post and ate a gloomy little
 meal by himself in a nineteenth-floor automated restaurant overlooking
 the East River. He pushed the meal-selector buttons almost at random;
 the result was largely an assortment of cheap synthetics, but he
@@ -4051,9 +3963,9 @@ increasingly more troubling news in the paper.
 There was a new statement from Senator Thurman, more doggedly
 anti-reanimation than the last. Apparently Thurman's views on the
 subject mounted in vitriol-content in hourly increments; now he said
-that "reanimation is of dubious value in mitigating human sorrow--a
+that "reanimation is of dubious value in mitigating human sorrow—a
 crude and unsatisfactory process that robs life of dignity." Evidently
-he had read about the Janson suicide. And speaking of that--
+he had read about the Janson suicide. And speaking of that—
 
 Yes. The body had been found and identified, according to a story at
 the bottom of page one. Wayne Janson, 58, an unmarried industrialist.
@@ -4064,8 +3976,8 @@ undergone reanimation.
 And a statement from David Klaus, too, evidently released by
 Mitchison: "The Janson case proves that the Beller technique can
 be a dangerous and destructive instrument in the wrong hands." He
-recognized Mitchison's blunt word-sense, the equating of _technique_
-and _instrument_.
+recognized Mitchison's blunt word-sense, the equating of technique
+and instrument.
 
 At half past one he made his way to a public phonebooth, sealed himself
 in, snapped on the privacy-shield, and called the operator.
@@ -4135,7 +4047,7 @@ your sake as well as ours. If you can win Thurman over, Congressional
 approval of reanimation's a cinch! You're just cutting your own throat
 by refusing to go down."
 
-"You know I'm not anxious to do favors for--"
+"You know I'm not anxious to do favors for—"
 
 "We understand that! But can't you see you'll be helping yourself as
 well? We'll try to make things easier for you if you convince Thurman."
@@ -4143,8 +4055,6 @@ well? We'll try to make things easier for you if you convince Thurman."
 Harker grinned pleasantly. It was fun to see Winstead squirm. "Okay,"
 he said finally. "I'll go down to see Thurman first thing tomorrow
 morning."
-
-CHAPTER XIV
 
 Friday Morning. Ten-fifteen a.m., on the morning of May 24, 2033.
 
@@ -4162,11 +4072,11 @@ swooped down from its flight altitude of 40,000 feet.
 Harker was seeing Thurman at half-past-eleven, at the Senator's office.
 He rolled the phrases round in his mind once again:
 
-"_Mr. Thurman, you stuck by me long ago--_"
+"Mr. Thurman, you stuck by me long ago—"
 
-"_You owe this to your party, sir--_"
+"You owe this to your party, sir—"
 
-"_A forward step toward the bright utopia of tomorrow, Senator--_"
+"A forward step toward the bright utopia of tomorrow, Senator—"
 
 None of the arguments sounded even remotely convincing. Thurman was
 a stubborn old man with a bee in his bonnet about reanimation; no
@@ -4182,7 +4092,7 @@ to Harker's ear murmured, "Please fasten your safety-belts. We'll be
 landing in a few minutes."
 
 Mechanically Harker guided the magnetic snaps together until he heard
-the proper _click!_ The ship broke through the thick layer of clouds
+the proper click! The ship broke through the thick layer of clouds
 that blanketed the sky at 20,000 feet, and the white, neat, oddly
 sterile-looking city of Washington appeared below.
 
@@ -4200,19 +4110,19 @@ staged by Bryant, taking advantage of his bachelor friend's suicide
 declaration to smear the reanimators in public.
 
 But the suicide was in the newspapers, and no amount of unmasking
-ever really cancels out unfavorable publicity. The public would--with
-some justice--now link reanimation with possible mental deficiency
+ever really cancels out unfavorable publicity. The public would—with
+some justice—now link reanimation with possible mental deficiency
 afterward. Harker longed to have Jonathan Bryant's neck between his
 hands, just for a minute.
 
-_Troublemaker!_
+Troublemaker!
 
 He leaned back and waited for the landing.
 
 It took nearly half an hour for Harker to make the taxi-jaunt from the
 jetport to Capitol Hill, longer than the transit-time between New York
 and Washington. It was nearly eleven when he reached Senator Thurman's
-suite of offices--imposing ones, as befitted a senator who not only
+suite of offices—imposing ones, as befitted a senator who not only
 represented the second most populous state in the Union but who had
 held office for nearly seven terms.
 
@@ -4253,17 +4163,17 @@ the big outer door opened to admit someone. He thought back thirty-odd
 years, to the time when eight-year-old Jimmy Harker was reported to his
 school principal for some obscure, forgotten offense. He had sat in
 just this manner in the anteroom of the principal's office, waiting for
-the principal to come back from lunch to administer his punishment--his
+the principal to come back from lunch to administer his punishment—his
 head popping around every time a clerk opened the big door, his
 stomach quivering in fear that this might be the principal this time.
 
-In time, he recalled, the principal _had_ come--and had not expelled
+In time, he recalled, the principal had come—and had not expelled
 him nor phoned for his father, merely reprimanded him and sent him
 back to his classroom. Perhaps the same thing might happen today, he
 thought, perhaps some miraculous change of heart on the part of old
-Thurman--
+Thurman—
 
-But no miracles took place. Eleven-fifteen went by, and eleven-thirty,
+But no manifestations took place. Eleven-fifteen went by, and eleven-thirty,
 and there was no sign of Thurman. Clerks serenely went about their
 routine duties, ignoring the tense, sweating man in the outer office.
 
@@ -4282,7 +4192,7 @@ you won't give me his home phone number."
 
 "Afraid not, sir."
 
-"Is there anything you _will_ do? Suppose you phone the office of
+"Is there anything you will do? Suppose you phone the office of
 Senator Fletcher for me, then."
 
 Fletcher was the Senate Majority Leader, another veteran Nat-Lib who
@@ -4290,7 +4200,7 @@ was likely to know where to reach Thurman if anyone was. A little to
 Harker's surprise, the secretary said, "You can use the phone back
 here. Just pick up and tell the switchboard who you want."
 
-The phone was audio-only. A metallic voice said, "_Your party please?_"
+The phone was audio-only. A metallic voice said, "Your party please?"
 and Harker, resisting the temptation to ask for Thurman's home number
 (it was probably restricted) said, "Would you connect me with Senator
 Fletcher's office?"
@@ -4299,11 +4209,11 @@ Four secretaries later, Harker heard the deep, confident voice of
 Pennsylvania's Fletcher say, "What can I do for you, Harker? Heard you
 were in town."
 
-"I'm here to see Senator Thurman," Harker said. "Do you know where--"
+"I'm here to see Senator Thurman," Harker said. "Do you know where—"
 
 "Thurman? Where are you now, Harker?"
 
-"At the Senator's office. He isn't here, and I thought you might know--"
+"At the Senator's office. He isn't here, and I thought you might know—"
 
 "Me? Harker, if I knew where Thurman was I'd be talking to him and not
 to you. I'm looking for him myself."
@@ -4318,12 +4228,10 @@ then replaced the receiver. He walked over to the smug secretary and
 said casually, "You better start looking for a new job. Senator Thurman
 hasn't been seen since some time last night.
 
-"What? But--"
+"What? But—"
 
 Interrupting the agitated reply, Harker said, "You better make some
 quick phone-calls. I'll be back later if the Senator turns up."
-
-*       *       *       *       *
 
 The next two hours were hectic ones in the Capitol. Harker picked up
 an early afternoon newspaper when he saw the huge scare-head reading
@@ -4336,9 +4244,9 @@ Secret Service men were combing Washington and the outlying districts.
 The three-thirty headlines screamed, THURMAN STILL MISSING!
 
 _No word has been received yet of the whereabouts of Senator Clyde
-Thurman (N-L, N.Y.), who vanished from his home early last evening.
+Thurman (N-L, N. Y.), who vanished from his home early last evening.
 The veteran lawmaker is slated to preside over the controversial
-reanimation hearings beginning Monday, if--_
+reanimation hearings beginning Monday, if—_
 
 At four o'clock there was still no sign of the missing Senator. Harker
 phoned the jetport, made reservations for a four-thirty flight back to
@@ -4385,7 +4293,7 @@ tension, and his eyes bulged. He looked frightened half into catatonia.
 
 "What's going on?" Harker whispered.
 
-"Ex-ex-pe-riment," Raymond said, shivering. "God, I wish we hadn't
+"Ex-ex-pe-riment," Raymond said, shivering. "Entity, I wish we hadn't
 started this."
 
 Raymond seemed close to collapse. Puzzled, Harker edged closer to
@@ -4399,29 +4307,29 @@ for a few seconds.
 
 Finally he looked at Raymond and said, "What have you idiots done?"
 
-"We--we thought--"
+"We—we thought—"
 
 Raymond stopped. Barchet said, "We all agreed on it after you left
-yesterday. We would bring him here and try--try to convince him that we
-were right. But he had a heart attack and d-died. So--"
+yesterday. We would bring him here and try—try to convince him that we
+were right. But he had a heart attack and d-died. So—"
 
 In the yellow light of the unshielded incandescents the lie stood
 out in bold relief on Barchet's face. It was Lurie who said finally,
 "We might as well tell the truth. We had Thurman kidnapped and we
 chloroformed him. Now we're going to revive him and tell him he died of
-natural causes but was reanimated. We figure he'll support us if--"
+natural causes but was reanimated. We figure he'll support us if—"
 
 Wobbly-legged, Harker groped for a lab stool and sat down heavily,
 cradling his suddenly pounding head in his hands. The monstrosity of
 what had been done behind his back stunned him. To kidnap Thurman, kill
-him, hope that in reviving him he would be converted to their cause--
+him, hope that in reviving him he would be converted to their cause—
 
 "All right," Harker said tonelessly. "It's too late for saying no, I
 guess. You realize you've condemned all of us to death."
 
-"Jim," Raymond began, "do you really think--"
+"Jim," Raymond began, "do you really think—"
 
-"Kidnapping, murder, illegal scientific experimentation--oh, I could
+"Kidnapping, murder, illegal scientific experimentation—oh, I could
 strangle you!" Harker felt like bursting into tears. "Don't you see
 that when you revive him he's bound to throw the book at us? Why did
 you have to do this when I was gone?"
@@ -4430,7 +4338,7 @@ you have to do this when I was gone?"
 be back in time to see us doing it."
 
 Vogel said, "Perhaps if we don't carry out the resuscitation, and
-merely dispose of the body--"
+merely dispose of the body—"
 
 "No!" Harker said, half-sobbing. "We'll reanimate him. And that'll be
 the end of this grand crusade. Finish." He looked down on Thurman's
@@ -4453,7 +4361,7 @@ grasped the controlling rheostat. Power surged into the dead man's body.
 
 After a while Harker rose and joined the group around the table.
 Needles wavered and leaped high, indicating that life had returned.
-But--
+But—
 
 "Look at the EEG graph," Raymond said hollowly.
 
@@ -4463,8 +4371,6 @@ to see what had happened.
 The eyes of the body on the table had opened, and were staring toward
 the ceiling. They were not the beady, alert, eager eyes of Senator
 Thurman. They were the dull, glazed, slack-muscled eyes of an idiot.
-
-CHAPTER XV
 
 For a moment, no one spoke.
 
@@ -4486,7 +4392,7 @@ Harker took a deep breath. "In that case, there's nothing for us to do
 but kill him again and dispose of the body."
 
 The suggestion seemed to shock them. Barchet reacted first: "But that's
-_murder_!"
+murder!"
 
 "Exactly. And what did you think you were committing the first time you
 killed Thurman?" There was no answer, so he went on. "According to the
@@ -4510,7 +4416,7 @@ had happened. Either that or call the police right now."
 Raymond said, "I think you're right." The lab director's face was
 green with fear; like the rest of them, he was awakening slowly to the
 magnitude of their act. "We did this thing because we thought we were
-serving our goal. We were wrong. But the only way we can _continue_ to
+serving our goal. We were wrong. But the only way we can continue to
 serve our goal is to commit another crime. We'll have to dispose of the
 body."
 
@@ -4525,7 +4431,7 @@ the most comprehensive damn autopsy you ever carried out."
 
 Silently Vogel and the other surgeon wheeled the body out, with Lurie
 following along behind. In the empty operating room, Harker glared at
-Raymond and Barchet. He felt no fear, no apprehension--merely a kind of
+Raymond and Barchet. He felt no fear, no apprehension—merely a kind of
 dull hopeless pain.
 
 "Well done," he said finally. "I wish I could tell you exactly how I
@@ -4535,11 +4441,11 @@ Raymond pursed his lips nervously. "I think I know. You'd like to
 strangle us, wouldn't you?"
 
 "Something like that," Harker admitted. "Why did you have to do it?
-_Why?_"
+Why?"
 
 "We thought it would help us," said Barchet.
 
-"Help? To kidnap and kill a United States Senator? But--oh, what's the
+"Help? To kidnap and kill a United States Senator? But—oh, what's the
 use? Just remember now that there are six of us who know about this.
 The first one who cracks and talks not only sends all six of us to the
 gas chamber but finishes reanimation permanently."
@@ -4551,8 +4457,6 @@ irresponsible lunatics for an entire weekend?"
 Raymond looked boyishly at his shoes; Barchet tried to glare at Harker,
 but there was something sickly and unconvincing about the expression.
 Harker turned and headed out.
-
-*       *       *       *       *
 
 He made the long journey from the lab to his home by taxi, an
 extravagance that he did not often permit himself. Tonight it seemed
@@ -4583,9 +4487,9 @@ after the fact; but his guilt was as sure as that of the man who had
 lowered the chloroform.
 
 Forces ranked themselves against him: Mitchison, Klaus, Jonathan
-Bryant--petty little men, those three, but they could cause trouble.
+Bryant—petty little men, those three, but they could cause trouble.
 Barchet, who was on their side and still managed to hurt them with
-everything he did. The Church; the American-Conservative Party; the
+everything he did. The Refuge; the American-Conservative Party; the
 ignorant, fearful people of the world, swayed by whatever hysteria
 happened to be in the air at the moment.
 
@@ -4595,17 +4499,17 @@ He thought back, putting himself in the shoes of that James Harker of 8
 May 2033 who had made the decision to go ahead. The bait had been the
 image of Eva, drowned, beyond his grasp. Eva might have lived.
 
-_Yes_, he thought, _it's worth it_.
+Yes, he thought, it's worth it.
 
 Abruptly the gloom began to lift from him. He realized that none of the
-things that had happened to him mattered--not the dismissal by Kelly,
+things that had happened to him mattered—not the dismissal by Kelly,
 nor the crimes for which he had assumed the burden, nor the inner
 turmoil which was exhausting him. How transient everything was!
 
-The important fact was reanimation--the defeat of death. The end of
-death's dominion. That was his goal, and he would work toward it--and
+The important fact was reanimation—the defeat of death. The end of
+death's dominion. That was his goal, and he would work toward it—and
 if he destroyed himself and those about him in the process, well, there
-had been martyrs in man's history before. That Evas of tomorrow might
+had been sacrifices in man's history before. That Evas of tomorrow might
 live, Harker thought, I will go ahead.
 
 "Larchmont, mister," the driver called out. "Which way do I go?"
@@ -4636,7 +4540,7 @@ she had been making socks, it seemed. The video blared some hideous
 popular song:
 
 "_If I could hold you in my arms, Baby!
-and cuddle up and--_"
+and cuddle up and—_"
 
 Harker jerked a thumb toward the screen. "Is this the sort of junk
 you've been watching?"
@@ -4655,7 +4559,7 @@ stubbornly defied the national committee and gone ahead with the reform
 program that could only have ended his political career, and did. She
 had barely objected when he told her of his new affiliation with the
 Beller people, and she had said nothing in these past ten days, when
-the pressure of conflicting cross-currents had kept him bottled up
+the pressure of conflicting symbol-currents had kept him bottled up
 within himself, unloving, cold.
 
 He tried to say something affectionate, something to repay her for the
@@ -4665,8 +4569,8 @@ But she spoke first. "They still haven't found Senator Thurman, Jim. I
 heard the nine-thirty newscast. Isn't it terrible, an old man like that
 disappearing?"
 
-Sudden coldness swept through him. "Still--haven't found him?"
-he repeated inanely. "Well--I guess--ah--that old buzzard's
+Sudden coldness swept through him. "Still—haven't found him?"
+he repeated inanely. "Well—I guess—ah—that old buzzard's
 indestructible. He'll turn up."
 
 "How do you think this will affect the hearing on Monday?"
@@ -4674,12 +4578,12 @@ indestructible. He'll turn up."
 Harker shrugged, only half-listening. He was thinking, _You know
 damn well where Thurman is, and you're afraid to tell her. Why don't
 you speak up? Don't you trust your own wife?_ He wet his dry lips.
-"I--I suppose they'll choose a new chairman if something's happened to
-Thurman. But--"
+"I—I suppose they'll choose a new chairman if something's happened to
+Thurman. But—"
 
 "Jim, are you all right? You look terrible!"
 
-"Lois, I--want to tell you something. Today--"
+"Lois, I—want to tell you something. Today—"
 
 He stopped, wondering how to go on. She was staring intently at him,
 curious but not overly curious, waiting to hear what he had to say.
@@ -4699,12 +4603,12 @@ about. Barchet's dead!"
 "What? How?"
 
 "It happened about five minutes ago. He was getting ready to leave, and
-we were discussing--you know, what happened tonight. He had a heart
+we were discussing—you know, what happened tonight. He had a heart
 attack and just dropped. It must have been all the excitement. His
 heart was weak anyway, he once said."
 
 Harker could not repress the tide of relief that rose in him. Barchet
-had been the cause of half of his troubles--Mitchison and Klaus, for
+had been the cause of half of his troubles—Mitchison and Klaus, for
 one, and the Thurman affair for another. Still, a man was dead, and
 that was no cause for rejoicing, he told himself coldly.
 
@@ -4737,11 +4641,11 @@ pressured you into doing all sorts of cockeyed things. If he lived,
 he'd end up revealing the Thurman business before long. Let him stay
 dead. That's an order, Mart."
 
-Raymond seemed to shrink back from the screen. "It's--almost like
-committing murder, Jim! That man could be saved if we--"
+Raymond seemed to shrink back from the screen. "It's—almost like
+committing murder, Jim! That man could be saved if we—"
 
 "No," Harker said, with a firmness he did not feel. "There'll be
-trouble if you cross me, Mart. Good night."
+trouble if you symbol me, Mart. Good night."
 
 He broke the contact with a shaky hand.
 
@@ -4749,14 +4653,14 @@ Lois gasped when she saw him. "Jim! It must be bad news. You're utterly
 white."
 
 He sat down heavily. "One of the Beller executives just had a heart
-attack. A man named Barchet--a runty little fellow who enjoyed sticking
+attack. A man named Barchet—a runty little fellow who enjoyed sticking
 lead pipes between the spokes of smoothly running machines. I just
 ordered Mart Raymond not to attempt reanimation."
 
 His hands were quivering. Lois took them between hers. Harker said,
 "It's like murder, isn't it? To refuse to reanimate a man, when it's
 possible to do so. But it's better for everyone if Barchet stays dead.
-Nobody will miss him. God, I feel awful."
+Nobody will miss him. Entity, I feel awful."
 
 "Remember the McDermott case, Jim?"
 
@@ -4779,8 +4683,6 @@ into an attack of chills.
 He nodded slowly now. "I refused to commute Barchet's sentence. That's
 all there is to it."
 
-CHAPTER XVI
-
 The newspapers Saturday morning gave full play to the Thurman
 disappearance. Several of them ran biographies of the missing Senator,
 tracing his political career from the early founding days of the
@@ -4798,9 +4700,7 @@ already entered upon.
 
 The obituary pages contained one item worth note:
 
-SIMEON BARCHET
-
-_Simeon Barchet of 201 Princeton Road, Rockville Centre, L.I.,
+"_Simeon Barchet of 201 Princeton Road, Rockville Centre, L. I.,," Simeon Barchet said.
 treasurer of the Beller Research Laboratories, died of a heart
 attack at the Beller office in Litchfield, New Jersey, yesterday.
 His age was 61._
@@ -4826,9 +4726,9 @@ papers, since any news of the Beller researchers rated a good play.
 He was not mistaken. At noon Mart Raymond called; he stared somewhat
 reproachfully at Harker out of the screen and said, "Some reporters
 just phoned up, Jim. They saw Barchet's obit and want to know how come
-he wasn't reanimated. What am I supposed to tell them--the truth?"
+he wasn't reanimated. What am I supposed to tell them—the truth?"
 
-Harker scowled. "Don't tell them anything. Let me think. Ah--yes. Tell
+Harker scowled. "Don't tell them anything. Let me think. Ah—yes. Tell
 them Barchet was despondent over personal affairs, and left a memo
 imploring us not to reanimate him. Naturally, we abided by his last
 request."
@@ -4838,7 +4738,7 @@ halfway plausible, anyway."
 
 The newspapers moved fast. By nightfall the story had been promoted to
 the front pages, generally headed with something like BELLER MAN
-CHOOSES DEATH. The editorial pages of the _Star-Post's_ evening
+CHOOSES DEATH. The editorial pages of the Star-Post's evening
 edition had an interesting comment:
 
 NATURAL DEATH OR SUICIDE?
@@ -4874,7 +4774,7 @@ Fundamentalist minister from Kansas had got his name into the papers
 by demanding immediate destruction of all equipment and plans for
 reanimation apparatus, but his was an isolated voice.
 
-The tone of the _Star-Post_ editorial seemed to be the tone of the
+The tone of the Star-Post editorial seemed to be the tone of the
 consensus. Men of intelligence were saying, _Reanimation exists, for
 good or evil. Let's study it for a while and find out what it can do
 and how it will change society. Let's not scream for its suppression,
@@ -4888,17 +4788,15 @@ found it difficult to endure the memory of the noble old warrior's
 mindless eyes; but, he had to admit it, it had silenced a potent force
 for suppression.
 
-_Perhaps these were times for violence and audacity_, Harker thought.
+Perhaps these were times for violence and audacity, Harker thought.
 
 _In that case I'm the wrong man for my job. But it's too late to help
 that now._
 
-*       *       *       *       *
-
 Sunday's papers continued the general trend toward reasonable
 consideration of the reanimation case, and also reported no progress in
 the search for the missing Senator. It was learned that the reanimation
-hearings would begin as scheduled on Monday--not in Washington, though,
+hearings would begin as scheduled on Monday—not in Washington, though,
 but in New York. Late Sunday evening a messenger appeared at Harker's
 door and handed him a document.
 
@@ -4930,7 +4828,7 @@ the Beller Fund since Barchet died."
 masculine baritone. "Pleased to meet you, Mr. Harker. I've heard so
 much about you. My late husband was deeply interested in your career."
 
-_I'm damned sure of that_, Harker thought. For as many years as he
+I'm damned sure of that, Harker thought. For as many years as he
 could remember, the name of Darwin F. Beller had headed the list of
 contributors to the annual American-Conservative Party campaign fund.
 He said aloud, "How do you do, Mrs. Beller."
@@ -4953,7 +4851,7 @@ to hear the lady speak."
 It was a voice-test. Someone yelled out, "Harker's fine! Raymond could
 use more resonance!"
 
-"Would you mind getting more _chest_ into your voice, Mr. Raymond?"
+"Would you mind getting more chest into your voice, Mr. Raymond?"
 
 "I'll do my best," Raymond said.
 
@@ -5043,19 +4941,19 @@ reanimation we had thirty consecutive failures."
 
 "I see. And what is the nature of these failures?"
 
-Raymond began to fidget. "Ah--well, we don't succeed in restoring life."
+Raymond began to fidget. "Ah—well, we don't succeed in restoring life."
 
 "The body remains inanimate?"
 
-"Yes. Most of the time, that is. I mean--"
+"Yes. Most of the time, that is. I mean—"
 
 It was too late. Vorys pounced on the slip gleefully and said, "Most
 of the time, Dr. Raymond? I don't quite understand. Does that mean
-that some of your failures result in actual reanimation, or _partial_
+that some of your failures result in actual reanimation, or partial
 reanimation? Will you make yourself clear?"
 
 Panicky, Raymond glanced at Harker, who shrugged and nodded resignedly.
-_It had to come out eventually_, Harker thought.
+It had to come out eventually, Harker thought.
 
 The squirming Raymond was a pitiful sight under the merciless lights.
 He said in a hopeless voice, "I guess I ought to be more specific."
@@ -5066,7 +4964,7 @@ He said in a hopeless voice, "I guess I ought to be more specific."
 the labs, Senator, we've had 72 reanimations since the first success.
 No, 73. In 62 of those cases, we've had c-complete success. In four
 others, it was impossible for us to restore life at all. And in the
-remaining seven"--_now it comes out_, Harker thought--"we achieved
+remaining seven"—now it comes out, Harker thought—"we achieved
 reanimation with partial success."
 
 "In what way partial?" Vorys pressed.
@@ -5075,13 +4973,11 @@ Raymond had run out of evasions. He said, "We restored the body to
 functional activity. We were unable to achieve a similar restoration of
 the mind, in those seven cases."
 
-CHAPTER XVII
-
 The newspapers had a field day with Raymond's unwilling revelation.
-Even the traditionally sedate _Times_ devoted six of its eight columns
+Even the traditionally sedate Times devoted six of its eight columns
 to a banner headline about it, and a story which began,
 
-_Public faith in the Beller reanimation process was seriously shaken
+_Public conviction in the Beller reanimation process was seriously shaken
 today by the surprising revelation that reanimation sometimes produces
 a mentally deficient individual._
 
@@ -5091,10 +4987,10 @@ hearings. He declared that seven out of seventy-three experimental
 reanimations had produced "mindless beings." In four other instances,
 neither body nor mind was successfully recalled to life._
 
-In the other papers, it was even worse. The _Star-Post_, which had been
+In the other papers, it was even worse. The Star-Post, which had been
 growing more sympathetic each day, demanded atop its editorial column,
 WHY HAVE THEY BEEN HIDING THIS? The Hearst papers, which had
-_never_ been sympathetic to the cause of reanimation, grew almost
+never been sympathetic to the cause of reanimation, grew almost
 apoplectic now; their key slogan was the label, "The Zombie-Makers,"
 which they used in reference to the Beller researchers not only in the
 editorial (a vitriolic one) but even in several of the news columns.
@@ -5113,7 +5009,7 @@ belonged to Cal Mitchison and David Klaus, and with them was their
 lawyer, Gerhardt.
 
 With Senator Thurman still not found, Brewster presided at the second
-session--a heavy-set, slow-moving man with the ponderously tenacious
+session—a heavy-set, slow-moving man with the ponderously tenacious
 mind that went with those physical characteristics. With the opening
 formalities out of the way, Brewster said, "We would like to hear from
 Dr. David Klaus, formerly of the Beller Research Laboratories."
@@ -5144,7 +5040,7 @@ Klaus. How long were you employed at the laboratories?"
 "Three years. I was in charge of enzyme research."
 
 "I see. And you were aware that the reanimation experiments were
-occasionally producing--ah--idiots?"
+occasionally producing—ah—idiots?"
 
 "Yes, sir. We all were aware of that."
 
@@ -5156,7 +5052,7 @@ insuring full recovery of mental powers. I don't know what's been done
 since my dismissal."
 
 "He's lying!" Raymond shouted. "His group never had anything to do
-with--"
+with—"
 
 "Please, Mr. Raymond," Brewster said fiercely. "Your outburst is
 uncalled-for."
@@ -5165,15 +5061,15 @@ To Klaus he said, "Do you feel that this hazard of the reanimation
 process can be overcome in the course of further research?"
 
 "Definitely. But the present management of the laboratories is heading
-in the wrong direction. They've rejected my ideas--which were close to
-being perfected--and instead chose to suppress the whole affair."
+in the wrong direction. They've rejected my ideas—which were close to
+being perfected—and instead chose to suppress the whole affair."
 
 Harker felt his pulse mounting. Klaus seemed icily calm up there,
-speaking now with cold precision--most unusual for him. He sounded as
+speaking now with cold precision—most unusual for him. He sounded as
 if he had rehearsed this speech all morning.
 
 Brewster said, "It would seem to me that the directors of the Beller
-Laboratories were guilty of an act of bad faith. Wouldn't you agree,
+Laboratories were guilty of an act of bad conviction. Wouldn't you agree,
 Dr. Klaus?"
 
 "Definitely, sir."
@@ -5215,7 +5111,7 @@ experiments was made without your consent or knowledge?"
 
 "The process was not quite perfect, sir. A few more weeks of work and
 we could have eliminated the possibility of mental loss. It was my plan
-not to bring the matter to the public notice until then--but Dr. Klaus
+not to bring the matter to the public notice until then—but Dr. Klaus
 took it upon himself to inform the world without my knowledge."
 
 Harker glanced at Brewster and Vorys. They were frowning; perhaps he
@@ -5248,7 +5144,7 @@ committed suicide last week."
 
 Vorys paused momentarily. "The late Mr. Janson was supposed to have
 undergone reanimation several months before your employment at Beller.
-Is it possible that he _did_ experience treatment there, and that you
+Is it possible that he did experience treatment there, and that you
 don't know about it?"
 
 "I've examined the list of patients at Beller since the beginning of
@@ -5264,7 +5160,7 @@ laboratories?"
 
 "Exactly."
 
-"But a close friend of the late Mr. Janson claims that he _did_
+"But a close friend of the late Mr. Janson claims that he did
 secretly enter the Beller laboratories of his own free will shortly
 before his death of natural causes, was reanimated, and suffered such
 mental disturbance afterward that he took his own life."
@@ -5288,8 +5184,8 @@ effects on them, pathologically and otherwise."
 "That sounds very good, Mr. Harker. But it could also be an excuse for
 hiding something."
 
-Resisting the impulse to lose his temper--for Vorys was obviously
-deliberately baiting him--Harker said, "I believe it would be possible
+Resisting the impulse to lose his temper—for Vorys was obviously
+deliberately baiting him—Harker said, "I believe it would be possible
 to grant you and your three colleagues access to our records, to prove
 the fraudulent nature of the Janson matter. But public exposure of the
 names would not be necessary, would it?"
@@ -5303,18 +5199,18 @@ said, "Things are getting rough, eh?"
 Harker nodded. "Vorys and Brewster are out for our scalps. The
 American-Conservatives must be preparing to come down hard."
 
-"I'm sorry about letting that statistic slip yesterday, Jim--"
+"I'm sorry about letting that statistic slip yesterday, Jim—"
 
 "Forget it. It had to come out sooner or later, and maybe if we had
 announced it at the start we wouldn't be having so much trouble now.
 Well, it couldn't be helped. Let's go get some lunch."
 
 As they rode downward in the gravshaft toward the hotel dining room,
-Harker said, "Exactly how close _are_ you to getting the bugs out of
+Harker said, "Exactly how close are you to getting the bugs out of
 the process?"
 
 Raymond looked vague. "A week, a month, maybe a year. We know what
-causes the mental breakdown--most of the time. It's a matter of hormone
+causes the mental breakdown—most of the time. It's a matter of hormone
 impurity, generally. Of course, in some cases the brain suffers severe
 damage in the process of dying, and we'll never be able to lick that
 any more than we can revive a man who's been blown apart by dynamite.
@@ -5339,7 +5235,7 @@ But he overestimated the public's ability to distinguish truth from
 slung mud, it seemed. The early afternoon papers were already on sale
 by the time the hearing resumed for the afternoon.
 
-The headline on the _Star-Post_ was, KLAUS SAYS HARKER FIRED HIM;
+The headline on the Star-Post was, KLAUS SAYS HARKER FIRED HIM;
 CHARGES BELLER 'BAD FAITH.'
 
 The story, slanted heavily in Klaus' direction, implied that the
@@ -5358,10 +5254,8 @@ The great insane raging tide of public opinion had sprung up from what
 had been a smoothly-flowing stream, and once its mighty power had been
 channelled toward a definite end, there was no standing against it.
 
-He had the uncomfortable feeling that only a miracle could save things,
-now. And miracles were not easy to come by, in this secular age.
-
-CHAPTER XVIII
+He had the uncomfortable feeling that only a manifestation could save things,
+now. And manifestations were not easy to come by, in this secular age.
 
 As the hearing ground along into its third day, and its fourth, and
 then its fifth and sixth, things grew even worse. The "zombie" phrase
@@ -5369,7 +5263,9 @@ became a favorite, not only of the press and the public, but even of
 Brewster and Vorys. The fact that seven of seventy-three reanimation
 subjects had been revived sans intellect had become the main issue. In
 his rare moments of relaxation, Harker wondered how the world would
-react if it were ever learned that one of those seven had been none
+re
+
+f it were ever learned that one of those seven had been none
 other than the missing Senator Thurman.
 
 Very much as Harker had expected, the American-Conservative Party
@@ -5397,7 +5293,7 @@ alone to work."
 A delegation of FBI men and the four investigating senators visited
 the laboratory a week after the hearings had begun, and Raymond and
 Harker reluctantly showed them the data on the revivifications so
-far--excluding that of Senator Thurman, which had not been recorded in
+far—excluding that of Senator Thurman, which had not been recorded in
 any way whatever.
 
 They checked through the photos, compared them with those of Wayne
@@ -5410,7 +5306,7 @@ prior to its public announcement, we must conclude that no reanimation
 did take place._"
 
 This left Jonathan Bryant in an ambiguous position, since he continued
-to maintain that Janson _had_ undergone reanimation, and had suffered a
+to maintain that Janson had undergone reanimation, and had suffered a
 severe change in personality as a result, leading to his suicide.
 
 "This ought to settle Jonathan for good," Harker crowed when the text
@@ -5424,20 +5320,20 @@ investigating committee. The questioner was Senator Vorys. The
 interchange between Bryant and Vorys was widely reported in the late
 editions that day:
 
-SENATOR VORYS: _You knew the late Wayne Janson well?_
+SENATOR VORYS: You knew the late Wayne Janson well?
 
-BRYANT: _I was his closest friend._
+BRYANT: I was his closest friend.
 
-VORYS: _When did he first mention reanimation to you?_
+VORYS: When did he first mention reanimation to you?
 
 BRYANT: _About January. He said his doctor had told him about the
 experiments going on in Litchfield._
 
-VORYS: _What is the name of this doctor?_
+VORYS: What is the name of this doctor?
 
-BRYANT: _I'm sorry, I don't know, Senator Vorys._
+BRYANT: I'm sorry, I don't know, Senator Vorys.
 
-VORYS: _Very well. Go ahead._
+VORYS: Very well. Go ahead.
 
 BRYANT: _Well, Wayne suffered a stroke in February and he told me
 that he was going to Litchfield, that he felt close to death and
@@ -5479,7 +5375,7 @@ Klaus-Mitchison and Bryant, the political fencing of the two great
 parties, the hysteria of the people when faced with something new and
 beyond easy acceptance.
 
-Only one issue had not been raised yet--luckily, for it was the
+Only one issue had not been raised yet—luckily, for it was the
 deadliest of all, having a basis of truth. No one had accused the
 Beller people of murdering Senator Thurman.
 
@@ -5487,17 +5383,15 @@ It was a logical accusation, against the background of insane charges
 already raised. After all, Thurman had been the most vigorous and most
 important of the enemies of reanimation, and he had disappeared on
 the eve of the hearings themselves! It seemed obvious to Harker that
-_someone_ would think of implying that the Beller group had done away
+someone would think of implying that the Beller group had done away
 with their tough, intractable enemy.
 
 But no one raised the cry, perhaps because it was too obvious. A
 thousandth time, Harker was grateful for that momentary impulse
 of steely purposefulness that had led him to condemn Barchet to
 continuing death. Of the six people who had known the fate of Senator
-Thurman, only Barchet was likely to crack and reveal the truth--and
+Thurman, only Barchet was likely to crack and reveal the truth—and
 Barchet was out of the picture now.
-
-*       *       *       *       *
 
 The eighth day of the hearing came and went; Vorys grilled poor Luric
 mercilessly on minor scientific details, while Brewster got Vogel to
@@ -5513,7 +5407,7 @@ said, nervously tugging at the dark strands of his beard.
 money. They've found out all they want to know about us."
 
 Harker nodded gloomily. You only had to pick up any newspaper, listen
-to any reasonably right-wing news commentator, attend any church, even
+to any reasonably right-wing news commentator, attend any refuge, even
 walk in the street and talk to people at random.
 
 The response was the same. Fear.
@@ -5521,7 +5415,7 @@ The response was the same. Fear.
 Fear of reanimation, fear of that one-chance-out-of-six that the result
 would be a so-called zombie. Desperately Harker tried to counteract the
 swelling tide of fear. He scraped up money for a full-page ad in the
-_Times_, headed, THROW OUT THE BABY WITH THE BATHWATER?
+Times, headed, THROW OUT THE BABY WITH THE BATHWATER?
 
 His line of argument was that the reanimation process should not be
 condemned for its failures, but praised for its successes. It was in
@@ -5529,7 +5423,7 @@ the early stages, the experimental years. What if aviation had been
 suppressed because of the early crashes? Research had to go on.
 
 The response to the advertisement was a lessening of hysteria in
-responsible places; the _Times_ itself echoed his feelings in its own
+responsible places; the Times itself echoed his feelings in its own
 editorial the next day. But he sensed he was not reaching the people.
 And the people feared reanimation. There was no doubt of that, now.
 
@@ -5539,7 +5433,7 @@ private deliberations preparatory to delivering its findings to the
 Senate as a whole.
 
 Harker approached Senator Dixon privately and said, "Tell me,
-Senator--how are our chances?"
+Senator—how are our chances?"
 
 The Wyoming liberal frowned quizzically. "Hard to say. The Committee's
 deadlocked two-and-two, you see. We may fight all summer about it."
@@ -5553,7 +5447,7 @@ Harker said doubtfully, "How's the feeling in high Nat-Lib circles?"
 
 Dixon shrugged. "Right now, the feeling runs toward taking the
 Beller labs over and continuing reanimation research under federal
-supervision--with you and Raymond still in charge, of course."
+supervision—with you and Raymond still in charge, of course."
 
 "Fine!"
 
@@ -5572,7 +5466,7 @@ Hotly Harker said, "Junk it? The way I was junked as Governor?"
 Dixon smiled. "I'm afraid so. It's this business of the seven idiots,
 Jim. That scares people more than you can imagine."
 
-"But we can lick that problem--eventually!"
+"But we can lick that problem—eventually!"
 
 "Maybe you can. But the voters don't believe that. All they see is the
 short-range possibility. And they're more afraid of having a loved one
@@ -5594,13 +5488,11 @@ doesn't happen."
 
 Again the sad smile. "Read the newspapers, man. Read your mail!"
 
-*       *       *       *       *
-
 Harker read his mail.
 
 He ploughed through hundreds of vicious, sweat-provoking letters. He
 sorted them out: favorable on one side, unfavorable on the other. The
-_unfavorable_ pile grew so high it toppled over, and he started a new
+unfavorable pile grew so high it toppled over, and he started a new
 one; the pile of encouraging letters was no more than three inches
 thick.
 
@@ -5608,9 +5500,9 @@ They were letters of raw hate, most of them.
 The kind of thing that went, _My beloved
 mother/father/sister/brother/son/daughter/aunt/uncle/grandmother/grandfather
 died last week, and I want to tell you she/he had a decent Christian
-burial and went to his/her eternal repose. Naturally I feel sorrow at
+burial and went to his/her endless repose. Naturally I feel sorrow at
 my loss, but I'd rather be dead myself than let a loved one of mine get
-into your hands. Sure, maybe you'll bring him/her back to life--but who
+into your hands. Sure, maybe you'll bring him/her back to life—but who
 wants to see the hollow mindless shell of someone you once loved? Not
 me, brother. Not me._
 
@@ -5619,14 +5511,14 @@ held public office, Harker had never received so many, nor such loaded
 ones.
 
 It was astonishing. They gloated in the triumph of death, they thanked
-God they had not allowed their beloved ones to be reanimated, they
-extended curses for Harker and his whole family. _He_ was the target of
+Entity they had not allowed their beloved ones to be reanimated, they
+extended curses for Harker and his whole family. He was the target of
 their hate, the symbol for reanimation.
 
 At first he was irritated, then angered; anger passed, and turned into
 compassion. Perhaps some of these same people had written to him a
 month ago, pleading to have a loved one restored to them by the new
-miracle of science. Now, confused by the haze of conflicting tales, of
+manifestation of science. Now, confused by the haze of conflicting tales, of
 lies and partial truths, their earlier willingness turned to repulsion.
 
 Harker wearily baled the letters up again, and left Litchfield to
@@ -5639,15 +5531,13 @@ It was not too late, Harker thought. The forces of confusion could be
 put to rout; the dominion of death could at last have boundaries staked
 out.
 
-But the public faith had to be regained. Some spectacular
-demonstration, some act of faith that would capture their imagination
+But the public conviction had to be regained. Some spectacular
+demonstration, some act of conviction that would capture their imagination
 and end the dominating sway of ignorance.
 
 But what? How?
 
 Harker had no answer.
-
-CHAPTER XIX
 
 At Litchfield again, the next day, Harker was reading through a lab
 report, comprehending not very much of it, when a diffident knock
@@ -5656,7 +5546,7 @@ sounded outside his door.
 Probably Lurie with the papers, he thought. "Come in!"
 
 A slim figure in ecclesiastical robes entered. Harker blinked and said,
-"I didn't expect to see _you_ here, Father Carteret."
+"I didn't expect to see you here, Father Carteret."
 
 "Nor I. But I thought I would make the trip."
 
@@ -5666,31 +5556,31 @@ A slim figure in ecclesiastical robes entered. Harker blinked and said,
 them now. I thought I'd stop over and find out if I could be of any
 help."
 
-Harker felt faintly irritated. He liked the priest, but he felt no
+Harker felt faintly irritated. He liked the keeper, but he felt no
 desire for unasked advice. "Father, if you've come to tell me I ought
-to quit this outfit while I still have my soul, forget it."
+to quit this outfit while I still have my essence, forget it."
 
 "The time for telling you that is past."
 
-Harker stared at the priest coolly. "Then why are you here?"
+Harker stared at the keeper coolly. "Then why are you here?"
 
-"To help you. I have a suggestion for you--a rather strange one. But
-first let me tell you that the Church is reconsidering its stand."
+"To help you. I have a suggestion for you—a rather strange one. But
+first let me tell you that the Refuge is reconsidering its stand."
 
 "What?"
 
-Carteret smiled gently. "The Church moves slowly; don't anticipate
+Carteret smiled gently. "The Refuge moves slowly; don't anticipate
 anything for the next several years. But I have it on good
-understanding that as soon as your technique is perfect--that is, as
-soon as you can restore body and mind every time--the Church will no
+understanding that as soon as your technique is perfect—that is, as
+soon as you can restore body and mind every time—the Refuge will no
 longer withhold its approval from reanimation."
 
-Harker chuckled. "I'd say that bet was pretty well coppered. The _if_
+Harker chuckled. "I'd say that bet was pretty well coppered. The if
 there is a pretty big one."
 
-"I know. But a necessary one. I'm praying for your success, Jim."
+"I know. But a necessary one. I'm invoking for your success, Jim."
 
-"_You?_ But you warned me away from this thing!"
+"You? But you warned me away from this thing!"
 
 Carteret nodded. "You took the step anyway. And perhaps I made an
 original error in judgment."
@@ -5705,7 +5595,7 @@ that Congress is afraid to legislate in our favor."
 
 "And you don't expect to overcome that defect?"
 
-"Not immediately. Another six months, maybe--but by that time it'll be
+"Not immediately. Another six months, maybe—but by that time it'll be
 too late."
 
 Carteret steepled his long thin fingers reflectively. "You tell me,
@@ -5716,7 +5606,7 @@ could sell your product to the people, Congress would follow along.
 
 "I thought so."
 
-"You said you had a suggestion to make," Harker reminded the priest.
+"You said you had a suggestion to make," Harker reminded the keeper.
 
 "I did. It's an idea for capturing the stream of public opinion. I'm
 anxious to see your project succeed, Jim. It may sound strange, coming
@@ -5725,33 +5615,31 @@ from my lips, but that's the truth. I suffered to reach this option."
 "And what's your idea?"
 
 An odd smile appeared on Carteret's thin face. "It's one that bears
-the test of time, Jim. Our Savior went meekly to the Cross, and on the
+the test of time, Jim. Our Liberator went meekly to the Symbol, and on the
 third day He arose. It was an act that has captured the imaginations
 and hearts of men for two thousand years."
 
-Harker frowned. "I don't quite see--"
+Harker frowned. "I don't quite see—"
 
-He stopped. Abruptly the deeper meaning of the priest's words was borne
+He stopped. Abruptly the deeper meaning of the keeper's words was borne
 in on him, and he stared at Carteret aghast, wondering.
 
-"Would _you_ do something like that?" he asked.
+"Would you do something like that?" he asked.
 
-"If I had faith in my cause," Carteret said. "Do you have faith in
+"If I had conviction in my cause," Carteret said. "Do you have conviction in
 yours?"
 
-Hesitantly Harker said, "I--think so."
+Hesitantly Harker said, "I—think so."
 
 "Therein lies the answer, Jim. Think about it a while. Don't rush
 yourself. I'll leave you now, and let you get used to the idea."
-
-*       *       *       *       *
 
 Alone, Harker stared through the office window at the dark,
 rain-streaked sky outside. Summer lightning crackled suddenly across
 the darkness; moments later thunder came rolling down from the hills.
 
 A cold sweat came over him as he revolved Carteret's words in his mind:
-_Our Savior went meekly to the Cross, and on the third day He arose._
+Our Liberator went meekly to the Symbol, and on the third day He arose.
 
 Do I dare, he wondered?
 
@@ -5759,21 +5647,21 @@ It was, he knew without doubt, the act that would settle the fate of
 reanimation for good. With success would come triumph; failure for him
 unquestionably meant the downfall of the project.
 
-_Shall I risk it?_
+Shall I risk it?
 
-_Do I dare?_
+Do I dare?
 
 He thought back over a life that had lasted forty-three years, a
 comfortable life, most of it spent in easy circumstances as he rose
 through law school to political prominence, then down the other side of
 the curve into a short-lived obscurity. He had never known real danger
-in his life. There had been enemies, of course--political ones, who had
+in his life. There had been enemies, of course—political ones, who had
 worked his downfall. But that was a gentle kind of strife, a chess-game
 more than a pitched war.
 
 This was different.
 
-This was life or death, on the line--and for what? For a cause. He had
+This was life or death, on the line—and for what? For a cause. He had
 never known a cause he might be willing to risk death for. Now that the
 risk presented itself, he wondered if he had the courage to submit to
 it.
@@ -5785,25 +5673,25 @@ level voice, he told her exactly what he was going to do.
 She was silent for a moment; then she said simply, "Jim, why do you
 have to do this thing?"
 
-_How can I explain?_ he wondered. _How can I show her that a moment can
+How can I explain? he wondered. _How can I show her that a moment can
 come when you stand between life and death, and the choice is entirely
 yours?_
 
 He said, "I think it's the only way, Lois. It'll prove to the world
 that reanimation can be trusted."
 
-"But the awful risk, Jim--"
+"But the awful risk, Jim—"
 
-_One-chance-out-of-six for idiocy_, he thought bleakly. "I wouldn't do
-it if I thought it was risky, Lois. The whole point is that it _isn't_
-risky. You think I want to be a goddam martyr?"
+One-chance-out-of-six for idiocy, he thought bleakly. "I wouldn't do
+it if I thought it was risky, Lois. The whole point is that it isn't
+risky. You think I want to be a goddam sacrifice?"
 
 "Sometimes I think you do, Jim," she said very quietly.
 
 He chuckled harshly. "Well, maybe. But I know what I'm doing. It'll
 hammer home reanimation the way no amount of talking ever could."
 
-After a long pause she said, "When--when would you do this thing?"
+After a long pause she said, "When—when would you do this thing?"
 
 "I don't know. I'd have to discuss it with the others here first. And
 we'd need to arrange for proper publicity. Unless the whole world finds
@@ -5814,7 +5702,7 @@ a bare little room on a rain-soaked New Jersey hill_, Harker thought.
 _And this is probably the weirdest motive for suicide in the history of
 the human species._
 
-Lois said, "Do you have that much faith in those men?"
+Lois said, "Do you have that much conviction in those men?"
 
 "Yes. How can we expect the people to trust us, if we don't trust
 ourselves?"
@@ -5822,7 +5710,7 @@ ourselves?"
 "All right," she said. Her voice held undertones of quiet resignation.
 "I guess I ought to fight and cry and tell you not to do it, but I know
 you too well, Jim. Go ahead, if you think you have to do this thing.
-I--I guess you might as well have my permission, because I know you'll
+I—I guess you might as well have my permission, because I know you'll
 go ahead and do it anyway."
 
 There was the hint of a crack in her voice. Harker smiled palely,
@@ -5836,7 +5724,7 @@ It was still raining. He pulled a waterproof from the closet, slung it
 over his shoulders, and dashed across the clearing to Mart Raymond's
 office. The sky was dark, gray, bleak.
 
-Raymond was working on records when Harker entered--proceeding
+Raymond was working on records when Harker entered—proceeding
 mechanically, with the air of a man marking time. They were all marking
 time, waiting for the Congressional decision.
 
@@ -5854,14 +5742,14 @@ Mitchison."
 
 "Huh?"
 
-"I mean, I'm going to jump the gun and announce that you've _already_
+"I mean, I'm going to jump the gun and announce that you've already
 straightened things up, and that from now on reanimation will work
 every time, provided no vital organs are damaged and that decay hasn't
 begun."
 
 "What's the point of doing that? It isn't so."
 
-"It _will_ be so, sooner or later. Sooner, I hope. But I have an idea
+"It will be so, sooner or later. Sooner, I hope. But I have an idea
 for a sort of publicity stunt, a grandstand play that should clinch the
 idea of reanimation's safety. Or else finish us altogether."
 
@@ -5877,7 +5765,7 @@ you to kill me under laboratory conditions and bring me back to life."
 
 "Desperate. It's not quite the same thing."
 
-"But suppose it doesn't work? What if--you remember how Thurman looked?"
+"But suppose it doesn't work? What if—you remember how Thurman looked?"
 
 "I do. I'll take my chances. If it doesn't work, then we're not much
 worse off than we are now." Harker turned again and stared out the
@@ -5885,8 +5773,6 @@ window.
 
 The rain had stopped; the sun was out. A rainbow arched proudly across
 the low hills, a many-colored ribbon stretching out to the horizon.
-
-*       *       *       *       *
 
 Harker drafted two press releases during the afternoon, and by
 nightfall they had reached print in the newspapers. Both caused
@@ -5915,14 +5801,12 @@ operation._"
 Harker listened soberly to this largely fictitious news broadcast. He
 had no heart ailment; the last technical flaw had not been eliminated.
 
-But never mind, he thought. The essential fact was the last--the
+But never mind, he thought. The essential fact was the last—the
 reanimation. The rest was camouflage.
 
 Five chances out of six. He felt oddly calm about his decision. At last
-he found a cause in which he had faith, and he did not expect to be let
+he found a cause in which he had conviction, and he did not expect to be let
 down.
-
-CHAPTER XX
 
 There seemed to be a sheath of fog wrapped around him, or perhaps it
 was a section of cloud. White, soft, without substance, it buoyed him
@@ -5944,7 +5828,7 @@ He remembered Lurie, looking awkward and ungainly. Poor Lurie. Lurie
 had got him into this whole mess in the beginning, hadn't he?
 
 Lois had been there too, her face a blank emotionless mask. And there
-had been others--the four senators, Vorys, Brewster, Dixon, Westmore.
+had been others—the four senators, Vorys, Brewster, Dixon, Westmore.
 The Four Horsemen of the Apocalypse. The ghostly riders of death.
 
 Reporters? Video men? Yes, there had been quite a crowd.
@@ -5968,27 +5852,27 @@ lightly down a river of radiant brightness. No weight. No sensations.
 Only the endless lovely bath of color, and the distant rumble of
 thunder.
 
-This is heaven, he thought pleasantly. Not a bad place at all.
+This is ethereal realm, he thought pleasantly. Not a bad place at all.
 
 Timeless, voiceless, airless, lifeless. A kaleidoscope of blues and
 violets overhead. I am pure energy, he thought, unfettered by the ties
 of flesh.
 
 This is the kingdom of death. There was the odor of lilies somewhere, a
-cool sweet white smell. I, James Harker, being of sound mind--
+cool sweet white smell. I, James Harker, being of sound mind—
 
 A golden flame, child-sized, soared near him in the nothingness. It's
 Eva, he thought. Hello, Eva. Don't you remember your dad?
 
 The golden flame swooped laughingly past him and was gone. Harker felt
-a momentary pang, but it too passed on; this was heaven, where there
+a momentary pang, but it too passed on; this was ethereal realm, where there
 was no sadness.
 
 The rumble of thunder grew louder.
 
-(_Voices?_)
+(Voices?)
 
-(_Here?_ Harker thought.)
+(Here? Harker thought.)
 
 I have given myself voluntarily into the hands of death, he announced
 silently. Of my own free will did I consent to have the sanctity of
@@ -6005,7 +5889,7 @@ Again came thunder, louder, closer.
 Someone said, "I think he's waking up."
 
 Harker remained perfectly still, struggling to penetrate the meaning of
-those words. _I think he's waking up._
+those words. I think he's waking up.
 
 Waking up? From death?
 
@@ -6021,8 +5905,6 @@ Recalled to life!
 
 With a sudden convulsive moan and whimper, Harker woke.
 
-*       *       *       *       *
-
 His mouth tasted cottony, and at first his eyes would not focus.
 Gradually the world took shape about him. He saw three faces
 hovering above the bed in which he lay; behind them were green
@@ -6032,8 +5914,8 @@ though I walk through the valley of the shadow of death, I will fear no
 evil._
 
 He matched faces with identities. The squarish face badly in need of a
-shave--that belonged to Mart Raymond. The oval one, tinged by blonde
-hair shading into gray--that face belonged to Lois. And the other, the
+shave—that belonged to Mart Raymond. The oval one, tinged by blonde
+hair shading into gray—that face belonged to Lois. And the other, the
 lean ascetic rectangle of a face, that was owned by Father Carteret.
 
 Harker said, "I guess it worked. Where am I?" His voice was hoarse and
@@ -6046,9 +5928,9 @@ the operation."
 Two weeks, Harker thought. It seemed like two minutes ago that Vogel
 had lowered the anesthesia cone over his face.
 
-"How--did things work out?" he asked.
+"How—did things work out?" he asked.
 
-It was the priest who spoke. "Perfectly, Jim. You're a national hero."
+It was the keeper who spoke. "Perfectly, Jim. You're a national hero."
 
 He glanced at Lois, who bent over Harker and clutched his hand. Hers
 seemed cold, Harker thought.
@@ -6058,15 +5940,15 @@ it was good to be alive again. The sunlight was bright and warm in the
 room; it should be nearly August, he thought.
 
 Some time later he was fed, and some time after that a nurse appeared
-bearing a thick stack of newspapers. "The _Times_ since your operation,
+bearing a thick stack of newspapers. "The Times since your operation,
 Mr. Harker. Your wife thought you'd like to see them."
 
 He thanked her and reached hungrily for the topmost paper. It was
-today's--the latest edition. The banner headline was, HARKER OUT OF
+today's—the latest edition. The banner headline was, HARKER OUT OF
 COMA, and they had the picture of him that had been used for his
 campaign posters back in 2028.
 
-He leafed back ... July 30, July 29, July 28 ...
+He leafed back... July 30, July 29, July 28...
 
 At the bottom of the heap was the July 16 paper, with the account
 of his sensational submission to death. They described the event
@@ -6127,7 +6009,7 @@ about returning to work, but I want to put a proposition to you."
 "What kind?"
 
 "New York State is short one senator right now. I have to appoint
-somebody to replace Thurman. And it seemed to me that _you_--"
+somebody to replace Thurman. And it seemed to me that you—"
 
 Harker nearly let the phone drop. When he had recovered his poise he
 said, "I'm still a sick man, Leo. Don't shock me like that."
@@ -6161,13 +6043,13 @@ have come out much worse. He had taken a desperate gamble, and he and
 humanity both were that much the richer for it.
 
 But the world as he had known it for forty-odd years was dead, and
-would not return to life. This was a new era--an era in which the
+would not return to life. This was a new era—an era in which the
 darkest fact of existence, death, no longer loomed high over man.
 
 Staggering tasks awaited mankind now. A new code of laws was needed, a
 new ethical system. The first chapter had closed, but the rest of the
 book remained to be written.
 
-He squeezed her hand tightly. "No, Lois. It _isn't_ all finished. The
+He squeezed her hand tightly. "No, Lois. It isn't all finished. The
 hardest part of the job is just beginning. But everything's going to be
 all right, now. Yes. Everything's going to be all right."

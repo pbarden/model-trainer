@@ -1,7 +1,3 @@
-Title: Contagion
-
-Author: Katherine MacLean
-
 Minos was such a lovely planet. Not a thing
 seemed wrong with it. Excepting the food,
 perhaps. And a disease that wasn't really.
@@ -11,7 +7,7 @@ forest leaves were green and copper and purple and fiery red, and a
 wind sent patches of bright greenish sunlight dancing among the leaf
 shadows.
 
-The hunt party of the _Explorer_ filed along the narrow trail, guns
+The hunt party of the Explorer filed along the narrow trail, guns
 ready, walking carefully, listening to the distant, half familiar cries
 of strange birds.
 
@@ -39,9 +35,7 @@ touched her glove with his, the grin on his ugly beloved face barely
 visible in the mingled light and shade. A patch of sunlight struck a
 greenish glint from his fishbowl helmet.
 
-*       *       *       *       *
-
-They walked on. A quarter of a mile back, the space ship _Explorer_
+They walked on. A quarter of a mile back, the space ship Explorer
 towered over the forest like a tapering skyscraper, and the people of
 the ship looked out of the viewplates at fresh winds and sunlight and
 clouds, and they longed to be outside.
@@ -88,14 +82,14 @@ Minos. The Mayor sends greetings from Alexandria."
 "English?" gasped June.
 
 "We were afraid you would take off again before I could bring word to
-you.... It's three hundred miles.... We saw your scout plane pass
-twice, but we couldn't attract its attention."
+you... It's three hundred miles... We saw your scout plane pass
+twice, but we couldn't attr
 
-*       *       *       *       *
+ts attention."
 
 June looked in stunned silence at the stranger leaning against the
-tree. Thirty-six light years--thirty-six times six trillion miles
-of monotonous space travel--to be told that the planet was already
+tree. Thirty-six light years—thirty-six times six trillion miles
+of monotonous space travel—to be told that the planet was already
 settled! "We didn't know there was a colony here," she said. "It is not
 on the map."
 
@@ -103,8 +97,8 @@ on the map."
 have been here three generations and yet no traders have come."
 
 Max shifted the kit strap on his shoulder and offered a hand. "My name
-is Max Stark, M.D. This is June Walton, M.D., Hal Barton, M.D., and
-George Barton, Hal's brother, also M.D."
+is Max Stark, M. D. This is June Walton, M. D., Hal Barton, M. D., and
+George Barton, Hal's brother, also M. D."
 
 "Patrick Mead is the name," smiled the man, shaking hands casually.
 "Just a hunter and bridge carpenter myself. Never met any medicos
@@ -114,23 +108,23 @@ The grip was effortless but even through her airproofed glove June
 could feel that the fingers that touched hers were as hard as padded
 steel.
 
-"What--what is the population of Minos?" she asked.
+"What—what is the population of Minos?" she asked.
 
 He looked down at her curiously for a moment before answering. "Only
 one hundred and fifty." He smiled. "Don't worry, this isn't a city
 planet yet. There's room for a few more people." He shook hands with
-the Bartons quickly. "That is--you are people, aren't you?" he asked
+the Bartons quickly. "That is—you are people, aren't you?" he asked
 startlingly.
 
 "Why not?" said Max with a poise that June admired.
 
-"Well, you are all so--so--" Patrick Mead's eyes roamed across the
+"Well, you are all so—so—" Patrick Mead's eyes roamed across the
 faces of the group. "So varied."
 
 They could find no meaning in that, and stood puzzled.
 
-"I mean," Patrick Mead said into the silence, "all these--interesting
-different hair colors and face shapes and so forth--" He made a vague
+"I mean," Patrick Mead said into the silence, "all these—interesting
+different hair colors and face shapes and so forth—" He made a vague
 wave with one hand as if he had run out of words or was anxious not to
 insult them.
 
@@ -165,7 +159,7 @@ is breathable."
 Pat Mead was wearing nothing but a loin cloth and his weapons, and the
 wind ruffled his hair. He looked comfortable, and they longed to take
 off the stuffy spacesuits and feel the wind against their own skins.
-Minos was like home, like Earth.... But they were strangers.
+Minos was like home, like Earth... But they were strangers.
 
 "Plague," Pat Mead said thoughtfully. "We had one here. It came two
 years after the colony arrived and killed everyone except the Mead
@@ -173,7 +167,7 @@ families. They were immune. I guess we look alike because we're all
 related, and that's why I grew up thinking that it is the only way
 people can look."
 
-_Plague._ "What was the disease?" Hal Barton asked.
+Plague. "What was the disease?" Hal Barton asked.
 
 "Pretty gruesome, according to my father. They called it the melting
 sickness. The doctors died too soon to find out what it was or what to
@@ -202,14 +196,12 @@ Max was eyeing the bronze red-headed figure with something approaching
 awe. "Do you think all the Meads look like that?" he said to June on
 the intercom. "I wouldn't mind being a Mead myself!"
 
-*       *       *       *       *
-
 Their job had been made easy by the coming of Pat. They went back to
 the ship laughing, exchanging anecdotes with him. There was nothing
 now to keep Minos from being the home they wanted, except the melting
 sickness, and, forewarned against it, they could take precautions.
 
-The polished silver and black column of the _Explorer_ seemed to rise
+The polished silver and black column of the Explorer seemed to rise
 higher and higher over the trees as they neared it. Then its symmetry
 blurred all sense of specific size as they stepped out from among the
 trees and stood on the edge of the meadow, looking up.
@@ -225,8 +217,6 @@ Plenty good enough."
 The tall tanned man looked faintly wistful, and June realized that
 he had never had access to a full library, never seen a movie, never
 experienced luxury. He had been born and raised on Minos.
-
-*       *       *       *       *
 
 "May I go aboard?" Pat asked hopefully.
 
@@ -277,7 +267,7 @@ without exposing them to air.
 
 "We won't be free to contact your people until we know if they still
 carry melting sickness," Max added. "You might be immune so it doesn't
-show on you, but still carry enough germs--if that's what caused it--to
+show on you, but still carry enough germs—if that's what caused it—to
 wipe out a planet."
 
 "If you do carry melting sickness," said Hal Barton, "we won't be able
@@ -301,7 +291,7 @@ decontamination, being buffeted by jets of hot disinfectant, bathed in
 glares of sterilizing ultraviolet radiation, June remembered that and
 compared Pat Mead's treatment to theirs.
 
-In the _Explorer_, stored carefully in sealed tanks and containers,
+In the Explorer, stored carefully in sealed tanks and containers,
 was the ultimate, multi-purpose cureall. It was a solution of enzymes
 so like the key catalysts of the human cell nucleus that it caused
 chemical derangement and disintegration in any non-human cell. Nothing
@@ -330,11 +320,9 @@ dripped into his veins through long thin tubes.
 All legal spaceships were built for safety. No chance was taken of
 allowing a suspected carrier to bring an infection on board with him.
 
-*       *       *       *       *
-
 June stepped from the last shower stall into the locker room, zipped
 off her spacesuit with a sigh of relief, and contemplated herself in a
-wall mirror. Red hair, dark blue eyes, tall....
+wall mirror. Red hair, dark blue eyes, tall...
 
 "I've got a good figure," she said thoughtfully.
 
@@ -379,13 +367,11 @@ away, the low rolling hills, bronze and red with patches of clear green
 where there were fields.
 
 Someone was looking out, standing very still, as if she had been
-there a long time--Bess St. Clair, a Canadian woman. "It looks like
+there a long time—Bess St. Clair, a Canadian woman. "It looks like
 Winnipeg," she told them as they paused. "When are you doctors going to
 let us out of this blithering barberpole? Look," she pointed. "See that
 patch of field on the south hillside, with the brook winding through
 it? I've staked that hillside for our house. When do we get out?"
-
-*       *       *       *       *
 
 Reno Ulrich's tiny scout plane buzzed slowly in from the distance and
 began circling lazily.
@@ -410,8 +396,6 @@ fire. Max grinned at June and she grinned back. After a year and a half
 of isolation in space, everyone was hungry for the sight of new faces,
 the sound of unfamiliar voices.
 
-*       *       *       *       *
-
 They climbed the last two turns to the cafeteria, and entered to a rich
 subdued blend of soft music and quiet conversations. The cafeteria
 was a section of the old dining room, left when the rest of the ship
@@ -424,7 +408,7 @@ They stood in line at the hot foods counter, and behind her June
 could hear a girl's voice talking excitedly through the murmur of
 conversation.
 
-"--new man, honest! I saw him through the viewplate when they came in.
+"—new man, honest! I saw him through the viewplate when they came in.
 He's down in the medical department. A real frontiersman."
 
 The line drew abreast of the counters, and she and Max chose three
@@ -443,7 +427,7 @@ shy Canadian. "He's back already. We just saw him come in."
 
 "Oh, fine." St. Clair beamed. "I had an appointment with him to go out
 and confirm what looks like a nice vein of iron to the northeast. Have
-you seen Bess? Oh--there she is." He turned swiftly and hurried away.
+you seen Bess? Oh—there she is." He turned swiftly and hurried away.
 
 A very tall man with fiery red hair came in surrounded by an eagerly
 talking crowd of ship people. It was Pat Mead. He stood in the doorway,
@@ -452,7 +436,7 @@ larger than he was. Sighting June, he smiled and began to thread toward
 their table.
 
 "Look!" said someone. "There's the colonist!" Shelia, a pretty, jeweled
-woman, followed and caught his arm. "Did you _really_ swim across a
+woman, followed and caught his arm. "Did you really swim across a
 river to come here?"
 
 Overflowing with good-will and curiosity, people approached from all
@@ -468,8 +452,6 @@ wild animals with a bow and arrow.
 June and Max got up firmly, edged through the crowd, captured Pat and
 escorted him back to their table. June found herself pleased to be
 claiming the hero of the hour.
-
-*       *       *       *       *
 
 Pat sat in the simple, subtly designed chair and leaned back almost
 voluptuously, testing the way it gave and fitted itself to him. He
@@ -525,7 +507,7 @@ added, glancing aside at her when he noticed her sudden stillness.
 
 "Nothing," she said hastily, but she did not turn back to watching Pat
 Mead. She felt disloyal. Pat was only a superb animal. Max was the man
-she loved. Or--was he? Of course he was, she told herself angrily.
+she loved. Or—was he? Of course he was, she told herself angrily.
 They had gone colonizing together because they wanted to spend their
 lives together; she had never thought of marrying any other man. Yet
 the sense of dissatisfaction persisted, and along with it a feeling of
@@ -544,8 +526,6 @@ Pat leaned back and smiled, sipping a glass of hydroponic burgundy.
 Len turned back to him. "You people live off the country, right? You
 hunt and bring in steaks and eat them, right? Well, say I have one of
 those steaks right here and I want to eat it, what happens?"
-
-*       *       *       *       *
 
 "Go ahead and eat it. It just wouldn't digest. You'd stay hungry."
 
@@ -574,9 +554,7 @@ it all right.'"
 
 "Did which?" asked June, suddenly feeling a sourceless prickle of fear.
 
-"Adapted us to Minos. He took human cells--"
-
-*       *       *       *       *
+"Adapted us to Minos. He took human cells—"
 
 She listened intently, trying to find a reason for fear in the
 explanation. It would have taken many human generations to adapt to
@@ -586,7 +564,7 @@ have the ability to return to their primeval condition of independence,
 hunting, eating and reproducing alone.
 
 Alexander P. Mead took human cells and made them into phagocytes.
-He put them through the hard savage school of evolution--a thousand
+He put them through the hard savage school of evolution—a thousand
 generations of multiplication, hardship and hunger, with the alien
 indigestible food always present, offering its reward of plenty to the
 cell that reluctantly learned to absorb it.
@@ -615,8 +593,8 @@ still eating out of hydroponics tanks."
 "It worked," said Max to Len. "You're a plant geneticist and a tank
 culture expert. There's a job for you."
 
-"Uh-_uh_!" Len backed away. "It sounds like a medical problem to me.
-Human cell control--right up your alley."
+"Uh-uh!" Len backed away. "It sounds like a medical problem to me.
+Human cell control—right up your alley."
 
 "It is a one-way street," Pat warned. "Once it is done, you won't be
 able to digest ship food. I'll get no good from this protein. I ate it
@@ -637,8 +615,6 @@ hangar, explaining. He was to carry the proposal to Alexandria, mingle
 with the people, be persuasive and wait for them to vote before
 returning. He was to give himself shots of cureall every two hours on
 the hour or run the risk of disease.
-
-*       *       *       *       *
 
 Reno was pleased. He had dabbled in sociology before retraining as a
 mechanic for the expedition. "This gives me a chance to study their
@@ -675,8 +651,8 @@ Coming toward her, busily telling a tale of adventure to the gorgeous
 Shelia Davenport, was a tall, red-headed, magnificently handsome man.
 It was his handsomeness which made Pat such a pleasure to look upon
 and talk with, she guiltily told herself, and it was his tremendous
-vitality.... It was like meeting a movie hero in the flesh, or a hero
-out of the pages of a book--Deer-slayer, John Clayton, Lord Greystoke.
+vitality... It was like meeting a movie hero in the flesh, or a hero
+out of the pages of a book—Deer-slayer, John Clayton, Master Greystoke.
 
 She waited in the doorway to the laboratory and made no move to join
 them, merely acknowledged the two with a nod and a smile and a casual
@@ -687,8 +663,6 @@ passed he lightly touched her arm.
 
 "Oh, pioneer!" she said mockingly and softly to his passing profile,
 and knew that he had heard.
-
-*       *       *       *       *
 
 That night she had a nightmare. She was running down a long corridor
 looking for Max, but every man she came to was a big bronze man with
@@ -721,15 +695,13 @@ to Len Marlow pour out his troubles.
 "And Elsie tags around after that big goof all day, listening to his
 stories. And then she tells me I'm just jealous, I'm imagining things!"
 He passed his hand across his eyes. "I came away from Earth to be with
-Elsie.... I'm getting a headache. Look, can't you persuade Pat to cut
+Elsie... I'm getting a headache. Look, can't you persuade Pat to cut
 it out, June? You and Max are his friends."
 
 "Here, have an aspirin," June said. "We'll see what we can do."
 
 "Thanks." Len picked up his tank culture and went out, not at all
 cheered.
-
-*       *       *       *       *
 
 Max sat brooding over the dials and meters at his end of the
 laboratory, apparently sunk in thought. When Len had gone, he spoke
@@ -762,16 +734,14 @@ loyalty!" She was half shouting.
 
 "They're not worth much on the second-hand market," Max said. He was
 sitting slumped on his lab stool, looking dully at his dials. "Now
-_I'm_ getting a headache!" He smiled ruefully. "No kidding, a real
+I'm getting a headache!" He smiled ruefully. "No kidding, a real
 headache. And over other people's troubles yet!"
 
-Other people's troubles.... She got up and wandered out into the long
+Other people's troubles... She got up and wandered out into the long
 curving halls. "I want you June," Pat's voice repeated in her mind.
 Why did the man have to be so overpoweringly attractive, so glaring a
 contrast to Max? Why couldn't the universe manage to run on without
 generating troublesome love triangles?
-
-*       *       *       *       *
 
 She walked up the curving ramps to the dining hall where they had eaten
 and drunk and talked yesterday. It was empty except for one couple
@@ -781,7 +751,9 @@ She turned and wandered down the long easy spiral of corridor to
 the pharmacy and dispensary. It was empty. George was probably in
 the test lab next door, where he could hear if he was wanted. The
 automatic vendor of harmless euphorics, stimulants and opiates stood
-in the corner, brightly decorated in pastel abstract designs, with its
+in the corner, brightly decorated in pastel abstr
+
+esigns, with its
 automatic tabulator graph glowing above it.
 
 Max had a headache, she remembered. She recorded her thumbprint in the
@@ -795,7 +767,7 @@ of human blood?
 
 After the aspirins, she pushed another plunger for something for
 herself. Then she stood looking at it, a small box with three pills in
-her hand--Theobromine, a heart strengthener and a confidence-giving
+her hand—Theobromine, a heart strengthener and a confidence-giving
 euphoric all in one, something to steady shaky nerves. She had used it
 before only in emergency. She extended a hand and looked at it. It was
 trembling. Damn triangles!
@@ -807,7 +779,7 @@ each graph line. For a moment she could not find the green line for
 anodynes and the red line for stimulants, and then she saw that they
 went almost straight up.
 
-There were too many being used--far too many to be explained by
+There were too many being used—far too many to be explained by
 jealousy or psychosomatic peevishness. This was an epidemic, and only
 one disease was possible!
 
@@ -819,8 +791,8 @@ Who had it?
 
 The drugs vendor glowed cheerfully, uncommunicative. She opened a
 panel in its side and looked in on restless interlacing cogs, and on
-the inside of the door saw printed some directions.... "To remove or
-examine records before reaching end of the reel--"
+the inside of the door saw printed some directions... "To remove or
+examine records before reaching end of the reel—"
 
 After a few fumbling minutes she had the answer. In the cafeteria at
 breakfast and lunch, thirty-eight men out of the forty-eight aboard
@@ -838,8 +810,6 @@ It was the men who had melting sickness!
 Melting sickness killed in hours, according to Pat Mead. How long had
 the men been sick?
 
-*       *       *       *       *
-
 As she was leaving, Jerry came into the pharmacy, recorded his
 thumbprint and took a box of aspirin from the machine.
 
@@ -851,7 +821,7 @@ credentials to the technician on watch.
 "Medical Emergency." At a small control panel in the corner was a large
 red button, precisely labeled. She considered it and picked up the
 control room phone. This was the hard part, telling someone, especially
-someone who had it--Max.
+someone who had it—Max.
 
 She dialed, and when the click on the end of the line showed he had
 picked the phone up, she told Max what she had seen.
@@ -870,14 +840,12 @@ She told him.
 this time. Push that button."
 
 She went to the panel and pushed the large red button. Through the
-long height of the _Explorer_, bells woke to life and began to ring
+long height of the Explorer, bells woke to life and began to ring
 in frightened clangor, emergency doors thumped shut, mechanical
 apparatus hummed into life and canned voices began to give rapid urgent
 directions.
 
 A plague had come.
-
-*       *       *       *       *
 
 She obeyed the mechanical orders, went out into the hall and walked in
 line with the others. The captain walked ahead of her and the gorgeous
@@ -927,7 +895,7 @@ expression.
 "What is it, George?" she asked anxiously.
 
 "Some of the women have slight fever, but it's going down. None of the
-fellows have any--but their white count is way up, their red count is
+fellows have any—but their white count is way up, their red count is
 way down, and they look sick to me."
 
 She approached St. Clair. His usually ruddy cheeks were pale, his pulse
@@ -979,8 +947,6 @@ Another test. There was no sign of a micro-organism in anyone's blood,
 merely a growing horde of leucocytes and phagocytes, prowling as if
 mobilized to repel invasion.
 
-*       *       *       *       *
-
 Len Marlow was wheeled in unconscious, with Hal Barton's written
 comments and conclusions pinned to the blanket.
 
@@ -1001,15 +967,13 @@ fast. The time she and Max had to work in was too short.
 "Pump some more CO_{2} into the air system," Max said urgently over the
 phone. "Get some into the men's end of the ward."
 
-*       *       *       *       *
-
 She looked through the microscope at the live sample of blood. It was a
 dark clear field and bright moving things spun and swirled through it,
 but she could see nothing that did not belong there.
 
 "Hal," Max called over the general speaker system, "cut the other
 treatments, check for accelerating anemia. Treat it like monoxide
-poisoning--CO_{2} and oxygen."
+poisoning—CO_{2} and oxygen."
 
 She reached into a cupboard under the work table, located two cylinders
 of oxygen, cracked the valves and handed one to Max and one to the
@@ -1033,7 +997,7 @@ The tanks were ordinarily used to suspend animation in a nutrient bath
 during the regrowth of any diseased organ. It could preserve life in
 an almost totally destroyed body during the usual disintegration and
 regrowth treatments for cancer and old age, and it could encourage
-healing as destruction continued ... but they could not prevent
+healing as destruction continued... but they could not prevent
 ultimate death as long as the disease was not conquered.
 
 The drop of blood in June's microscope was a great, dark field, and in
@@ -1065,8 +1029,6 @@ His voice filtered back from the empty floors above in a series of dim
 echoes. What he had said meant that every man on board might be on the
 point of heart stoppage.
 
-*       *       *       *       *
-
 June looked blindly through the binocular microscope, trying to think.
 Out of the corner of her eyes she could see that Max was wavering and
 breathing more and more frequently of the pure, cold, burning oxygen of
@@ -1074,13 +1036,13 @@ the cylinders. In the microscope she could see that there were fewer
 red cells left alive in the drop of his blood. The rate of fall was
 accelerating.
 
-She didn't have to glance at Max to know how he would look--skin pale,
+She didn't have to glance at Max to know how he would look—skin pale,
 black eyebrows and keen brown eyes slightly squinted in thought, a
 faint ironical grin twisting the bluing lips. Intelligent, thin,
 sensitive, his face was part of her mind. It was inconceivable that
 Max could die. He couldn't die. He couldn't leave her alone.
 
-She forced her mind back to the problem. All the men of the _Explorer_
+She forced her mind back to the problem. All the men of the Explorer
 were at the same point, wherever they were.
 
 Moving to Max's desk, she spoke into the intercom system: "Bess, send
@@ -1123,8 +1085,6 @@ angles. A pencil and a pad scrawled with formulas lay on the desk
 before him. She could see his concentration in the rigid set of his
 shoulders. He was still thinking; he had not given up.
 
-*       *       *       *       *
-
 "Max, I just saw a leucocyte grab a red blood corpuscle. It was
 unbelievably fast."
 
@@ -1166,7 +1126,7 @@ melting sickness, it was called. Melting. She struggled with an impulse
 to open a tank which held one of the men. She wanted to look in, see if
 that would explain the name.
 
-Melting Sickness....
+Melting Sickness...
 
 Footsteps came and Pat Mead stood uncertainly in the doorway. Tall,
 handsome, rugged, a pioneer. "Anything I can do?" he asked.
@@ -1178,12 +1138,10 @@ She barely looked at him. "You can stay out of our way. We're busy."
 "Very funny." She was vicious, enjoying the whip of her words. "Every
 man is dying because you're a carrier, and you want to help."
 
-*       *       *       *       *
-
 He stood nervously clenching and unclenching his hands. "A guinea pig,
 maybe. I'm immune. All the Meads are."
 
-"Go away." God, why couldn't she think? What makes a Mead immune?
+"Go away." Entity, why couldn't she think? What makes a Mead immune?
 
 "Aw, let 'im alone," Max muttered. "Pat hasn't done anything." He went
 waveringly to the microscope, took a tiny sliver from his finger,
@@ -1192,7 +1150,7 @@ habitual dexterity. "Something funny going on," he said to June.
 "Symptoms don't feel right."
 
 After a moment he straightened and motioned for her to look.
-"Leucocytes, phagocytes--" He was bewildered. "My own--"
+"Leucocytes, phagocytes—" He was bewildered. "My own—"
 
 She looked in, and then looked back at Pat in a growing wave of
 horror. "They're not your own, Max!" she whispered.
@@ -1202,22 +1160,22 @@ microscope, and looked again. June knew what he saw. Phagocytes,
 leucocytes, attacking and devouring his tissues in a growing incredible
 horde, multiplying insanely.
 
-_Not his phagocytes! Pat Mead's!_ The Meads' evolved cells had learned
-too much. They were contagious. And not Pat Mead's.... How much alike
-_were_ the Meads?... Mead cells contagious from one to another, not
+Not his phagocytes! Pat Mead's! The Meads' evolved cells had learned
+too much. They were contagious. And not Pat Mead's... How much alike
+were the Meads?... Mead cells contagious from one to another, not
 a disease attacking or being fought, but acting as normal leucocytes
 in whatever body they were in! The leucocytes of tall, red-headed
 people, finding no strangeness in the bloodstream of any of the tall,
-red-headed people. No strangeness.... A toti-potent leucocyte finding
+red-headed people. No strangeness... A toti-potent leucocyte finding
 its way into cellular wombs.
 
-The womblike life tanks. For the men of the _Explorer_, a week's cure
+The womblike life tanks. For the men of the Explorer, a week's cure
 with deep melting to de-differentiate the leucocytes and turn them back
 to normal tissue, then regrowth and reforming from the cells that were
-there. From the cells that _were_ there. _From the cells that were
-there...._
+there. From the cells that were there. _From the cells that were
+there..._
 
-"Pat--"
+"Pat—"
 
 "I know." Pat began to laugh, his face twisted with sudden
 understanding. "I understand. I get it. I'm a contagious personality.
@@ -1226,8 +1184,6 @@ That's funny, isn't it?"
 Max rose suddenly from the microscope and lurched toward him, fists
 clenched. Pat caught him as he fell, and the bewildered stretcher
 bearers carried him out to the tanks.
-
-*       *       *       *       *
 
 For a week June tended the tanks. The other women volunteered to help,
 but she refused. She said nothing, hoping her guess would not be true.
@@ -1246,8 +1202,8 @@ June firmly locked the tank room door and the girl went away.
 The other women had been listening, and now they wandered back to
 their jobs, unsatisfied by June's answer, but not daring to ask for
 the actual truth. They were there whenever June went into the tank
-room, and they were still there--or relieved by others; June was
-not sure--when she came out. And always some one of them asked the
+room, and they were still there—or relieved by others; June was
+not sure—when she came out. And always some one of them asked the
 unvarying question for all the others, and June gave the unvarying
 answer. But she kept the key. No woman but herself knew what was going
 on in the life tanks.
@@ -1264,12 +1220,12 @@ horror of what was happening. Now she knew.
 
 They were all the same lean-boned, blond-skinned face, with a
 pin-feather growth of reddish down on cheeks and scalp. All
-horribly--and handsomely--the same.
+horribly—and handsomely—the same.
 
 A medical kit lay carelessly on the floor beside Max's tank. She stood
 near the bag. "Max," she said, and found her throat closing. The canned
 voice of the mechanical mocked her, speaking glibly about waking and
-sitting up. "I'm sorry, Max...."
+sitting up. "I'm sorry, Max..."
 
 The tall man with rugged features and bright blue eyes sat up sleepily
 and lifted an eyebrow at her, and ran his hand over his red-fuzzed head
@@ -1277,7 +1233,7 @@ in a gesture of bewilderment.
 
 "What's the matter, June?" he asked drowsily.
 
-She gripped his arm. "Max--"
+She gripped his arm. "Max—"
 
 He compared the relative size of his arm with her hand and said
 wonderingly, "You shrank."
@@ -1316,8 +1272,6 @@ pretty good. I envied him this big, muscular body. If Pat or any of
 these Meads so much as looks at you, I'm going to knock his block off.
 Understand?"
 
-*       *       *       *       *
-
 She laughed and couldn't stop. It wasn't that funny. But it was still
 Max, trying to be unafraid, drawing on humor. Maybe the rest of the men
 would also be their old selves, enough so the women would not feel that
@@ -1335,7 +1289,7 @@ women. She knew who they were. Their women would know them apart, too.
 bad to the women after they see me." He paused. "You didn't tell them,
 did you?"
 
-"I couldn't. I wasn't sure. I--was hoping I was wrong."
+"I couldn't. I wasn't sure. I—was hoping I was wrong."
 
 She opened the door and closed it quickly. There was a small crowd on
 the other side.
@@ -1344,7 +1298,7 @@ the other side.
 tank room before the door shut.
 
 "I'm not Pat, I'm Max," said the tall man with the blue eyes and the
-fuzz-reddened skull. "Listen--"
+fuzz-reddened skull. "Listen—"
 
 "Good heavens, Pat, what happened to your hair?" Shelia asked.
 
@@ -1363,7 +1317,7 @@ It's some kind of joke."
 
 Max shook her shoulders, glaring down at her face. "I'm Max. Max Stark.
 They all look like me. Do you hear? It's funny, but it's not a joke.
-Laugh for us, for God's sake!"
+Laugh for us, for Entity's sake!"
 
 "It's too much," said June. "They'll have to see."
 
@@ -1375,7 +1329,7 @@ frightened voices:
 
 "Harry!"
 
-"Lee, where are you, sweetheart--"
+"Lee, where are you, sweetheart—"
 
 June shut the door on the voices that were growing hysterical, the
 women terrified and helpless, the men shouting to let the women know
@@ -1399,8 +1353,6 @@ melting sickness there and had died.
 
 They wanted to come in.
 
-*       *       *       *       *
-
 June and Max told them to wait and returned to the tank room. The
 men were enjoying their new height and strength, and the women were
 bewilderedly learning that they could tell one Pat Mead from another,
@@ -1413,7 +1365,7 @@ come in. They have different names, but they're all Pat Mead."
 They frowned or looked blank, and George Barton asked, "Why didn't you
 let them in? I don't see any problem."
 
-"One of them," said Max soberly, "is a girl. _Patricia_ Mead. The girl
+"One of them," said Max soberly, "is a girl. Patricia Mead. The girl
 wants to come in."
 
 There was a long silence while the implication settled to the fear
@@ -1424,8 +1376,6 @@ and the women caught it quickly.
 Elsie clung to Jerry, begging, "You don't want me to change, do you,
 Jerry? You like me the way I am! Tell me you do!"
 
-*       *       *       *       *
-
 The other girls backed away. It was illogical, but it was human. June
 felt terror rising in herself. She held up her hand for quiet, and
 presented the necessity to the group.
@@ -1434,7 +1384,7 @@ presented the necessity to the group.
 ship food; they've been conditioned to this planet. We women can go,
 but we would have to go without our men. We can't go outside without
 contagion, and we can't spend the rest of our lives in quarantine
-inside the ship. George Barton is right--there is no problem."
+inside the ship. George Barton is right—there is no problem."
 
 "But we'd be changed!" Shelia shrilled. "I don't want to become a Mead!
 I don't want to be somebody else!"
@@ -1445,7 +1395,7 @@ there were only Bess, June and four others left.
 
 "See!" cried Shelia. "A vote! We can't let the girl in!"
 
-No one spoke. To change, to be someone else--the idea was strange
+No one spoke. To change, to be someone else—the idea was strange
 and horrifying. The men stood uneasily glancing at each other, as if
 looking into mirrors, and against the wall of the corridor the women
 watched in fear and huddled together, staring at the men. One man in
@@ -1461,14 +1411,14 @@ Get it over with!"
 
 June took a small mirror from her belt pouch and studied her own face,
 aware of Max talking forcefully, the men standing silent, the women
-pleading. Her face ... her own face with its dark blue eyes, small
-nose, long mobile lips ... the mind and the body are inseparable; the
+pleading. Her face... her own face with its dark blue eyes, small
+nose, long mobile lips... the mind and the body are inseparable; the
 shape of a face is part of the mind. She put the mirror back.
 
 "I'd kill myself!" Shelia was sobbing. "I'd rather die!"
 
 "You won't die," Max was saying. "Can't you see there's only one
-solution--"
+solution—"
 
 They were looking at Max. June stepped silently out of the tank room,
 and then turned and went to the airlock. She opened the valves that

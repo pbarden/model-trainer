@@ -1,7 +1,3 @@
-Title: Corsairs of the cosmos
-
-Author: Edmond Hamilton
-
 "What was the greatest adventure that you ever took part in during your
 service in the Interstellar Patrol?"
 
@@ -38,7 +34,7 @@ void.
 
 We had been glad enough when our relief came and we could return to
 headquarters. At full speed we flew across the galaxy between suns and
-nebul  until at last we were watching Canopus' worlds come out of the
+nebul until at last we were watching Canopus' worlds come out of the
 huge white sun's glare as our cruiser swept in toward them.
 
 But our stay at headquarters was to be short. For when I went up into
@@ -63,8 +59,9 @@ galaxy at a point near Betelgeuse."
 I guessed as he paused.
 
 Lacq Larus nodded. "Yes. I want you to take a squadron of cruisers and
-go out into outer space to meet them. You will ascertain the exact
-course and speed of these dark stars and determine accurately where and
+go out into outer space to meet them. You will ascertain the ex
+
+ourse and speed of these dark stars and determine accurately where and
 when they will enter our galaxy. Then return here at once with your
 report."
 
@@ -75,8 +72,6 @@ once."
 said. And he called after me as I went out, "I'll see that you get the
 leave due you when you return."
 
-*       *       *       *       *
-
 I went down to the great docks beside the tower, in which were resting
 or refitting hundreds of ships of the Interstellar Patrol. Most
 numerous among them were the long, cigar-shaped cruisers, the swiftest
@@ -84,7 +79,7 @@ ships in space, grim beam-tubes projecting from their sides.
 
 There were also slower, broader-beamed meteor-sweeps; observation ships
 fitted with elaborate instruments; heat-cruisers such as are used for
-close work with nebul  and suns; and representatives of all the other
+close work with nebul and suns; and representatives of all the other
 classes of ships in the Patrol.
 
 I found the squadron of twenty-five cruisers assigned me, waiting with
@@ -97,7 +92,7 @@ recognized him as Jhul Din, my second officer.
 Beside him, listening in some amusement, was Korus Kan, my first
 officer, and the other officers were hanging on his words.
 
-"----and we ran our ship at full speed right through that
+"—and we ran our ship at full speed right through that
 meteor-swarm!" Jhul Din was saying. "We went so fast that not a cursed
 meteor in the whole swarm ever touched us."
 
@@ -130,13 +125,13 @@ bridge-room.
 
 "Is everything in order for a start?" I asked Korus Kan and he saluted.
 
-"Everything in order--all generators and projectors satisfactory,
+"Everything in order—all generators and projectors satisfactory,
 air-tanks and supply-rooms full, all beam-tubes working."
 
 "Very well," I said, and picked up the space-phone by which I could
 communicate with the other cruisers of my squadron.
 
-"Dur Nal speaking--we will start in five minutes," I ordered. "Triangle
+"Dur Nal speaking—we will start in five minutes," I ordered. "Triangle
 formation, and keep at two light-speeds until we clear Canopus."
 
 As the captains of the other cruisers responded their understanding, I
@@ -161,8 +156,6 @@ which lies almost directly on the space-route between Canopus and
 Betelgeuse. The nebula bulked for billions of miles in space beside
 us, a stupendous burning cloud along whose edge our comparatively tiny
 cruiser crawled.
-
-*       *       *       *       *
 
 Once the mighty nebula was behind us, it was not long before our
 squadron reached Betelgeuse and the galaxy's edge. There was no need
@@ -275,10 +268,8 @@ two hours you will return at full speed toward the galaxy and report
 what has happened at headquarters."
 
 From the captains of the other cruisers came assent to the order, and
-then I turned to the pilot. "Very well, Jan Allon--descend toward the
+then I turned to the pilot. "Very well, Jan Allon—descend toward the
 foremost of the dark stars."
-
-*       *       *       *       *
 
 In tense silence Korus Kan and Jhul Din and I watched as our cruiser
 shot down through space toward the first of the onrushing dead suns.
@@ -327,7 +318,7 @@ much like beam-tubes projecting from them.
 
 "They may be going to attack us," Jhul Din warned. "Shall we beam them?"
 
-"No--don't loose a single beam," I commanded. "There are a hundred of
+"No—don't loose a single beam," I commanded. "There are a hundred of
 them to our one."
 
 The flying-mechanisms came rapidly up, swarmed in a crowd around
@@ -353,8 +344,6 @@ us, I turned.
 "Jhul Din, order every one in the ship to don space-suits," I
 commanded. "There is no atmosphere on this world."
 
-*       *       *       *       *
-
 Jan Allon turned to me and saluted. "We have landed, sir."
 
 "I am going to emerge. Korus Kan and Jhul Din and five of the crew will
@@ -376,14 +365,14 @@ toward which these dark-star worlds were rushing.
 All around us in that twilight, surrounding with their hosts the clear
 circular space in which our cruiser had landed, towered the mighty
 machines. They were now motionless, as though they were watching us.
-With a chilling of my blood I knew that they _were_ watching us.
+With a chilling of my blood I knew that they were watching us.
 
 Across the circle from us loomed a huge panel, and beside it great
 levers and wheels. Near this stood a half-dozen curious, squat, cowled
 mechanisms resting each on three metal limbs.
 
 Korus Kan touched my arm, whispered. "Dur Nal, that panel and the
-levers--they must be the controls by which this dark star is propelled
+levers—they must be the controls by which this dark star is propelled
 and steered through space!"
 
 "We'll go over toward them, then," I said. "If there's any center of
@@ -392,7 +381,7 @@ authority, it will be there."
 As we neared the huge controls a stir went through the machine-giants
 around the clearing, menacing, watchful.
 
-"By the suns, these cursed machines are all _alive_!" muttered Jhul Din.
+"By the suns, these cursed machines are all alive!" muttered Jhul Din.
 
 We stopped before the six cowled mechanisms that stood by the controls.
 Some instinct told me of power, of authority, concentrated in them.
@@ -502,7 +491,6 @@ it useless, for we machines are mighty and no mere living creatures can
 hope to resist us. You will only sacrifice yourselves in attempting
 resistance."
 
-[Illustration: "We machines are mighty. You will only sacrifice
 yourselves in attempting resistance."]
 
 The cold, logical statement of the machine stung me to fury. "Do you
@@ -532,8 +520,6 @@ take that message to your galaxy's peoples."
 
 "Very well, we will go," I answered. To our followers I said, "Back to
 the cruiser."
-
-*       *       *       *       *
 
 We strode across the circle with the hosts of machines around it still
 motionless, watching. As coolly as possible we entered the ship and
@@ -615,8 +601,6 @@ taken, the inhabitants will be safe."
 
 After a moment's silence he said, "Very well, Dur Nal. I'll give orders
 for the evacuation to take place."
-
-*       *       *       *       *
 
 During the next hours our squadron raced at top speed toward the
 galaxy's edge. The dark stars faded from sight behind us, but we knew
@@ -712,25 +696,23 @@ after it!
 
 "They're doing it!" repeated Korus Kan. "They're towing that sun away!"
 
-"And look--all the other dark stars are dragging away suns!" cried the
+"And look—all the other dark stars are dragging away suns!" cried the
 astounded Jhul Din.
 
-*       *       *       *       *
-
-It was an astounding, an awful spectacle--those robber dark stars of
+It was an astounding, an awful spectacle—those robber dark stars of
 the machines making away with twenty of our suns.
 
 Lacq Larus' voice snapped at that moment from the space-phone. Our
 fleet divided into twenty subdivisions, each with one of the dark stars
 as its objective. Then came the order to attack.
 
-Down, down--like swooping hawks of space our cruisers rushed headlong
+Down, down—like swooping hawks of space our cruisers rushed headlong
 down through the millions of miles toward the dark stars towing away
 their helpless prey. And up from each of the dark stars to meet us,
 as though they had only been awaiting our attack, darted hosts of the
 disk-like flying-mechanisms.
 
-There was a hell of cosmic struggle then over the twenty dark stars. So
+There was a shadow realm of cosmic struggle then over the twenty dark stars. So
 appalling was the inferno of that battle that I lost all sense of the
 individual part our ship took in it.
 
@@ -776,7 +758,7 @@ the captains on the space-phone.
 be coming back for more suns, and the next time we will be ready for
 them."
 
-"But, sir----" protested another officer, and was cut short by the
+"But, sir—" protested another officer, and was cut short by the
 Chief's grim voice.
 
 "I know how you of the Patrol feel at thus letting them take those suns
@@ -797,8 +779,6 @@ story."
 
 "But we've let them take twenty of our suns away from us," he said, "as
 easily as though we weren't there at all!"
-
-*       *       *       *       *
 
 When our remaining forces re-entered the galaxy we found it in uproar.
 News of the success of the machine-corsairs in robbing us of twenty
@@ -830,8 +810,6 @@ time!" Jhul Din vowed.
 
 Korus Kan was not so sure. "Their weapons are more powerful than our
 own," he reminded.
-
-*       *       *       *       *
 
 Our new ships were hardly completed when there came warning of the
 corsairs' return.
@@ -914,8 +892,6 @@ Lacq Larus' voice came to me shortly on the space-phone. "Dur Nal, land
 your ship on that disabled dark star," he said. "I want to examine it
 with you."
 
-*       *       *       *       *
-
 I gave the pilot the order and we detached ourselves from the rest of
 the fleet and headed toward the dark star. It still drifted aimlessly
 outside the galaxy's edge, it and the sun it had been towing away when
@@ -968,12 +944,12 @@ machines once and for all!" I cried.
 Swiftly I explained. "Suppose we take a hundred of the dark stars in
 our galaxy and fit them with propulsion-apparatus and attraction-beams
 like this one. Then suppose we sail across space with those hundred
-dark stars to the galaxy of the machines and----"
+dark stars to the galaxy of the machines and—"
 
 "And take our suns back from them!" cried Korus Kan, his eyes blazing.
-"If we can do it----"
+"If we can do it—"
 
-"By the suns, we _can_ do it!" cried Jhul Din. "It's a way to get back
+"By the suns, we can do it!" cried Jhul Din. "It's a way to get back
 our stolen suns and smash the machine-people!"
 
 "Dur Nal, you may have found the right answer," Lacq Larus told me.
@@ -1035,8 +1011,6 @@ to move through space toward the soft, hazy patch of light that was
 the distant galaxy of the machines. Our caravan was on its way to
 retrieve our stolen suns, in the mightiest venture yet undertaken by
 the Interstellar Patrol.
-
-*       *       *       *       *
 
 Jhul Din was exultant. "By the suns, this is better than driving
 ships!" he exclaimed. "Driving dark stars to battle!"
@@ -1129,8 +1103,6 @@ star past it, and the red sun, drifting after us, struck the twin
 star squarely. The cosmic outrush of flame from that collision almost
 reached our own hurtling world before we got out of reach.
 
-*       *       *       *       *
-
 Off to one side three of our dark stars had seized another double star,
 this one of huge dimensions, and were dragging it toward a great green
 sun. And further in, one of our forces had got hold of an aged red sun
@@ -1153,7 +1125,7 @@ sun to collision and doom. I saw Lacq Larus' dark star some distance
 away rapidly stripping the worlds from a sun and towing them into
 another sun.
 
-Then Korus Kan cried out, pointed. "Look--the dark stars of the
+Then Korus Kan cried out, pointed. "Look—the dark stars of the
 machines!"
 
 I made out dim, huge shapes rushing toward us across that galaxy. "The
@@ -1210,7 +1182,7 @@ places by the flaring fire of collided suns.
 We stared back for a long time at the stupendous damage which we had
 done to that universe.
 
-"It'll be a long time before _they_ will come buccaneering again for
+"It'll be a long time before they will come buccaneering again for
 our suns!" predicted Jhul Din.
 
 "And if they ever do come again we can defeat them now that we have

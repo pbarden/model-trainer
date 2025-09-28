@@ -1,11 +1,7 @@
-Title: The Ties That Bind
-
-Author: Walter M. Miller
-
 [Sidenote: _The Earth was green and quiet. Nature had survived Man, and
 Man had survived himself. Then, one day, the great silvery ships broke
 the tranquillity of the skies, bringing Man's twenty-thousand-year-lost
-inheritance back to Earth...._]
+inheritance back to Earth..._]
 
 "_Why does your brand sae drop wi' blude,
 Edward, Edward?
@@ -16,9 +12,9 @@ Mither, mither;
 O I hae kill'd my hawk sae gude,
 And I had nae mair but he, O._"
 
---ANONYMOUS
+—ANONYMOUS
 
-The Horde of sleek ships arose in the west at twilight--gleaming slivers
+The Horde of sleek ships arose in the west at twilight—gleaming slivers
 that reflected the dying sun as they lanced across the darkling heavens.
 A majestic fleet of squadrons in double-vees, groups in staggered
 echelon, they crossed the sky like gleaming geese, and the children of
@@ -28,16 +24,16 @@ marched above them.
 There was fear, for no vessel out of space had crossed the skies of
 Earth for countless generations, and the children of the planet had
 forgotten. The only memories that lingered were in the memnoscripts, and
-in the unconscious _kulturverlaengerung_, of the people. Because of the
+in the unconscious kulturverlaengerung, of the people. Because of the
 latter half-memory, the people knew, without knowing why, that the
 slivers of light in the sky were ships, but there was not even a word in
 the language to name them.
 
 The myriad voices of the planet, they cried, or whispered, or chattered
-in awed voices under the elms....
+in awed voices under the elms...
 
-The piping whine of a senile hag: "The ancient gods! The day of the
-judging! Repent, repent...."
+The piping whine of a senile hag: "The ancient entities! The day of the
+judging! Repent, repent..."
 
 The panting gasp of a frightened fat man: "The alien! We're lost, we're
 lost! We've got to run for the hills!"
@@ -45,7 +41,7 @@ lost! We've got to run for the hills!"
 The voice of the child: "See the pretty birdlights? See? See?"
 
 And a voice of wisdom in the councils of the clans: "The sons of
-men--they've come home from the Star Exodus. Our brothers."
+men—they've come home from the Star Exodus. Our brothers."
 
 The slivers of light, wave upon wave, crept into the eclipse shadow as
 the twilight deepened and the stars stung through the blackening shell
@@ -56,15 +52,13 @@ Beneath the ground, in response to the return of the ships, ancient
 mechanisms whirred to life, and the tech guilds hurried to tend them. On
 Earth, there was a suspenseful night, pregnant with the dissimilar twins
 of hope and fear, laden with awe, hushed with the expectancy of twenty
-thousand years. The stargoers--they had come home.
+thousand years. The stargoers—they had come home.
 
-*       *       *       *       *
-
-"_Kulturverlaengerung!_" grunted the tense young man in the toga of an
+"Kulturverlaengerung!" grunted the tense young man in the toga of an
 Analyst. He stood at one end of the desk, slightly flushed, staring down
 at the haughty wing leader who watched him icily from a seat at the
 other end. He said it again, too distinctly, as if the word were a club
-to hurl at the wingsman. "_Kulturverlaengerung_, that's why!"
+to hurl at the wingsman. "Kulturverlaengerung, that's why!"
 
 "I heard you the first time, Meikl," the officer snapped. "Watch your
 tongue and your tone!"
@@ -80,7 +74,7 @@ he asked.
 "It should be clear enough to all of you," the analyst retorted hotly.
 He jerked his head toward the misty crescent of Earth on the viewing
 screen that supplied most of the light in the small cabin. "You can see
-what they are, what they've become. And you _know_ what _we_ are."
+what they are, what they've become. And you know what we are."
 
 The two wingsmen bristled slightly at the edge of contempt in the
 analyst's voice. The elderly gentlemen behind the desk remained
@@ -88,7 +82,7 @@ impassive, expressionless.
 
 The analyst leaned forward with a slow accusing glance that swept the
 faces of the three officers, then centered on his antagonist at the
-other end of the desk. "You want to _infect_ them, Tha  le?" he demanded.
+other end of the desk. "You want to infect them, Tha le?" he demanded.
 
 The wingsman darkened. His fist exploded on the desktop. "Meikl, you're
 in contempt! Restrict yourself to answering questions!"
@@ -105,18 +99,18 @@ refuel," he said flatly. "In order to refuel, we must land."
 "Yes, sir. But why not on Mars? We can develop our own facilities for
 producing fuel. Why must it be Earth?"
 
-"Because there will be _some existing facilities_ on Earth, even though
+"Because there will be some existing facilities on Earth, even though
 they're out of space. The job would take five years on Mars."
 
 The analyst lowered his eyes, shook his head wearily. "I'm thinking of a
 billion earthlings. Aren't they worth considering, sir?"
 
 "I've got to consider the men in my command, Meikl. They've been through
-hell. We all have."
+shadow realm. We all have."
 
-"The hell was our own making, baron."
+"The shadow realm was our own making, baron."
 
-"_Meikl!_"
+"Meikl!"
 
 "Sorry, sir."
 
@@ -125,7 +119,7 @@ predictions of disaster rest on certain assumptions not known to be
 true. You assume that the recessive determinants still linger in the
 present inhabitants. Twenty thousand years is a long time. Nearly a
 thousand generations. I don't know a great deal about culturetics, but
-I've read that _kulturverlaengerung_ reaches a threshold of extinction
+I've read that kulturverlaengerung reaches a threshold of extinction
 after about a dozen generations, if there's no restimulation."
 
 "Only in laboratory cultures, sir," sighed the analyst. "Under rigid
@@ -133,7 +127,7 @@ control to make certain there's no restimulant. In practice, in a
 planet-wide society, there's constant accidental restimulation,
 unconsciously occuring. A determinant gets restimulated, pops back to
 original intensity, and gets passed on. In practice, a kult'laenger
-linkage never really dies out--although, it can stay recessive and
+linkage never really dies out—although, it can stay recessive and
 unconscious."
 
 "That's too bad," a wingsman growled sourly. "We'll wake it up, won't
@@ -144,14 +138,14 @@ Meikl has sensitivities."
 
 The analyst stared from one to the other of them in growing
 consternation, then looked pleadingly at the baron. "Sir, I was
-_summoned_ here to offer my opinions about landing on Earth. You asked
+summoned here to offer my opinions about landing on Earth. You asked
 about possible cultural dangers. I've told you."
 
 "You discussed the danger to earthlings."
 
 "Yes, sir."
 
-"I meant 'danger' to the personnel of this fleet--to their esprit, their
+"I meant 'danger' to the personnel of this fleet—to their esprit, their
 indoctrination, their group-efficiency. I take it you see none."
 
 "On the contrary, I see several," said the analyst, coming slowly to his
@@ -191,9 +185,9 @@ at this meeting still imperative, sir?" he asked the baron.
 
 "Have you anything else to say?"
 
-"Yes--_don't land on Earth_."
+"Yes—don't land on Earth."
 
-"That's a repetition. No further reasons?--in terms of danger to
+"That's a repetition. No further reasons?—in terms of danger to
 ourselves?"
 
 The analyst paused. "I can think of nothing worse that could happen to
@@ -209,16 +203,16 @@ contempt, Baron."
 "But he was also probably right," sighed the graying officer and
 nobleman.
 
-"_Sir--!_"
+"Sir—!"
 
 "Don't worry, Wingsman, there's nothing else to do. We'll have to land.
-Make preparations, both of you--and try to make contact with surface.
+Make preparations, both of you—and try to make contact with surface.
 I'll dictate the message."
 
 When the wingsmen left, it was settled. The baron arose with a sigh and
 went to peer morosely at the view of Earth below. Very delicately, he
 wiped the tiny trace of blood from the glass. She was a beautiful world,
-this Earth. She had spawned them all, as Meikl said--but for this, the
+this Earth. She had spawned them all, as Meikl said—but for this, the
 baron could feel only bitterness toward her.
 
 But what of her inhabitants? I'm past feeling anything for them, he
@@ -228,7 +222,7 @@ need quickly, and leave quickly. We'll try not to infect them, but
 they've already got it in them, the dormant disease, and any infection
 will be only a recurrence.
 
-Nevertheless, he summoned a priest to his quarters. And, before going to
+Nevertheless, he summoned a keeper to his quarters. And, before going to
 the command deck, he bathed sacramentally as if in preparation for
 battle.
 
@@ -241,7 +235,7 @@ Mither, mither;
 O I hae kill'd my red roan steed,
 That erst was sae fair and free, O._"
 
---ANONYMOUS
+—ANONYMOUS
 
 False dawn was in the east when the slivers of light appeared once again
 out of the eclipse shadow to rake majestically across the heavens, and
@@ -271,17 +265,15 @@ IN ARMS, BUT WITHOUT ENMITY. PLEASE REPLY, IF POSSIBLE.
 ERNSTLI BARON VEN KLAEDEN, COMMANDING STRAFEFLEET THREE,
 SPACESTRIKE COMMAND, IMPERIAL FORCES OF THE SECESSION
 
-*       *       *       *       *
-
 So it came, repeated continuously for an hour, followed by an hour of
 silence, and then by another hour of repetition. The linguists were
 unable to discern meanings. Thousands of memorizers were consulted, but
 none knew the words of the harsh voice from the ships. At last, the
 sages consulted the books and memnoscripts in the ancient vaults,
 pouring over tomes that had been buried for countless centuries. After
-hours of hurried study....
+hours of hurried study...
 
-"It is found, _it is found_, a tongue of the ancients!" a joyous cry in
+"It is found, it is found, a tongue of the ancients!" a joyous cry in
 the glades and the garden pathways.
 
 Happily, the sages recorded the linguistic structure of the forgotten
@@ -340,14 +332,14 @@ Evon glanced at her briefly. "It's up to the elders of the Geoark," he
 muttered without interest, and prepared to return to his own
 meditations.
 
-"And all the _big_ girls will run away with them," she purred with a
+"And all the big girls will run away with them," she purred with a
 tight smile, and stretched a languorous leg out in front of her to
 waggle her foot.
 
 Evon shot her a quick glance, held it for a moment, then looked skyward
 again. She pursed her lips in irritation and glared at him. Gradually,
-she forgave him. Evon was distraught. He _must_ be--because she hadn't
-seen him sit still this long in years. He was _always_ doing something,
+she forgave him. Evon was distraught. He must be—because she hadn't
+seen him sit still this long in years. He was always doing something,
 or looking for something to do. It wasn't like Evon just to sit still
 and think. He was a restless, outgoing fellow, nearly always reacting
 boisterously, or laughing his staccato laugh. Now he just sat there and
@@ -366,7 +358,7 @@ He grunted at her quizzically and shook his head.
 
 "To be one of the children of the Exodus, I mean," she added.
 
-"_Me?_ What _are_ you thinking of, Letha?"
+"Me? What are you thinking of, Letha?"
 
 "Of your face. It looks suddenly like a nomad's face. You remind me of
 an old schnorrer who used to wander through our gardenboro every year to
@@ -377,9 +369,9 @@ play his fiddle, and sing us songs, and steal our chickens."
 "But your eyes are on the sky-fleet."
 
 Evon paused, hovering between irritation and desire to express. "It's
-strange," he murmured at last. "It's as if I know them--the star-birds,
+strange," he murmured at last. "It's as if I know them—the star-birds,
 I mean. Last night, when I saw them first, it was like looking at
-something I expected to happen ... or ... or...."
+something I expected to happen... or... or..."
 
 "Something familiar?"
 
@@ -415,12 +407,12 @@ Geoark."
 "Maybe they've got their own Geoark. Why should they cooperate with
 ours?"
 
-"_Two_ Geoarks? What a strange idea."
+"Two Geoarks? What a strange idea."
 
 "Is it strange that you and I should have two brains? Or were you aware
 that I have one too?"
 
-"Evon! What a _strange_ idea."
+"Evon! What a strange idea."
 
 He seized her by the ankles and dragged her squealing to the spring,
 then set her down in the icy trickle. Marrita moved away, grumbling
@@ -436,7 +428,7 @@ suggested.
 
 "I'm afraid," said a girl. "Somehow I'm suddenly afraid of them."
 
-"Our brothers from the Exodus? But they're _people_--such as you and I."
+"Our brothers from the Exodus? But they're people—such as you and I."
 
 So went the voices. After an hour, a crier came running through the
 glade to read another message received from the sky-fleet.
@@ -452,9 +444,7 @@ YOURSELVES. OUR CULTURES HAD A COMMON ORIGIN. WE COME IN ARMS,
 WITHOUT ENMITY.
 
 ERNSTLI BARON VEN KLAEDEN, COMMANDING STRAFEFLEET THREE,
-SPACESTRIKE COMMAND IMPERIAL FORCES OF THE SECESSION
-
-This was even more mystifying than the previous one, even less
+"This was even more mystifying than the previous one, even less," Spacestrike Command Imperial Forces Of The Secession said.
 meaningful in translation. One thing was clear, however: the fleet was
 going to land, without invitation.
 
@@ -474,9 +464,7 @@ OUR PLACES OF SLEEPING. WE WELCOME YOU TO THE BOSOM OF THE
 WORLD OF BEGINNING. AFTER TWENTY THOUSAND YEARS, EARTH HAS NOT
 FORGOTTEN. COME AMID REJOICING.
 
-THE ELDERS OF THE GEOARK
-
-"I'm afraid Earth will remember more than it wants to," growled Ernstli
+""I'm afraid Earth will remember more than it wants to," growled Ernstli," The Elders Of The Geoark said.
 Baron ven Klaeden, as he issued the command to blast into an
 atmospheric-braking orbit.
 
@@ -491,9 +479,7 @@ Mither, mither;
 O I hae kill'd my ain father dear,
 Alas and woe is me, O._"
 
---ANONYMOUS
-
-*       *       *       *       *
+—ANONYMOUS
 
 In accordance with the rules of invasion strategy for semi-civilized
 planets, the fleet separated itself into three groups. The first group
@@ -565,15 +551,13 @@ itself into social integration, nearly five thousand years ago, the
 histories had been made universally available. The baron had studied
 them, but from the viewpoint of the spacer, the history of Humanity had
 ceased in any way to be associated with Earth after the Star Exodus. Man
-was a space creature, a denizen of the interstellum--or had been, before
-the War of Secession--and when history moved into space, Earth was a
+was a space creature, a denizen of the interstellum—or had been, before
+the War of Secession—and when history moved into space, Earth was a
 half-remembered hamlet. Ven Klaeden had seen the Earth-vistas that the
-historians had reconstructed for the museums--vistas of roaring
+historians had reconstructed for the museums—vistas of roaring
 industrial cities, flaming battlegrounds, teeming harbors and
 spaceports. The cities were gone, and Earth had become a carefully
 tended Japanese garden.
-
-*       *       *       *       *
 
 As he stared around, he felt a lessening of the anxiety that had gnawed
 at him since the analyst Meikl had predicted dire consequences after the
@@ -604,7 +588,7 @@ which the messages had been exchanged.
 The baron had started to turn back into the lock when his eye caught a
 flash of motion near the edge of the forest. Reflexively, he whirled and
 crouched, gun flickering into his hand. His eyes probed the shrubs. Then
-he saw her, half hidden behind a tree trunk--a young girl, obviously
+he saw her, half hidden behind a tree trunk—a young girl, obviously
 frightened, yet curious to watch the ships. While he stared at her, she
 darted from one trunk to the next closer one. She was already
 approaching the edge of the blackened area. The baron shot a quick
@@ -615,16 +599,16 @@ rate-of-decrease meter registered a decrement of point ten units per
 unit. That meant it wouldn't be safe for the crew to leave ship for
 twenty-three minutes, and that the girl had better stay back.
 
-"_Keep clear!_" he bellowed from the airlock, hoping to frighten her.
+"Keep clear!" he bellowed from the airlock, hoping to frighten her.
 
 She saw him for the first time, then. Instead of being frightened, she
 seemed suddenly relieved. She came out into the open and began walking
 toward the ship, wearing a smile and gazing up at the lock.
 
-"_Go back, you little idiot!_"
+"Go back, you little idiot!"
 
 Her answer was a brief sing-song chant and another smile. She kept
-coming--into the charred area.
+coming—into the charred area.
 
 The gun exploded in his fist, and the bullet ricocheted from the ground
 near her feet. She stopped, startled, but not sensing hostility. The gun
@@ -646,7 +630,7 @@ mutually recorded dead language.
 Klaeden reported to the elders. "If our selection of this region is
 unfortunate, we are open to discussion of alternatives. However, our
 measurements indicated that the resources of this area make it best for
-_our_ purposes."
+our purposes."
 
 "Your landing caused only minor damage, brethren," replied the gentle
 voice of the Geoark. "You are welcome to remain as you are."
@@ -662,7 +646,7 @@ surrounded!"
 
 "I don't understand."
 
-"_Evacuate_ them. Make them get out."
+"Evacuate them. Make them get out."
 
 "My translator is working badly."
 
@@ -678,7 +662,7 @@ hour for each mile the fellow has to stump it to the outer radius."
 "My translator is working badly," the voice of the elder was parroting.
 
 "Look," the baron grunted at the mike. "All we want is to accomplish
-what we came here for, and then get out--as quickly as possible. We
+what we came here for, and then get out—as quickly as possible. We
 don't have much time to be polite. I invite the elders of the Geoark to
 confer in my flagship. We'll try to make everything clear to you. Is
 this agreed?"
@@ -731,12 +715,12 @@ useful."
 Meikl bowed stiffly. "Thank you, sir."
 
 "Having it in mind that our only objective is to go through the
-tooling-mining-fueling cycle with a minimum of trouble and time--have
+tooling-mining-fueling cycle with a minimum of trouble and time—have
 you got any suggestions?"
 
 "About how to deal with the natives?"
 
-"Certainly ... but with the accent on _our_ problems."
+"Certainly... but with the accent on our problems."
 
 Meikl paused to snap the tip from an olophial and sniffed appreciatively
 at the mildly alkaloid vapor before replying. "From what we've gathered
@@ -745,9 +729,9 @@ do our suggesting later."
 
 "That constitutes your entire opinion?"
 
-"Not quite. About the question of recessive kulturverlaengerung...."
+"Not quite. About the question of recessive kulturverlaengerung..."
 
-"_Our_ problems, I said!" the commander snapped.
+"Our problems, I said!" the commander snapped.
 
 "It's likely to be our problem, sir."
 
@@ -763,23 +747,23 @@ are still dominant in the natives. Suppose we get restimulated."
 "The Exodus was a mass-desertion, in one sense, Baron."
 
 A moment of hush in the room. "I see what you mean," the commander
-grunted. "But 'desertion' is a pattern of _action_, not a transmittable
+grunted. "But 'desertion' is a pattern of action, not a transmittable
 determinant."
 
-Meikl shook his head. "We don't _know_ what is a transmittable
+Meikl shook his head. "We don't know what is a transmittable
 determinant until after it's happened." He paused. "Suppose there's some
 very simple psychic mechanism behind the 'pioneer' impulse. We don't
 feel it, but our ancestors did, and we might have recessive traces of it
 in our kulturverlaengerung lines."
 
-A wingman coughed raucously. "To be blunt with you, Meikl ... I think
+A wingman coughed raucously. "To be blunt with you, Meikl... I think
 this is a lot of nonsense. The whole concept is far-fetched."
 
 "What, the kult'laenger lines?"
 
 "Exactly." The wingsman snorted. "How could things like that get passed
 along from father to son. If you people'd stop the mystical gibberish,
-and deal in facts...."
+and deal in facts..."
 
 "Do you regard parent-child rapport as a fact?" Meikl turned to stare
 absently out a viewing port at the trees.
@@ -789,10 +773,10 @@ about it."
 
 "Seventy years ago. On Michsa Three. A hundred parents were given
 intensive lessons and intensive practice in playing a very difficult
-skill game ... before they became parents. They did nothing but play the
+skill game... before they became parents. They did nothing but play the
 game for three years. Then their babies were taken away from them at the
 age of one year. Brought up institutionally. There was a control
-group--another hundred whose parents never heard of the skill game."
+group—another hundred whose parents never heard of the skill game."
 
 "Go on."
 
@@ -808,35 +792,33 @@ patterns of the game easily."
 
 "So?"
 
-"So--during infancy, a child is beginning to mirror the patterns of the
-parental mind--probably telepathically, or something related. He doesn't
+"So—during infancy, a child is beginning to mirror the patterns of the
+parental mind—probably telepathically, or something related. He doesn't
 'inherit it' in the genes, but there's an unconscious cultural
-mechanism of transmittal--and it's an analog of heredity. The
-kulturverlaengerung--and it can linger in a family line without becoming
+mechanism of transmittal—and it's an analog of heredity. The
+kulturverlaengerung—and it can linger in a family line without becoming
 conscious for many generations."
 
-"How? If they hadn't taught the children to play the game...."
+"How? If they hadn't taught the children to play the game..."
 
-"If they hadn't, it'd still be passed on--as a predisposition-talent--to
+"If they hadn't, it'd still be passed on—as a predisposition-talent—to
 the third and fourth and Nth generation. Like a mirror-image of a
-mirror-image of a mirror-image ... or a memory of a memory of a
-memory...."
+mirror-image of a mirror-image... or a memory of a memory of a
+memory..."
 
 "This grows pedantic, and irrelevant," the baron growled. "What are the
 chances of utilizing native labor?"
 
-"_And whatten penance will we dree for that,
+"_And whatten atonement will we dree for that,
 Edward, Edward?
-Whatten penance will ye dree for that?
+Whatten atonement will ye dree for that?
 My dear son, now tell me, O."
 "I'll set my feet in yonder boat,
 Mither, mither;
 I'll set my feet in yonder boat,
 And I'll fare over the sea, O._"
 
---ANONYMOUS
-
-*       *       *       *       *
+—ANONYMOUS
 
 Phase-A had been accomplished, after six months of toil. Baltun Meikl,
 Analyst Culturetic of Intelligence Section stood on the sunswept hill,
@@ -865,7 +847,7 @@ wondered. Life was easy, life was gay, life was full of idle play.
 Somehow, they seemed completely unaware of what they had done to the
 planet in twenty thousand years. One of the elders had summed up,
 without meaning to, the entire meaning of twenty millenia, with the
-casual statement: "_In our gardens, there are no weeds_," and it applied
+casual statement: "In our gardens, there are no weeds," and it applied
 to the garden of human culture almost as well as it applied to the fauna
 and flora of the planet.
 
@@ -885,13 +867,13 @@ with only a minimum of attention from Man. Nature had learned to survive
 in the presence of Man. Yet the natives seemed unaware of the wonder of
 their Eden. There was peace, there was plenty.
 
-_This_, he thought, could be the answer to their lack of resistance in
+This, he thought, could be the answer to their lack of resistance in
 the face of what seemed to Meikl to be sheer seizure and arrogant
 exploitation by Baron ven Klaeden and his high command. In a bounteous
 world, there were no concepts of "exploitation" or "property seizure" or
 "authoritarianism". The behaviour of the starmen appeared as strange, or
 fascinating, or laughable, or shocking to such as the girl who stood
-beside him on the hill--but not as aggressive nor imperious. When a
+beside him on the hill—but not as aggressive nor imperious. When a
 foreman issued an order, the workman accepted it as a polite request for
 a favor, and did it as if for a friend. Fortunately, ven Klaeden had
 possessed at least the good sense to see to it that the individual
@@ -907,21 +889,21 @@ Lovely, he thought, and glanced around to see that no one was near.
 "You belong to another, Letha?" he asked.
 
 She tossed him a quick look with pale eyes, hesitated. "There is a boy
-named Evon...."
+named Evon..."
 
 He nodded, lips tightening. Stop it, you fool, he told himself. You
 can't make love to her. You've got to leave with the rest of them.
 
 "But I don't really belong to him," she said, and reddened.
 
-"Letha, I...."
+"Letha, I..."
 
 "Yes, Meikl."
 
 "Nothing. I'm lonely, I guess."
 
 Her eyes wandered thoughtfully toward the ships. "Meikl, why will you
-tell us nothing of space--how you've lived since the Exodus?"
+tell us nothing of space—how you've lived since the Exodus?"
 
 "We are an evil people."
 
@@ -933,7 +915,7 @@ She touched his arm, and looked up at him searchingly.
 
 "Why will you never return to your home?"
 
-"To space--but we shall."
+"To space—but we shall."
 
 "To the worlds of your birth, I mean."
 
@@ -970,7 +952,7 @@ There was no word for "guns" or "weapons".
 
 Meikl shook himself. He was saying too much. These are the children of
 the past, he reminded himself, the same past that had begotten the
-children of space. The same traces of the ancient _kulturverlaengerung_
+children of space. The same traces of the ancient kulturverlaengerung
 would live in their neural patterns, however recessive and subliminal.
 One thing he knew: sometime during the twenty millennia since the
 Exodus, they had carefully rooted out the vestigial traces of strife in
@@ -994,17 +976,17 @@ the empire, the crew would be lynched and murdered. Under ven Klaeden,
 the ships of the Third Fleet were going to seek out an alleged colony in
 Ursa, to sell ships, tools, and services to a minor technology that was
 approaching its own space-going day, in return for immigration and
-nationalization rights--a young civilization full of chaotic expansion.
+nationalization rights—a young civilization full of chaotic expansion.
 
 "There is much you could not understand, Letha," he told her. "Our
 cultures are different. All societies go through three phases, and yours
-has passed through them all--perhaps into a fourth and final."
+has passed through them all—perhaps into a fourth and final."
 
 "And yours, Meikl?"
 
 "I don't know. First there is the struggle to integrate in a hostile
 environment. Then, after integration, comes an explosive expansion of
-the culture--_conquest_, a word unknown to you. Then a withering of the
+the culture—conquest, a word unknown to you. Then a withering of the
 mother-culture, and the rebellious rise of young cultures."
 
 "We were the mother-culture, Meikl?"
@@ -1014,11 +996,9 @@ He nodded. "And the Exodus was your birth-giving."
 "Now we are old and withered, Meikl?"
 
 He looked around at the garden-forests in the distance. A second
-childhood? he wondered. Was there a fourth phase?--a final perpetual
+childhood? he wondered. Was there a fourth phase?—a final perpetual
 youth that would never reach another puberty? He wondered. The coming of
 the sky-fleet might be a cultural coitus, but could there be conception?
-
-*       *       *       *       *
 
 A pair of junior officers came wandering along the ridge, speaking in
 low tones and gazing down toward the valley. There was a casual exchange
@@ -1049,7 +1029,7 @@ attempt would be fruitless, but ven Klaeden had ordered it.
 
 From the viewpoint of the high command, three hundred desertions out of
 nineteen thousand men over a period of six months was not an important
-loss of personnel. What _was_ important: the slow decay of discipline
+loss of personnel. What was important: the slow decay of discipline
 under the "no force" interdict. A policy of "no arrest" had been
 established for the ausland. If a man escaped from the occupied zone,
 Justice Section could send a detail to demand his return, but if he
@@ -1075,9 +1055,9 @@ had assembled.
 
 He took her arm suddenly, and stopped in the pathway.
 
-"Letha--you have worked for me many months."
+"Letha—you have worked for me many months."
 
-"Yes--"
+"Yes—"
 
 "I love you, Letha."
 
@@ -1090,15 +1070,15 @@ quietly, hating himself.
 
 "Then you'll stay."
 
-"It is ... _forbidden_ ... _verboten_...." There was no word in the
+"It is... forbidden... verboten..." There was no word in the
 tongue.
 
-"I can't understand.... If you love...."
+"I can't understand... If you love..."
 
 He swallowed hard. For the girl, "love" automatically settled
 everything, and consummation must follow. How could he explain.
 
-"Letha--in your culture, 'life' is the highest value."
+"Letha—in your culture, 'life' is the highest value."
 
 "How could it be otherwise? Love me, Meikl."
 
@@ -1107,9 +1087,9 @@ I have watched your people. Their lives are continuous conscious
 play-acting. Your lives are a dance, but you know you are dancing, and
 you dance as you will. Have you watched our people?"
 
-She nodded slowly. "You dance a different dance--act a different play."
+She nodded slowly. "You dance a different dance—act a different play."
 
-"It's not a play, Letha. We act an _unconscious_ drama, and thus the
+"It's not a play, Letha. We act an unconscious drama, and thus the
 drama becomes more important than living. And death takes precedence
 over life."
 
@@ -1117,7 +1097,7 @@ She shuddered slightly and stared into his eyes, unbelieving.
 
 "I don't know what you mean."
 
-"Can you understand?--that I love you, and yet my ... my...." He groped
+"Can you understand?—that I love you, and yet my... my..." He groped
 for a word for "duty". "My death-allegiance to the ship-people takes
 precedence? I can neither take you nor remain with you."
 
@@ -1128,14 +1108,12 @@ monotone. "It's growing late."
 Edward, Edward?
 And what will ye leave to your ain mither dear,
 My dear son, now tell me, O?"
-"The curse of hell frae me sall ye bear,
+"The curse of shadow realm frae me sall ye bear,
 Mither, mither;
-The curse of hell frae me sall ye bear;
+The curse of shadow realm frae me sall ye bear;
 Sic counsels ye gave to me, O!_"
 
---ANONYMOUS
-
-*       *       *       *       *
+—ANONYMOUS
 
 The trouble had begun on the eighteenth day of the ninth month. A party
 of unidentified men had stolen into the occupied zone during the night.
@@ -1162,9 +1140,7 @@ OCCUPIED ZONE.
 RESIGNATION OF ANOTHER SHALL BE TRIED IN ABSENTIA BY THIS
 COMMITTEE, AND IF FOUND GUILTY, SHALL INCUR THE DEATH PENALTY.
 
-AUSLAND COMMITTEE
-
-"An outrageous and preposterous bit of deviltry!" ven Klaeden had
+""An outrageous and preposterous bit of deviltry!" ven Klaeden had," Ausland Committee said.
 hissed. "Get them. Make an example of them."
 
 In reversal of previous policy, a police party was sent to search for
@@ -1206,20 +1182,20 @@ Pale, trembling with suppressed disapproval, the analyst bowed curtly
 and turned to the girl. "Tell them," he said in the Intermedia, "that
 death will come to any native who deserts, and that ten auslanders will
 die for every man murdered by the renegade committee. Tell them that the
-Geoark is...." He paused. There was no word for "hostage."
+Geoark is..." He paused. There was no word for "hostage."
 
 He was explaining the hostage-concept lengthily, while the girl's face
 drained of color. Suddenly she turned away to retch. Meikl stood
 stricken for a moment, turned helplessly toward the baron.
 
-"_They_ understood you, damn them!" ven Klaeden snapped. "They know the
+"They understood you, damn them!" ven Klaeden snapped. "They know the
 Intermedia."
 
 The elders continued to sit stonily on the boulder without acknowledging
 that they had heard. One of them sighed deeply and spoke a few words to
 the others. They nodded sadly, answered with polite monosyllables.
 
-"_No!_" Letha yelped, suddenly whirling, looking at the elders.
+"No!" Letha yelped, suddenly whirling, looking at the elders.
 
 One of them smiled and murmured a few words to her. Then the three of
 them slid down from the boulder. The guard who stood at port arms a few
@@ -1232,17 +1208,17 @@ The guard looked questioningly at the officers.
 
 "Well, Letha?" Meikl muttered.
 
-"I--I don't know--"
+"I—I don't know—"
 
 "You're lying, girl," the baron grunted, then to the guards: "Tell them
 to halt."
 
-"Party, _halt_!" snapped the guard.
+"Party, halt!" snapped the guard.
 
 The three elderly gentlemen continued toward the path, loose robes
 gathered up from spindley shins.
 
-"_Party, halt!_"
+"Party, halt!"
 
 The elders murmured conversationally among themselves as they continued.
 
@@ -1268,8 +1244,8 @@ Letha. She had vanished from the glade.
 growling.
 
 Meikl turned on him. "Now it's come to this, has it?" he snapped. "From
-the beginning, they were willing--even eager, to give what we wanted.
-Why did they _stop_ being willing?"
+the beginning, they were willing—even eager, to give what we wanted.
+Why did they stop being willing?"
 
 "That's enough, Meikl!"
 
@@ -1282,7 +1258,7 @@ nothing about 'brethren' in the tactical handbooks, is there, Baron?"
 Ven Klaeden said it quietly, as if bored. He crossed slowly to stand
 before the analyst and stare at him icily.
 
-"You speak of the unconscious inheritance of culture, analyst--the
+"You speak of the unconscious inheritance of culture, analyst—the
 kulturverlaengerung. And you have accused me for being a carrier of the
 war plague, eh?"
 
@@ -1307,25 +1283,25 @@ The baron straightened in sudden hauteur. "_Look down at the ground,
 Analyst_," he hissed.
 
 Ven Klaeden's sudden change of tone impelled him to obey. His eyes fell
-to the turf at his feet--moss covered sod, rich and dark beneath the
+to the turf at his feet—moss covered sod, rich and dark beneath the
 green.
 
 The baron kicked a hole in the moss with the toe of his boot. "Tell me
 where the infection came from, Analyst," he growled. He scraped at the
-hole with his heel. "And why is the dirt so _red_ right here?"
+hole with his heel. "And why is the dirt so red right here?"
 
 Meikl glanced up slowly. Two men were coming through the shrubs, walking
 warily along the path toward the clearing. Ven Klaeden seemed unaware.
 He leaned forward to speak through his teeth.
 
-"I give them nothing but what they gave our fathers--their own inner
-hell, Meikl--the curse they so carefully forgot. In their Eden."
+"I give them nothing but what they gave our fathers—their own inner
+shadow realm, Meikl—the curse they so carefully forgot. In their Eden."
 
-The man was mad ... perhaps. Meikl's eyes followed the men who
-approached through the shrubs. One of them carried a burden--the limp
+The man was mad... perhaps. Meikl's eyes followed the men who
+approached through the shrubs. One of them carried a burden—the limp
 body of a girl, occasionally visible through the low foliage as they
 drew nearer. One of the men was a junior officer, the other a native.
-After a moment, he recognized the native....
+After a moment, he recognized the native...
 
 "Evon!"
 
@@ -1333,9 +1309,9 @@ As he called out, the baron whirled, hand slipping to the hilt of the
 ceremonial sword he wore in the presence of the Geoark. The men stopped.
 Meikl stared at the limp figure in the arms of the native.
 
-"_Letha!_"
+"Letha!"
 
-"Dead," Evon hissed. "They killed her for running...."
+"Dead," Evon hissed. "They killed her for running..."
 
 They emerged from the shrubs into full view. The officer was holding a
 gun.
@@ -1345,27 +1321,27 @@ gun.
 The young officer laughed sourly. "Sorry, baron, I'm from the
 committee."
 
-"_Guard!_"
+"Guard!"
 
 "There's no one in earshot, Baron."
 
 "Fool!" Ven Klaeden arrogantly whipped out the sword. "Drop that gun, or
 I'll blade-whip you!"
 
-"Easy, baron, easy. I'm your executioner...."
+"Easy, baron, easy. I'm your executioner..."
 
 The baron straightened haughtily and began a slow advance, a towering
 figure of icy dignity in the sun that filtered through the foliage.
 
 "... but I want to take care of this one first." The renegade waved the
-gun toward Meikl. "You, Baron, you can have it slower--a needle in your
+gun toward Meikl. "You, Baron, you can have it slower—a needle in your
 official rump."
 
 Ven Klaeden, a figure of utter contempt, continued the slow advance with
 the sword. The officer's lips tightened. He squeezed the trigger. Ven
 Klaeden hesitated, jerking slightly, then continued, his hand pressing
 against his abdomen, doubling forward slightly. The officer fired
-again--a sharp snap of sound in the glade. The baron stopped, wrestling
+again—a sharp snap of sound in the glade. The baron stopped, wrestling
 with pain ten feet from the pale renegade.
 
 Suddenly he flung the sword. It looped in mid-air and slashed the man's
@@ -1400,7 +1376,7 @@ his eyes clinging to the sword.
 "Pick it up," hissed the baron.
 
 "You will never leave. A party of men is wrecking what you have done.
-Then we shall wreck your ships. Then we...."
+Then we shall wreck your ships. Then we..."
 
 "Pick it up."
 
@@ -1411,13 +1387,13 @@ fascination was in his eyes.
 
 The native shook his head slowly.
 
-Then it was in his hand, fingers shaping themselves around the hilt--as
+Then it was in his hand, fingers shaping themselves around the hilt—as
 the fingers of his fathers had done in the ages before the Star Exodus.
 His jaw fell slightly, and he looked up, clutching it.
 
-"_Now_ do you know?" the baron gasped.
+"Now do you know?" the baron gasped.
 
-"My--my hand--_it_ knows," the native whispered.
+"My—my hand—it knows," the native whispered.
 
 Ven Klaeden glanced sourly at Meikl, losing his balance slightly, eyes
 glazed with pain. "He'll need it now, won't he, Analyst?" he breathed,
@@ -1439,11 +1415,11 @@ The native held the sword out questioningly, as if offering it.
 "Keep it," the analyst grunted. "You remembered its feel after twenty
 thousand years. That's why you'll need it."
 
-Some deeds, he thought, would haunt the soul of Man until his end, and
-there was no erasing them ... for they _were_ the soul, self-made,
+Some deeds, he thought, would haunt the essence of Man until his end, and
+there was no erasing them... for they were the essence, self-made,
 lasting in the ghost-grey fabric of mind as long as the lips of a child
 greedily sought the breast of its mother, as long as the child mirrored
-the mind of the man and the woman. _Kulturverlaengerung._
+the mind of the man and the woman. Kulturverlaengerung.
 
 The analyst left the native with the sword and went to seek the next in
 line of command. The purpose of the fleet must be kept intact, he

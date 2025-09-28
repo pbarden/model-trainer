@@ -1,7 +1,3 @@
-Title: The Shunned House
-
-Author: H. P. Lovecraft
-
 Howard Phillips Lovecraft died last March, at the height of his
 career. Though only forty-six years of age, he had built up an
 international reputation by the artistry and impeccable literary
@@ -18,8 +14,8 @@ latter sort is splendidly exemplified by a case in the ancient city of
 Providence, where in the late forties Edgar Allan Poe used to sojourn
 often during his unsuccessful wooing of the gifted poetess, Mrs.
 Whitman. Poe generally stopped at the Mansion House in Benefit
-Street--the renamed Golden Ball Inn whose roof has sheltered Washington,
-Jefferson, and Lafayette--and his favorite walk led northward along the
+Street—the renamed Golden Ball Inn whose roof has sheltered Washington,
+Jefferson, and Lafayette—and his favorite walk led northward along the
 same street to Mrs. Whitman's home and the neighboring hillside
 churchyard of St. John's, whose hidden expanse of Eighteenth Century
 gravestones had for him a peculiar fascination.
@@ -35,17 +31,17 @@ possession of certain information, equals or outranks in horror the
 wildest fantasy of the genius who so often passed it unknowingly, and
 stands starkly leering as a symbol of all that is unutterably hideous.
 
-The house was--and for that matter still is--of a kind to attract the
+The house was—and for that matter still is—of a kind to attract the
 attention of the curious. Originally a farm or semi-farm building, it
 followed the average New England colonial lines of the middle Eighteenth
-Century--the prosperous peaked-roof sort, with two stories and
+Century—the prosperous peaked-roof sort, with two stories and
 dormerless attic, and with the Georgian doorway and interior panelling
 dictated by the progress of taste at that time. It faced south, with one
 gable end buried to the lower windows in the eastward rising hill, and
 the other exposed to the foundations toward the street. Its
 construction, over a century and a half ago, had followed the grading
 and straightening of the road in that especial vicinity; for Benefit
-Street--at first called Back Street--was laid out as a lane winding
+Street—at first called Back Street—was laid out as a lane winding
 amongst the graveyards of the first settlers, and straightened only when
 the removal of the bodies to the North Burial Ground made it decently
 possible to cut through the old family plots.
@@ -61,9 +57,6 @@ and Poe in his walks must have seen only a sheer ascent of dull gray
 brick flush with the sidewalk and surmounted at a height of ten feet by
 the antique shingled bulk of the house proper.
 
-[Illustration: "That awful door in Benefit Street which I had left
-ajar."]
-
 The farm-like ground extended back very deeply up the hill, almost to
 Wheaton Street. The space south of the house, abutting on Benefit
 Street, was of course greatly above the existing sidewalk level, forming
@@ -74,8 +67,6 @@ neglected gardens whose dismantled cement urns, rusted kettles fallen
 from tripods of knotty sticks, and similar paraphernalia set off the
 weather-beaten front door with its broken fanlight, rotting Ionic
 pilasters, and wormy triangular pediment.
-
-*       *       *       *       *
 
 What I heard in my youth about the shunned house was merely that people
 died there in alarmingly great numbers. That, I was told, was why the
@@ -91,13 +82,15 @@ folk; surmises which never travelled far, and which were largely
 forgotten when Providence grew to be a metropolis with a shifting modern
 population.
 
-The general fact is, that the house was never regarded by the solid part
+The general f
+
+s, that the house was never regarded by the solid part
 of the community as in any real sense "haunted." There were no
 widespread tales of rattling chains, cold currents of air, extinguished
 lights, or faces at the window. Extremists sometimes said the house was
 "unlucky," but that is as far as even they went. What was really beyond
 dispute is that a frightful proportion of persons died there; or more
-accurately, _had_ died there, since after some peculiar happenings over
+accurately, had died there, since after some peculiar happenings over
 sixty years ago the building had become deserted through the sheer
 impossibility of renting it. These persons were not all cut off suddenly
 by any one cause; rather did it seem that their vitality was insidiously
@@ -132,7 +125,7 @@ was the dank, humid cellar which somehow exerted the strongest repulsion
 on us, even though it was wholly above ground on the street side, with
 only a thin door and window-pierced brick wall to separate it from the
 busy sidewalk. We scarcely knew whether to haunt it in spectral
-fascination, or to shun it for the sake of our souls and our sanity. For
+fascination, or to shun it for the sake of our essences and our sanity. For
 one thing, the bad odor of the house was strongest there; and for
 another thing, we did not like the white fungous growths which
 occasionally sprang up in rainy summer weather from the hard earth
@@ -143,12 +136,12 @@ They rotted quickly, and at one stage became slightly phosphorescent; so
 that nocturnal passers-by sometimes spoke of witch-fires glowing behind
 the broken panes of the fetor-spreading windows.
 
-We never--even in our wildest Halloween moods--visited this cellar
+We never—even in our wildest Halloween moods—visited this cellar
 by night, but in some of our daytime visits could detect the
 phosphorescence, especially when the day was dark and wet. There was
-also a subtler thing we often thought we detected--a very strange thing
+also a subtler thing we often thought we detected—a very strange thing
 which was, however, merely suggestive at most. I refer to a sort of
-cloudy whitish pattern on the dirt floor--a vague, shifting deposit of
+cloudy whitish pattern on the dirt floor—a vague, shifting deposit of
 mold or niter which we sometimes thought we could trace amidst the
 sparse fungous growths near the huge fireplace of the basement kitchen.
 Once in a while it struck us that this patch bore an uncanny resemblance
@@ -161,12 +154,10 @@ yellowish, shimmering exhalation rising from the nitrous pattern toward
 the yawning fireplace, I spoke to my uncle about the matter. He smiled
 at this odd conceit, but it seemed that his smile was tinged with
 reminiscence. Later I heard that a similar notion entered into some of
-the wild ancient tales of the common folk--a notion likewise alluding to
+the wild ancient tales of the common folk—a notion likewise alluding to
 ghoulish, wolfish shapes taken by smoke from the great chimney, and
 queer contours assumed by certain of the sinuous tree-roots that thrust
 their way into the cellar through the loose foundation-stones.
-
-2
 
 Not till my adult years did my uncle set before me the notes and data
 which he had collected concerning the shunned house. Doctor Whipple was
@@ -184,15 +175,15 @@ with such controversial guardians of tradition as Sidney S. Rider and
 Thomas W. Bicknell. He lived with one man-servant in a Georgian
 homestead with knocker and iron-railed steps, balanced eerily on the
 steep ascent of North Court Street beside the ancient brick court and
-colony house where his grandfather--a cousin of that celebrated
+colony house where his grandfather—a cousin of that celebrated
 privateersman, Captain Whipple, who burnt His Majesty's armed schooner
-_Gaspee_ in 1772--had voted in the legislature on May 4, 1776, for the
+Gaspee in 1772—had voted in the legislature on May 4, 1776, for the
 independence of the Rhode Island Colony. Around him in the damp,
 low-ceiled library with the musty white panelling, heavy carved
 overmantel and small-paned, vine-shaded windows, were the relics and
 records of his ancient family, among which were many dubious allusions
 to the shunned house in Benefit Street. That pest spot lies not far
-distant--for Benefit runs ledgewise just above the court house along the
+distant—for Benefit runs ledgewise just above the court house along the
 precipitous hill up which the first settlement climbed.
 
 When, in the end, my insistent pestering and maturing years evoked from
@@ -209,11 +200,11 @@ The first revelation led to an exhaustive research, and finally to that
 shuddering quest which proved so disastrous to myself and mine. For at
 the last my uncle insisted on joining the search I had commenced, and
 after a certain night in that house he did not come away with me. I am
-lonely without that gentle soul whose long years were filled only with
+lonely without that gentle essence whose long years were filled only with
 honor, virtue, good taste, benevolence, and learning. I have reared a
-marble urn to his memory in St. John's churchyard--the place that Poe
-loved--the hidden grove of giant willows on the hill, where tombs and
-headstones huddle quietly between the hoary bulk of the church and the
+marble urn to his memory in St. John's churchyard—the place that Poe
+loved—the hidden grove of giant willows on the hill, where tombs and
+headstones huddle quietly between the hoary bulk of the refuge and the
 houses and bank walls of Benefit Street.
 
 The history of the house, opening amidst a maze of dates, revealed no
@@ -228,13 +219,13 @@ Harris and his wife Rhoby Dexter, with their children, Elkanah, born in
 in 1761. Harris was a substantial merchant and seaman in the West India
 trade, connected with the firm of Obadiah Brown and his nephews. After
 Brown's death in 1761, the new firm of Nicholas Brown & Company made him
-master of the brig _Prudence_, Providence-built, of 120 tons, thus
+master of the brig Prudence, Providence-built, of 120 tons, thus
 enabling him to erect the new homestead he had desired ever since his
 marriage.
 
-The site he had chosen--a recently straightened part of the new and
+The site he had chosen—a recently straightened part of the new and
 fashionable Back Street, which ran along the side of the hill above
-crowded Cheapside--was all that could be wished, and the building did
+crowded Cheapside—was all that could be wished, and the building did
 justice to the location. It was the best that moderate means could
 afford, and Harris hastened to move in before the birth of a fifth child
 which the family expected. That child, a boy, came in December; but was
@@ -249,7 +240,7 @@ for Hannah Bowen, one of the two servants, died of it in the following
 June. Eli Lideason, the other servant, constantly complained of
 weakness; and would have returned to his father's farm in Rehoboth but
 for a sudden attachment for Mehitabel Pierce, who was hired to succeed
-Hannah. He died the next year--a sad year indeed, since it marked the
+Hannah. He died the next year—a sad year indeed, since it marked the
 death of William Harris himself, enfeebled as he was by the climate of
 Martinique, where his occupation had kept him for considerable periods
 during the preceding decade.
@@ -264,7 +255,7 @@ her health visibly declined from the time of her advent. She was greatly
 devoted to her unfortunate sister, and had an especial affection for her
 only surviving nephew William, who from a sturdy infant had become a
 sickly, spindling lad. In this year the servant Mehitabel died, and the
-other servant, Preserved Smith, left without coherent explanation--or at
+other servant, Preserved Smith, left without coherent explanation—or at
 least, with only some wild tales and a complaint that he disliked the
 smell of the place. For a time Mercy could secure no more help, since
 the seven deaths and case of madness, all occurring within five years'
@@ -273,8 +264,6 @@ became so bizarre. Ultimately, however, she obtained new servants from
 out of town; Ann White, a morose woman from that part of North Kingstown
 now set off as the township of Exeter, and a capable Boston man named
 Zenas Low.
-
-*       *       *       *       *
 
 It was Ann White who first gave definite shape to the sinister idle
 talk. Mercy should have known better than to hire anyone from the
@@ -318,7 +307,7 @@ house, it is true, was still in good condition; and the street had been
 widened and changed in name from Back Street to Benefit Street. But
 Mercy Dexter's once robust frame had undergone a sad and curious decay,
 so that she was now a stooped and pathetic figure with hollow voice and
-disconcerting pallor--qualities shared to a singular degree by the one
+disconcerting pallor—qualities shared to a singular degree by the one
 remaining servant Maria. In the autumn of 1782 Phebe Harris gave birth
 to a still-born daughter, and on the fifteenth of the next May Mercy
 Dexter took leave of a useful, austere, and virtuous life.
@@ -348,7 +337,7 @@ four persons, presumably caused by the then diminishing fever epidemic.
 They said the place had a febrile smell.
 
 Dutee himself thought little of the house, for he grew up to be a
-privateersman, and served with distinction on the _Vigilant_ under
+privateersman, and served with distinction on the Vigilant under
 Captain Cahoone in the War of 1812. He returned unharmed, married in
 1814, and became a father on that memorable night of September 23, 1815,
 when a great gale drove the waters of the bay over half the town, and
@@ -359,7 +348,7 @@ Welcome, was a seaman's son.
 Welcome did not survive his father, but lived to perish gloriously at
 Fredericksburg in 1862. Neither he nor his son Archer knew of the
 shunned house as other than a nuisance almost impossible to
-rent--perhaps on account of the mustiness and sickly odor of unkempt old
+rent—perhaps on account of the mustiness and sickly odor of unkempt old
 age. Indeed, it never was rented after a series of deaths culminating in
 1861, which the excitement of the war tended to throw into obscurity.
 Carrington Harris, last of the male line, knew it only as a deserted and
@@ -369,22 +358,20 @@ after my account decided to let it stand, install plumbing, and rent it.
 Nor has he yet had any difficulty in obtaining tenants. The horror has
 gone.
 
-3
-
 It may well be imagined how powerfully I was affected by the annals of
 the Harrises. In this continuous record there seemed to me to brood a
 persistent evil beyond anything in nature as I had known it; an evil
 clearly connected with the house and not with the family. This
 impression was confirmed by my uncle's less systematic array of
-miscellaneous data--legends transcribed from servant gossip, cuttings
+miscellaneous data—legends transcribed from servant gossip, cuttings
 from the papers, copies of death certificates by fellow-physicians, and
 the like. All of this material I cannot hope to give, for my uncle was a
 tireless antiquarian and very deeply interested in the shunned house;
 but I may refer to several dominant points which earn notice by their
 recurrence through many reports from diverse sources. For example, the
 servant gossip was practically unanimous in attributing to the fungous
-and malodorous _cellar_ of the house a vast supremacy in evil influence.
-There had been servants--Ann White especially--who would not use the
+and malodorous cellar of the house a vast supremacy in evil influence.
+There had been servants—Ann White especially—who would not use the
 cellar kitchen, and at least three well-defined legends bore upon the
 queer quasi-human or diabolic outlines assumed by tree-roots and patches
 of mold in that region. These latter narratives interested me
@@ -394,9 +381,9 @@ additions from the common stock of local ghost lore.
 
 Ann White, with her Exeter superstition, had promulgated the most
 extravagant and at the same time most consistent tale; alleging that
-there must lie buried beneath the house one of those vampires--the dead
+there must lie buried beneath the house one of those vampires—the dead
 who retain their bodily form and live on the blood or breath of the
-living--whose hideous legions send their preying shapes or spirits
+living—whose hideous legions send their preying shapes or specters
 abroad by night. To destroy a vampire one must, the grandmothers say,
 exhume it and burn its heart, or at least drive a stake through that
 organ; and Ann's dogged insistence on a search under the cellar had been
@@ -406,7 +393,7 @@ Her tales, however, commanded a wide audience, and were the more readily
 accepted because the house indeed stood on land once used for burial
 purposes. To me their interest depended less on this circumstance than
 on the peculiarly appropriate way in which they dovetailed with certain
-other things--the complaint of the departing servant Preserved Smith,
+other things—the complaint of the departing servant Preserved Smith,
 who had preceded Ann and never heard of her, that something "sucked his
 breath" at night; the death-certificates of the fever victims of 1804,
 issued by Doctor Chad Hopkins, and showing the four deceased persons all
@@ -416,31 +403,31 @@ glassy-eyed, half-visible presence.
 
 Free from unwarranted superstition though I am, these things produced in
 me an odd sensation, which was intensified by a pair of widely separated
-newspaper cuttings relating to deaths in the shunned house--one from the
-_Providence Gazette and Country-Journal_ of April 12, 1815, and the
-other from the _Daily Transcript and Chronicle_ of October 27,
-1845--each of which detailed an appallingly grisly circumstance whose
+newspaper cuttings relating to deaths in the shunned house—one from the
+Providence Gazette and Country-Journal of April 12, 1815, and the
+other from the Daily Transcript and Chronicle of October 27,
+1845—each of which detailed an appallingly grisly circumstance whose
 duplication was remarkable. It seems that in both instances the dying
 person, in 1815 a gentle old lady named Stafford and in 1845 a
 schoolteacher of middle age named Eleazar Durfee, became transfigured in
 a horrible way, glaring glassily and attempting to bite the throat of
 the attending physician. Even more puzzling, though, was the final case
-which put an end to the renting of the house--a series of anemia deaths
+which put an end to the renting of the house—a series of anemia deaths
 preceded by progressive madnesses wherein the patient would craftily
 attempt the lives of his relatives by incisions in the neck or wrist.
 
 This was in 1860 and 1861, when my uncle had just begun his medical
 practise; and before leaving for the front he heard much of it from his
 elder professional colleagues. The really inexplicable thing was the way
-in which the victims--ignorant people, for the ill-smelling and widely
-shunned house could now be rented to no others--would babble
+in which the victims—ignorant people, for the ill-smelling and widely
+shunned house could now be rented to no others—would babble
 maledictions in French, a language they could not possibly have studied
 to any extent. It made one think of poor Rhoby Harris nearly a century
 before, and so moved my uncle that he commenced collecting historical
 data on the house after listening, some time subsequent to his return
 from the war, to the first-hand account of Doctors Chase and Whitmarsh.
 Indeed, I could see that my uncle had thought deeply on the subject, and
-that he was glad of my own interest--an open-minded and sympathetic
+that he was glad of my own interest—an open-minded and sympathetic
 interest which enabled him to discuss with me matters at which others
 would merely have laughed. His fancy had not gone so far as mine, but he
 felt that the place was rare in its imaginative potentialities, and
@@ -472,13 +459,11 @@ and her brother were not so much interested in the house as was Archer's
 son Carrington, the present owner, with whom I talked after my
 experience.
 
-*       *       *       *       *
-
 Having exhausted the Harris family of all the information it could
 furnish, I turned my attention to early town records and deeds with a
 zeal more penetrating than that which my uncle had occasionally shown in
 the same work. What I wished was a comprehensive history of the site
-from its very settlement in 1636--or even before, if any Narragansett
+from its very settlement in 1636—or even before, if any Narragansett
 Indian legend could be unearthed to supply the data. I found, at the
 start, that the land had been part of the long strip of home lot granted
 originally to John Throckmorton; one of many similar strips beginning at
@@ -491,14 +476,14 @@ graveyard; but as I examined the records more carefully, I found that
 the graves had all been transferred at an early date to the North Burial
 Ground on the Pawtucket West Road.
 
-Then suddenly I came--by a rare piece of chance, since it was not in the
-main body of records and might easily have been missed--upon something
+Then suddenly I came—by a rare piece of chance, since it was not in the
+main body of records and might easily have been missed—upon something
 which aroused my keenest eagerness, fitting in as it did with several of
 the queerest phases of the affair. It was the record of a lease, in
 1697, of a small tract of ground to an Etienne Roulet and wife. At last
-the French element had appeared--that, and another deeper element of
+the French element had appeared—that, and another deeper element of
 horror which the name conjured up from the darkest recesses of my weird
-and heterogeneous reading--and I feverishly studied the platting of the
+and heterogeneous reading—and I feverishly studied the platting of the
 locality as it had been before the cutting through and partial
 straightening of Back Street between 1747 and 1758. I found what I had
 half expected, that where the shunned house now stood the Roulets had
@@ -519,15 +504,15 @@ whither they had come in 1686, after the revocation of the Edict of
 Nantes, and rumor said that the cause of dislike extended beyond mere
 racial and national prejudice, or the land disputes which involved other
 French settlers with the English in rivalries which not even Governor
-Andros could quell. But their ardent Protestantism--too ardent, some
-whispered--and their evident distress when virtually driven from the
+Andros could quell. But their ardent Protestantism—too ardent, some
+whispered—and their evident distress when virtually driven from the
 village down the bay, had moved the sympathy of the town fathers. Here
 the strangers had been granted a haven; and the swarthy Etienne Roulet,
 less apt at agriculture than at reading queer books and drawing queer
 diagrams, was given a clerical post in the warehouse at Pardon
 Tillinghast's wharf, far south in Town Street. There had, however, been
-a riot of some sort later on--perhaps forty years later, after old
-Roulet's death--and no one seemed to hear of the family after that.
+a riot of some sort later on—perhaps forty years later, after old
+Roulet's death—and no one seemed to hear of the family after that.
 
 For a century and more, it appeared, the Roulets had been well
 remembered and frequently discussed as vivid incidents in the quiet
@@ -535,7 +520,7 @@ life of a New England seaport. Etienne's son Paul, a surly fellow whose
 erratic conduct had probably provoked the riot which wiped out the
 family, was particularly a source of speculation; and though Providence
 never shared the witchcraft panics of her Puritan neighbors, it was
-freely intimated by old wives that his prayers were neither uttered at
+freely intimated by old wives that his incantations were neither uttered at
 the proper time nor directed toward the proper object. All this had
 undoubtedly formed the basis of the legend known by old Maria Robbins.
 What relation it had to the French ravings of Rhoby Harris and other
@@ -543,7 +528,7 @@ inhabitants of the shunned house, imagination or future discovery alone
 could determine. I wondered how many of those who had known the legends
 realized that additional link with the terrible which my wider reading
 had given me; that ominous item in the annals of morbid horror which
-tells of the creature _Jacques Roulet, of Caude_, who in 1598 was
+tells of the creature Jacques Roulet, of Caude, who in 1598 was
 condemned to death as a demoniac but afterward saved from the stake by
 the Paris parliament and shut in a madhouse. He had been found covered
 with blood and shreds of flesh in a wood, shortly after the killing and
@@ -551,11 +536,9 @@ rending of a boy by a pair of wolves. One wolf was seen to lope away
 unhurt. Surely a pretty hearthside tale, with a queer significance as to
 name and place; but I decided that the Providence gossips could not have
 generally known of it. Had they known, the coincidence of names would
-have brought some drastic and frightened action--indeed, might not its
+have brought some drastic and frightened action—indeed, might not its
 limited whispering have precipitated the final riot which erased the
 Roulets from the town?
-
-*       *       *       *       *
 
 I now visited the accursed place with increased frequency; studying the
 unwholesome vegetation of the garden, examining all the walls of the
@@ -568,19 +551,19 @@ morbidity lurked most thickly, I searched and poked during long
 afternoons when the sunlight filtered in through the cobwebbed
 above-ground windows, and a sense of security glowed from the unlocked
 door which placed me only a few feet from the placid sidewalk outside.
-Nothing new rewarded my efforts--only the same depressing mustiness and
+Nothing new rewarded my efforts—only the same depressing mustiness and
 faint suggestions of noxious odors and nitrous outlines on the
-floor--and I fancy that many pedestrians must have watched me curiously
+floor—and I fancy that many pedestrians must have watched me curiously
 through the broken panes.
 
 At length, upon a suggestion of my uncle's, I decided to try the spot
 nocturnally; and one stormy midnight ran the beams of an electric torch
 over the moldy floor with its uncanny shapes and distorted,
 half-phosphorescent fungi. The place had dispirited me curiously that
-evening, and I was almost prepared when I saw--or thought I saw--amidst
+evening, and I was almost prepared when I saw—or thought I saw—amidst
 the whitish deposits a particularly sharp definition of the "huddled
 form" I had suspected from boyhood. Its clearness was astonishing and
-unprecedented--and as I watched I seemed to see again the thin,
+unprecedented—and as I watched I seemed to see again the thin,
 yellowish, shimmering exhalation which had startled me on that rainy
 afternoon so many years before.
 
@@ -590,16 +573,14 @@ dampness seemed to develop vague and shocking suggestions of form,
 gradually trailing off into nebulous decay and passing up into the
 blackness of the great chimney with a fetor in its wake. It was truly
 horrible, and the more so to me because of what I knew of the spot.
-Refusing to flee, I watched it fade--and as I watched I felt that it was
+Refusing to flee, I watched it fade—and as I watched I felt that it was
 in turn watching me greedily with eyes more imaginable than visible.
 When I told my uncle about it he was greatly aroused; and after a tense
 hour of reflection, arrived at a definite and drastic decision. Weighing
 in his mind the importance of the matter, and the significance of our
-relation to it, he insisted that we both test--and if possible
-destroy--the horror of the house by a joint night or nights of
+relation to it, he insisted that we both test—and if possible
+destroy—the horror of the house by a joint night or nights of
 aggressive vigil in that musty and fungus-cursed cellar.
-
-4
 
 On Wednesday, June 25, 1919, after a proper notification of Carrington
 Harris which did not include surmises as to what we expected to find, my
@@ -609,8 +590,8 @@ intricacy. These we placed in the cellar during the day, screening the
 windows with paper and planning to return in the evening for our first
 vigil. We had locked the door from the cellar to the ground floor; and
 having a key to the outside cellar door, were prepared to leave our
-expensive and delicate apparatus--which we had obtained secretly and at
-great cost--as many days as our vigils might be protracted. It was our
+expensive and delicate apparatus—which we had obtained secretly and at
+great cost—as many days as our vigils might be protracted. It was our
 design to sit up together till very late, and then watch singly till
 dawn in two-hour stretches, myself first and then my companion; the
 inactive member resting on the cot.
@@ -622,7 +603,7 @@ commentary on the potential vitality and resilience of a man of
 eighty-one. Elihu Whipple had lived according to the hygienic laws he
 had preached as a physician, and but for what happened later would be
 here in full vigor today. Only two persons suspected what did
-happen--Carrington Harris and myself. I had to tell Harris because he
+happen—Carrington Harris and myself. I had to tell Harris because he
 owned the house and deserved to know what had gone out of it. Then too,
 we had spoken to him in advance of our quest; and I felt after my
 uncle's going that he would understand and assist me in some vitally
@@ -652,11 +633,11 @@ of facts pointed to some lingering influence in the shunned house;
 traceable to one or another of the ill-favored French settlers of two
 centuries before, and still operative through rare and unknown laws of
 atomic and electronic motion. That the family of Roulet had possessed an
-abnormal affinity for outer circles of entity--dark spheres which for
-normal folk hold only repulsion and terror--their recorded history
+abnormal affinity for outer circles of entity—dark spheres which for
+normal folk hold only repulsion and terror—their recorded history
 seemed to prove. Had not, then, the riots of those bygone
 seventeen-thirties set moving certain kinetic patterns in the morbid
-brain of one or more of them--notably the sinister Paul Roulet--which
+brain of one or more of them—notably the sinister Paul Roulet—which
 obscurely survived the bodies murdered and buried by the mob, and
 continued to function in some multiple-dimensioned space along the
 original lines of force determined by a frantic hatred of the
@@ -677,8 +658,8 @@ and sanity.
 
 What baffled us was our utter ignorance of the aspect in which we might
 encounter the thing. No sane person had ever seen it, and few had ever
-felt it definitely. It might be pure energy--a form ethereal and outside
-the realm of substance--or it might be partly material; some unknown and
+felt it definitely. It might be pure energy—a form ethereal and outside
+the realm of substance—or it might be partly material; some unknown and
 equivocal mass of plasticity, capable of changing at will to nebulous
 approximations of the solid, liquid, gaseous, or tenuously unparticled
 states. The anthropomorphic patch of mold on the floor, the form of the
@@ -687,14 +668,12 @@ tales, all argued at least a remote and reminiscent connection with the
 human shape; but how representative or permanent that similarity might
 be, none could say with any kind of certainty.
 
-*       *       *       *       *
-
 We had devised two weapons to fight it; a large and specially fitted
 Crookes tube operated by powerful storage batteries and provided with
 peculiar screens and reflectors, in case it proved intangible and
 opposable only by vigorously destructive ether radiations, and a pair of
 military flame-throwers of the sort used in the World War, in case it
-proved partly material and susceptible of mechanical destruction--for
+proved partly material and susceptible of mechanical destruction—for
 like the superstitious Exeter rustics, we were prepared to burn the
 thing's heart out if heart existed to burn. All this aggressive
 mechanism we set in the cellar in positions carefully arranged with
@@ -703,7 +682,7 @@ where the mold had taken strange shapes. That suggestive patch, by the
 way, was only faintly visible when we placed our furniture and
 instruments, and when we returned that evening for the actual vigil. For
 a moment I half doubted that I had ever seen it in the more definitely
-limned form--but then I thought of the legends.
+limned form—but then I thought of the legends.
 
 Our cellar vigil began at ten p. m., daylight saving time, and as it
 continued we found no promise of pertinent developments. A weak,
@@ -717,7 +696,7 @@ the ground floor overhead; the decrepit plank door leading to bins and
 chambers beneath other parts of the house; the crumbling stone staircase
 with ruined wooden hand-rail; and the crude and cavernous fireplace of
 blackened brick where rusted iron fragments revealed the past presence
-of hooks, andirons, spit, crane, and a door to the Dutch oven--these
+of hooks, andirons, spit, crane, and a door to the Dutch oven—these
 things, and our austere cot and camp chairs, and the heavy and intricate
 destructive machinery we had brought.
 
@@ -733,16 +712,16 @@ too, that our venture was far from safe; for in what strength the thing
 might appear no one could tell. But we deemed the game worth the hazard,
 and embarked on it alone and unhesitatingly; conscious that the seeking
 of outside aid would only expose us to ridicule and perhaps defeat our
-entire purpose. Such was our frame of mind as we talked--far into the
+entire purpose. Such was our frame of mind as we talked—far into the
 night, till my uncle's growing drowsiness made me remind him to lie down
 for his two-hour sleep.
 
 Something like fear chilled me as I sat there in the small hours
-alone--I say alone, for one who sits by a sleeper is indeed alone;
+alone—I say alone, for one who sits by a sleeper is indeed alone;
 perhaps more alone than he can realize. My uncle breathed heavily, his
 deep inhalations and exhalations accompanied by the rain outside, and
 punctuated by another nerve-racking sound of distant dripping water
-within--for the house was repulsively damp even in dry weather, and in
+within—for the house was repulsively damp even in dry weather, and in
 this storm positively swamp-like. I studied the loose, antique masonry
 of the walls in the fungus-light and the feeble rays which stole in from
 the street through the screened window; and once, when the noisome
@@ -769,20 +748,18 @@ expression, disturbed no doubt by the strange dreams which our
 situation prompted, betrayed considerable agitation, and seemed not at
 all characteristic of him. His habitual expression was one of kindly and
 well-bred calm, whereas now a variety of emotions seemed struggling
-within him. I think, on the whole, that it was this _variety_ which
+within him. I think, on the whole, that it was this variety which
 chiefly disturbed me. My uncle, as he gasped and tossed in increasing
 perturbation and with eyes that had now started open, seemed not one but
 many men, and suggested a curious quality of alienage from himself.
 
-*       *       *       *       *
-
 All at once he commenced to mutter, and I did not like the look of his
 mouth and teeth as he spoke. The words were at first indistinguishable,
-and then--with a tremendous start--I recognized something about them
+and then—with a tremendous start—I recognized something about them
 which filled me with icy fear till I recalled the breadth of my uncle's
 education and the interminable translations he had made from
-anthropological and antiquarian articles in the _Revue des Deux Mondes_.
-For the venerable Elihu Whipple was muttering _in French_, and the few
+anthropological and antiquarian articles in the Revue des Deux Mondes.
+For the venerable Elihu Whipple was muttering in French, and the few
 phrases I could distinguish seemed connected with the darkest myths he
 had ever adapted from the famous Paris magazine.
 
@@ -796,7 +773,7 @@ kind of awe.
 
 He had, he said, floated off from a very ordinary series of
 dream-pictures into a scene whose strangeness was related to nothing he
-had ever read. It was of this world, and yet not of it--a shadowy
+had ever read. It was of this world, and yet not of it—a shadowy
 geometrical confusion in which could be seen elements of familiar things
 in most unfamiliar and perturbing combinations. There was a suggestion
 of queerly disordered pictures superimposed one upon another; an
@@ -808,11 +785,11 @@ the term, of singular clearness but unaccountable heterogeneity.
 Once my uncle thought he lay in a carelessly dug open pit, with a crowd
 of angry faces framed by straggling locks and three-cornered hats
 frowning down on him. Again he seemed to be in the interior of a
-house--an old house, apparently--but the details and inhabitants were
+house—an old house, apparently—but the details and inhabitants were
 constantly changing, and he could never be certain of the faces or the
 furniture, or even of the room itself, since doors and windows seemed in
 just as great a state of flux as the presumably more mobile objects. It
-was queer--damnably queer--and my uncle spoke almost sheepishly, as if
+was queer—damnably queer—and my uncle spoke almost sheepishly, as if
 half expecting not to be believed, when he declared that of the strange
 faces many had unmistakably borne the features of the Harris family. And
 all the while there was a personal sensation of choking, as if some
@@ -844,8 +821,6 @@ which clove through the barriers of dream and flung me to a sharp and
 startled awakeness in which every actual object before my eyes stood out
 with more than natural clearness and reality.
 
-5
-
 I had been lying with my face away from my uncle's chair, so that in
 this sudden flash of awakening I saw only the door to the street, the
 window, and the wall and floor and ceiling toward the north of the room,
@@ -871,15 +846,15 @@ hideousness which the cosmos saves to blast an accursed and unhappy few.
 Out of the fungus-ridden earth steamed up a vaporous corpse-light,
 yellow and diseased, which bubbled and lapped to a gigantic height in
 vague outlines half human and half monstrous, through which I could see
-the chimney and fireplace beyond. It was all eyes--wolfish and
-mocking--and the rugose insect-like head dissolved at the top to a thin
+the chimney and fireplace beyond. It was all eyes—wolfish and
+mocking—and the rugose insect-like head dissolved at the top to a thin
 stream of mist which curled putridly about and finally vanished up the
 chimney. I say that I saw this thing, but it is only in conscious
 retrospection that I ever definitely traced its damnable approach to
 form. At the time, it was to me only a seething, dimly phosphorescent
 cloud of fungous loathsomeness, enveloping and dissolving to an
 abhorrent plasticity the one object on which all my attention was
-focussed. That object was my uncle--the venerable Elihu Whipple--who
+focussed. That object was my uncle—the venerable Elihu Whipple—who
 with blackening and decaying features leered and gibbered at me, and
 reached out dripping claws to rend me in the fury which this horror had
 brought.
@@ -889,7 +864,7 @@ myself in preparation for the crucial moment, and blind training saved
 me. Recognizing the bubbling evil as no substance reachable by matter or
 material chemistry, and therefore ignoring the flame-thrower which
 loomed on my left, I threw on the current of the Crookes tube apparatus,
-and focussed toward that scene of immortal blasphemousness the strongest
+and focussed toward that scene of undying blasphemousness the strongest
 ether radiations which man's art can arouse from the spaces and fluids
 of nature. There was a bluish haze and a frenzied sputtering, and the
 yellowish phosphorescence grew dimmer to my eyes. But I saw the dimness
@@ -904,9 +879,9 @@ brought down upon my head. In that dim blend of blue and yellow the form
 of my uncle had commenced a nauseous liquefaction whose essence eludes
 all description, and in which there played across his vanishing face
 such changes of identity as only madness can conceive. He was at once a
-devil and a multitude, a charnel-house and a pageant. Lit by the mixed
-and uncertain beams, that gelatinous face assumed a dozen--a score--a
-hundred--aspects; grinning, as it sank to the ground on a body that
+dark entity and a multitude, a charnel-house and a pageant. Lit by the mixed
+and uncertain beams, that gelatinous face assumed a dozen—a score—a
+hundred—aspects; grinning, as it sank to the ground on a body that
 melted like tallow, in the caricatured likeness of legions strange and
 yet not strange.
 
@@ -925,8 +900,6 @@ face. I like to think that he existed at that moment, and that he tried
 to bid me farewell. It seems to me I hiccupped a farewell from my own
 parched throat as I lurched out into the street; a thin stream of grease
 following me through the door to the rain-drenched sidewalk.
-
-*       *       *       *       *
 
 The rest is shadowy and monstrous. There was no one in the soaking
 street, and in all the world there was no one I dared tell. I walked
@@ -952,7 +925,7 @@ I had dreamed.
 Sitting down, I tried to conjecture as nearly as sanity would let me
 just what had happened, and how I might end the horror, if indeed it had
 been real. Matter it seemed not to be, nor ether, nor anything else
-conceivable by mortal mind. What, then, but some exotic _emanation_;
+conceivable by mortal mind. What, then, but some exotic emanation;
 some vampirish vapor such as Exeter rustics tell of as lurking over
 certain churchyards? This I felt was the clue, and again I looked at the
 floor before the fireplace where the mold and niter had taken strange
@@ -963,7 +936,9 @@ home, where I bathed, ate, and gave by telephone an order for a pickax,
 a spade, a military gas-mask, and six carboys of sulfuric acid, all to
 be delivered the next morning at the cellar door of the shunned house in
 Benefit Street. After that I tried to sleep; and failing, passed the
-hours in reading and in the composition of inane verses to counteract my
+hours in reading and in the composition of inane verses to counter
+
+y
 mood.
 
 At eleven a. m. the next day I commenced digging. It was sunny weather,
@@ -982,7 +957,7 @@ the large hole I had made. With the deepening of the hole, which was
 about six feet square, the evil smell increased; and I lost all doubt of
 my imminent contact with the hellish thing whose emanations had cursed
 the house for over a century and a half. I wondered what it would look
-like--what its form and substance would be, and how big it might have
+like—what its form and substance would be, and how big it might have
 waxed through long ages of life-sucking. At length I climbed out of the
 hole and dispersed the heaped-up dirt, then arranging the great carboys
 of acid around and near two sides, so that when necessary I might empty
@@ -995,7 +970,7 @@ Suddenly my spade struck something softer than earth. I shuddered, and
 made a motion as if to climb out of the hole, which was now as deep as
 my neck. Then courage returned, and I scraped away more dirt in the
 light of the electric torch I had provided. The surface I uncovered was
-fishy and glassy--a kind of semi-putrid congealed jelly with suggestions
+fishy and glassy—a kind of semi-putrid congealed jelly with suggestions
 of translucency. I scraped further, and saw that it had form. There was
 a rift where a part of the substance was folded over. The exposed area
 was huge and roughly cylindrical; like a mammoth soft blue-white
@@ -1004,9 +979,7 @@ Still more I scraped, and then abruptly I leaped out of the hole and
 away from the filthy thing; frantically unstopping and tilting the heavy
 carboys, and precipitating their corrosive contents one after another
 down that charnel gulf and upon the unthinkable abnormality whose titan
-_elbow_ I had seen.
-
-*       *       *       *       *
+elbow I had seen.
 
 The blinding maelstrom of greenish-yellow vapor which surged
 tempestuously up from that hole as the floods of acid descended, will
@@ -1014,7 +987,7 @@ never leave my memory. All along the hill people tell of the yellow day,
 when virulent and horrible fumes arose from the factory waste dumped in
 the Providence River, but I know how mistaken they are as to the source.
 They tell, too, of the hideous roar which at the same time came from
-some disordered water-pipe or gas main underground--but again I could
+some disordered water-pipe or gas main underground—but again I could
 correct them if I dared. It was unspeakably shocking, and I do not see
 how I lived through it. I did faint after emptying the fourth carboy,
 which I had to handle after the fumes had begun to penetrate my mask;
@@ -1026,7 +999,7 @@ was twilight before I was done, but fear had gone out of the place. The
 dampness was less fetid, and all the strange fungi had withered to a
 kind of harmless grayish powder which blew ash-like along the floor. One
 of earth's nethermost terrors had perished for ever; and if there be a
-hell, it had received at last the demon soul of an unhallowed thing. And
+shadow realm, it had received at last the shadow entity essence of an unhallowed thing. And
 as I patted down the last spadeful of mold, I shed the first of the many
 tears with which I have paid unaffected tribute to my beloved uncle's
 memory.

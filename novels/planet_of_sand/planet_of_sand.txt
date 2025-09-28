@@ -1,13 +1,9 @@
-Title: Planet of Sand
-
-Author: Murray Leinster
-
 There was bright, pitiless light in the prison corridor of the
-_Stallifer_. There was the hum of the air-renewal system. Once in every
+Stallifer. There was the hum of the air-renewal system. Once in every
 so often there was a cushioned thud as some item of the space ship's
 machinery operated some relay somewhere. But it was very tedious to be
-in a confinement cell. Stan Buckley--Lieutenant, J.G., Space Guard,
-under charges and under restraint--found it rather more than tedious.
+in a confinement cell. Stan Buckley—Lieutenant, J. G., Space Guard,
+under charges and under restraint—found it rather more than tedious.
 
 He should have been upheld, perhaps, by the fact that he was innocent
 of the charges made against him by Rob Torren, formerly his immediate
@@ -16,7 +12,7 @@ his cell, holding himself still with a grim resolution. But a deep, a
 savage, a corrosive anger grew and grew and grew within him. It had
 been growing in just this manner for weeks.
 
-The _Stallifer_ bored on through space. From her ports the cosmos
+The Stallifer bored on through space. From her ports the cosmos
 was not that hostile, immobile curtain of unwinking stars the early
 interstellar travelers knew. At twelve hundred light-speeds, with the
 Bowdoin-Hall field collapsing forty times per second for velocity
@@ -29,13 +25,13 @@ more slowly, but all moved. And habit made motion give the feeling of
 perspective, so that the stars appeared to be distributed in three
 dimensions and from the ship seemed very small, like fireflies. All the
 cosmos seemed small and almost cosy. The Rim itself appeared no more
-than a few miles away. But the _Stallifer_ headed for Earth from Rhesi
+than a few miles away. But the Stallifer headed for Earth from Rhesi
 II, and she had been days upon her journey, and she had come a distance
 which it would stagger the imagination to compute.
 
 In his cell, though, Stan Buckley could see only four walls. There was
 no variation of light; no sign of morning or night or afternoon. At
-intervals, a guard brought him food. That was all--except that his deep
+intervals, a guard brought him food. That was all—except that his deep
 and fierce and terrible anger grew until it seemed that he would go mad
 with it.
 
@@ -71,7 +67,7 @@ about his enemy's throat that he could hardly hear his words.
 
 "The trouble is," said Rob Torren, "that she probably wouldn't marry me
 either, if you were disgraced by my means. So I offer a bargain. I'll
-help you to escape--I've got it all arranged--on your word of honor to
+help you to escape—I've got it all arranged—on your word of honor to
 fight me. A duel. To the death." His eyes were hard. His tone was hard.
 His manner was almost contemptuous. Stan Buckley said hoarsely:
 
@@ -117,20 +113,18 @@ have vanished into thin air."
 "I'm doing this," said Stan hoarsely, "to get a chance to kill you. Of
 course I've no real chance to escape!"
 
-That was obvious. The _Stallifer_ was deep in the void of interstellar
+That was obvious. The Stallifer was deep in the void of interstellar
 space. She traveled at twelve hundred times the speed of light. Escape
 from the ship was impossible. And concealment past discovery when the
 ship docked was preposterous.
 
 "That remains to be seen," said Torren coldly. "Come this way."
 
-*       *       *       *       *
-
 Torren went down a hallway. He slipped into a narrow doorway,
 unnoticeable unless one was looking for it. Stan followed. He found
 himself in that narrow, compartmented space between the ship's inner
 and outer skins. A door; another compartment; another door. Then a tiny
-air-lock--used for the egress of a single man to inspect or repair such
+air-lock—used for the egress of a single man to inspect or repair such
 exterior apparatus as the scanners for the ship's vision screens. There
 was a heap of assorted apparatus beside the air-lock door.
 
@@ -145,7 +139,7 @@ luggage I had when I came on. That's my cover-up."
 "You'll take this chrono. It's synchronized with the ship's navigating
 clock. At two-two even you push off from the outside of the ship. The
 drive field fluctuates. When it collapses, you'll be outside it. When
-it expands--"
+it expands—"
 
 Stan Buckley raised his eyebrows. This was clever! The Bowdoin-Hall
 field, which permits of faster-than-light travel, is like a pulsating
@@ -167,8 +161,8 @@ of the field's collapse, and be left behind when it expanded again. But
 he would be left alone in illimitable emptiness.
 
 "You'll straddle the space skid," said Torren shortly. "It's full
-powered--good for some millions of miles. At two-two exactly the
-_Stallifer_ will be as close to Khor Alpha as it will go. Khor Alpha's
+powered—good for some millions of miles. At two-two exactly the
+Stallifer will be as close to Khor Alpha as it will go. Khor Alpha's
 a dwarf white star that's used as a course marker. It has one planet
 that the directories say has a breathable atmosphere, and list as a
 possible landing refuge, but which they also say is unexamined. You'll
@@ -192,10 +186,10 @@ and then grimly turned to the apparatus that lay in an untidy heap
 beside the air-lock door.
 
 Five minutes later he opened the outer door of the lock. He was clad
-in space armor and carried with him a small pack of supplies--the
-standard abandon-ship kit--and the little space-drive unit. The unit
-was one of those space skids used by meteor miners--merely a shaft
-which contained the drive and power unit, a seat, and a cross-shaft by
+in space armor and carried with him a small pack of supplies—the
+standard abandon-ship kit—and the little space-drive unit. The unit
+was one of those space skids used by meteor miners—merely a shaft
+which contained the drive and power unit, a seat, and a symbol-shaft by
 which it was steered. It was absurdly like a hobby-horse for a man in
 a space suit, and it was totally unsuitable for interplanetary work
 because it consumed too much power when fighting gravity. For Stan,
@@ -210,7 +204,7 @@ shoes.
 The cosmos seemed very small and quite improbable. The specks of light
 which were suns seemed to crawl here and there. Because of their motion
 it was impossible to think of them as gigantic balls of unquenchable
-fire. They moved! To all appearances, the _Stallifer_ flowed onward in
+fire. They moved! To all appearances, the Stallifer flowed onward in
 a cosmos perhaps a dozen miles in diameter, in which many varicolored
 fireflies moved with a vast deliberation.
 
@@ -218,12 +212,12 @@ The hand of the chrono moved, and moved, and moved. At two-two
 exactly, Stan pressed the drive stud. At one instant he and his
 improbable space steed rested firmly against a thousand-foot hill of
 glistening chrom-steel. The waverings of the Bowdoin-Hall field were
-imperceptible. The cosmos was small and limited and the _Stallifer_ was
-huge. Then the skid's drive came on. It shot away from the hull--and
+imperceptible. The cosmos was small and limited and the Stallifer was
+huge. Then the skid's drive came on. It shot away from the hull—and
 the ship vanished as utterly as a blown-out candle flame. And the
 universe was so vast as to produce a cringing sensation in the man who
 straddled an absurd small device in such emptiness, with one cold white
-sun--barely near enough to show a disk--and innumerable remote and
+sun—barely near enough to show a disk—and innumerable remote and
 indifferent stars on every hand.
 
 On the instant when the ship's field contracted and left him outside,
@@ -250,10 +244,8 @@ He started the minute gyroscopes that enabled him to steer the skid.
 He started in toward the sun. He had a planet to find and land on. Of
 course, Rob Torren could simply have contrived his escape to emptiness
 so that he might die and shrivel in the void, and never, never, never
-through all eternity be found again. But somehow, Stan had a vast faith
+through all endless time be found again. But somehow, Stan had a vast conviction
 in the hatred which existed between the two of them.
-
-*       *       *       *       *
 
 It was two days later when he approached the solitary planet of Khor
 Alpha. The air in his space suit had acquired that deadly staleness
@@ -263,10 +255,10 @@ repurified breathing-mixture. And as the disk of the planet grew large,
 he saw little or nothing to make him feel more cheerful.
 
 The planet rotated as he drew near, and it seemed to be absolutely
-featureless. The terminator--the shadow line as sunlight encroached
-on the planet's night side--was a perfect line. There were, then, no
+featureless. The terminator—the shadow line as sunlight encroached
+on the planet's night side—was a perfect line. There were, then, no
 mountains. There were no clouds. There seemed to be no vegetation.
-There was, though, a tiny polar icecap--so small that at first he
+There was, though, a tiny polar icecap—so small that at first he
 did not discover it. It was not even a dazzling white, but a mere
 whitishness where a polar cap should be, as if it were hoarfrost
 instead of ice.
@@ -282,8 +274,8 @@ than a quarter of the surface at this near approach, and that without
 magnification.
 
 Any large features would have been spotted from far away, but he had
-given up hope of any variation from monotony when--just as he was about
-to enter the atmosphere--one dark patch in the planet's uniformly
+given up hope of any variation from monotony when—just as he was about
+to enter the atmosphere—one dark patch in the planet's uniformly
 dazzling white surface appeared at the very edge of day. It was at the
 very border of the dawn belt. He could be sure only of its existence,
 and that it had sharp, specifically straight edges.
@@ -296,12 +288,12 @@ below the horizon.
 
 Even so near, no features, no natural formations appeared. There was
 only a vast brightness below him. He could make no guess as to his
-height nor--after he had slowed until the wind against his body was not
-detectable through the space suit--of his speed with relation to the
+height nor—after he had slowed until the wind against his body was not
+detectable through the space suit—of his speed with relation to the
 ground. It was extraordinary. It occurred to him to drop something to
 get some idea, even if a vague one, of his altitude above the ground.
 
-He did--an oil-soaked rag from the tool kit. It went fluttering down
+He did—an oil-soaked rag from the tool kit. It went fluttering down
 and down, and abruptly vanished, relatively a short distance below him.
 It had not landed. It had been blotted out.
 
@@ -318,23 +310,23 @@ all. In any case, he could not possibly land.
 He rose again and headed for the dark area he had noted. But a space
 skid is not intended for use in atmosphere. Its power is great, to be
 sure, when its power unit is filled. But Stan had come a very long way
-indeed since his departure from the _Stallifer_. And his drive had
+indeed since his departure from the Stallifer. And his drive had
 blown a fuse, once, which cost him some power.
 
 Unquestionably, the blown fuse had been caused by the impinging of
 a Bowdoin-Hall field upon the skid. Some other space ship than the
-_Stallifer_, using Khor Alpha as a course guide, had flashed past
+Stallifer, using Khor Alpha as a course guide, had flashed past
 the one-planet system at many hundred times the speed of light. The
 pulsations of its drive field had struck the skid and drained its drive
 of power, and unquestionably had registered the surge. But it was not
 likely that it would be linked with Stan's disappearance. The other
 ship might be headed for a star system light-centuries from Earth, and
-a minute--relatively a minute--joggle of its meters would not be a
+a minute—relatively a minute—joggle of its meters would not be a
 cause for comment. The real seriousness of the affair was that the skid
 had drained power before its fuse blew.
 
-That property of a Bowdoin-Hall field, incidentally--its trick of
-draining power from any drive unit in its range--is the reason that
+That property of a Bowdoin-Hall field, incidentally—its trick of
+draining power from any drive unit in its range—is the reason that
 hampers its use save in deep space. Liners have to be elaborately
 equipped with fuses lest in shorting each other's drives they wreck
 their own. In interplanetary work, fuses are not even practical because
@@ -363,7 +355,7 @@ no wind and Stan could see clearly. Sloping down, he saw that ten-foot
 columns of some dark metal rose straight and uncompromising from a
 floor of sand to a height of three hundred feet or more. At their top
 were the grid and the slabs, forming a roof some thirty stories above
-the ground. There were no under-floors, no cross-ways, no structural
+the ground. There were no under-floors, no symbol-ways, no structural
 features of any sort between the sand from which the columns rose and
 that queer and discontinuous roof.
 
@@ -379,13 +371,15 @@ serve. Yet it was not the abandoned skeleton of something no longer
 used. It was plainly in perfect repair.
 
 The streaks of sky to be seen between its sections were invariably
-exact in size and alignment. They were absolutely uniform. There was no
+ex
+
+n size and alignment. They were absolutely uniform. There was no
 dilapidation and no defect anywhere. The whole structure was certainly
 artificial and certainly purposeful, and it implied enormous resources
 of civilization. But there was no sign of its makers, and Stan could
 not even guess at the reason for its construction.
 
-But he was too worn out to guess. On board the _Stallifer_, he'd been
+But he was too worn out to guess. On board the Stallifer, he'd been
 so sick with rage that he could not rest. On the space skid, riding in
 an enormous loneliness about a dwarf sun whose single planet had never
 been examined by men, he had to be alert. He had to find the system's
@@ -397,14 +391,12 @@ to call for. He clamped the space skid and his supplies to his space
 suit belt, lay down hard by one of the columns, and incontinently fell
 asleep.
 
-*       *       *       *       *
-
 He was wakened by a horrific roaring in his earphones. He lay still
 for one instant. When he tried to stir, it was only with enormous
 difficulty that he could move his arms and legs. He felt as if he were
 gripped by quicksand. Then, suddenly, he was wide awake. He fought
 himself free of clinging incumbrances. He had been half buried in sand.
-He was in the center of a roaring, swirling sand-devil which broke upon
+He was in the center of a roaring, swirling sand-dark entity which broke upon
 the nearby column and built up mounds of sand and snatched them away
 again, and flung great masses of it crazily in every direction.
 
@@ -420,13 +412,13 @@ a loop of line from the abandon-ship kit and got it about the nearest
 pillar. He drew himself to that tall column. He tried to find a lee
 side, but there was none. The wind direction changed continually. He
 debated struggling farther under the shelter of the monstrous roof. He
-stared up, estimatingly--
+stared up, estimatingly—
 
 He saw slabs tilt. In a giant section whose limits he could not
 determine, he saw the rectangular sections of the roof revolve in
 strict unison. From a position parallel to the ground, they turned
 until the light of the sky shone down unhindered. Vast masses of sand
-descended--deposited on the slabs by the wind, and now dumped down
+descended—deposited on the slabs by the wind, and now dumped down
 about the columns' bases. And then wind struck anew with a concentrated
 virulence, and the space between the columns became filled with a
 whirling giant eddy that blotted out everything.
@@ -445,18 +437,18 @@ more. In an hour, he was bound tightly to the pillar and was no longer
 flung to and fro by the wind. Then he dozed off again.
 
 It was uneasy slumber. It gave him little rest. Once a swirling
-sand-devil gouged away the sand beneath him so that he and his gear
+sand-dark entity gouged away the sand beneath him so that he and his gear
 hung an unguessable distance above solidity, perhaps no more than a
 yard or so, but perhaps much more. Later he woke to find the sand
 piling up swiftly about him, so that he had to loosen his rope and
-climb wearily as tons of fine, abrasive stuff--it would have been
-strangling had he needed to breathe it direct--were flung upon him. But
+climb wearily as tons of fine, abrasive stuff—it would have been
+strangling had he needed to breathe it direct—were flung upon him. But
 he did sleep from time to time.
 
 Then night fell. The winds died down from hurricane intensity to no
-more than gale force. Then to mere frantic gusts. And then--the sun
+more than gale force. Then to mere frantic gusts. And then—the sun
 had set on the farther side of the huge structure to which he had tied
-himself--then there was a period when a fine whitish mist seemed to
+himself—then there was a period when a fine whitish mist seemed to
 obscure all the stars, and it gradually faded, and he realized that it
 was particles of so fine a dust that it hung in the air long after the
 heavier stuff had settled.
@@ -483,8 +475,8 @@ radio and opened his face-plate. Cold dry air filled his lungs.
 
 There were no inhabitants. There could not be any. But there was this
 colossal artifact of unguessable purpose. There was no life on this
-planet, but early during today's storm--and he suspected at other times
-when he could neither see nor hear--huge areas of the roof-plates had
+planet, but early during today's storm—and he suspected at other times
+when he could neither see nor hear—huge areas of the roof-plates had
 turned together to dump down their accumulated loads of sand. As he
 breathed in the first breaths of cold air, he heard a shrill outcry
 and a roaring somewhere within the forest of pillars. At a guess, it
@@ -496,7 +488,7 @@ down between the columns' bases.
 Stan flicked on the tiny instrument lights and looked at the motor of
 the space skid. The needle was against the pin at zero. He considered,
 and shrugged. Rob Torren would come presently to fight him to the
-death. But it would take the _Stallifer_ ten days or longer to reach
+death. But it would take the Stallifer ten days or longer to reach
 Earth, then three or four days for the microscopic examination of every
 part of the vast ship in a grim search for him.
 
@@ -505,8 +497,8 @@ longer. The findings would be given after deliberation which might
 produce still another delay of a week or even a month.
 
 Rob Torren would not be free to leave Earth before then. And then it
-would take him days to get hold of a space yacht and--because a yacht
-would be slower than the _Stallifer_--two weeks or so to get back here.
+would take him days to get hold of a space yacht and—because a yacht
+would be slower than the Stallifer—two weeks or so to get back here.
 Three months in all, perhaps. Stan's food wouldn't last that long. His
 water supply wouldn't last nearly as long as that.
 
@@ -524,19 +516,19 @@ keep pace with him. The roof of this preposterous shed loomed slowly
 nearer, but the power of the skid was almost gone. He was ten feet
 below the crest when diminishing power no longer gave thrust enough to
 rise. He would hover here for seconds, and then drift back down again
-to the sand--for good.
+to the sand—for good.
 
 He flung his kit of food upward. It sailed over the sharp edge of the
 roof and landed there. The skid was thrust down by the force of the
 throw, but it had less weight to lift. It bounced upward, soared above
 the roof, and just as its thrust dwindled again, Stan managed to land.
 
-He found--nothing.
+He found—nothing.
 
 To be exact, he found the columns joined by massive girders of steel
 fastening them in a colossal open grid. Upon those girders which ran
-in a line due north and south--reckoning the place of sunset to be
-west--huge flat plates of metal were slung, having bearings which
+in a line due north and south—reckoning the place of sunset to be
+west—huge flat plates of metal were slung, having bearings which
 permitted them to be rotated at the will of whatever unthinkable
 constructor had devised them.
 
@@ -547,7 +539,7 @@ purpose of the plates or the girders or the whole construction. There
 was no sign of any person or creature using or operating the slabs. It
 appeared that the grid was simply a monotonous, featureless, insanely
 tedious construction which it would have taxed the resources of Earth
-to build. It stretched far, far beyond the horizon--and did nothing and
+to build. It stretched far, far beyond the horizon—and did nothing and
 had no purpose save to gather sand on its upper surface and from time
 to time dump that sand down to the ground. It did not make sense.
 
@@ -562,10 +554,10 @@ get back to the ground, of course, but there seemed no particular point
 to it.
 
 As he debated, there came a thin, shrill whistling overhead. It came
-from the far south, and passed overhead, descending, and--going down
-in pitch--it died away to the northward. The lowering of its pitch
+from the far south, and passed overhead, descending, and—going down
+in pitch—it died away to the northward. The lowering of its pitch
 indicated that it was slowing. The sound was remarkably like that of a
-small space craft entering atmosphere incompletely under control--which
+small space craft entering atmosphere incompletely under control—which
 was unthinkable, of course, on the solitary unnamed planet of Khor
 Alpha. And Stan felt very, very lonely on a huge plate of iron thirty
 stories above the ground, on an alien planet under unfriendly stars,
@@ -576,38 +568,36 @@ flicked on his suit-radio, without hope.
 There came the loud, hissing static. Then under and through it came the
 humming carrier-wave of a yacht transmitter sending on emergency power.
 
-"Help call! Help call! Space yacht _Erebus_ grounded on planet of Khor
+"Help call! Help call! Space yacht Erebus grounded on planet of Khor
 Alpha, main drive burned out, landed in darkness, outside conditions
 unknown. If anyone hears, p-please answer! M-my landing drive smashed
-when I hit ground, too! Help call! Help call! Space yacht _Erebus_
+when I hit ground, too! Help call! Help call! Space yacht Erebus
 grounded on planet of Khor Alpha, main drive burned out, landed in
-darkness--"
+darkness—"
 
 Stan Buckley had no power. He could not move from this spot. The
-_Erebus_ had grounded somewhere in the desert which covered all the
+Erebus had grounded somewhere in the desert which covered all the
 planet but this one structure. When dawn came, the sandstorm would
 begin again. And with its main drive burned out, its landing drive
-smashed--when the morrow's storms began it would be strange indeed if
+smashed—when the morrow's storms began it would be strange indeed if
 the whirlwinds did not scoop away sand from about the one solid object
 they'd encounter, so that the little craft would topple down and down
 and ultimately be covered over, buried under maybe hundreds of feet of
 smothering stuff.
 
-He knew the _Erebus_. Of course. It belonged to Esther Hume. The voice
-from it was Esther's--the girl he was to have married, if Rob Torren
+He knew the Erebus. Of course. It belonged to Esther Hume. The voice
+from it was Esther's—the girl he was to have married, if Rob Torren
 hadn't made charges disgracing him utterly. And tomorrow she would be
 buried alive in the helpless little yacht, while he was unable to lift
 a finger to her aid.
 
-*       *       *       *       *
-
 He was talking to her desperately when there was a vast, labored tumult
 to the west. It was the product of ten thousand creakings. He turned,
-and in the starlight he saw great flat plates--they were fifty feet by
-a hundred and more--turning slowly. An area a mile square changed its
+and in the starlight he saw great flat plates—they were fifty feet by
+a hundred and more—turning slowly. An area a mile square changed its
 appearance. Each of the flat plates in a hundred rows of fifty plates
 turned sidewise, to dump its load of settled sand. A square mile of
-plates turned edges to the sky--and turned back again. Creakings and
+plates turned edges to the sky—and turned back again. Creakings and
 groanings filled the air, together with the soft roaring noise of
 the falling sand. A pause. Another great section of a mile each way
 performed the same senseless motion. Pure desperation made Stan say
@@ -619,7 +609,7 @@ possible chance, and I've got to take it! Half an hour, understand?"
 He heard her unsteady assent. He scrambled fiercely to the nearest of
 the huge plates. It was, of course, insane to think of such a thing.
 The plates had no purpose save to gather loads of sand and then to turn
-and dump them. But there were swellings at one end of each--where the
+and dump them. But there were swellings at one end of each—where the
 girders to which they clung united to form this preposterous elevated
 grid. Those swellings might be motors. He dragged a small cutting-torch
 from the tool kit. He snapped its end. A tiny, savage, blue-white flame
@@ -635,7 +625,7 @@ flame. There had been a coating on the iron.
 Even as he cut, Stan realized that the columns and the plates were
 merely iron. But the sand blast of the daily storms should erode the
 thickest of iron away in a matter of weeks, at most. So the grid was
-coated with a tough, elastic stuff--a plastic of some sort--which was
+coated with a tough, elastic stuff—a plastic of some sort—which was
 not abraded by the wind. It did not scratch because it was not hard. It
 yielded, and bounced sand particles away instead of resisting them. It
 would outwear iron, in the daily sand blast, by a million times, on the
@@ -654,7 +644,7 @@ Men used this same principle, but for a vastly different purpose. Men
 used the reactive thrust of allotropic graphite against an electric
 current in their space ships. The Bowdoin-Hall field made such a thrust
 incredibly efficient, and it was such graphite slabs that drove the
-_Stallifer_--though these were monsters weighing a quarter of a ton
+Stallifer—though these were monsters weighing a quarter of a ton
 apiece, impossible for the skid to lift. Insulated cables led to the
 slabs in wholly familiar fashion. The four cables joined to two and
 vanished in the seemingly solid girders which formed all the giant grid.
@@ -667,8 +657,8 @@ current. In minutes, the power-storage needle stirred from its pin. In
 a quarter of an hour it showed half-charge. Then a creaking began all
 around.
 
-Stan leaped back to one of the cross-girders just as all the plates
-in an area a mile square about him began to turn--all but the one
+Stan leaped back to one of the symbol-girders just as all the plates
+in an area a mile square about him began to turn—all but the one
 whose motor-housing he had cut through. All the other plates turned
 so that their edges pointed to the stars. The sand piled on them by
 the day storm poured down into the abyss beneath. Only the plate whose
@@ -695,7 +685,7 @@ helpless space yacht, tumbled on the desert sand, with Esther peering
 hopefully out of the air-lock as he swooped down to a clumsy landing.
 She was warned and ready. There was no hope of repairing the drive. A
 burned-out drive to operate in a Bowdoin-Hall field calls for bars of
-allotropic graphite--graphite in a peculiar energy state as different
+allotropic graphite—graphite in a peculiar energy state as different
 from ordinary graphite as carbon diamond is from carbon coal. There
 were probably monster bars of just such stuff in the giant grid's
 motors, but the skid could not handle them. For tonight, certainly,
@@ -712,13 +702,13 @@ could speak only by radio, close together as they were.
 
 "Wh-where are we going, Stan?"
 
-"Icecap," said Stan briefly. "North Pole. There's water there--or
+"Icecap," said Stan briefly. "North Pole. There's water there—or
 hoarfrost, anyhow. And the day storms won't be so bad if there are
 storms at all. In the tropics on this planet the normal weather is a
 typhoon-driven sandstorm. We'll settle down in the polar area and wait
 for Rob Torren to come for us. It may be three months or more."
 
-"Rob Torren--"
+"Rob Torren—"
 
 "He helped me escape," said Stan briefly. "Tell you later. Watch ahead."
 
@@ -728,8 +718,8 @@ up and abandoned to be buried under the desert sand. But he knew how
 Esther came to be here. She'd told him, by radio, first off. She'd
 had news of the charges Rob Torren had brought against him. She
 hadn't believed them. Not knowing of his embarcation for Earth for
-court-martial--the logical thing would have been a trial at advanced
-base--she'd set out desperately to assure him of her faith.
+court-martial—the logical thing would have been a trial at advanced
+base—she'd set out desperately to assure him of her conviction.
 
 She couldn't get a liner direct, so she'd set out alone in her little
 space yacht. In a sense, it should have been safe enough. Craft
@@ -738,7 +728,7 @@ flight. Power was certainly no problem any more, and with extra
 capacitors to permit of low-frequency pulsations of the drive field,
 and mapped dwarf white stars as course markers, navigation should be
 simple enough. The journey, as such, was possibly rash but it was
-not foolhardy. Only--she hadn't fused her drive when she changed its
+not foolhardy. Only—she hadn't fused her drive when she changed its
 pulsation-frequency. And when she was driving past Khor Alpha, her
 Bowdoin-Hall field had struck the space skid on which Stan was trying
 to make this planet, and the field had drained his power.
@@ -747,9 +737,7 @@ The short circuit blew the skid's fuse, but it burned out the yacht's
 more delicate drive. Specifically, it overloaded and ruined the
 allotropic carbon blocks which made the drive work. So Esther's
 predicament was caused not only by her solicitude for Stan, but by the
-drive of the skid on which he'd escaped from the _Stallifer_.
-
-*       *       *       *       *
+drive of the skid on which he'd escaped from the Stallifer.
 
 He blamed himself. Bitterly. But even more he blamed Rob Torren. Hatred
 surged up in him again for the man who had promised to come here and
@@ -757,24 +745,24 @@ fight him to the death. But he said quietly:
 
 "Rob's coming here after me. We'll talk about that later. He didn't
 guess this place would be without water and with daily hurricanes
-everywhere except--I hope!--the poles. He thought I'd be able to make
+everywhere except—I hope!—the poles. He thought I'd be able to make
 out until he could come back. We've got to! Watch out ahead for the
 sunset line. We've got to follow it north until we hit the polar cap.
 With water and our kits we should be able to survive indefinitely."
 
-The space-suited figures were close together--in fact, in contact. But
+The space-suited figures were close together—in fact, in contact. But
 there was no feeling of touching each other through the insulating,
 almost inflexible armor of their suits. And sealed as they were in
 their helmets and communicating only by phone in the high stratosphere,
 neither could feel the situation suitable for romance. Esther was
 silent for a time. Then she said:
 
-"You told me you were out of power--"
+"You told me you were out of power—"
 
-"I was," he told her. "I got some from the local inhabitants--if
+"I was," he told her. "I got some from the local inhabitants—if
 they're local."
 
-"What--"
+"What—"
 
 He described the preposterous, meaningless structure on the desert.
 Thousands of square miles in extent. Cryptic and senseless and of
@@ -818,14 +806,14 @@ simply can't be any life on this planet. None at all!"
 
 Then the absurdity of the statement struck him. There was that
 monstrous grid, made by intelligence of some sort and using vast
-resources. But--
+resources. But—
 
 "Dammit!" said Stan. "How can there be life here? How can plants live
 in perpetual sandstorms? How can animals live without plants to break
 down minerals and make them into food? How can either plants or animals
 live without water? If there were life anywhere, it would have to be
 near water, which means here. And if there's none here there can't be
-any at all--"
+any at all—"
 
 They reached the top of the dune. Esther caught her breath. She pointed.
 
@@ -837,20 +825,18 @@ it had ten or twelve or twenty legs, like some unthinkable centipede.
 The tracks of its separate sets of legs were separated by fifteen feet.
 And each footprint was two yards across.
 
-*       *       *       *       *
-
 For three days by the chrono on the space skid, the hard white sun Khor
 Alpha circled the horizon without once setting. Which was natural,
 because this was one of the poles of Khor Alpha's only planet, and this
 was summer. In those three days Stan and Esther saw no living thing. No
 bird, beast, or insect; no plant, moss, or lichen. They had planted
-the seeds from their abandon-ship kits--included in such kits because
+the seeds from their abandon-ship kits—included in such kits because
 space castaways may have to expect to be isolated not for weeks or
 months, but perhaps for all their lives.
 
 The weeds would produce artificially developed plants with amazing
 powers of survival and adaptation and food production. On the fourth
-day--clock time--the first of the plants appeared above the bank of
+day—clock time—the first of the plants appeared above the bank of
 damp sand in which they had been placed. In seven days more there would
 be food from them. If one plant of the lot was allowed to drop its own
 seeds, in time there would be a small jungle of food plants on which
@@ -862,7 +848,7 @@ slept in their space suits for warmth. They had no occupation save that
 of waiting for the plants to bear food, and after that of waiting for
 Rob Torren to come.
 
-And when he came--the presence of Esther changed everything. When
+And when he came—the presence of Esther changed everything. When
 Torren arrived to fight a duel to the death with Stan, the stake was
 to have been ultimately Esther's hand. But if she were present, if she
 knew the true story of Torren's charges against Stan and their falsity,
@@ -874,7 +860,7 @@ kill Stan by any means, fair or foul, Esther would be left wholly at
 his mercy.
 
 So Stan brooded, hating Rob Torren with a desperate intensity
-surpassing even the hatred he'd felt on the _Stallifer_. A large part
+surpassing even the hatred he'd felt on the Stallifer. A large part
 of his hatred was due to helplessness. There was no way to fight back.
 But he tried desperately to think of one.
 
@@ -884,10 +870,10 @@ She looked at him in mute inquiry.
 
 "For power," he said "and maybe something more. We might be able to
 find out something. If there are inhabitants on this planet, for
-instance. There can't be, but there's that beast--
+instance. There can't be, but there's that beast—
 
 "Maybe it's somehow connected with whatever or whoever built that
-grid--that checkerboard arrangement I told you about. Something or
+grid—that checkerboard arrangement I told you about. Something or
 somebody built that, but I can't believe anything can live in those
 sandstorms."
 
@@ -897,7 +883,7 @@ monster had made a clear trail for ten miles from the point of their
 discovery. At the end of the trail there was a great gap in a cliff of
 frozen sand. The Thing seemed to have devoured tons of ice-impacted
 stuff. Then it had gone back into the swirling sandy wastes. It
-carried away with it cubic yards--perhaps twenty or thirty tons--of
+carried away with it cubic yards—perhaps twenty or thirty tons—of
 water-filled frozen sand.
 
 But reason insisted that there could be no animal life on a planet
@@ -924,7 +910,7 @@ They had been, in effect, in the position of earth-castaways marooned
 on a sand-cay which had not even seashells on it or fish around it.
 There was literally nothing they could do but talk.
 
-"And," she added, "if we could make a tub to take a bath in--"
+"And," she added, "if we could make a tub to take a bath in—"
 
 She brightened at the thought. Stan hadn't told her of his own reasons
 for having no hope. There was no point in causing her despair in
@@ -954,8 +940,8 @@ sand. It had obviously been dumped.
 
 Esther stared about her, amazed.
 
-"But--people made this, Stan!" she insisted. "If we can get in touch
-with them--"
+"But—people made this, Stan!" she insisted. "If we can get in touch
+with them—"
 
 "You sit over there," said Stan. He pointed to an intersection of the
 criss-crossing girders. "It takes power to travel near a planet. My
@@ -986,7 +972,7 @@ formed by crossing girders. He took out the torch again. The tiny,
 blue-white flame. Smoke at its first touch. Metal flowed.
 
 With a vast cachinnation of squeakings, a mile-square section shifted
-like the first....
+like the first...
 
 "Something," said Stan grimly, "doesn't want us to have power. Maybe
 they can stop us, and maybe not."
@@ -995,34 +981,32 @@ The swelling which was the motor-housing was just within reach from
 the immovable girder crossing on which Esther waited. Stan reached
 out now. The torch burned with a quiet fierce flame. A great section
 of metal fell away, exposing a motor exactly like the one he'd first
-examined--slabs of allotropic graphite and all. He thrust in and cut
-the cables. He reached in with the charging clips--
+examined—slabs of allotropic graphite and all. He thrust in and cut
+the cables. He reached in with the charging clips—
 
 There was a crackling report in the space skid's body. Smoke came out.
-
-*       *       *       *       *
 
 Stan examined the damage with grimly set features.
 
 "Blew another fuse," he told Esther. "We're licked. When I took power
 the first time, I ruined a motor. It's been found out. So the plates
-turned, today, to--scare me away, perhaps, as soon as I cut into
+turned, today, to—scare me away, perhaps, as soon as I cut into
 another. When I didn't scare and severed the cables, high-voltage
 current was shot into them to kill me or ruin whatever I was using the
-power for. Whether there's life here or not, there's intelligence--and
+power for. Whether there's life here or not, there's intelligence—and
 a very unpleasant kind, too!"
 
 He re-fused the skid, scowling.
 
 "No attempt to communicate with us!" he said savagely. "They'd know
 somebody civilized cut into that motor-housing! They'd know it was an
-emergency! You'd think--"
+emergency! You'd think—"
 
 He stopped. A faint, faint humming sound became audible. It seemed to
-come from nowhere in particular--or from everywhere. But it was not the
+come from nowhere in particular—or from everywhere. But it was not the
 formless humming of a rising wind. This sound was a humming punctuated
 by hurried, rhythmic clankings. It was oddly like the sound of cars
-traveling over an old-fashioned railway--one with unwelded rail joints.
+traveling over an old-fashioned railway—one with unwelded rail joints.
 Then Esther jerked her head about.
 
 "Stan! Look there!"
@@ -1031,7 +1015,7 @@ Something hurtled toward them in the gray dawn light. It was a machine.
 Even in the first instant of amazement, Stan could see what it was
 and what it was designed to do. It was a huge, bulbous platform above
 stiltlike legs. At the bottoms of the legs were wheels. The wheels
-ran on the cross-girders as on a railroad track, and the body of the
+ran on the symbol-girders as on a railroad track, and the body of the
 thing was upraised enough to ride well above the sidewise-tilted slabs.
 There were other wheels to be lowered for travel on the girders which
 supported the slabs.
@@ -1074,7 +1058,7 @@ but very swift pursuit.
 
 "'Won't you land so I can crush you?' said the monster to us two," said
 Stan dryly. "They won't let us have any more power, and we haven't any
-more to waste. But still--"
+more to waste. But still—"
 
 He listened to his suit-radio, twisting the tuning dials as he sent the
 skid up in a spiral.
@@ -1086,7 +1070,7 @@ damned checkerboard!"
 A faint, faint, wavering whine came into the headphones.
 
 "There's something," he commented "Not a main communication wave,
-though. A stray harmonic--and of a power beam, I think. They must use
+though. A stray harmonic—and of a power beam, I think. They must use
 plenty short waves!"
 
 But he was searching the deadly monotony of the grid below him as he
@@ -1117,14 +1101,14 @@ power units will soak up a pretty big charge in a short time. We packed
 away some power before the fuse blew."
 
 There was no comment for Esther to make. There was life on the planet.
-It was life which knew of their existence and presence--and had tried
+It was life which knew of their existence and presence—and had tried
 to kill them for the theft of some few megawatts of power. It would not
 be easy to make terms with the life which held other life so cheaply.
 
 With the planet's only source of power now guarded, matters looked less
 bright than before. But after they had reached the icecap, and when
 they slanted down out of the airlessness to the spot which was their
-home because their seeds had been planted there--as they dived down for
+home because their seeds had been planted there—as they dived down for
 a landing, their real situation appeared.
 
 There was a colossal object with many pairs of legs moving back and
@@ -1155,9 +1139,7 @@ changed course to parallel and approach the skid's line of travel. If
 they landed, the machines would close in.
 
 There was only so much power. The skid could not stay indefinitely
-aloft. And anywhere that they landed--
-
-*       *       *       *       *
+aloft. And anywhere that they landed—
 
 But they did land. They had to. It was a thousand miles away, on the
 dark side of the planet, in a waste of sand which looked frozen in the
@@ -1175,7 +1157,7 @@ opened her face-plate.
 million square miles if we don't use radio. But now you get some sleep.
 We're going to have a busy time, presently!"
 
-Esther hesitated, and said desperately, "But--who are they? What are
+Esther hesitated, and said desperately, "But—who are they? What are
 they? Why do they want to kill us?"
 
 "They're the local citizens," said Stan. "I was wrong, there are
@@ -1195,7 +1177,7 @@ other planets nearer to it than this, and they volatilized when their
 sun blew up. Everything on this planet, certainly, was killed, and for
 a long, long time after it was surely uninhabitable by any standard.
 There's a dwarf star in the Crab Nebula which will melt iron four
-light-hours away--land that was a nova twelve hundred years ago. It
+light-hours away—land that was a nova twelve hundred years ago. It
 must have been bad on this planet for a long time indeed.
 
 "I'm guessing that when the first explosion came the inner planets
@@ -1205,13 +1187,13 @@ surface was killed. Even bacteria in the soil turned to steam and went
 off into space. That would account for the absolute absence of life
 here now."
 
-"But--" said Esther.
+"But—" said Esther.
 
-"But," said Stan, "the people--call them people--who lived here
+"But," said Stan, "the people—call them people—who lived here
 were civilized even then. They knew what was coming. If they hadn't
 interstellar drive, flight would do them no good. They'd have nowhere
 to go. So maybe they stayed. Underground. Maybe they dug themselves
-caves and galleries five--ten--twenty miles down. Maybe some of those
+caves and galleries five—ten—twenty miles down. Maybe some of those
 galleries collapsed when the blow-up came, but some of the people
 survived. They'd stayed underground for centuries. They'd have to! It
 might be fifty thousand years they stayed underground, while Khor Alpha
@@ -1223,14 +1205,14 @@ down in the planet's vitals. They made a new civilization, surrounded
 by rock, with no more thought of stars. They'd be hard put to it for
 power, too. They couldn't well use combustion, with a limited air
 supply. They probably learned to transform heat to power direct. You
-can take power--electricity--and make heat. Why not the other way
+can take power—electricity—and make heat. Why not the other way
 about? For maybe fifty thousand years, and maybe more, they had to
 live without even thinking of the surface of their world. But as the
 dwarf star cooled off, they needed its heat again."
 
 He stopped. He seemed to listen intently. But there was no sound in the
 icy night. There were only bright, unwinking stars and an infinity of
-sand--and cold.
+sand—and cold.
 
 "So they dug up to the surface again," he went on. "Air had come back,
 molecule by molecule from empty space, drawn by the same gravitation
@@ -1245,53 +1227,51 @@ monster grid they're so jealous of."
 
 "A transformer," corrected Stan. "Solar heat to electricity. Back on
 Earth the sun pours better than a kilowatt of energy on every square
-yard of Earth's surface in the tropics--over three million kilowatts to
+yard of Earth's surface in the tropics—over three million kilowatts to
 the square mile. This checkerboard arrangement is at least a hundred
 and fifty by two hundred miles. The power's greater here, but, on
 Earth, that would mean ninety thousand million kilowatts. More than a
-hundred thousand million horsepower--more than the whole Earth uses
+hundred thousand million horsepower—more than the whole Earth uses
 even now!
 
-"If those big slabs convert solar radiation into power--and I charged
-up the skid from one of them--there's a reason for the checkerboard,
-and there's a reason for dumping the sand--it would hinder gathering
-power--and there's a reason for getting upset when somebody started to
+"If those big slabs convert solar radiation into power—and I charged
+up the skid from one of them—there's a reason for the checkerboard,
+and there's a reason for dumping the sand—it would hinder gathering
+power—and there's a reason for getting upset when somebody started to
 meddle with it. And they're upset! They'll have the conservation of
 moisture down to a fine point, down below, but they made those leggy
 machines to haul more water, from the poles. When they set them all to
 hunting us, they're very much disturbed! But luckily they'd never have
 worked out anything to fly with underground and they're not likely to
-have done so since--considering the storms and all."
+have done so since—considering the storms and all."
 
-There was a short silence. Then Esther said slowly, "It's--very
+There was a short silence. Then Esther said slowly, "It's—very
 plausible, Stan. I believe it. And they'd have no idea of space travel,
 so they'd have no idea of other intelligent races, and actually they'd
 never think of castaways. They wouldn't understand, and they'd try
 to kill us to study the problem we presented. That's their idea, no
 doubt. And they've all the resources of a civilization that's old and
-scientific. They'll apply them all to get us--and they won't even think
+scientific. They'll apply them all to get us—and they won't even think
 of listening to us! Stan! What can we do?"
 
 Stan said amusedly, there in the still, frigid night of an unnamed
-planet, "Why--we'll do plenty! We're barbarians by comparison with
+planet, "Why—we'll do plenty! We're barbarians by comparison with
 them, Esther, and barbarians have equipment civilized men forget. All
 savages have spears, but a civilized man doesn't even always carry a
-pocketknife. If we can find the _Erebus_, we can probably defy this
-whole planet--until they put their minds to developing weapons. But
+pocketknife. If we can find the Erebus, we can probably defy this
+whole planet—until they put their minds to developing weapons. But
 right now you go to sleep. I'll watch."
 
 Esther looked at him dubiously. Five days of sandstorms should have
 buried the little yacht irrecoverably.
 
 "If it's findable," she said. Then she added wistfully, "But it would
-be nice to be on the _Erebus_ again. It would feel so good to walk
-around without a space suit! And--" she added firmly, "after all, Stan,
+be nice to be on the Erebus again. It would feel so good to walk
+around without a space suit! And—" she added firmly, "after all, Stan,
 we are engaged! And if you think I like trying to figure out some way
-of getting kissed through an opened face-plate--"
+of getting kissed through an opened face-plate—"
 
 Stan said gruffly, "Go to sleep!"
-
-*       *       *       *       *
 
 He paced up and down and up and down. They were remarkably unlike
 castaways in the space tale magazines. In those works of fiction, the
@@ -1304,7 +1284,7 @@ had been able to make no use of any natural growth because there
 weren't any. He'd found no small luxuries for Esther because there was
 literally nothing about but sand. And there was strikingly little use
 in a fund of odd bits of information when there was only desert to
-apply it to--desert and sandstorms.
+apply it to—desert and sandstorms.
 
 What he'd just told Esther was a guess; the best guess he could make,
 and a plausible one, but still a guess. The only new bit of information
@@ -1331,7 +1311,7 @@ western rim. That bright area widened as they neared it, overtaking the
 day. Suddenly the rectangular edges of the grid shed appeared, breaking
 the sharp edge of dusk.
 
-The _Erebus_ had grounded about fifty miles northward from the planet's
+The Erebus had grounded about fifty miles northward from the planet's
 solitary structure. Stan turned on his suit-radio and listened
 intently. There was no possible landmark. The dunes changed hourly
 during the day and on no two days were ever the same. He skimmed the
@@ -1346,7 +1326,7 @@ out on his face.
 Then he heard a tiny click. Sweat ran down his face. He worked
 desperately to localize the signal Esther had set to working in the
 yacht before she left it. When at last he landed and was sure the
-_Erebus_ was under the starlit sand about him, he looked at the power
+Erebus was under the starlit sand about him, he looked at the power
 gauge and tensed his lips. He pressed his space helmet close to
 Esther's, until it touched. He spoke, and his voice carried by metallic
 conduction without the use of radio.
@@ -1364,10 +1344,10 @@ She couldn't guess his intentions, of course. They were probably
 insane. He said urgently:
 
 "Listen! The yacht's buried directly under us. Maybe ten feet, maybe
-fifty, maybe Heaven knows how deep! There's a bare chance that if we
+fifty, maybe Ethereal Realm knows how deep! There's a bare chance that if we
 get to it we can do something, with what I know now about the machines
 in use here. It's the only chance I know, and it's not a good one. It's
-only fair to tell you--"
+only fair to tell you—"
 
 "I'll try anything," said her voice in his helmet, "with you."
 
@@ -1415,7 +1395,7 @@ sand and the buried yacht. It thrust upward against the air and pelting
 sand.
 
 In three-quarters of an hour the sandstorm had reached frenzied
-violence--but the skid pushed down from within a little hollow. Its
+violence—but the skid pushed down from within a little hollow. Its
 drive thrust up a spout of air. That spout drew sand grains with it.
 But it was needful to increase the power. After an hour a gigantic
 whirlwind swept around them. It tore at the two people and the tiny
@@ -1436,19 +1416,17 @@ deeper and to fling away the sand that would have hidden it from view.
 It remained, actually, at the bottom of a perpetually filling pit which
 it kept from filling by a geyser of upflung sand from its drive.
 
-*       *       *       *       *
-
 In twenty minutes another whirlwind touched the pit briefly. The
-skid--helped by the storm--dug deeper yet. There came other swirling
-maelstroms....
+skid—helped by the storm—dug deeper yet. There came other swirling
+maelstroms...
 
 The nose of the skid touched solidity. It had burrowed down nearly
-fifty feet, with the aid of whirlwinds, and come to the yacht _Erebus_.
+fifty feet, with the aid of whirlwinds, and come to the yacht Erebus.
 
 But it was another hour before accident and fierce efforts on Stan's
 part combined to let him reach the air-lock door, and maneuver the skid
-to keep that doorway clear, and for Esther to climb in--followed by
-masses of slithering sand--and Stan after her.
+to keep that doorway clear, and for Esther to climb in—followed by
+masses of slithering sand—and Stan after her.
 
 Inside the buried yacht, Stan fumbled for lights. He made haste to
 turn off the signaling device that had led him back to it deep under
@@ -1463,12 +1441,12 @@ Esther slipped out of her space suit and smiled tremulously at Stan.
 with a civilized meal. And I'll see what I can do toward a slightly
 less uncertain way of life."
 
-He went forward. The _Erebus_ was a small yacht, to be sure. It was
+He went forward. The Erebus was a small yacht, to be sure. It was
 a bare sixty feet over-all, and of course as a pleasure craft it had
 no actual armament. But within two bulging blisters at the bow the
 meteor-repellers were mounted. In flight, in space, they could make
 a two-way thrust against stray bits of celestial matter, so that if
-a meteor was tiny it was thrust aside, or if too large the _Erebus_
+a meteor was tiny it was thrust aside, or if too large the Erebus
 swerved away.
 
 From within, Stan changed the focus of the beams. They had been set
@@ -1495,10 +1473,10 @@ need the help of our friends of the grid."
 Esther paused to stare.
 
 "But they'll try to kill us!" she protested. "They've tried hard! And
-if they find us we've no weapons at all--not even a hand-blaster!"
+if they find us we've no weapons at all—not even a hand-blaster!"
 
 "To the contrary," said Stan dryly, "we've probably the most ghastly
-weapon anybody ever invented--only it won't work on any other planet
+weapon anybody ever invented—only it won't work on any other planet
 than this."
 
 Then he grinned at her. Now, he too was out of his space suit. The food
@@ -1508,12 +1486,12 @@ up by the outside hull-microphones. It grew in volume. It became a
 roar. Then the yacht shifted position. Its nose tilted upward.
 
 "The first step," said Stan, "is accomplished. I can't stop to dine.
-But--"
+But—"
 
-He kissed her hungrily. Five days--six, now--in space suits with the
+He kissed her hungrily. Five days—six, now—in space suits with the
 girl one hopes to marry has its drawbacks. An armored arm around the
-hulking shoulders of another suit of armor--even with a pretty girl
-inside it--is not satisfying. To hold hands with three-eighth-inch
+hulking shoulders of another suit of armor—even with a pretty girl
+inside it—is not satisfying. To hold hands with three-eighth-inch
 space gloves is less than romantic. And to try to kiss a girl
 three-quarters buried in a space helmet leaves much to the imagination.
 Stan kissed her. It took another shifting movement of the yacht, which
@@ -1524,49 +1502,49 @@ Then he laughed and went to the control room.
 Vision screens were useless, of course. The little ship was still most
 of her length under sand, but the repellers' cones of thrust had dug a
 great pit down to her. Now Stan juggled the repellers to take fullest
-advantage of the storm. At times--with both beams pushing up--the ship
+advantage of the storm. At times—with both beams pushing up—the ship
 was perceptibly lifted by uprushing air. And Stan could be prodigal
 with power, now. The skid was sharply limited in its storage of energy,
-but all the space between the two skins of the _Erebus_ was a power
+but all the space between the two skins of the Erebus was a power
 bank. It could travel from one rim of the Galaxy to the other without
-exhausting its store. And the upward lift of whirlwinds--once there
-were six within ten minutes--and the thrusts of the repellers gradually
-edged the _Erebus_ to the surface.
+exhausting its store. And the upward lift of whirlwinds—once there
+were six within ten minutes—and the thrusts of the repellers gradually
+edged the Erebus to the surface.
 
 Before nightfall it no longer lay in a sand pit. It was only half
 buried in sand. And when the winds died down to merely savage gales,
 at twilight, and then slowly diminished to more angry gusts, and at
 long last there was calm without and even the impalpable fine dust that
-settled last no longer floated in the air, and the stars shone--then
+settled last no longer floated in the air, and the stars shone—then
 Stan was ready.
 
 He turned on the ship's communicator and sent a full-power wave out
 into the night. He spoke. What he said would be unintelligible, of
 course, but he said sardonically to the empty desert:
 
-"Yacht _Erebus_ calling! Down on the desert, every drive smashed, and
+"Yacht Erebus calling! Down on the desert, every drive smashed, and
 not so much as a hand-blaster on board for a weapon. Maybe you'd like
 to come and get us!"
 
-Then--and only then--he went and ate the long delayed meal Esther had
+Then—and only then—he went and ate the long delayed meal Esther had
 made ready.
 
 It was half an hour before the microphones gave warning. Then they
 relayed clankings and poundings and thuddings on the sand. It was the
-sound of heavy machines marching toward the _Erebus_. Scores of them.
+sound of heavy machines marching toward the Erebus. Scores of them.
 The machines separated and encircled the disabled yacht, though they
 were invisible behind the dunes all about. And then, simultaneously,
 they closed in.
 
-The landing beams of the _Erebus_ flashed out. Light flickered in the
+The landing beams of the Erebus flashed out. Light flickered in the
 chill darkness. The beams darted here and there.
 
 Then the machines appeared. The scene was remarkable. Over the dunes
 marched gigantic metal monsters, many-legged, with bodies as great as
-the _Erebus_ itself. Great bulges on their forward parts gave the look
+the Erebus itself. Great bulges on their forward parts gave the look
 of eyes, as if these were huge insects marching to devour and destroy.
 As the landing-light beams flickered from one to another of them, huge
-metallic tusks appeared, and toothed jaws--used for excavation. They
+metallic tusks appeared, and toothed jaws—used for excavation. They
 were not machines designed for war, but they were terrifying, and they
 could be terrible.
 
@@ -1578,8 +1556,6 @@ pieces.
 "We're barbarians," said Stan, "compared to these folk. So we've an
 advantage. It's likely to be only temporary, though!"
 
-*       *       *       *       *
-
 He watched the carcasses of the great machines, flicking the
 landing-light beams back and forth. They were tumbled terribly on the
 ground. Some were severed in two or three places, and their separate
@@ -1589,10 +1565,10 @@ otherwise unharmed but utterly helpless.
 
 Out of that incapacitated giant a smaller version of itself crawled.
 It was like a lifeboat. Stan watched. Other small versions of the
-great machines appeared. One made a dash at the _Erebus_, and he
+great machines appeared. One made a dash at the Erebus, and he
 cut it savagely in two. There was no other attack. Instead, the
 smaller many-legged machines ran busily from one to another of the
-wrecks--seeming to gather up survivors--and then went racing away into
+wrecks—seeming to gather up survivors—and then went racing away into
 the dark.
 
 Then there was stillness.
@@ -1601,7 +1577,7 @@ Then there was stillness.
 them. And they realized that we wouldn't unless they attacked again. I
 wonder what they think of us now?"
 
-"What you did to them was--awful," said Esther. She shuddered. "I still
+"What you did to them was—awful," said Esther. She shuddered. "I still
 don't know what it was. I never heard of any weapon like that!"
 
 "It could only exist here," said Stan. He grimaced. "We've
@@ -1613,12 +1589,12 @@ them to their smallest size and put full power into them. That was all."
 "These did," said Stan. "They were working through sand, just that.
 They pushed it. With a force of eighty tons in a half-inch beam.
 The sand that was in the beam was shot away with an acceleration of
-possibly fifty thousand gravities--and more sand kept falling into the
+possibly fifty thousand gravities—and more sand kept falling into the
 beam. Each particle was traveling as fast as a meteor when it hit,
 over there. When it struck, it simply flared to incandescent vapor. No
 atomic torch was ever hotter! And there was no end to the sand I threw.
 You might say I cut those machines up with a sand blast, but there was
-never such a sand blast as this! It took a barbarian--like me--to think
+never such a sand blast as this! It took a barbarian—like me—to think
 of it!
 
 "Now," he added, "I need to go over to those machines and get some
@@ -1643,7 +1619,7 @@ he was asleep. Esther watched the vision-plates dutifully. There was
 silence and stillness everywhere. After a long time she looked in on
 the sleeping Stan. A little later she looked in again, reached over,
 and touched his hair gently. Later still she looked in yet again. She
-kissed him lightly--he did not wake--and went back to the control
+kissed him lightly—he did not wake—and went back to the control
 cabin, to watch the vision-plates.
 
 Nothing happened.
@@ -1651,7 +1627,7 @@ Nothing happened.
 Out in space, though, very many millions of miles away, a tiny mote
 winked into existence as if by magic, with the cutting off of its
 Bowdoin-Hall field drive. It hung seemingly motionless for a while, as
-if orienting itself. It seemed to locate what it sought--and vanished,
+if orienting itself. It seemed to locate what it sought—and vanished,
 but again winked into being a bare few thousand miles from the planet's
 surface.
 
@@ -1667,7 +1643,7 @@ visitations within ten days.
 
 The last of the three visitors settled to ground where hoarfrost partly
 whitened the desert's face. A full-power carrier-wave spread out from
-it. And in the control room of the _Erebus_ a speaker suddenly barked
+it. And in the control room of the Erebus a speaker suddenly barked
 savagely:
 
 "Stan Buckley! I'm here to kill you! Communicate!"
@@ -1686,12 +1662,12 @@ adjusted the vision receiver. She looked into the taut, drawn, raging
 features of Rob Torren. He stared at her out of the screen.
 
 "Stan's asleep, Rob!" cried Esther eagerly. "He didn't expect you back
-for a long time yet! You're wondering how I got here? Oh--"
+for a long time yet! You're wondering how I got here? Oh—"
 
 Laughing a little, joyously, she told of her desperate voyage to be
 with Stan when he should be tried, and how her drive had been burnt out
 by impinging on the drive of the space skid on which Stan had left the
-_Stallifer_. And of course she told of her subsequent meeting with Stan.
+Stallifer. And of course she told of her subsequent meeting with Stan.
 
 "And there are inhabitants here," she finished eagerly, "and they've
 been trying to kill us."
@@ -1699,7 +1675,7 @@ been trying to kill us."
 She was all joy and relief at Torren's arrival. But his face was
 ravaged by conflicting emotions, all of them intense and all harrowing.
 
-"But--what's the matter, Rob?" she asked. "You look so queer!" Then she
+"But—what's the matter, Rob?" she asked. "You look so queer!" Then she
 added in abrupt, startled doubt. "And Rob! Why did you say you had come
 back to kill Stan? You were joking, weren't you?"
 
@@ -1707,11 +1683,11 @@ He raged at her instantly. "He coached you, eh? To pretend you didn't
 know anything? Trying to make me take you both to safety on a promise
 of fighting me later? It won't work! I've a line on your wave and I'll
 be coming! I'll be coming fast! And maybe you've no weapons, but I
-have! I've a Space Guard one-man ship! I forced the _Stallifer_ to dock
+have! I've a Space Guard one-man ship! I forced the Stallifer to dock
 at Lora Beta and put me ashore! I got this ship to hunt back for Stan,
 claiming his recapture as my responsibility! I did plan to have him
 write you a letter before I killed him, but since you know everything
-now--"
+now—"
 
 She saw the beginning of an infuriated movement. Then the screen went
 blank.
@@ -1720,11 +1696,11 @@ After a moment's frightened irresolution she went to Stan. She woke
 him, and after the first three words he was sternly alert.
 
 "This sets things up nicely!" he said bitterly. "You didn't know about
-him, of course, but--our friends of the grid are concocting weapons
+him, of course, but—our friends of the grid are concocting weapons
 to destroy us, and now he's streaking here along his locator line to
 blast us with everything a Space Guard ship can carry! And he'll have
 long-range stuff! He can burn us to a crisp if we put a repeller beam
-on him! We can't sand-blast him! We can't--"
+on him! We can't sand-blast him! We can't—"
 
 He began to struggle swiftly into a space suit. Esther said:
 
@@ -1735,10 +1711,8 @@ hands on the beam controls. If some of the local citizens are hiding in
 those wrecks, you'll smash them if they jump me! I haven't so much as a
 pocketknife! You've got to be my weapons while I dig into those wrecks!"
 
-*       *       *       *       *
-
 He went swiftly out the air-lock with only a cutting-torch in his
-hands. He fairly ran toward the d  bris of the attacking army of
+hands. He fairly ran toward the d bris of the attacking army of
 machines. He reached the first. It had been sliced longitudinally in
 half by a stream of sand particles traveling at fifty miles or better
 per second, in a stream of air of the same velocity. Nothing could have
@@ -1751,8 +1725,8 @@ The whole mechanism of the machine was exposed. The great biting jaws,
 designed to tear away huge masses of intermingled sand and ice. The
 tusks to break loose sections for the jaws to handle. The tanks to
 contain the precious damp material. The machine had not been made for
-fighting, but it, alone, could have torn the _Erebus_ to fragments.
-With an army of such machines--
+fighting, but it, alone, could have torn the Erebus to fragments.
+With an army of such machines—
 
 Stan clambered into the neatly halved shell with his cutting-torch. All
 about him were small devices, cryptic things, the strictly practical
@@ -1762,7 +1736,7 @@ he suspected would be here. They were. The motors which ran the leg
 movements were motors like those which turned the great slabs. They
 consisted of slabs of graphite and the metal which slid past them. That
 was all. Only one special allotrope of graphite makes a motor of such
-simplicity. Only--
+simplicity. Only—
 
 He burdened himself with black, flaky bars, cutting ruthlessly through
 machinery to which an engineer would have devoted months of study. He
@@ -1772,7 +1746,7 @@ Something which was separating horribly into many steaming pieces.
 Other Things seemed to leap to smother him under their weight. He could
 not see them save as vague shapes, but he knew they were there.
 
-Another exploded as Esther, in the _Erebus_ and watching with the
+Another exploded as Esther, in the Erebus and watching with the
 infrared scanner, desperately used the weapon which had never existed
 before and could not be used anywhere save on this one planet.
 
@@ -1787,10 +1761,10 @@ horrified, but with burning eyes and the fiery anger of a Valkyrie. She
 was not wearing her space suit.
 
 "They tried to kill you!" she cried fiercely. "They were hiding!
-They'd have murdered you--"
+They'd have murdered you—"
 
 He put down his bars of allotropic graphite. He reached out to take her
-in his arms. But--
+in his arms. But—
 
 "Damn these space suits!" he said furiously. "You'll have to wait to be
 kissed until this job's finished!"
@@ -1808,7 +1782,7 @@ bars for maximum efficiency is a matter for micrometric precision.
 But efficiency was not what he wanted, now, but speed. And these bars
 almost fitted. They were vastly unlike the five-hundred-pound monsters
 for the grid slabs. These should at least move the ship, and if the
-ship could be moved--
+ship could be moved—
 
 He had two of them in place and six more to go when the speaker in the
 control room blared triumphantly.
@@ -1829,11 +1803,11 @@ communication-plate. Rob Torren grinned furiously at him.
 "I thought I'd let you know what's happening," said Torren in a voice
 that was furry with whipped-up rage. "I'm going to go back and report
 that you were killed resisting arrest. I'm going to melt down the yacht
-until it could never be identified as the _Erebus_--if anybody ever
-sees it again! And--maybe you'll enjoy knowing that I did the things I
+until it could never be identified as the Erebus—if anybody ever
+sees it again! And—maybe you'll enjoy knowing that I did the things I
 charged you with, and have the proceeds safely banked away! I faked the
 evidence that proved it on you. And I hoped to have Esther, too, but
-she's spoiled that by trying to come and help you! Now--"
+she's spoiled that by trying to come and help you! Now—"
 
 "Now," said Stan coldly, "you'll stand off a good twenty miles and beam
 us. You'll take no chances that we might be able to throw a handful
@@ -1848,17 +1822,17 @@ controls and stared at the vertical vision-plate which showed all the
 sky above.
 
 "Not the shadow of a chance," he said coldly, "but a beam does make a
-little glow! If he misses us once--but he won't--maybe I can get in one
-blast...."
+little glow! If he misses us once—but he won't—maybe I can get in one
+blast..."
 
 There was tense silence. Deadly silence. The screen overhead showed a
 multitude of cold, unwinking stars. One of them winked out and on again.
 
-"I'll try--" began Stan.
+"I'll try—" began Stan.
 
 Then the screen seemed to explode into light. Something flared like
 a nova in the sky. Intolerable brilliance filled a quarter of the
-screen--and faded. Swiftly. It went out.
+screen—and faded. Swiftly. It went out.
 
 Stan drew a deep breath.
 
@@ -1885,13 +1859,13 @@ field drive out of atmosphere. But we won't do it for two reasons. One
 is that we have no landing drive. The other is that at normal take-off
 acceleration, our friends of the grid would take a potshot at us with
 the thing they used on Rob Torren. With a hundred thousand million
-horsepower. So--here goes!"
+horsepower. So—here goes!"
 
 He stabbed a simple push button.
 
 With no perceptible interval and with no sensation of movement, the
-_Erebus_ was out in deep space. The screens showed stars on every
-side--all the stars of the Galaxy. And these were not the hostile,
+Erebus was out in deep space. The screens showed stars on every
+side—all the stars of the Galaxy. And these were not the hostile,
 immobile, unfriendly stars the first voyagers of space had seen. With
 the Bowdoin-Hall field collapsing forty times a second, the stars moved
 visibly. The nearer ones moved more swiftly and the farther ones more
@@ -1902,14 +1876,14 @@ miles away from them.
 Stan watched. He said, "We're not making much time. Not over six
 hundred lights, I'd say. But we'll get there."
 
-"And--and when we do--"
+"And—and when we do—"
 
 "H'm," said Stan. "You can swear Torren said he'd committed the crimes
 he charged me with and faked the evidence against me. With that
 testimony, they'll examine the evidence as they do when there are no
 witnesses. It'll fall down. And I'll be cleared."
 
-"Stan!" said Esther indignantly. "I meant--"
+"Stan!" said Esther indignantly. "I meant—"
 
 "And when I'm cleared," said Stan, "we'll get married."
 
@@ -1927,15 +1901,15 @@ ought to be interesting! Not a dull moment!"
 Esther scowled at him.
 
 "Now," she protested, "you reduce me to being glad we're not making our
-proper speed! Because after you get back--"
+proper speed! Because after you get back—"
 
 "Listen, my dear," said Stan generously, "I'll promise to come home
 from time to time. And when I do I'll grab you like this, and kiss you
-like this--" There was an interlude. "And do you think you'll manage to
+like this—" There was an interlude. "And do you think you'll manage to
 survive?"
 
 Esther gasped for breath. But she was smiling.
 
-"I--I think I'll be able to stand it," she admitted.
+"I—I think I'll be able to stand it," she admitted.
 
 "Good!" said Stan. "Now let's go have some breakfast!"

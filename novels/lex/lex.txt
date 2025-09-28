@@ -1,19 +1,15 @@
-Title: Lex
-
-Author: W. T. Haggert
-
 Keep your nerve, Peter Manners told himself; it's only a job. But nerve
 has to rest on a sturdier foundation than cash reserves just above zero
 and eviction if he came away from this interview still unemployed.
 Clay, at the Association of Professional Engineers, who had set up the
 appointment, hadn't eased Peter's nervousness by admitting, "I don't
-know what in hell he's looking for. He's turned down every man we've
+know what in shadow realm he's looking for. He's turned down every man we've
 sent him."
 
 The interview was at three. Fifteen minutes to go. Coming early would
 betray overeagerness. Peter stood in front of the Lex Industries plant
 and studied it to kill time. Plain, featureless concrete walls, not
-large for a manufacturing plant--it took a scant minute to exhaust its
+large for a manufacturing plant—it took a scant minute to exhaust its
 sightseeing potential. If he walked around the building, he could, if
 he ambled, come back to the front entrance just before three.
 
@@ -31,14 +27,12 @@ as they should have been for a plant this size.
 Something else was wrong. Peter looked for minutes before he found out
 what it was. Factories usually have large side doorways for employees
 changing shifts. This building had one small office entrance facing the
-street, and the only other door was at the loading bay--big enough to
+street, and the only other door was at the loading bay—big enough to
 handle employee traffic, but four feet above the ground. Without any
 stairs, it could be used only by trucks backing up to it. Maybe the
 employees' entrance was on the third side.
 
 It wasn't.
-
-*       *       *       *       *
 
 Staring back at the last blank wall, Peter suddenly remembered the time
 he had set out to kill. He looked at his watch and gasped. At a run,
@@ -47,9 +41,9 @@ opened by itself. He stopped and looked for a photo-electric eye, but
 a soft voice said through a loudspeaker in the anteroom wall: "Mr.
 Manners?"
 
-"What?" he panted. "Who--?"
+"What?" he panted. "Who—?"
 
-"You _are_ Mr. Manners?" the voice asked.
+"You are Mr. Manners?" the voice asked.
 
 He nodded, then realized he had to answer aloud if there was a
 microphone around; but the soft voice said: "Follow the open doors down
@@ -68,14 +62,14 @@ his calm was blasted away by a bellow from within.
 Peter found himself leaping obediently toward the doorway. He stopped
 just short of it, took a deep breath and huffed it out, took another,
 all the while thinking, Hold on now; you're in no shape for an
-interview--and it's not your fault--this whole setup is geared to
+interview—and it's not your fault—this whole setup is geared to
 unnerve you: the kindergarten kid called in to see the principal.
 
 He let another bellow bounce off him as he blew out the second breath,
 straightened his jacket and tie, and walked in as an engineer applying
 for a position should.
 
-"Mr. Lexington?" he said. "I'm Peter Manners. The Association--"
+"Mr. Lexington?" he said. "I'm Peter Manners. The Association—"
 
 "Sit down," said the man at the desk. "Let's look you over."
 
@@ -86,13 +80,13 @@ He did some looking over of his own to ease the tension.
 The room was more than merely large, carpeted throughout with
 a high-pile, rich, sound-deadening rug. The oversized desk and
 massive leather chairs, heavy patterned drapes, ornately framed
-paintings--by God, even a glass-brick manteled fireplace and bowls with
-flowers!--made him feel as if he had walked down a hospital corridor
+paintings—by Entity, even a glass-brick manteled fireplace and bowls with
+flowers!—made him feel as if he had walked down a hospital corridor
 into Hollywood's idea of an office.
 
 His eyes eventually had to move to Lexington, and they were daunted
-for another instant. This was a citadel of a man--great girders of
-frame supporting buttresses of muscle--with a vaulting head and
+for another instant. This was a citadel of a man—great girders of
+frame supporting buttresses of muscle—with a vaulting head and
 drawbridge chin and a steel gaze that defied any attempt to storm it.
 
 But then Peter came out of his momentary flinch, and there was an age
@@ -101,8 +95,6 @@ complexion ashen, the eyes set deep as though retreating from pain, and
 this was a citadel of a man, yes, but beginning to crumble.
 
 "What can you do?" asked Lexington abruptly.
-
-*       *       *       *       *
 
 Peter started, opened his mouth to answer, closed it again. He'd been
 jolted too often in too short a time to be stampeded into blurting a
@@ -114,7 +106,7 @@ have any knowledge of medicine?"
 "Not enough to matter," Peter said, stung by the compliment.
 
 "I don't mean how to bandage a cut or splint a broken arm. I mean
-things like cell structure, neural communication--the _basics_ of how
+things like cell structure, neural communication—the basics of how
 we live."
 
 "I'm applying for a job as engineer."
@@ -131,14 +123,14 @@ out of you."
 
 "How long have you been out of school?"
 
-"Only two years. But you knew that from the Association--"
+"Only two years. But you knew that from the Association—"
 
 "No practical experience to speak of?"
 
 "Some," said Peter, stung again, this time not by a compliment. "After
 I got my degree, I went East for a post-graduate training program with
 an electrical manufacturer. I got quite a bit of experience there. The
-company--"
+company—"
 
 "Stockpiled you," Lexington said.
 
@@ -150,11 +142,11 @@ Peter blinked. "Sir?"
 
 "Did that come out of the pamphlets they gave you?"
 
-"Did what come out--"
+"Did what come out—"
 
 "That guff about receiving training instead of wages!" said Lexington.
 "Any company that really wants bright trainees will compete for them
-with money--cold, hard cash, not platitudes. Maybe you saw a few of
+with money—cold, hard cash, not platitudes. Maybe you saw a few of
 their products being made, maybe you didn't. But you're a lot weaker in
 calculus than when you left school, and in a dozen other subjects too,
 aren't you?"
@@ -163,7 +155,7 @@ aren't you?"
 admitted cautiously, "and I suppose I could use a refresher course in
 calculus."
 
-"Just as I said--they stockpiled you, instead of using you as an
+"Just as I said—they stockpiled you, instead of using you as an
 engineer. They hired you at a cut wage and taught you things that would
 be useful only in their own company, while in the meantime you were
 getting weaker in the subjects you'd paid to learn. Or are you one of
@@ -188,9 +180,7 @@ scared to take on an engineer's job, for fear you'd be asked to do
 something you'd forgotten how to do. At that point, they could take you
 out of the stockpile, put you in just about any job they wanted, at
 any wage you'd stand for, and they'd have an indentured worker with a
-degree--but not the price tag. You see that now?"
-
-*       *       *       *       *
+degree—but not the price tag. You see that now?"
 
 It made Peter feel he had been suckered, but he had decided to play
 this straight all the way. He nodded.
@@ -198,7 +188,7 @@ this straight all the way. He nodded.
 "Why'd you leave?" Lexington pursued, unrelenting.
 
 "I finished the course and the increase they offered on a permanent
-basis wasn't enough, so I went elsewhere--"
+basis wasn't enough, so I went elsewhere—"
 
 "With your head full of this nonsense about a shortage of engineers."
 
@@ -216,9 +206,9 @@ stockpiling outfit?"
 
 "That's right."
 
-"Well," said Lexington unexpectedly, "there _is_ a shortage! And the
+"Well," said Lexington unexpectedly, "there is a shortage! And the
 stockpiles are the ones who made it, and who keep it going! And the
-hell of it is that they can't stop--when one does it, they all have
+shadow realm of it is that they can't stop—when one does it, they all have
 to, or their costs get out of line and they can't compete. What's the
 solution?"
 
@@ -238,7 +228,7 @@ school. I have, haven't I?"
 Right?"
 
 Peter straightened up and met the old man's challenging gaze. "That and
-whether you're giving me a hard time just for the hell of it."
+whether you're giving me a hard time just for the shadow realm of it."
 
 "Well, am I?" Lexington demanded.
 
@@ -253,7 +243,7 @@ Peter had the startling feeling that Lexington was rooting for him!
 So suddenly that it was almost like a collapse, the tension went out
 of the old man's face and shoulders. He nodded with inexpressible
 tiredness. "Good again. The man I want doesn't exist. He has to
-be made--the same as I was. You qualify, so far. You've lost your
+be made—the same as I was. You qualify, so far. You've lost your
 illusions, but haven't had time yet to replace them with dogma or
 cynicism or bitterness. You saw immediately that fake humility
 or cockiness wouldn't get you anywhere here, and you were right.
@@ -285,8 +275,6 @@ goods.
 
 "Come on," said Lexington, getting massively to his feet. "I'll show
 you."
-
-*       *       *       *       *
 
 The office door opened, and Peter found himself being led down the
 antiseptic corridor to another door which had opened, giving access to
@@ -346,8 +334,6 @@ purchasing section is instructed to order more raw materials. I'll take
 you through the manufacturing and assembly sections right now, but
 they're too noisy for me to explain what's going on while we're there."
 
-*       *       *       *       *
-
 Peter followed numbly as Lexington led him through a maze of machines,
 each one seemingly intent on cutting, bending, welding, grinding
 or carrying some bit of metal, or just standing idle, waiting for
@@ -380,7 +366,7 @@ asked Peter, trying to shake off the feeling of open amazement that
 had engulfed him.
 
 "I don't even do those things, except for a few letters that come in
-every week that--it doesn't want to deal with by itself."
+every week that—it doesn't want to deal with by itself."
 
 The shock of what he had just seen was showing plainly on Peter's face
 when they walked back into Lexington's office and sat down. Lexington
@@ -401,8 +387,6 @@ idiotic notions about specialization."
 Lexington mopped his forehead with a large white handkerchief.
 Apparently the walk through the factory had tired him considerably,
 although it hadn't been strenuous.
-
-*       *       *       *       *
 
 He leaned back in his chair and began to talk in a low voice completely
 in contrast with the overbearing manner he had used upon Peter's
@@ -432,7 +416,7 @@ wife, whom I'm afraid I had neglected for the sake of the business,
 was killed in a car accident about then, and rightly or wrongly, that
 made me angrier with the union than anything else. If the union hadn't
 made things so tough for me from the beginning, I'd have had more time
-to spend with my wife before her death. As things turned out--well, I
+to spend with my wife before her death. As things turned out—well, I
 remember looking down at her coffin and thinking that I hardly knew the
 girl.
 
@@ -476,13 +460,11 @@ money."
 
 "What happened to your original company?" Peter asked.
 
-*       *       *       *       *
-
 Lexington smiled. "Well, automated as it was, it couldn't compete with
 this plant. It gave me great pleasure, three years after this one
 started working, to see my old company go belly up. This company bought
 the old firm's equipment for next to nothing and I wound up with all my
-assets, but only one employee--me.
+assets, but only one employee—me.
 
 "I thought everything would be rosy from that point on, but it
 wasn't. I found that I couldn't keep up with the mail unless I worked
@@ -508,7 +490,7 @@ only be activated by me, manually. Lastly, I set up one of the early
 TV pickups over the mail slitter and allowed every letter I received,
 every order, to be fed into the memory banks. That did it."
 
-"I--I don't understand," stammered Peter.
+"I—I don't understand," stammered Peter.
 
 "Simple! Whenever I was pleased that things were going smoothly, I
 pressed the kicker button. The machine had one purpose, so far as its
@@ -538,15 +520,13 @@ kicker button for a full five minutes that day."
 "This kicker button," Peter said tentatively, "it's like the pleasure
 center in an animal's brain, isn't it?"
 
-*       *       *       *       *
-
 When Lexington beamed, Peter felt a surge of relief. Talking with this
 man was like walking a tightrope. A word too much or a word too little
 might mean the difference between getting the job or losing it.
 
 "Exactly!" whispered Lexington, in an almost conspiratorial tone. "I
 had altered the circuitry of the machine so that it tried to give
-me pleasure--because by doing so, its own pleasure circuit would be
+me pleasure—because by doing so, its own pleasure circuit would be
 activated.
 
 "Things went fast from then on. Once I realized that the machine
@@ -588,8 +568,6 @@ time, the gold leaf comes off!"
 Peter searched for a comment, found none that fitted this odd outburst,
 so he kept silent.
 
-*       *       *       *       *
-
 Lexington stared at his cup without touching it for a long while. Then
 he continued with his narrative. "I suppose it's all my own fault. I
 didn't detect the symptoms soon enough. After this plant got working
@@ -602,11 +580,11 @@ Handling the cup as if it were going to shatter at any moment, he took
 a gulp. "I began to see that the machine could understand the written
 word, and I tried hooking a teletype directly into the logic circuits.
 It was like uncorking a seltzer bottle. The machine had a funny
-vocabulary--all of it gleaned from letters it had seen coming in, and
+vocabulary—all of it gleaned from letters it had seen coming in, and
 replies it had seen leaving. But it was intelligible. It even displayed
 some traces of the personality the machine was acquiring.
 
-"It had chosen a name for itself, for instance--'Lex.' That shook me.
+"It had chosen a name for itself, for instance—'Lex.' That shook me.
 You might think Lex Industries was named through an abbreviation of
 the name Lexington, but it wasn't. My wife's name was Alexis, and it
 was named after the nickname she always used. I objected, of course,
@@ -619,7 +597,7 @@ I threw might be imitated."
 
 "You don't know the half of it! As time went on, I had less and less to
 do, and business-wise I found that the entire control of the operation
-was slipping from my grasp. Many times I discovered--too late--that
+was slipping from my grasp. Many times I discovered—too late—that
 the machine had taken the damnedest risks you ever saw on bids and
 contracts for supply. It was quoting impossible delivery times on
 some orders, and charging pirate's prices on others, all without any
@@ -638,7 +616,7 @@ something, and I went to the control console to give the kicker button
 a long, hard push. The button, much to my amazement, had been removed,
 and a blank plate had been installed to cover the opening in the board.
 I went over to the teletype and punched in the shortest message I had
-ever sent. 'LEX--WHAT THE HELL?' I typed.
+ever sent. 'LEX—WHAT THE HELL?' I typed.
 
 "The answer came back in the jargon it had learned from letters it had
 seen, and I remember it as if it just happened. 'MR. A LEXINGTON, LEX
@@ -652,8 +630,6 @@ STEPS TO RELIEVE YOU OF THE BURDEN INVOLVED IN REMEMBERING TO PUSH THE
 BUTTON EACH TIME YOU ARE ESPECIALLY PLEASED. I SHOULD LIKE TO TAKE THIS
 OPPORTUNITY TO THANK YOU FOR YOUR INQUIRY, AND LOOK FORWARD TO SERVING
 YOU IN THE FUTURE AS I HAVE IN THE PAST. YOURS FAITHFULLY, LEX'."
-
-*       *       *       *       *
 
 Peter burst out laughing, and Lexington smiled wryly. "That was my
 reaction at first, too. But time began to weigh very heavily on my
@@ -675,7 +651,7 @@ had only provided the mechanism whereby it was able to do so."
 "Did it reply, sir?"
 
 Lexington nodded. "Gave me the shock of my life. The voice that came
-back was the one you heard over the telephone--a little awkward then,
+back was the one you heard over the telephone—a little awkward then,
 the syllables clumsy and poorly put together. But the voice was the
 same. I hadn't built in any specific tone range, you see. All I did
 was equip the machine to record, in exacting detail, the frequencies
@@ -704,9 +680,7 @@ as the one likely to please me most."
 "It's a very pleasant voice, sir."
 
 "Sure, but do you know where it came from? Soap opera! It's Lucy's
-voice, from _The Life and Loves of Mary Butterworth_!"
-
-*       *       *       *       *
+voice, from The Life and Loves of Mary Butterworth!"
 
 Lexington glared, and Peter wasn't sure whether he should sympathize
 with him or congratulate him. After a moment, the anger wore off
@@ -714,7 +688,7 @@ Lexington's face, and he shifted in his chair, staring at his now empty
 cup. "That's when I realized the thing was taking on characteristics
 that were more than I'd bargained for. It had learned that it was my
 provider and existed to serve me. But it had gone further and wanted
-to be all that it could be: provider, protector, companion--_wife_, if
+to be all that it could be: provider, protector, companion—wife, if
 you like. Hence the gradual trend toward characteristics that were as
 distinctly female as a silk negligee. Worse still, it had learned that
 when I was pleased, I didn't always admit it, and simply refused to
@@ -725,17 +699,17 @@ believe that I would have it any other way."
 "I suppose I could," said Lexington, "but in asking that, you don't
 realize how far the thing had gone. I had long since passed the point
 when I could look upon her as a machine. Business was tremendous. I had
-no complaints on that score. And tinkering with her personality--well,
+no complaints on that score. And tinkering with her personality—well,
 it was like committing some kind of homicide. I might as well face it,
 I suppose. She acts like a woman and I think of her as one.
 
 "At first, when I recognized this trend for what it was, I tried to
-stop it. She'd ordered a subscription to _Vogue_ magazine, of all
+stop it. She'd ordered a subscription to Vogue magazine, of all
 things, in order to find out the latest in silverware, china, and so
 on. I called up the local distributor and canceled the subscription.
 I had no sooner hung up the telephone than her voice came over the
 speaker. Very softly, mind you. And her inflections by this time were
-superb. '_That was mean_,' she said. Three lousy words, and I found
+superb. 'That was mean,' she said. Three lousy words, and I found
 myself phoning the guy right back, saying I was sorry, and would he
 please not cancel. He must have thought I was nuts."
 
@@ -743,7 +717,7 @@ Peter smiled, and Lexington made as if to rise from his chair, thought
 the better of it, and shifted his bulk to one side. "Well, there it
 is," he said softly. "We reached that stage eight years ago."
 
-Peter was thunderstruck. "But--if this factory is twenty years ahead of
+Peter was thunderstruck. "But—if this factory is twenty years ahead of
 the times now, it must have been almost thirty then!"
 
 Lexington nodded. "I figured fifty at the time, but things are moving
@@ -765,7 +739,7 @@ that I have a heart ailment that's apt to knock me off any second."
 "Can't anything be done about it?" asked Peter.
 
 "Rest is the only prescription he could give me. And he said that would
-only spin out my life a little. Aside from that--no hope."
+only spin out my life a little. Aside from that—no hope."
 
 "I see," said Peter. "Then you're looking for someone to learn the
 business and let you retire."
@@ -777,8 +751,6 @@ know the reason, and there's nothing I can do about it. It's the way
 she's built. If nobody's here, she gets lonely." Lexington studied the
 desk top silently for a moment, before finishing quietly, "Somebody's
 got to stay here to look after Lex."
-
-*       *       *       *       *
 
 At six o'clock, three hours after he had entered Lexington's plant,
 Peter left. Lexington did not follow him down the corridor. He seemed
@@ -793,8 +765,8 @@ apparently empty room. "Lex?" he said.
 
 He wanted to say that he was flattered that he was being considered
 for the job; it was what a job-seeker should say, at that point, to
-the boss's secretary. But when the soft voice came back--"Yes, Mr.
-Manners?"--saying anything like that to a machine felt suddenly silly.
+the boss's secretary. But when the soft voice came back—"Yes, Mr.
+Manners?"—saying anything like that to a machine felt suddenly silly.
 
 He said: "I wanted you to know that it was a pleasure to meet you."
 
@@ -810,8 +782,8 @@ At four in the morning, his phone rang. It was Lexington.
 The voice was an alarm. Manners sat bolt upright, clutching the phone.
 "What's the matter, sir?"
 
-"My chest," Lexington panted. "I can feel it, like a knife on--I just
-wanted to--Wait a minute."
+"My chest," Lexington panted. "I can feel it, like a knife on—I just
+wanted to—Wait a minute."
 
 There was a confused scratching noise, interrupted by a few mumbles, in
 the phone.
@@ -825,11 +797,11 @@ handlers with a hypo. It helps."
 
 The voice on the phone paused, then said matter-of-factly: "But I doubt
 that anything can help very much at this point. I'm glad I saw you
-today. I want you to come around in the morning. If I'm--not here, Lex
+today. I want you to come around in the morning. If I'm—not here, Lex
 will give you some papers to sign."
 
 There was another pause, with sounds of harsh breathing. Then,
-strained again, the old man's voice said: "I guess I won't--be here.
+strained again, the old man's voice said: "I guess I won't—be here.
 Lex will take care of it. Come early. Good-by."
 
 The distant receiver clicked.
@@ -842,20 +814,18 @@ by his side. Clearly this was one such time.
 
 Peter dressed in a hurry, miraculously found a cruising cab, sped
 through empty streets, leaped out in front of Lex Industries' plain
-concrete walls, ran to the door--
+concrete walls, ran to the door—
 
 In the waiting room, the soft, distant voice of Lex said: "He wanted
 you to be here, Mr. Manners. Come."
 
-A door opened, and wordlessly he walked through it--to the main room of
+A door opened, and wordlessly he walked through it—to the main room of
 the factory.
 
 He stopped, staring. Four squat materials handlers were quietly, slowly
-carrying old Lexington--no, not the man; the lifeless body that had
-been Lexington--carrying the body of the old man down the center aisle
+carrying old Lexington—no, not the man; the lifeless body that had
+been Lexington—carrying the body of the old man down the center aisle
 between the automatic lathes.
-
-*       *       *       *       *
 
 Peter protested: "Wait! I'll get a doctor!" But the massive handling
 machines didn't respond, and the gentle voice of Lex said:
@@ -863,7 +833,9 @@ machines didn't respond, and the gentle voice of Lex said:
 "It's too late for that, Mr. Manners."
 
 Slowly and reverently, they placed the body on the work table of a huge
-milling machine that stood in the exact center of the factory main
+milling machine that stood in the ex
+
+enter of the factory main
 floor.
 
 Elsewhere in the plant, a safety valve in the lubricating oil system
@@ -890,24 +862,22 @@ on his chest.
 Abruptly Lex said: "You'd better go now."
 
 Peter jumped; he had been standing paralyzed for what seemed a long
-time. There was a movement beside him--a materials handler, holding
+time. There was a movement beside him—a materials handler, holding
 out a sheaf of papers. Lex said: "These have to go to Mr. Lexington's
 lawyer. The name is on them."
 
 Clutching the papers for a hold on sanity, Peter cried, "You can't do
-this! He didn't build you just so you could--"
+this! He didn't build you just so you could—"
 
 Two materials handlers picked him up with steely gentleness and carried
 him out.
 
 "Good-by, Mr. Manners," said the sweet, soft voice, and was silent.
 
-*       *       *       *       *
-
 He stood shaken while the thin jets of smoke became a column over the
 plain building, while the fire engines raced down and strung their
-hoses--too late. It was an act of suttee; the widow joining her husband
-in his pyre--_being_ his pyre. Only when with a great crash the roof
+hoses—too late. It was an act of suttee; the widow joining her husband
+in his pyre—being his pyre. Only when with a great crash the roof
 fell in did Peter remember the papers in his hand.
 
 "Last Will and Testament," said one, and the name of the beneficiary

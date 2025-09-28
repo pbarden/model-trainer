@@ -1,9 +1,3 @@
-Title: Spacerogue
-
-Author: Robert Silverberg
-
-CHAPTER I
-
 They were selling a proteus in the public auctionplace at Borlaam, when
 the stranger wandered by. The stranger's name was Barr Herndon, and he
 was a tall man, with a proud, lonely face. It was not the face he had
@@ -14,7 +8,7 @@ and a number of idling passersby had stopped to watch the auction.
 The auctioneer was an Agozlid, squat and bull-voiced, and he held the
 squirming proteus at arm's length, squeezing it to make it perform.
 
-"Observe, ladies and gentlemen--observe the shapes, the multitude of
+"Observe, ladies and gentlemen—observe the shapes, the multitude of
 strange and exciting forms!"
 
 The proteus now had the shape of an eight-limbed star, blue-green at
@@ -22,7 +16,7 @@ its core, fiery red in each limb. Under the auctioneer's merciless
 prodding it began to change, slowly, as its molecules lost their hold
 on one another and sought a new conformation.
 
-A snake, a tree, a hooded deathworm--
+A snake, a tree, a hooded deathworm—
 
 The Agozlid grinned triumphantly at the crowd, baring fifty inch-long
 yellow teeth. "What am I bid?" he demanded in the guttural Borlaamese
@@ -44,7 +38,7 @@ absolute ruler of the vast world of Borlaam. "Fifty for the proteus."
 "Who'll say seventy-five?" pleaded the Agozlid. "I brought this being
 here at the cost of three lives, slaves worth more than a hundred
 between them. Will you make me take a loss? Surely five thousand
-stellors--"
+stellors—"
 
 "Seventy-five," said a voice.
 
@@ -71,8 +65,8 @@ hundred, did you say?"
 
 "And twenty-five more," a hitherto-silent circus proprietor said.
 
-Herndon scowled. Now that he had entered into the situation, he was--as
-always--fully committed to it. He would not let the others get the
+Herndon scowled. Now that he had entered into the situation, he was—as
+always—fully committed to it. He would not let the others get the
 proteus.
 
 "Four hundred," he said.
@@ -102,8 +96,6 @@ auction stand. The crowd giggled in delight.
 
 "Six-seventy-five," came the voice.
 
-*       *       *       *       *
-
 It had become a two-man contest now, with the others merely hanging
 on for the sport of it, waiting to see which man would weaken first.
 Herndon eyed his opponent: it was the courtier, a swarthy red-bearded
@@ -115,7 +107,7 @@ found a small boy standing nearby, and bent to whisper to him.
 
 "Seven-twenty-five," said the noble.
 
-Herndon whispered, "You see that man down front--the one who just
+Herndon whispered, "You see that man down front—the one who just
 spoke? Run down there and tell him his lady has sent for him, and wants
 him at once."
 
@@ -128,23 +120,23 @@ front of the ring.
 It was considerably more than a proteus might be expected to bring
 at auction, and possibly more than even the wealthy noble cared to
 spend. But Herndon was aware there was no way out for the noble except
-retreat--and he was giving him that avenue.
+retreat—and he was giving him that avenue.
 
-"Nine hundred is bid," the auctioneer said. "Lord Moaris, will you bid
+"Nine hundred is bid," the auctioneer said. "Master Moaris, will you bid
 more?"
 
 "I would," Moaris grunted. "But I am summoned, and must leave." He
 looked blankly angry, but he did not question the boy's message.
 Herndon noted that down for possible future use. It had been a lucky
-guess--but Lord Moaris of the Seigneur's court came running when his
+guess—but Master Moaris of the Seigneur's court came running when his
 lady bid him do so.
 
 "Nine hundred is bid," the auctioneer repeated. "Do I hear more? Nine
-hundred for this fine proteus--who'll make it an even thousand?"
+hundred for this fine proteus—who'll make it an even thousand?"
 
 There was no one. Seconds ticked by, and no voice spoke. Herndon waited
 tensely at the edge of the crowd as the auctioneer chanted, "At nine
-hundred once, at nine hundred for two, at nine hundred ultimate--
+hundred once, at nine hundred for two, at nine hundred ultimate—
 
 "Yours for nine hundred, friend. Come forward with your cash. And I
 urge you all to return in ten minutes, when we'll be offering some
@@ -195,7 +187,7 @@ a nine-digit number inscribed on it. "This is the code key. In case
 you lose your slave, take this to Borlaam Central and they'll trace it
 for you." He took from his pocket a tiny projector and slid it across
 the desk. "And here's your resonator. It's tuned to a mesh network
-installed in the proteus on the submolecular level--it can't change to
+installed in the proteus on the submolecular level—it can't change to
 affect it. You don't like the way the beast behaves, just twitch the
 resonator. It's essential for proper discipline of slaves."
 
@@ -211,8 +203,6 @@ opposite end, where some sort of jewel auction was going on, but as
 Herndon looked around he saw he had a clear path over the cobbled
 square to the quay beyond.
 
-*       *       *       *       *
-
 He walked a few steps away from the auctioneer's booth. The auctioneer
 was getting ready for the next segment of his sale, and Herndon caught
 a glimpse of three frightened-looking naked Villidon girls behind the
@@ -227,7 +217,7 @@ terrified little proteus, halfway through yet another change of shape.
 Nine hundred thirty-five stellors, altogether, for this proteus.
 Herndon scowled bitterly. It was a tremendous sum of money, far
 more than he could easily have afforded to throw away in one
-morning--particularly his first day back on Borlaam after his sojourn
+morning—particularly his first day back on Borlaam after his sojourn
 on the outplanets.
 
 But there had been no help for it. He had allowed himself to be drawn
@@ -290,9 +280,9 @@ gray tunic of shabby appearance. "I saw what you just did."
 said.
 
 "Only a special kind of man would do it, though," said Bollar Benjin.
-"A cruel man--or a foolhardy one. Which are you?"
+"A cruel man—or a foolhardy one. Which are you?"
 
-"Both," Herndon said. "And now, if you'll let me pass--"
+"Both," Herndon said. "And now, if you'll let me pass—"
 
 "Just one moment." The croaking voice suddenly acquired the snap of a
 whip. "Talk to me a moment. If you can spare a thousand stellors to buy
@@ -303,7 +293,7 @@ a slave you kill the next moment, you can spare me a few words."
 "Your services," Benjin said. "I can use a man like you. Are you free
 and unbonded?"
 
-Herndon thought of the thousand stellors--almost half his wealth--that
+Herndon thought of the thousand stellors—almost half his wealth—that
 he had thrown away just now. He thought of the Seigneur Krellig, whom
 he hated and whom he had vowed so implacably to kill. And he thought of
 the wrinkled man before him.
@@ -323,12 +313,10 @@ Herndon nodded. "I'm interested."
 
 "Follow me, then."
 
-CHAPTER II
-
 Herndon had been gone from Borlaam for a year, before this day. A year
-before--the seventeenth of the reign of the Seigneur Krellig--a band of
+before—the seventeenth of the reign of the Seigneur Krellig—a band of
 looters had roared through his home village in Zonnigog, destroying
-and killing. It had been a high score for the Herndon family--his
+and killing. It had been a high score for the Herndon family—his
 father and mother killed in the first sally, his young brother stolen
 as a slave, his sister raped and ultimately put to death.
 
@@ -351,7 +339,7 @@ bidder.
 
 The Meldian surgeons had changed his face, but they had not changed
 his heart. Herndon nurtured the desire for revenge against
-Krellig--Krellig the implacable, Krellig the invincible, who cowered
+Krellig—Krellig the implacable, Krellig the invincible, who cowered
 behind the great stone walls of his fortress for fear of the people's
 hatred.
 
@@ -407,7 +395,9 @@ rich bass voice, "What need does he have of our employ?"
 Herndon smiled grimly. "It pleased me to do so."
 
 One of the leather-jerkined commoners shrugged and said, "These
-spacerogues don't act like normal men. Benjin, I'm not in favor of
+spacerogues don't
+
+ke normal men. Benjin, I'm not in favor of
 hiring him."
 
 "We need him," the withered man retorted. To Herndon he said, "Was your
@@ -420,11 +410,9 @@ a century-long life of endless agony. "It pleased me to kill the
 creature. And it served to draw your attention to me."
 
 Benjin smiled and said, "Good. Let me explain who we are, then. First,
-names: this is Heitman Oversk, younger brother of the Lord Moaris."
+names: this is Heitman Oversk, younger brother of the Master Moaris."
 
-*       *       *       *       *
-
-Herndon stared at the noble. A second son--ah, yes. A familiar pattern.
+Herndon stared at the noble. A second son—ah, yes. A familiar pattern.
 Second sons, propertyless but bearing within themselves the spark of
 nobility, frequently deviated into shadowy paths. "I had the pleasure
 of outbidding your brother this morning," he said.
@@ -437,10 +425,10 @@ nine hundred stellors more in my pocket right now."
 
 "These two," Benjin said, indicating the commoners, "are named Dorgel
 and Razumod. They have full voice in our organization; we know no
-social distinctions. And this--" gesturing to the girl--"is Marya. She
+social distinctions. And this—" gesturing to the girl—"is Marya. She
 belongs to Dorgel, who does not object to making short-term loans."
 
-Herndon said, "_I_ object. But state your business with me, Benjin."
+Herndon said, "I object. But state your business with me, Benjin."
 
 The dried little man said, "Fetch a sample, Razumod."
 
@@ -459,9 +447,9 @@ The jewel was icy-cold. Herndon held it lightly and waited.
 piece, believe me."
 
 Hesitantly Herndon opened his cupped palm and stared at the gem. It was
-broad-faceted, with a luminous inner light, and--he gasped--a face,
+broad-faceted, with a luminous inner light, and—he gasped—a face,
 within the stone. A woman's face, languorous, beckoning, seeming to
-call to him as from the depths of the sea--
+call to him as from the depths of the sea—
 
 Sweat burst out all over him. With an effort he wrenched his gaze from
 the stone and cocked his arm; a moment later he had hurled the gem with
@@ -535,14 +523,12 @@ devices," Herndon protested. "Who is that?"
 "It rotates from month to month. I hold them this month," Benjin said.
 "Next month it is Oversk's turn."
 
-*       *       *       *       *
-
 Herndon paced agitatedly up and down in the darkened room. It was a
 tempting offer; five thousand a month could allow him to live on high
-scales. And Oversk was the brother of Lord Moaris, who was known to be
+scales. And Oversk was the brother of Master Moaris, who was known to be
 the Seigneur's confidante.
 
-And Lord Moaris' lady controlled Lord Moaris. Herndon saw a pattern
+And Master Moaris' lady controlled Master Moaris. Herndon saw a pattern
 taking shape, a pattern that ultimately would put the Seigneur Krellig
 within his reach.
 
@@ -562,7 +548,7 @@ will be."
 Benjin said, "A consignment of starstones has been mined for us on our
 source-world, and is soon to be shipped. We want you to travel to that
 world and accompany the shipment through space to Borlaam. We lose much
-by way of thievery on each shipment--and there is no way of insuring
+by way of thievery on each shipment—and there is no way of insuring
 starstones against loss."
 
 "We know who our thief is," Oversk said. "You would be responsible for
@@ -598,13 +584,11 @@ ready to leave tonight. As soon as the conditions I state have been
 fulfilled to my complete satisfaction, I will submit my body to the
 hands of your surgeon."
 
-CHAPTER III
-
 He bound himself over to the surgeon later that afternoon, after money
 to the amount of ten thousand, nine hundred thirty golden stellors had
 been deposited to his name in the Royal Borlaam Bank in Galaxy Square,
 and after he had seen the neuronic mesh that was embedded in the bodies
-of Benjin, Oversk, Dorgel, and Razumod. Greater assurance of good faith
+of Benjin, Oversk, Dorgel, and Razumod. Greater assurance of good conviction
 than this he could not demand; he would have to risk the rest.
 
 The surgeon's quarters were farther along the Avenue of Bronze, in a
@@ -649,16 +633,14 @@ Vyapore." To the surgeon he said, "How soon can he travel?"
 
 "Good. Herndon, you'll leave tonight."
 
-*       *       *       *       *
-
-The ship was the _Lord Nathiir_, a magnificent super-liner bound on a
+The ship was the Lord Nathiir, a magnificent super-liner bound on a
 thousand light-year cruise to the Rim stars. Benjin had arranged for
 Herndon to travel outward on a luxury liner without cost, as part of
-the entourage of Lord and Lady Moaris. Oversk had obtained the job for
-him--second steward to the noble couple, who were vacationing on the
+the entourage of Master and Lady Moaris. Oversk had obtained the job for
+him—second steward to the noble couple, who were vacationing on the
 Rim pleasure-planet of Molleccogg. Herndon had not objected when he
-learned that he was to travel in the company of Lord--and especially
-Lady--Moaris.
+learned that he was to travel in the company of Master—and especially
+Lady—Moaris.
 
 The ship was the greatest of the Borlaam luxury fleet. Even on Deck C,
 in his steward's quarters, Herndon rated a full-grav room with synthik
@@ -673,15 +655,15 @@ entourage with them, over a hundred people including valets, stewards,
 cooks, and paid sycophants.
 
 Alone in his room during the hour of blastoff, Herndon studied his
-papers. A visa to Vyapore. So _that_ was where the starstones came
-from--! Vyapore, the jungle planet of the Rim, where civilization
+papers. A visa to Vyapore. So that was where the starstones came
+from—! Vyapore, the jungle planet of the Rim, where civilization
 barely had a toehold. No wonder the starstone trade was so difficult to
 control.
 
 When the ship was safely aloft and the stasis generators had caused the
 translation into nullspace, Herndon dressed in the formal black-and-red
-court garments of Lord Moaris' entourage. Then, making his way up the
-broad companionway, he headed for the Grand Ballroom, where Lord Moaris
+court garments of Master Moaris' entourage. Then, making his way up the
+broad companionway, he headed for the Grand Ballroom, where Master Moaris
 and his lady were holding court for the first night of the voyage
 outward.
 
@@ -691,7 +673,7 @@ entered. Borlaamese in uniforms identical to his own stood watch at the
 door, and nodded to him when he identified himself as Second Steward.
 
 He stood for a moment alone at the threshold of the ballroom, watching
-the glittering display. The _Lord Nathiir_ was the playground of the
+the glittering display. The Lord Nathiir was the playground of the
 wealthy, and a goodly number of Borlaam's wealthiest were here, vying
 with the ranking nobles, the Moarises, for splendor.
 
@@ -705,7 +687,7 @@ a dancing-area in which the grav had been turned down; the couples
 drifted gracefully, like figures out of fable, feet touching the ground
 only at intervals.
 
-Herndon recognized Lord Moaris from the auction. A dour, short,
+Herndon recognized Master Moaris from the auction. A dour, short,
 thick-bodied individual he was, resplendent in his court robes, with a
 fierce little beard stained bright red after the current fashion. He
 sat stiffly upright on his throne, gripping the armrests of the carven
@@ -721,7 +703,7 @@ more than twenty-three or twenty-five. Her husband was several decades
 older. It was small wonder that he guarded her so jealously.
 
 She smiled in sweet content at the scene before her. Herndon, too,
-smiled--at her beauty, and at the use to which he hoped to put it. Her
+smiled—at her beauty, and at the use to which he hoped to put it. Her
 skin was soft pink; a wench of the bath Herndon had met belowdecks had
 told him she bathed in the cream of the ying-apple twice daily. Her
 eyes were wide-set and clear, her nose finely made, her lips two red
@@ -739,7 +721,7 @@ Moaris.
 
 He was successful. It took time; but he was by far biggest and most
 conspicuous man of the court assembled there, and it was customary for
-Lord and Lady to leave their thrones, mingle with their courtiers,
+Master and Lady to leave their thrones, mingle with their courtiers,
 even dance with them. Herndon danced with lady after lady, until
 finally he found himself face to face with the Lady Moaris.
 
@@ -749,8 +731,8 @@ Herndon lowered himself in a courtly bow. "I would consider it the
 greatest of honors, good Lady."
 
 They danced. She was easy to hold; he sensed her warmness near him,
-and he saw something in her eyes--a distant pinched look of pain,
-perhaps--that told him all was not well between Lord and Lady.
+and he saw something in her eyes—a distant pinched look of pain,
+perhaps—that told him all was not well between Master and Lady.
 
 She said, "I don't recognize you. What's your name?"
 
@@ -763,20 +745,20 @@ Herndon smiled and gracefully dipped her through a whirling series of
 pirouettes. "To seek fame and fortune, milady. Zonnigog is well and
 good to live in, but the place to become known is the City of Borlaam.
 For this reason I petitioned the Heitman Oversk to have me added to the
-retinue of the Lord Moaris."
+retinue of the Master Moaris."
 
 "You know Oversk, then? Well?"
 
 "Not at all well. I served him a while; then I asked to move on."
 
 "And so you go, climbing up and over your former masters, until you
-scramble up the shoulders of the Lord Moaris to the feet of the
+scramble up the shoulders of the Master Moaris to the feet of the
 Seigneur. Is that the plan?"
 
 She smiled disarmingly, drawing any possible malice from the words she
 had uttered. Herndon nodded, saying in all sincerity, "I confess this
 is my aim. Forgive me, though, for saying that there are reasons that
-might cause me to remain in the service of the Lord Moaris longer than
+might cause me to remain in the service of the Master Moaris longer than
 I had originally intended."
 
 A flush crossed her face. She understood. In a half-whisper she said.
@@ -792,7 +774,7 @@ Thank you for the dance."
 "May I have the pleasure of milady's company once again soon?" Herndon
 asked.
 
-"You may--but not too soon." She chuckled. "The Lord Moaris is highly
+"You may—but not too soon." She chuckled. "The Master Moaris is highly
 possessive. He resents it when I dance twice the same evening with one
 member of the court."
 
@@ -805,8 +787,6 @@ a glow of inner satisfaction. The pieces were dropping into place.
 
 The ladder was being constructed. Soon it would bring him to the
 throneroom of the Seigneur Krellig. Beyond that he would need no plans.
-
-*       *       *       *       *
 
 Viewplate A, on the uppermost deck of the vast liner, was reserved for
 the first-class passengers and the members of their retinues. It was an
@@ -841,7 +821,7 @@ perhaps sent by the Lady Moaris as a test or as a messenger.
 
 Herndon said, "I am he. What do you want?"
 
-"I bring a message from--a noble lady," came the answering whisper.
+"I bring a message from—a noble lady," came the answering whisper.
 
 Smiling in the darkness Herndon said, "What does your mistress have to
 say to me?"
@@ -862,18 +842,18 @@ object in his hand, but merely stored it in his pocket.
 
 He counted out fifteen minutes in his mind, then left the viewing-room
 and emerged on the main deck. The ball was still in progress, but he
-learned from a guard on duty that the Lord and Lady Moaris had already
+learned from a guard on duty that the Master and Lady Moaris had already
 left for sleep, and that the festivities were soon to end.
 
-Herndon slipped into a washroom and examined the key--for key it was.
+Herndon slipped into a washroom and examined the key—for key it was.
 It was a radionic opener, and imprinted on it were the numbers 1160.
 
 His throat felt suddenly dry. The Lady Moaris was inviting him to her
-room for the night--or was this a trap, and would Moaris and his court
+room for the night—or was this a trap, and would Moaris and his court
 be waiting for him, to gun him down and provide themselves with some
 amusement? It was not beyond these nobles to arrange such a thing.
 
-But still--he remembered the clearness of her eyes, and the beauty of
+But still—he remembered the clearness of her eyes, and the beauty of
 her face. He could not believe she would be party to such a scheme.
 
 He waited out the remaining fifteen minutes. Then, moving cautiously
@@ -893,17 +873,17 @@ gauzy dressing-gown. She smiled tensely at him; she seemed ill-at-ease.
 
 "Would I do otherwise?"
 
-"I--wasn't sure. I'm not in the habit of doing things like this."
+"I—wasn't sure. I'm not in the habit of doing things like this."
 
 Herndon repressed a cynical smile. Such innocence was touching, but
 highly improbable. He said nothing, and she went on: "I was caught by
-your face--something harsh and terrible about it struck me. I had to
+your face—something harsh and terrible about it struck me. I had to
 send for you, to know you better."
 
 Ironically Herndon said, "I feel honored. I hadn't expected such an
 invitation."
 
-"You won't--think it's cheap of me, will you?" she said plaintively. It
+"You won't—think it's cheap of me, will you?" she said plaintively. It
 was hardly the thing Herndon expected from the lips of the noble Lady
 Moaris. But, as he stared at her slim body revealed beneath the filmy
 robe, he understood that she might not be so noble after all once the
@@ -916,10 +896,8 @@ He took her hand. "This is the height of my ambitions, milady. Beyond
 this room, where can I go?"
 
 But it was empty flattery he spoke. He darkened the room illumination
-exultantly. _With your conquest, Lady Moaris_, he thought, _do I begin
+exultantly. With your conquest, Lady Moaris, he thought, _do I begin
 the conquest of the Seigneur Krellig!_
-
-CHAPTER IV
 
 The voyage to Molleccogg lasted a week, absolute time aboard ship.
 After their night together, Herndon had occasion to see the Lady
@@ -931,7 +909,7 @@ would see him again in three months' time, when she returned to
 Borlaam; and she had further promised that she would use her influence
 with her husband to have Herndon invited to the court of the Seigneur.
 
-The _Lord Nathiir_ emerged from nullspace without difficulty and was
+The Lord Nathiir emerged from nullspace without difficulty and was
 snared by the landing-field of Molleccogg Spacefield. Through the
 viewing-screen on his own deck, Herndon saw the colorful splendor of
 the pleasure-planet on which they were about to land, growing larger
@@ -939,7 +917,7 @@ now that they were in the final spiral.
 
 But he did not intend to remain long on the world of Molleccogg.
 
-He found the Chief Steward and applied for a leave of absence from Lord
+He found the Chief Steward and applied for a leave of absence from Master
 Moaris' service, without pay.
 
 "But you've just joined us," the Steward protested. "And now you want
@@ -948,11 +926,11 @@ to leave?"
 "Only for a while," Herndon said. "I'll be back on Borlaam before any
 of you are. I have business to attend to on another world in the Rim
 area, and then I promise to return to Borlaam at my own expense to
-rejoin the retinue of the Lord Moaris."
+rejoin the retinue of the Master Moaris."
 
 The Chief Steward grumbled and complained, but he could not find
 anything particularly objectionable in Herndon's intentions, and so
-finally he reluctantly granted the spacerogue permission to leave Lord
+finally he reluctantly granted the spacerogue permission to leave Master
 Moaris' service temporarily. Herndon packed his court costume and clad
 himself in his old spacerogue garb; when the great liner ultimately put
 down in Danzibool Harbor on Molleccogg, Herndon was packed and ready,
@@ -970,10 +948,10 @@ screen.
 
 "You need a visa to get to Vyapore," the clerk said. "These visas are
 issued at infrequent intervals to certified personages. I don't see how
-you--"
+you—"
 
 "I have a visa," Herndon snapped, and produced it. The clerk
-blinked--one-two-three, in sequence--and his pale rose face flushed
+blinked—one-two-three, in sequence—and his pale rose face flushed
 deep cerise.
 
 "So you do," he remarked at length. "It seems to be in order. Passage
@@ -986,9 +964,9 @@ He handed it across. The clerk studied it for a long moment, then said:
 "You have planned this very well. I accept the voucher. Here."
 
 Herndon found himself holding one paid passage to Vyapore aboard the
-freight-ship _Zalasar_.
+freight-ship Zalasar.
 
-The _Zalasar_ turned out to be very little like the _Lord Nathiir_.
+The Zalasar turned out to be very little like the Lord Nathiir.
 It was an old-fashioned unitube ship that rattled when it blasted
 off, shivered when it translated to nullspace, and quivered all
 the week-long journey from Molleccogg to Vyapore. It was indeed a
@@ -1009,8 +987,6 @@ searching for starstones.
 Herndon had been well briefed. He knew who his contact was, and he set
 about meeting him.
 
-*       *       *       *       *
-
 There was only one settled city on Vyapore, and because it was the only
 one it was nameless. Herndon found a room in a cheap boarding-house run
 by a swine-eared Dombruun, and washed the sweat from his face with the
@@ -1026,7 +1002,9 @@ Mardlin. Is he around?"
 Mardlin the Vonnimooro was a small, weaselly-looking creature with the
 protuberant snout, untrustworthy yellow eyes, and pebbly brown-purple
 fur of his people. He looked up when Herndon approached. When he spoke,
-it was in lingua spacia with a whistling, almost obscene inflection.
+it was in lingua spacia with a whistling, almost ob
+
+nflection.
 
 "You looking for me?"
 
@@ -1054,10 +1032,8 @@ do you care? You're getting paid, aren't you?"
 men to do the same job. And I don't like you, Rogue."
 
 "Mutual," Herndon responded heartily. He stood up. "My orders say I'm
-to take the freighter _Dawnlight_ back to Borlaam tomorrow evening.
+to take the freighter Dawnlight back to Borlaam tomorrow evening.
 I'll meet you here one hour before to examine the merchandise."
-
-*       *       *       *       *
 
 He made one other stop that day. It was a visit with Brennt, a
 jewelmonger of Vyapore who served as the funnel between the native
@@ -1083,7 +1059,7 @@ being sent in the current shipment."
 "I don't remember," Brennt said.
 
 Scowling, Herndon said, "You and Mardlin are probably in league. We
-have to take his word for what he brings us--but always, three or four
+have to take his word for what he brings us—but always, three or four
 of the stones are defective. We believe he buys, say, forty stones from
 you, pays the three hundred twenty thousand stellors over to you from
 the account we provide, and then takes three or four from the batch
@@ -1142,12 +1118,12 @@ starstones?"
 "And what happens to the genuine stones that we pay for but that never
 arrive on Borlaam?"
 
-Brennt's eyes rolled despairingly. "Mardlin--Mardlin sells them to
+Brennt's eyes rolled despairingly. "Mardlin—Mardlin sells them to
 someone else and pockets the money. I get five hundred stellors per
 stone for keeping quiet."
 
 "You've kept very quiet today," Herndon said. "Thanks very much for
-the information, Brennt. I really should kill you--but you're much
+the information, Brennt. I really should kill you—but you're much
 too valuable to us for that. We'll let you live, but we're changing
 the terms of our agreement. From now on we pay you only for actual
 functioning starstones, not for an entire consignment. Do you like that
@@ -1162,8 +1138,6 @@ successor, whoever he is."
 
 He turned and walked out of the shop.
 
-*       *       *       *       *
-
 Herndon knew that Brennt would probably notify Mardlin that the game
 was up immediately, so the Vonnimooro could attempt to get away.
 Herndon was not particularly worried about Mardlin escaping, since he
@@ -1177,7 +1151,7 @@ the Vonnimooro to take those with him.
 
 He legged it across town hurriedly to the house where the courier lived
 while at the Vyapore end of his route. It took him fifteen minutes from
-Brennt's to Mardlin's--more than enough time for a warning.
+Brennt's to Mardlin's—more than enough time for a warning.
 
 Mardlin's room was on the second story. Herndon drew his weapon from
 his pocket and knocked.
@@ -1193,9 +1167,9 @@ out of range and glanced down at the object in his hand.
 
 It was the master-control for the neuronic network installed in
 Mardlin's body. It was quite carefully gradated; shifting the main
-switch to _six_ would leave the Vonnimooro in no condition to fire a
+switch to six would leave the Vonnimooro in no condition to fire a
 gun. Thoughtfully Herndon nudged the indicator up through the degrees
-of pain to _six_ and left it there.
+of pain to six and left it there.
 
 He heard a thud within.
 
@@ -1207,7 +1181,7 @@ needler he had dropped.
 A suitcase sat open and half-filled on the bed. He had evidently
 intended an immediate getaway.
 
-"_Shut ... that ... thing ... off_ ..." Mardlin muttered through
+"Shut... that... thing... off..." Mardlin muttered through
 pain-twisted lips.
 
 "First some information," Herndon said cheerfully. "I just had a talk
@@ -1220,7 +1194,7 @@ bringing it to the killing range.
 
 "Is this true?" he repeated.
 
-"Yes--yes! Damn you, shut it off."
+"Yes—yes! Damn you, shut it off."
 
 "At the time you had the network installed in your body, it was with
 the understanding that you'd be loyal to the combine and so it would
@@ -1243,7 +1217,7 @@ there were thirty-nine, as Brennt had said.
 Mardlin looked up from the floor with eyes yellow with pain and hatred.
 "Look through them and see."
 
-Instead of answering, Herndon shifted the control switch past _six_
+Instead of answering, Herndon shifted the control switch past six
 again. Mardlin doubled up, clutching his head with clawlike hands.
 "Yes! Yes! Six defectives!"
 
@@ -1252,7 +1226,7 @@ less the three thousand you kicked back to Brennt to keep quiet. So
 there should be forty-five thousand stellors here that you owe us.
 Where are they?"
 
-"Dresser drawer ... top...."
+"Dresser drawer... top..."
 
 Herndon found the money, neatly stacked. A second time he shut off the
 control device, and Mardlin relaxed.
@@ -1268,7 +1242,7 @@ other money you stole from us. But we can ensure against your doing it
 again."
 
 He fulfilled the final part of Benjin's instructions by turning the
-control switch to _ten_, the limit of sentient endurance. Every
+control switch to ten, the limit of sentient endurance. Every
 molecule of Mardlin's wiry body felt unbearable pain; he screamed and
 danced on the floor, but only for a moment. Nerve cells unable to
 handle the overload of pain stimuli short-circuited. In seconds, his
@@ -1281,9 +1255,7 @@ regarded as his ultimate destiny.
 
 He gathered up jewels and money and walked out.
 
-CHAPTER V
-
-A month later, he arrived on Borlaam via the freighter _Dawnlight_, as
+A month later, he arrived on Borlaam via the freighter Dawnlight, as
 scheduled, and passed through customs without difficulty despite the
 fact that he was concealing more than three hundred thousand stellors'
 worth of proscribed starstones on his person.
@@ -1321,11 +1293,11 @@ But the Lady Moaris would not be back on Borlaam for nearly two months.
 He could make one more round-trip for the combine without seriously
 endangering his position. After that, he would have to find some means
 of leaving their service. Of course, if they preferred to keep him on
-they could compel him, but--
+they could compel him, but—
 
 "When do I make the next trip?" he asked.
 
-Benjin shrugged lazily. "Tomorrow, next week, next month--who knows? We
+Benjin shrugged lazily. "Tomorrow, next week, next month—who knows? We
 have plenty of stones on hand. There is no hurry for the next trip. You
 can take a vacation now, while we sell these."
 
@@ -1344,7 +1316,7 @@ Vyapore."
 Herndon was out of his seat and at the nobleman's throat in an instant.
 His needler grazed the skin of Oversk's adam's-apple.
 
-"If you intend by that comparison to imply--"
+"If you intend by that comparison to imply—"
 
 Benjin tugged at Herndon's arm, "Sit down, rogue, and relax. The
 Heitman is tired tonight, and the words slipped out. We trust you. Put
@@ -1360,8 +1332,6 @@ cheat you. When can I leave?"
 
 "Tomorrow, if you wish," Benjin said. "We'll cable Brennt to have
 another shipment ready for you."
-
-*       *       *       *       *
 
 This time he travelled to Vyapore aboard a transport freighter, since
 there were no free tours with noblemen to be had at this season. He
@@ -1402,7 +1372,7 @@ brought back, storing them with the rest of their stock.
 
 At length Benjin entered. The little man was almost numb with cold,
 but his voice was warm as he said, "The deal is settled, Oversk!
-Oh--Herndon--you're back, I see. Was it a good trip?"
+Oh—Herndon—you're back, I see. Was it a good trip?"
 
 "Excellent," Herndon said.
 
@@ -1417,7 +1387,7 @@ Herndon's ears rose at the mention of his enemy's name. He said,
 "A little deal," Benjin chortled. "I've been doing some very delicate
 negotiating while you were away. And I signed the contract today."
 
-"_What_ contract?" Herndon demanded.
+"What contract?" Herndon demanded.
 
 "We have a royal patron now, it seems. The Seigneur Krellig has gone
 into the starstone business himself. Not in competition with us,
@@ -1429,7 +1399,7 @@ congealed voice he said, "And what are the terms of this agreement?"
 "Simple. Krellig realized the starstone trade, though illegal, was
 unstoppable. Rather than alter the legislation and legalize the trade,
 which would be morally undesirable and which would also tend to lower
-the price of the gems, he asked the Lord Moaris to place him in contact
+the price of the gems, he asked the Master Moaris to place him in contact
 with some group of smugglers who would work for the Crown. Moaris,
 naturally, suggested his brother. Oversk preferred to let me handle the
 negotiations, and for the past month I've been meeting secretly with
@@ -1457,7 +1427,7 @@ Transfer of fealty was a common thing. By the terms of Benjin's
 agreement, Herndon now was a sworn vassal of the Seigneur.
 
 If he killed Krellig, that would violate his bond. If he served the
-Seigneur in all faith, he would break trust with himself and leave home
+Seigneur in all conviction, he would break trust with himself and leave home
 and parents unavenged. It was an impossible dilemma. He quivered with
 the strain of resolving it.
 
@@ -1467,9 +1437,9 @@ the strain of resolving it.
 "I'm all right," Herndon said stonily. "It's the cold outside, that's
 all. Chills a man."
 
-_Fealty to Krellig!_ Behind his back they had sold themselves and him
+Fealty to Krellig! Behind his back they had sold themselves and him
 to the man he hated most. Herndon's ethical code was based entirely on
-the concept of loyalty and unswerving obedience, of the sacred nature
+the concept of loyalty and unswerving obedience, of the mystical nature
 of an oath. But now he found himself bound to two mutually exclusive
 oaths. He was caught between them, racked and drawn apart; the only
 escape from the torment was death.
@@ -1477,8 +1447,6 @@ escape from the torment was death.
 He stood up. "Excuse me," he said. "I have an appointment elsewhere
 in the city. You can reach me at my usual address if you need me for
 anything."
-
-*       *       *       *       *
 
 It took him the better part of a day to get to see the Chief Steward of
 Moaris Keep and explain to him that he had been unavoidably detained
@@ -1490,7 +1458,7 @@ that was Moaris Keep.
 
 Several days passed before he caught as much as a glimpse of the Lady
 Moaris. That did not surprise him; the Keep covered fifteen acres
-of Borlaam City, and Lord and Lady occupied private quarters on the
+of Borlaam City, and Master and Lady occupied private quarters on the
 uppermost level, the rest of the huge place being devoted to libraries,
 ballrooms, art galleries, and other housings, for the Moaris treasures,
 all of these rooms requiring a daily cleaning by the household staff.
@@ -1514,7 +1482,7 @@ to read the expression in her eyes.
 
 Later that day, a blind Agozlid servant came up to him and silently
 handed him a sealed note. Herndon pocketed it, waiting until he was
-alone in a corridor that was safe from the Lord Moaris' spy-rays. He
+alone in a corridor that was safe from the Master Moaris' spy-rays. He
 knew it was safe; the spy-ray in that corridor had been defective, and
 he himself had removed it that morning, meaning to replace it later in
 the day.
@@ -1529,7 +1497,7 @@ was blank. He thrust it in a disposal hatch, smiling.
 He quietly made his way toward the eleventh-level chamber of the Lady
 Moaris when the Keep had darkened for the night. Her lady-in-waiting
 Karla was on duty, the bronze-haired one who had served as go-between
-aboard the _Lord Nathiir_. Now she wore night robes of translucent
+aboard the Lord Nathiir. Now she wore night robes of translucent
 silk; a test of his fidelity, no doubt. Herndon carefully kept his eyes
 from her body and said, "I am expected."
 
@@ -1551,7 +1519,7 @@ eyes. Herndon said, "Is this safe?"
 women. The room is sealed against spy-rays. There's no way he can find
 out you've been here."
 
-"And the girl--Karla? You trust her?"
+"And the girl—Karla? You trust her?"
 
 "As much as I can trust anyone." Her arms sought his shoulders. "My
 rogue," she murmured. "Why did you leave us at Molleccogg?"
@@ -1579,9 +1547,7 @@ court of the Seigneur. You can secure this through your husband. Will
 you do it for me?"
 
 "Of course," she whispered. She clung to him hungrily. "I'll speak to
-Moaris--tomorrow."
-
-CHAPTER VI
+Moaris—tomorrow."
 
 At the end of the week, Herndon visited the Avenue of Bronze and
 learned from Bollar Benjin that sales of the starstones proceeded
@@ -1616,7 +1582,7 @@ invitation was a certainty.
 
 Some days later a message was delivered to him, addressed to Barr
 Herndon of Zonnigog. It was in the hand of the private secretary
-to Moaris, and it said that the Lord Moaris had chosen to exert his
+to Moaris, and it said that the Master Moaris had chosen to exert his
 patronage in favor of Barr Herndon, and that Herndon would be expected
 to pay his respects to the Seigneur Krellig.
 
@@ -1628,7 +1594,7 @@ success, now; he was to be allowed into the presence of the sovereign.
 This was the culmination of all his planning.
 
 He dressed in the court robes that he had purchased weeks before for
-just such an event--robes that had cost him more than a thousand
+just such an event—robes that had cost him more than a thousand
 stellors, sumptuous with inlaid precious gems and rare metals. He
 visited a tonsorial parlor and had an artificial beard affixed, in the
 fashion of many courtiers who disliked growing beards but who desired
@@ -1659,7 +1625,7 @@ of Krellig razed it.
 He dismounted from his carriage and presented his invitation to the
 haughty Seigneurial guards on duty. They admitted him, after checking
 to see that he carried no concealed weapons, and he was conducted to an
-antechamber in which he found the Lord Moaris.
+antechamber in which he found the Master Moaris.
 
 "So you're Herndon," Moaris said speculatively. He squinted and tugged
 at his beard.
@@ -1684,8 +1650,6 @@ A gong sounded.
 
 Together, they went forward to the Grand Chamber of the Seigneur of
 Borlaam.
-
-*       *       *       *       *
 
 Moaris entered first, as befitted his rank, and took his place to the
 left of the monarch, who sat on a raised throne decked with violet and
@@ -1717,7 +1681,7 @@ echoed cracklingly.
 
 "Moaris is to provide us all with some amusement this evening,"
 remarked the monarch. The little man chuckled in anticipatory glee. "We
-are very grateful to your sponsor, the Lord Moaris, for the pleasure he
+are very grateful to your sponsor, the Master Moaris, for the pleasure he
 is to bring us this night."
 
 Herndon frowned. He wondered obscurely whether he was to be the source
@@ -1746,8 +1710,6 @@ Seigneur Krellig smiled benignly; he murmured in a gentle voice,
 "Moaris, the show is yours and the audience awaits. Don't keep us
 waiting."
 
-*       *       *       *       *
-
 Moaris slowly moved toward the center of the ballroom floor. The marble
 under his feet was brightly polished and reflected him; his boots
 thundered as he walked.
@@ -1771,8 +1733,8 @@ Moaris said casually, "My wife has been unfaithful to me. A trusted
 servant informed me of this not long ago: she has cheated me several
 times with no less a personage than an obscure member of our household,
 a groom or a lackey or some other person. When I questioned her,
-she did not deny this accusation. The Seigneur"--Moaris bowed in a
-throneward direction--"has granted me permission to chastise her here,
+she did not deny this accusation. The Seigneur"—Moaris bowed in a
+throneward direction—"has granted me permission to chastise her here,
 to provide me with greater satisfaction and you with a moment of
 amusement."
 
@@ -1783,14 +1745,14 @@ free target.
 
 He lifted the heat-gun.
 
-_Flick!_
+Flick!
 
-A bright tongue of flame licked out--and the girl in the cage uttered a
+A bright tongue of flame licked out—and the girl in the cage uttered a
 little moan as a pencil-thin line was seared across her flanks.
 
-_Flick!_
+Flick!
 
-Again the beam played across her body. _Flick!_ Again. Lines of pain
+Again the beam played across her body. Flick! Again. Lines of pain
 were traced across her breasts, her throat, her knees, her back. She
 revolved helplessly as Moaris amused himself, carving line after line
 along her body with the heat-ray. It was only with an effort that
@@ -1822,8 +1784,6 @@ Herndon's pointing finger and surrounded the girl in the cage.
 
 "Barr!" she screamed, breaking her silence at last, and died.
 
-*       *       *       *       *
-
 Again Herndon discharged the neuronic force, and Moaris, his hands
 singed, dropped his heat-gun.
 
@@ -1840,7 +1800,7 @@ day."
 "Any weapon directed at me will recoil upon its owner. Hold your peace
 and let me finish.
 
-"I am also Barr Herndon, Second Steward to Lord Moaris, and the lover
+"I am also Barr Herndon, Second Steward to Master Moaris, and the lover
 of the woman who died before you. It must comfort you, Moaris, to
 know that the man who cuckolded you was no mere groom, but a noble of
 Zonnigog.
@@ -1848,19 +1808,19 @@ Zonnigog.
 "I am also," Herndon went on, in the dead silence, "Barr Herndon the
 spacerogue, driven to take up a mercenary's trade by the destruction
 of my household. In that capacity I became a smuggler of starstones,
-and"--he bowed--"through an ironic twist, found myself owing a debt of
+and"—he bowed—"through an ironic twist, found myself owing a debt of
 fealty to none other than you, Seigneur.
 
-"I hereby revoke that oath of fealty, Krellig--and for the crime of
+"I hereby revoke that oath of fealty, Krellig—and for the crime of
 breaking an oath to my monarch, I sentence myself to death. But also,
 Krellig, I order a sentence of death upon your head for the wanton
-attack upon my homeland. And you, Moaris--for your cruel and barbaric
+attack upon my homeland. And you, Moaris—for your cruel and barbaric
 treatment of this woman whom you never loved, you must die too.
 
-"And all of you--you onlookers and sycophants, you courtiers and
+"And all of you—you onlookers and sycophants, you courtiers and
 parasites, you too must die. And you, the court clowns, the dancing
 bears and captive life-forms of far worlds, I will kill you too, as
-once I killed a slave proteus--not out of hatred, but simply to spare
+once I killed a slave proteus—not out of hatred, but simply to spare
 you from further torment."
 
 He paused. The hall was terribly silent; then someone to the right of
@@ -1872,7 +1832,7 @@ of life-force. The mechanism within his body recharged itself, drawing
 its power from the hatred within him and discharging through his
 fingertips.
 
-Herndon smiled at Lord Moaris, pale now. He said, "I'll be more
+Herndon smiled at Master Moaris, pale now. He said, "I'll be more
 generous to you than you to your Lady. A quick death for you."
 
 He hurled a bolt of force at the nobleman. Moaris recoiled, but there

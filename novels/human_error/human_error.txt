@@ -1,11 +1,7 @@
-Title: Human Error
-
-Author: Raymond F. Jones
-
 [Sidenote: _The government was spending a billion dollars to convince
-the human race that men ought to be ashamed to be men--instead of
+the human race that men ought to be ashamed to be men—instead of
 errorless, cybernetics machines. But they forgot that an errorless man
-is a dead man...._]
+is a dead man..._]
 
 During its three years' existence, the first Wheel was probably the
 subject of more amateur astronomical observations than any other single
@@ -17,49 +13,49 @@ It was fortunately on the night side of Earth at the time, and in a
 position of bright illumination by the sun. Two of the observers had
 movie cameras attached to their ten-inch mirrors. The film in one of
 these was inadequate, but the other carried a complete record of the
-incident from the moment of the _Griseda's_ first approach, through the
+incident from the moment of the Griseda's first approach, through the
 pilot's fumbling attempt to correct course, and the final collision.
 
 The scene was lost for a few seconds as the wreckage drifted out of the
 field. The observer had been watching through a small pilot scope,
 however, and had wits enough to pan by hand so that he got most of the
 remaining fall that was visible above his horizon as the locked remnants
-of the Wheel and the _Griseda_ began their slow, spiral course to Earth.
+of the Wheel and the Griseda began their slow, spiral course to Earth.
 
 By the time this scene was finished, word of the disaster was already
 flashing to Government centers. Joe McCauley, radio operator aboard the
-Wheel, had been talking with Ed Harris on the _Griseda_. As a matter of
+Wheel, had been talking with Ed Harris on the Griseda. As a matter of
 routine, all their conversation was taped, and some of this was
 recovered from the crash and played back at the investigation.
 
-"--and get this," Ed was saying, "my kid had his fifth birthday just
+"—and get this," Ed was saying, "my kid had his fifth birthday just
 last week, and I've got him working through quadratic equations already.
 You've got to go some to beat that one."
 
 "Doesn't mean a thing," said Joe. "You know how these infant brain boxes
 burn out. Better take him fishing and forget that stuff for a while.
-Hey--what the devil's going on? You got a truck driver in the control
+Hey—what the dark entity's going on? You got a truck driver in the control
 room? I just saw you out the port and it looks like you're right on top
 of us!"
 
 "Jeez, I dunno. It's been like that ever since we cleared Lunaport.
-Sometimes I think this guy Cummins trained in a truck the way he--Hell,
+Sometimes I think this guy Cummins trained in a truck the way he—Shadow Realm,
 he's comin' up on the wrong side of the Wheel! I relayed the orders to
-go to the east turret. Acknowledged them himself--"
+go to the east turret. Acknowledged them himself—"
 
-"Ed! I can see you outside the port--we're going to hit!"
+"Ed! I can see you outside the port—we're going to hit!"
 
 The words were ripped by the shattering, grinding roar of colliding
 metal. Then a moment later the blast of an exploding fuel tank.
 
 "Ed!"
 
-"Joe--yeah, I'm here. Lights gone. Emergency power still on. Take the
-emergency band if you've still got a rig. I'll stand by--"
+"Joe—yeah, I'm here. Lights gone. Emergency power still on. Take the
+emergency band if you've still got a rig. I'll stand by—"
 
 Joe switched over without comment and called Space Command Base on the
 emergency channel, which was always monitored. "Wheel just rammed by
-_Griseda_," he said. "Possible loss of orbital velocity. Extent of
+Griseda," he said. "Possible loss of orbital velocity. Extent of
 damage unknown."
 
 Lieutenant James, on duty at the Base, had just returned from a three
@@ -94,8 +90,6 @@ procedure will be started on command. Man all taxi craft."
 It was all on the tapes that were salvaged. Everything was done that
 desperate men could humanly do.
 
-*       *       *       *       *
-
 At Base, its Commander, General Oglethorpe, was in the communications
 and tracking room by the time Joe McCauley had established contact with
 Captain West.
@@ -107,7 +101,7 @@ He got Joe first, but the radio operator put Captain West on as soon as
 he arrived in the radio room. "Hello, Frank," said General Oglethorpe in
 a quiet voice.
 
-"Yes, Jack--" Captain West answered. "I'm glad you're there. Does it
+"Yes, Jack—" Captain West answered. "I'm glad you're there. Does it
 look pretty bad?"
 
 "Orbital velocity is down two percent. You've been falling for eight
@@ -115,10 +109,10 @@ minutes."
 
 "That's pretty bad. I've got all steering stations manned, but only
 thirty percent of them are still operable. We're using the taxis to give
-a push too. But we haven't been able to dislodge the _Griseda_. Its
+a push too. But we haven't been able to dislodge the Griseda. Its
 inertia takes almost half our available energy."
 
-"Couldn't you get a blast from the _Griseda's_ tubes to put you in
+"Couldn't you get a blast from the Griseda's tubes to put you in
 orbit?"
 
 "Adler's got a crew out there working on it. But his controls are gone,
@@ -133,7 +127,7 @@ desperate tasks General Oglethorpe sat with his eyes on the tracking
 scope, and the voice of his friend in his ear. He listened to Captain
 West's measured commands to the men in the station and to those working
 to free the ship. General Oglethorpe heard the repeated reports of
-failure to free the _Griseda_. He listened to West's orders to transfer
+failure to free the Griseda. He listened to West's orders to transfer
 fuel from the ship to the station as the latter's supply ran low. He
 watched the continued deviation of the spot on the tracking scope.
 
@@ -164,17 +158,17 @@ men who manned the rockets and who knew that with the closing of their
 fuel valves their own lives had also come to an end.
 
 "We'll want testimony account for the investigation," Oglethorpe said
-finally. "Get the responsible officers on the circuit--but you first,
-Frank--"
+finally. "Get the responsible officers on the circuit—but you first,
+Frank—"
 
 There was a moment of silence before Captain Frank West began speaking
 in changed tones. "What is there to say?" he asked, finally. "You won't
-need to hold an investigation. I can tell you all you need to know--all
-you'll ever find out at least,--right now. Your decision will be the
+need to hold an investigation. I can tell you all you need to know—all
+you'll ever find out at least,—right now. Your decision will be the
 same one so many hundreds and thousands of investigating boards have
 made in the past: Pilot Error.
 
-"_Human_ error! That's what killed the first Wheel, and the _Griseda_. I
+"Human error! That's what killed the first Wheel, and the Griseda. I
 don't know why it happened. Adler doesn't. Neither does any other man up
 here with us. Those who were with Cummins in the control room are dead,
 but they didn't know any more than we do.
@@ -197,7 +191,7 @@ side. Then he remembered and tried to correct his position.
 "Everything must have gone wrong then. The decision was a blunder to
 begin with. Wrong approach, yes. But it was suicide to attempt such a
 detailed maneuver that close to the station. He used his side jets and
-slammed the _Griseda_ into the Wheel at a forty-five degree angle,
+slammed the Griseda into the Wheel at a forty-five degree angle,
 locking the ship in the wreckage of the rim and in the girders of the
 spokes."
 
@@ -207,7 +201,7 @@ know if you were aware of anything."
 
 "The answer is no! Cummins was checked out before the start of the
 flight just three days ago. He was all right as far as any of our means
-of evaluation go. As right as any man will ever be--
+of evaluation go. As right as any man will ever be—
 
 "Jack, listen to me. Remember when we were back at White Sands and
 talked of the days when there would be a Wheel up here, and ships taking
@@ -223,12 +217,12 @@ dollars worth of engineering construction. One man's stupid, moronic
 error, and all of this goes to destruction, just as if it had never
 been.
 
-"On the ground, a plane crashes--the board puts it down as pilot error
+"On the ground, a plane crashes—the board puts it down as pilot error
 and planes go on flying. You can't do that out here! The cost is too
 great. It's a sheer gamble putting this mountain of machinery and effort
 into the hands of men we can never be sure of. You think you know them;
 you do everything possible to find out about them. But you just don't
-_know_.
+know.
 
 "We've solved every other technical problem that has stood in our way.
 Why haven't we solved this one? We've learned how to make a machine that
@@ -237,13 +231,11 @@ provide adequate feedback alarms and correctors, and we can find the
 cause of error.
 
 "With a man, we can do nothing. We have to accept him, in the final
-analysis, on little more than faith.
+analysis, on little more than conviction.
 
 "A couple of hundred men are going to die because of a human error. Give
 us a monument! Find out why men make errors. Produce a means of keeping
 them from it. Do that, and our deaths will be a small price to pay!"
-
-*       *       *       *       *
 
 These were the words of a dead man. They were heard again and again in
 the committee rooms and investigation chambers. They were printed and
@@ -256,10 +248,8 @@ the atmosphere to land, finally, in the waters of the Pacific.
 
 The wreckage missed the city of San Francisco without the necessity of
 guidance by the rocket fuel so preciously hoarded by West. The Wheel and
-the _Griseda_ were doomed the moment the pilot, Cummins, decided to
+the Griseda were doomed the moment the pilot, Cummins, decided to
 shift the position of the ship with respect to the station.
-
-*       *       *       *       *
 
 In the anteroom of the Base Commander's office, Dr. Paul Medick rubbed
 the palms of his hands against his trouser legs when the secretary
@@ -270,7 +260,7 @@ The secretary remembered him. She probably had been the one to make out
 his severance papers and knew all about Oglethorpe's firing him.
 
 Now she was no doubt wondering about the General's calling him back
-after that bitter occasion--just as Paul himself was wondering.
+after that bitter occasion—just as Paul himself was wondering.
 
 But he was pretty sure he knew. If he were right it was the opportunity
 of a lifetime, and he couldn't afford to muff it.
@@ -285,19 +275,19 @@ once more he would be no worse off than he now was.
 
 Oglethorpe looked up, a grim trace of a smile at the corners of his
 mouth. He shook hands and indicated a chair by the desk, resuming his
-own seat behind it. "You know why I called you--in spite of our past
+own seat behind it. "You know why I called you—in spite of our past
 differences."
 
-Paul hesitated. He didn't want to show his anxiety--and hopefulness--He
+Paul hesitated. He didn't want to show his anxiety—and hopefulness—He
 weighed the answers that might be expected of him, and said, "It's this
-crash thing--and the appeal of Captain West?"
+crash thing—and the appeal of Captain West?"
 
 "Would there be anything else?"
 
 "I'm flattered that you thought of me."
 
 "There's nothing personal involved, believe me! I'd a thousand times
-rather have called somebody else--anybody else--but there's nobody that
+rather have called somebody else—anybody else—but there's nobody that
 can do the job you can."
 
 "Thanks."
@@ -309,7 +299,7 @@ start I don't want to have to fire you again."
 "Just what is the nature of this project," said Paul, "its goals? Fill
 me in on the details."
 
-"There are no details--beyond what you've read and heard--you're going
+"There are no details—beyond what you've read and heard—you're going
 to provide them. The objective is to find a kind of man that will keep
 the Frank Wests of the future from dying, as those men aboard the Wheel
 did."
@@ -318,7 +308,7 @@ did."
 
 "One who will eliminate, for all time, the damning verdict that has been
 handed down in tens of thousands of investigations of accident and
-disaster: _human error_.
+disaster: human error.
 
 "We're going to find a kind of man who can be depended on to function
 without error. One who can undertake a complicated task of known
@@ -339,7 +329,7 @@ him!"
 "Exactly." General Oglethorpe's face hardened as he returned Paul's
 steady gaze. "No other technical problem has been able to stand before
 such an attack. There is no reason why this one should. And the problem
-_must_ be solved, or we're going to have to abandon space just as we
+must be solved, or we're going to have to abandon space just as we
 stand on the frontier, getting our first real glimpse of it."
 
 "Your world is such a simple, uncomplicated place, General," said Paul
@@ -349,13 +339,13 @@ Coming up!
 "That's the way you operated when I set up your basic personnel program
 five years ago. It didn't work then; it won't work now."
 
-The General's face darkened. "It _will_ work. Because it has to. Men are
-going to the stars--because they have to. And they're going to change
+The General's face darkened. "It will work. Because it has to. Men are
+going to the stars—because they have to. And they're going to change
 themselves to whatever form or shape or ability is required by that
 goal. They've done everything else they've ever set themselves to
-do--life came up out of the sea because it had courage. Men left their
+do—life came up out of the sea because it had courage. Men left their
 caves and struck out across the plains and seas, and took up the whole
-Earth and made it what it is--because they had courage.
+Earth and made it what it is—because they had courage.
 
 "But to go to space, courage is not enough. We need a new kind of man
 that we've never seen before. He's a man of iron, who's forgotten he was
@@ -363,7 +353,7 @@ ever flesh and blood. He's a machine, who can perform over and over the
 same kind of complicated procedure and never make an error. He's more
 reliable and endurable than the best machines we've ever made.
 
-"I don't know where we'll find him, but he can be found, and you _will_
+"I don't know where we'll find him, but he can be found, and you will
 do it, because you believe, as I do, that Man's frontier must not be
 closed. And because, in spite of your cynicism, you still understand the
 meaning of duty to your society and your race. There is no possibility
@@ -372,7 +362,7 @@ official."
 
 "You must also have prepared yourself," said Paul, "to accept me with
 the basic philosophy that must guide me in this matter. And my
-philosophy is that this Project _must_ fail. It has no possibility of
+philosophy is that this Project must fail. It has no possibility of
 success. The man you seek does not exist. An errorless man would be a
 dead man.
 
@@ -389,8 +379,6 @@ three months digging up reasons why the Project can't succeed."
 
 He stood up as if everything had been said that could possibly be said.
 "Let's go and have a look at your laboratory quarters."
-
-*       *       *       *       *
 
 In the hot sunlight of the Southwest desert, they walked across the yard
 from the administration building to a large laboratory which had been
@@ -444,7 +432,7 @@ that the General has briefed me thoroughly on what he considered your
 probable reaction to the Project. I'm just curious enough to want to
 know if he was right."
 
-"The General and I understand each other--I think," said Paul. "He knows
+"The General and I understand each other—I think," said Paul. "He knows
 I'm contemptuous of his approach to a problem of human behavior by
 ordering it solved. But he knows I'll take his money and spend it on the
 biggest, deepest investigation of human behavior via psychometrical
@@ -457,7 +445,7 @@ Paul raised his brows. "If it's that way with you, then why are you
 joining me?" he asked.
 
 "Because I have a stake in this, too! I want to see the problem solved
-just as much as the General does. And I think it _can_ be solved. But
+just as much as the General does. And I think it can be solved. But
 not this way!
 
 "There's only one way to produce men of superior abilities. The method
@@ -471,9 +459,7 @@ Project is simply to implement that view.
 "But let's not have any misunderstanding about my intentions. I expect
 to give honest value in research for every dollar spent. I expect to
 turn up data that will go a long way toward providing better spacemen
-for the Command--and to give Captain West the monument he asked for!"
-
-*       *       *       *       *
+for the Command—and to give Captain West the monument he asked for!"
 
 Alone in his hotel room that night, Paul stood at the window overlooking
 the desert. Beyond the distant hills a faint glow in the sky marked the
@@ -490,7 +476,7 @@ probably never be enough money to reach his goal. And then Oglethorpe
 had come, offering him all the money in the world to reach a nebulous
 objective that Space Command did not know was unobtainable.
 
-_Somebody_ was going to spend that money. With clear conscience, Paul
+Somebody was going to spend that money. With clear conscience, Paul
 rationalized that it might as well be him. He'd see that the country got
 value for what it spent, even if this was not quite what the Space
 Command expected.
@@ -502,7 +488,7 @@ in their approach to human performance. Whip a man into line, make him
 come to heel like a reluctant hound. Beat him, shape him, twist him to
 the form you want him to bear.
 
-_Discipline_ him. That was the magic word, the answer to all things.
+Discipline him. That was the magic word, the answer to all things.
 
 Paul turned from the window in revulsion, drawing the curtains on the
 skyglow of the Base.
@@ -518,7 +504,7 @@ some flimsy validation for the one they had already chosen long ago.
 
 He stood up and glanced at the clock, deciding he wanted dinner, after
 all. Tomorrow he'd wire Betty and the kids to get packed and be on their
-way. No--he'd phone tonight. She had a right to know immediately the
+way. No—he'd phone tonight. She had a right to know immediately the
 outcome of his interview.
 
 The dining room was almost empty. He ordered absently and clipped the
@@ -561,14 +547,14 @@ But the damage was done. The fear remained, and now was congealing in
 angry determination that another Wheel would not be built.
 
 Paul finished his meal, wondering what effect this would have on the
-plans to build a new Wheel--and on Project Superman. Maybe Congress
-would react in anger that would cut off all appropriations to the
+plans to build a new Wheel—and on Project Superman. Maybe Congress
+would re
+
+n anger that would cut off all appropriations to the
 Project.
 
 He wondered, in sudden weariness, if this would not be an unmixed
 blessing, after all.
-
-*       *       *       *       *
 
 The next three days were spent in telephone and telegraph communication
 with members of his profession as he proceeded to recruit a staff.
@@ -602,7 +588,7 @@ machine or as a creature of unstable emotion. To function as one you
 have to suppress the other."
 
 "Splitting Man in two has never produced an answer to anything. It has
-been tried even longer than couches--and with far less result."
+been tried even longer than couches—and with far less result."
 
 "I'll make you a small side bet. We're going to have to work together on
 Superman, and coordinate all our procedures and results. But I'll bet
@@ -610,7 +596,7 @@ the final answer turns up on the side of a completely mechanistic man,
 shorn of all other responses and motivations."
 
 "I'll take that!" Paul said with a grim smile. "I don't know how much of
-an answer we'll find, but I know _that_ won't be it!"
+an answer we'll find, but I know that won't be it!"
 
 "Let's say a small celebration feed for the whole crew when Superman is
 completed. Nothing chintzy, either!"
@@ -618,8 +604,6 @@ completed. Nothing chintzy, either!"
 They shook on it. And afterward Paul was glad the incident had occurred.
 It left no doubt about the direction Nat Holt would be traveling in his
 work.
-
-*       *       *       *       *
 
 Four weeks to the day, from the time Paul had stepped into Oglethorpe's
 office, he called the first meeting of his staff leaders. Invitations to
@@ -687,12 +671,12 @@ conclusions they have already formed concerning the nature of such men.
 
 "We must solve the problem of human error. We know its purpose in the
 learning process. We must discover the reason for its existence in a
-_learned_ process. We have to find out what training actually means.
+learned process. We have to find out what training actually means.
 
 "We have to ask how we know when an error has been made. It is obvious,
 of course, when a spaceship rams a fixed orbit station. But what of the
 subtler situations, where results are less dramatic, or are postponed
-for a long time--?
+for a long time—?
 
 "The primary thing to remember at this point is that our basic goal is
 to prevent any false confirmation of the dogma that Man is no more than
@@ -700,8 +684,6 @@ a badly functioning machine, which will gain value when he has been
 tinkered with sufficiently so that he can slip in beside the gears and
 vacuum tubes and be indistinguishable from them. And to reach this goal
 we must discover his true nature."
-
-*       *       *       *       *
 
 It was two weeks later that General Oglethorpe made his first visit
 since Superman got under way. The soldier's face seemed more deeply
@@ -716,15 +698,15 @@ know."
 
 The General shook his head slowly, his eyes remaining on Paul's face.
 "You aren't going to have anything like a year. You haven't got time to
-run down one line of research and then another. Run them all at once--a
+run down one line of research and then another. Run them all at once—a
 thousand of them if you want to. Why do you think you've got the budget
 you have!"
 
-"Some things," said Paul, "like threading a needle--or analysing a human
-being--don't go much faster when a thousand men work at it than when
+"Some things," said Paul, "like threading a needle—or analysing a human
+being—don't go much faster when a thousand men work at it than when
 there's only one."
 
-"They do when there're a thousand needles to thread--or brains to pick.
+"They do when there're a thousand needles to thread—or brains to pick.
 And that's what we're up against here. We need a volume of the kind of
 men we've been talking about, and we need them quick!"
 
@@ -769,8 +751,8 @@ produce human robots, but to validate the humanity of man."
 Oglethorpe leaned closer, his fists resting on the top of the desk. "The
 humanity of man be damned! I told you before we want men who've
 forgotten they were ever human, men of metal and electrons. If I didn't
-think you were the man who could do it--probably the _only_ man in the
-whole country--you wouldn't last here another minute. But you _can_ do
+think you were the man who could do it—probably the only man in the
+whole country—you wouldn't last here another minute. But you can do
 it, and you're going to.
 
 "Your little lecture was enough to ruin your career in any place you try
@@ -783,8 +765,6 @@ carry out?
 unless you give me what I've asked for! I won't take promises any more.
 The only assurance you can give me from here on out is results! I want
 those men, and I want them damn fast!"
-
-*       *       *       *       *
 
 Professor Barker listened attentively as Paul sat across from him in the
 administration office and reported Oglethorpe's visit and demands.
@@ -803,10 +783,10 @@ get back on the track."
 
 "We'll have to gamble on it," said Paul. "I don't want you to feel I'm
 deliberately pushing you up a blind alley, but I think you're the best
-man for bringing up something we can sell Oglethorpe--while we try to do
+man for bringing up something we can sell Oglethorpe—while we try to do
 some real research on some honest goals."
 
-"We can follow the usual lines of so-called training--brute conditioning
+"We can follow the usual lines of so-called training—brute conditioning
 through shock and fear and pain and discomfort. Most of the men here are
 already well anaesthetized in that respect. Their breakdown level is
 high."
@@ -828,7 +808,7 @@ Command?"
 "Are you crazy? Why would we want to have them come out here and pick
 our bones to pieces before making final burial?"
 
-"We've got a story to tell them--remember? We've got Superman, that's
+"We've got a story to tell them—remember? We've got Superman, that's
 going to produce for the first time in the world's history a man
 adequate to go into the dangers of space. And there's that little story
 of yours about courage. I think that would go over with them. We'd be
@@ -837,15 +817,13 @@ until it rolled over us."
 
 There was a long pause before Oglethorpe spoke again. "I wonder just
 what you're trying to do," he said finally. "I know you don't mean a
-word of what you're saying at all--"
+word of what you're saying at all—"
 
 "But I do mean it," Paul said earnestly. "I want Superman saved; you
 want the Wheel. It amounts to the same thing."
 
 "You could be right. You might even be telling the truth. I'll give it
 some thought."
-
-*       *       *       *       *
 
 The officer in charge of the rocket crews and the take-off stand was a
 young engineer-soldier named Harper. Paul had met him during the first
@@ -884,7 +862,7 @@ was just human like the rest of us."
 
 "What do you mean, 'human'?"
 
-"Weak, soft, failure when the going gets rough--everything we have to be
+"Weak, soft, failure when the going gets rough—everything we have to be
 on guard against every minute we're alive."
 
 "I take it you don't think much of human beings, as such."
@@ -894,15 +872,17 @@ ships as long as I have, you'll know what Captain West really meant. The
 weakest link in any technological development has always been the men
 involved with its operation. In space flight our weakness is pilots and
 technicians. Set a machine on course and it'll go until it breaks
-down--and flash you a warning before it fails. With a man, you never
-know when he's going to fail, and you have to be on guard against _his_
+down—and flash you a warning before it fails. With a man, you never
+know when he's going to fail, and you have to be on guard against his
 breakdown every minute because he won't give any warning.
 
 "Think what it's like to be in our shoes! We take the controls of a few
 hundred million dollars worth of machinery, and we know that every last
 man of us is booby-trapped with some weakness that can break out in a
 critical moment and destroy everything. We fight against it; we struggle
-to hold it in and act like responsible instruments. And we grow to hate
+to hold it in and
+
+ke responsible instruments. And we grow to hate
 ourselves because of the weak things that we are.
 
 "Cummins was like that. He fought himself every waking hour, knowing
@@ -920,12 +900,12 @@ there on the stand."
 
 "I'd have had it, that's all. I'd never get within ten miles of a rocket
 base again as long as I lived. And there wouldn't be much worth living
-for--"
+for—"
 
 "It would be pretty wonderful to feel you weren't constantly on the
 verge of some disastrous blunder, wouldn't it?"
 
-"It would be a rocket man's idea of heaven to handle these ships with
+"It would be a rocket man's idea of ethereal realm to handle these ships with
 that kind of a feeling inside him."
 
 "We're about ready to begin running tests on Superman, and I'd like you
@@ -938,8 +918,6 @@ kind of test are you going to run on me?"
 
 "I want to find out how long it takes you to make a serious error, and
 what happens to you when you do!"
-
-*       *       *       *       *
 
 Arrangements were made for initiating this series of tests two days
 later. Paul had designed them, and Nat Holt's crew had built the
@@ -1012,7 +990,7 @@ proposed to tell them."
 "Of course. And what are you going to do about Morgan's cavalcade?"
 
 Oglethorpe spat out an exclamation. "We'll set up barricades that they'd
-better not cross within ten miles of Base!"
+better not symbol within ten miles of Base!"
 
 "That won't help," Paul warned. "I think you'd better let me prepare
 something for them, too."
@@ -1062,7 +1040,7 @@ back to take it easy.
 
 One by one, he watched the meters, noted their information, made the
 proper adjustments, added compensations, waited for results, checked and
-re-checked--
+re-checked—
 
 "He'll go a long time," said Nat Holt confidently. "He's had top
 training. If it breaks down, we may find out a few things."
@@ -1105,7 +1083,7 @@ green to yellow to red.
 
 Harper turned and glared about with hate in his eyes as if to find the
 source of the sound. He began tearing at the wires and contacts fastened
-to his head and body. "To hell with the course!" he cried. "I'm getting
+to his head and body. "To shadow realm with the course!" he cried. "I'm getting
 out of here!"
 
 He hurled the wiring harness at the panels. Then, he stood in a moment's
@@ -1119,8 +1097,6 @@ through that again."
 Nat Holt was still staring through the window at the sobbing engineer.
 "I don't understand," he murmured. "What made him break down like that
 for no reason at all?"
-
-*       *       *       *       *
 
 One by one, the top engineers of the Base went through the breakdown
 test. Some broke down with an emotional storm as Harper had, others
@@ -1149,7 +1125,7 @@ looking for!"
 "What are you talking about?" Paul demanded.
 
 "We've got proof that a human being is nothing more nor less than a
-simple cybernetic gadget. It's a laugh--people trying to build a
+simple cybernetic gadget. It's a laugh—people trying to build a
 mechanical man all these years. That's the only kind there is!"
 
 "You still aren't making sense."
@@ -1171,7 +1147,9 @@ the subject."
 
 "What conditions?" said Paul.
 
-"At the exact moment of committing an error! I should say it occurs
+"At the ex
+
+oment of committing an error! I should say it occurs
 between the moment of making the decision to carry out an erroneous act
 and the triggering of the motor impulse that executes it."
 
@@ -1186,7 +1164,7 @@ proof that a human being is nothing but a cybernetic gadget? I don't see
 what this has got to do with it."
 
 "I didn't give you quite all the story," Holt said smugly. "I should
-have said that the pulse occurred every time there was an _intent_ to
+have said that the pulse occurred every time there was an intent to
 perform an error. Sometimes that intent was not carried out."
 
 "I don't understand."
@@ -1201,20 +1179,19 @@ action is taken. When the feedback is blocked or ignored, an error
 results. It's as simple as that! Your complex human being is nothing but
 a fairly elaborate cybernetic machine operating wholly on feedback
 principles. The only time he fails and breaks down is when he ceases to
-act like the cybernetic machine that he is!"
 
-*       *       *       *       *
+ke the cybernetic machine that he is!"
 
 Holt's eyes shone triumphantly as he patted the long strips of paper on
 the table. Paul followed the motion of his hand and remained staring at
 the graphs in a kind of stunned recognition. There must be some mistake,
-there _had_ to be. Holt's interpretation was wrong, even if the data
-were correct. Man, a feedback response mechanism--! If that were true a
-vacuum tube structure could eventually be devised to do _anything_ a man
+there had to be. Holt's interpretation was wrong, even if the data
+were correct. Man, a feedback response mechanism—! If that were true a
+vacuum tube structure could eventually be devised to do anything a man
 could do.
 
 "I think we'll hold off on that dinner a while yet," Paul said. "The
-data are interesting and, I'm sure, important--but I can hardly agree
+data are interesting and, I'm sure, important—but I can hardly agree
 with your conclusions." Inwardly, he cursed the stiltedness he felt
 creeping into his voice, and his irrational resentment of Holt's
 continued smug grin.
@@ -1232,7 +1209,7 @@ Command's pre-chosen conclusions. It has already been done."
 
 Dr. Barker looked puzzled and a little frightened as he sat down at the
 desk to examine the charts. After an hour, he looked up. "It's true," he
-said. "There's no escaping the fact. Look what we have here--" He
+said. "There's no escaping the fact. Look what we have here—" He
 pointed to a corresponding sector of the six charts he'd lined up.
 
 "After the first feedback impulse, there was no attempt to correct," he
@@ -1250,7 +1227,7 @@ alignment with the learned pattern. A purely mechanical response!"
 
 Paul turned from the window through which he had been staring toward the
 launchers. "Then Space Command is perfectly right," he said bitterly.
-"We _can_ give them their errorless, mechanical men--just as soon as we
+"We can give them their errorless, mechanical men—just as soon as we
 find ways of correcting the blockage of the feedback pulses!"
 
 Barker leaned back in his chair and folded his hands across his moderate
@@ -1258,11 +1235,9 @@ paunch. "I'm afraid that's right. We've been wrong all along in bucking
 the mechanical concept of Man. The technologists saw it long ago in a
 sort of intuitive way, but they couldn't prove it. Now, they can!"
 
-"And the soul of Man is nothing but a feedback impulse!"
+"And the essence of Man is nothing but a feedback impulse!"
 
 Barker sighed heavily. "What else, Paul?"
-
-*       *       *       *       *
 
 Morgan's Caravan appeared that evening and camped at the ten-mile limit
 imposed by the military police guards. They posted their signs of
@@ -1299,7 +1274,7 @@ manner."
 
 "There's nothing else I can do! The evidence is there." He laughed
 shortly and moved to the window where he could see the nearby camp of
-Morgan's Caravan. "Human development has moved--is moving--in a
+Morgan's Caravan. "Human development has moved—is moving—in a
 completely different direction from anything I ever dreamed.
 Oglethorpe's iron-hard, emotionless machine-men are the only ones who'll
 get there. The rest of us who can't match the pace of a technological
@@ -1320,7 +1295,7 @@ Paul's announcement the strongest single factor in favor of permitting
 Space Command to continue with its work.
 
 "We know now," he said, "and this is something I haven't even had time
-to present to General Oglethorpe--we know that a completely mechanical
+to present to General Oglethorpe—we know that a completely mechanical
 man is possible."
 
 The General's eyes narrowed as Paul's flat statement continued. "We know
@@ -1377,7 +1352,7 @@ wonder. "What part of the chart did you take it from?"
 "We used the impulse that didn't get through, the one that was blocked
 so that error resulted. Apparently this is the alternative to error." He
 nodded toward the writhing, sobbing man. "Harper reached a point where
-he _had_ to fail or else be subject to this psychic storm."
+he had to fail or else be subject to this psychic storm."
 
 Paul ran his long, bony fingers through his hair. "This makes less sense
 than ever! If that's true, then we've got to take back what we've told
@@ -1391,8 +1366,6 @@ impulses have been passed?
 
 "Yesterday we thought we had it all wrapped up. Now it's blown open
 wider than ever before!"
-
-*       *       *       *       *
 
 Oglethorpe's public relations man prepared a statement to the effect
 that further danger from pilot error in rocket ships and the second
@@ -1415,7 +1388,7 @@ He'd not told Oglethorpe about their latest development. If this psychic
 reaction to feedback proved an impenetrable barrier there'd be time
 enough to give Space Command the bad news. In the meantime a Wheel would
 be built, the public would be mollified, and Superman would continue
-on--to what unknown ends Paul didn't know.
+on—to what unknown ends Paul didn't know.
 
 The massed camp of the fanatic followers of Morgan appeared in the
 distance like a discarded rag on either side of the road. Then as they
@@ -1436,7 +1409,7 @@ Paul could have stayed in the cab, but he preferred to climb to the
 platform atop the truck to get a look at the crowd Morgan had assembled.
 He hesitated a moment with the paper in his hands, then took up the mike
 and read the statement Metcalf had prepared. "The United States Space
-Command wishes to announce that--"
+Command wishes to announce that—"
 
 It fell utterly flat on completely non-understanding ears. Paul looked
 over the mass of faces and knew it had failed. Something far more than
@@ -1448,14 +1421,14 @@ return it to normalcy.
 like you," he said suddenly in low tones. "There was a harbor, and some
 small ships, and a man who believed he could sail them over the edge of
 the world. On the shore were people who thought he was a fool and a
-blasphemer, and a few who thought he was right--or at least hoped he
+blasphemer, and a few who thought he was right—or at least hoped he
 was.
 
 "Five hundred years ago was the beginning of a new freedom from the
 prison of a tiny, constricted world. Today, another freedom waits our
 successful conquest of space. And whenever a freedom has been won there
 have been more who jeered against it than have cheered for it. You are
-today making a choice--"
+today making a choice—"
 
 He talked for ten minutes, and when he was through he knew that he'd
 accomplished his goal. Even before the sound truck pulled out, the cars
@@ -1465,11 +1438,11 @@ distance.
 "Nice job," Metcalf congratulated, as if he'd been responsible for it
 himself.
 
-"Just a little feedback in the right place--" murmured Paul absently.
+"Just a little feedback in the right place—" murmured Paul absently.
 
-"Feedback? What's that--new kind of propaganda technique--?"
+"Feedback? What's that—new kind of propaganda technique—?"
 
-"Yeah, you might call it that. How could a guy have been so _blind_--?"
+"Yeah, you might call it that. How could a guy have been so blind—?"
 he said fiercely, more to himself than to his companions.
 
 He hurried to the laboratory as soon as the truck got him back to Base.
@@ -1484,8 +1457,8 @@ have seen it!"
 
 "No."
 
-"Are you willing to let us give you a small dose--something less than
-the level given Harper and his men--and then tell us what you find out
+"Are you willing to let us give you a small dose—something less than
+the level given Harper and his men—and then tell us what you find out
 about it?"
 
 Nat Holt looked hesitant. "If you think you know what you're talking
@@ -1502,7 +1475,7 @@ Paul switched on the circuits and advanced the controls carefully. A
 look of pain and regret crossed Holt's face. He cried out with a
 whimper. "Turn it off!"
 
-"A second more--," Paul said. He advanced the control a hair and waited.
+"A second more—," Paul said. He advanced the control a hair and waited.
 The technologist began to cry suddenly in a low, sobbing voice.
 
 Paul cut the switch.
@@ -1519,7 +1492,7 @@ space station to avoid the full blast of it."
 
 "What would you call it?"
 
-"I don't know--," Holt hesitated. "Grief, maybe. Regret--anxiety. But
+"I don't know—," Holt hesitated. "Grief, maybe. Regret—anxiety. But
 regret, mostly, I guess."
 
 "That's your feedback," Paul said as he removed the terminals and turned
@@ -1541,17 +1514,17 @@ diminished until the action gets back on the track that brings predicted
 results. Ignored, the error builds up until the whole structure goes
 smash.
 
-"And we're _taught_ to ignore it! It's the noble, brave and manly thing
+"And we're taught to ignore it! It's the noble, brave and manly thing
 to ignore the human feelings that surge through us. Be steel, be glass,
-be electrons--anything but a responsive, emotional human being! That's
+be electrons—anything but a responsive, emotional human being! That's
 the way to be a superman! We've tried to find the way to perfection and
 have fought tooth and nail against the only means of achieving it."
 
 Barker's face was glowing with excitement and Holt seemed to be
-remembering something afar off. "That _was_ it," he breathed softly. "I
-can feel it now--the way it was as I began to get jittery and make
+remembering something afar off. "That was it," he breathed softly. "I
+can feel it now—the way it was as I began to get jittery and make
 mistakes in the test procedures. I seemed to fight something within
-myself--something I thought was making me do it wrong. But it wasn't
+myself—something I thought was making me do it wrong. But it wasn't
 that, at all. I was fighting against the emotional feedback the errors
 were throwing at me."
 
@@ -1569,7 +1542,7 @@ rational explanation Metcalf prepared to convince them they should go
 home. They were on a wrong tack and needed a generous amount of the
 right feedback to get them back where they belonged. The cold, logical
 approach was a dud. What does it take to move an intractible mob?
-Emotion--based on the projected consequences of what they're doing. A
+Emotion—based on the projected consequences of what they're doing. A
 perfect feedback setup when correctly applied. And it worked."
 
 Holt shuddered faintly and moved away from the chair he had sat in to
@@ -1580,7 +1553,7 @@ dinner," he said to Paul. "But I think somebody does."
 the departure of another cargo ship carrying parts of the second Wheel
 to the thousand-mile orbit.
 
-He smiled to himself. Ye of little faith!--he thought. Frightened about
+He smiled to himself. Ye of little conviction!—he thought. Frightened about
 the true nature of a race that had come through three billion years of
 the kind of torment that Man had survived!
 

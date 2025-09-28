@@ -1,9 +1,3 @@
-Title: Third Planet
-
-Author: Murray Leinster
-
-I
-
 It was, as usual, a decision on which the question of peace or atomic
 war depended. The Council of the Western Defense Alliance, as usual,
 had made the decision. And, as usual, the WDA Coordinator had to tell
@@ -26,7 +20,7 @@ absolute condition, but you are to use every possible means to persuade
 me to grant it."
 
 The Coordinator ground his teeth. But the Council wouldn't go to war
-for a few thousand citizens of an Asiatic country--who would probably
+for a few thousand citizens of an Asiatic country—who would probably
 be killed in the war anyhow. There would be millions killed in Western
 countries if the war did come.
 
@@ -43,7 +37,7 @@ impossible! We haven't enough copters!"
 border on foot."
 
 The Coordinator ground his teeth again. That would be a public
-disgrace--and not the first one--for the WDA for not protecting its
+disgrace—and not the first one—for the WDA for not protecting its
 friends. But the public in the Western nations did not want war. It
 would not allow its governments to fight over trivial matters. Its
 alliance could not make threats. On the other hand, the public in the
@@ -56,22 +50,20 @@ The Coordinator said heavily, "You will excuse me, Mr. Ambassador. I
 have to see about getting as many copters as possible to southeast
 Asia."
 
-*       *       *       *       *
-
-Some hundreds of light-years away, the Survey ship _Lotus_ floated in
+Some hundreds of light-years away, the Survey ship Lotus floated in
 space, a discreet number of millions of miles from the local sun. It
 was on a strictly scientific mission, so it would not be subject to
 Com suspicion of having undesirable political intentions. At least
 they hadn't demanded to have an observer on board. Com intelligence
 reports were notoriously sound, however, and possibly spies had assured
-their employers that the _Lotus's_ mission was bona fide. Her errand
+their employers that the Lotus's mission was bona fide. Her errand
 was the mapping and first-examination of a series of sol-type solar
 systems. This was the ninth such system on the list. The third planet
 out from the sun, here, lay off to starboard. It was near enough to
 have a visible disk to the naked eye, and moderate magnification
 showed ice-caps and permanent surface markings that could be seas
 and continents. As was to be expected, it was very much like a more
-familiar third planet out--Earth.
+familiar third planet out—Earth.
 
 The skipper gave Nolan the job of remote inspection while the gross
 examination of the system went on. Nolan had a knack for such work,
@@ -100,14 +92,14 @@ They were as haunting, some light-centuries from Earth, as back at
 home. There was the base the Coms were building on the moon. The WDA
 had an observatory there, but the Coms were believed to be mounting
 many more rockets than telescopes. And there was that unsatisfying
-agreement made between the Coms and WDA just before the _Lotus_ took
+agreement made between the Coms and WDA just before the Lotus took
 off. Each promised solemnly to notify the other of all space take-offs
 before they happened. The idea was to prevent a mistake by which a
 Pearl-Harbor-style attack might be inferred when it wasn't really
 happening. The fact that it could be prepared against was evidence of
 the kind of tension back on Earth.
 
-But the _Lotus_ was far from home. She lay some seventy-odd millions of
+But the Lotus was far from home. She lay some seventy-odd millions of
 miles out from the sol-type star Fanuel Alpha, whose third planet Nolan
 was to look over.
 
@@ -116,20 +108,18 @@ planet's disk. The ratio of polar to equatorial diameters was
 informative. The polar flattening said that the day lasted about thirty
 hours. Almost like Earth's. The equatorial diameter of 8200 miles was
 much like Earth's. The inclination of the axis of rotation indicated
-seasons--not exaggerated, but much like the seasons on the third planet
+seasons—not exaggerated, but much like the seasons on the third planet
 of Sol. The size of the ice-caps indicated the overall planetary
 temperature. There were clouds. In fact, there was a cloudmass in the
 southern hemisphere that looked just like an Earthly tropic storm
 undergoing the usual changes as it went away from the equator. This was
-very much like Earth! And the dark masses which were seas....
-
-*       *       *       *       *
+very much like Earth! And the dark masses which were seas...
 
 Nolan frowned. Those mud-colored patches were water. Undoubtedly. A
 narrow-band light filter proved it. But the areas which were neither
 sea nor cloud mass? There were three levels of brightness to be seen on
 the disk outside the polar areas. One was sea-bottom. One was cloud.
-The other....
+The other...
 
 Nolan fretted a little. There was something wrong. The solid ground
 surface of the planet was too light in color. It was such items that a
@@ -157,11 +147,11 @@ kinds. The Lauriac Laws about the size and distribution of planets
 in a sol-type system were borne out. One was small, and its sunward
 side was probably at a low red heat. This was like Mercury. Planet
 Two, like its analogue Venus in the home system, would be resolutely
-unoccupiable by man. Planet Four--analogous to Mars--was smaller than
+unoccupiable by man. Planet Four—analogous to Mars—was smaller than
 Three and had a very thin atmosphere. There were gas-giants in orbits
 six and seven. Then a novelty Lauriac's laws predicted things about
 fifth planets, too, but they'd never been verified because fifth
-planets were unstable. They blew up. Only fragments--asteroids--had so
+planets were unstable. They blew up. Only fragments—asteroids—had so
 far been noted where fifth planets of sol-type suns ought to be. But
 there was a fifth planet here, rolling magnificently through emptiness.
 It matched the Lauriac predictions. It had an atmosphere, which should
@@ -197,16 +187,14 @@ more important than fifth planets. I think we'd better go over and get
 what information we can and take it home. Death like this implies life
 a lot like men. If non-human creatures can do something as human as
 this, we'd better get the word back home so something can be done to
-get ready before we find them--or they find us."
+get ready before we find them—or they find us."
 
 The skipper went carefully over the pictures. On one he put his finger
 on a feature Nolan hadn't mentioned. He seemed to wince.
 
 "I think you win, Nolan," he said painfully. "We'll send a drone down.
 I doubt we can land, but this ought to be checked. Immediately. Maybe I
-should add--inconspicuously."
-
-*       *       *       *       *
+should add—inconspicuously."
 
 "Confidentially," said the Com Ambassador to the Coordinator of the
 WDA, "confidentially I agree that it is a trivial matter. But we are a
@@ -229,16 +217,14 @@ not even pretend to resent being called a liar.
 "Now, my country intends to move forward in this matter in ten days,"
 he observed. "And it would be deplorable if our soldiers were fired on."
 
-II
-
-It turned out that it wouldn't have mattered if the _Lotus_ had sent
+It turned out that it wouldn't have mattered if the Lotus had sent
 screaming notifications of its presence throughout all nearby space.
 There were detectors out, of course, but they reported absolutely
-nothing as the _Lotus_ moved on toward Planet Three. There was static
+nothing as the Lotus moved on toward Planet Three. There was static
 from storms upon the planet. It grew louder as the survey ship
 approached. But there was no sign of anything alive.
 
-The _Lotus_ cruised some two hundred miles above seas and cloud masses
+The Lotus cruised some two hundred miles above seas and cloud masses
 and desert, photographing as she followed a search pattern that covered
 all the sunlit hemisphere. There were mountains in the tropics which
 by all the rules of meteorology should have had rain forests at their
@@ -250,7 +236,7 @@ wasn't. Where it reached the sea was an enormous delta.
 A drone went down and reported temperatures and humidity and the
 composition of the atmosphere, and the radiation background count. One
 would have thought the records those of Earth. The background count
-was a trifle high--3.9 instead of 3.6--but there was eighteen per cent
+was a trifle high—3.9 instead of 3.6—but there was eighteen per cent
 of oxygen in the atmosphere. The only oddity, there, was nearly a full
 per cent of helium. When the drone came up it brought samples of soil
 and sea water. There was no life in either. The soil was mostly mineral
@@ -270,7 +256,7 @@ monsters, eh? It looks too much like Earth! I'd rather blame monsters
 than men!"
 
 Nolan growled and went to prepare for the landing. Two other men would
-go with him, of course. The _Lotus_ wouldn't descend. It cost fuel to
+go with him, of course. The Lotus wouldn't descend. It cost fuel to
 make landings. Unless there was some remarkable specimen that a drone
 couldn't handle the ship would stay aloft.
 
@@ -297,8 +283,6 @@ Crawford took painstaking photographs of dune formations, and they set
 up a weather radar. They checked the water recovery from the camp's
 air-conditioner. It would supply their needs. When night drew near,
 with all instruments recording, they watched the sunset.
-
-*       *       *       *       *
 
 It was amazing how splendid and how magnificent a sunset could be. Not
 many men see sunsets these days. The three of them, aground at the
@@ -356,7 +340,7 @@ died, here. But we all know!"
 Crawford said reflectively, "It must've taken a lot of intelligence to
 murder this planet. When d'you suppose it happened?"
 
-"Ten thousand--twenty thousand years ago," said Nolan. "The whole place
+"Ten thousand—twenty thousand years ago," said Nolan. "The whole place
 must have been radioactive, air and all. But if they used cobalt the
 background count could be down to 3.9 in ten or twenty thousand years."
 
@@ -367,8 +351,8 @@ out in space didn't show bomb-craters."
 dust storms. There still must be. They'd cover anything! There was a
 terrific civilization in part of what's now the Sahara, back on Earth.
 By pure accident they've found a patch of highway and a post-house.
-Everything else is covered up. Cities, highways, dams, canals.... And
-that's heavy sand instead of fine dust! The _Lotus_ found some shadows
+Everything else is covered up. Cities, highways, dams, canals... And
+that's heavy sand instead of fine dust! The Lotus found some shadows
 on a photo. They want us to look and see what cast them. We'll look at
 it tomorrow and then leave."
 
@@ -388,12 +372,10 @@ people are. If we report this, our people will believe it. But the Coms
 can tell their people it is lies. Our people will want peace more than
 ever if they see what a war will mean. But the big-shot Coms will just
 take that as a reason to demand some more concessions, and more, and
-more. Like demanding to build a base on the moon...."
+more. Like demanding to build a base on the moon..."
 
 "I'm going to bed," said Nolan. He added ironically, "I hope you have
 pleasant dreams!"
-
-*       *       *       *       *
 
 He did go to bed, but he slept very badly. The others slept no better.
 All three of them were up before sunrise. They saw it. And to Nolan
@@ -408,7 +390,7 @@ the jeep, too, presently, when they went up the ship that waited in
 orbit.
 
 They headed west, and Kelley took over the microwave set that sent a
-wide-fanning beacon skyward. The _Lotus_ was in orbit now. Every ninety
+wide-fanning beacon skyward. The Lotus was in orbit now. Every ninety
 minutes she was overhead. She'd completed the mapping of the planet.
 Every square foot of its surface had been photographed from aloft.
 
@@ -419,8 +401,8 @@ went on for twenty miles, and the abomination of desolation was all
 about them.
 
 "We shouldn't tell about this back home," said Kelley abruptly.
-"If the Com people saw it, they'd know that no--" his tone was
-ironic--"national aspiration justified the risk of this. But they
+"If the Com people saw it, they'd know that no—" his tone was
+ironic—"national aspiration justified the risk of this. But they
 wouldn't see it. And our people might look at it and decide that
 anything was better than this. But it isn't."
 
@@ -428,7 +410,7 @@ Nolan said nothing. He didn't believe that the discovery of this dead
 planet could be kept a secret for very long.
 
 The mountains drew back to northward and the desert took their place.
-The _Lotus_ went by overhead, unseen. But it gave a message to Kelley.
+The Lotus went by overhead, unseen. But it gave a message to Kelley.
 
 "We're on course," he reported. "The ship just said so. Ten miles more."
 
@@ -438,7 +420,7 @@ city's remnants showing in the mile wide trough between dunes hundreds
 of feet high. There were other remnants between two other dunes,
 and still more in yet other troughs beyond. Structures of stone had
 existed, and portions of them remained. They had cast shadows the
-_Lotus_ had discovered from aloft. The stone remains were abraded by
+Lotus had discovered from aloft. The stone remains were abraded by
 the dust-carrying winds of a hundred centuries. Their roofs had been
 crushed when monster dunes formed over them. They had been reexposed
 to the sunshine when winds moved the dunes away. There was no metal
@@ -462,8 +444,6 @@ Kelley spoke suddenly into the microwave transmitter. He said sharply
 to the ship, invisibly overhead:
 
 "Yes! Send down the drone! We've had it!"
-
-*       *       *       *       *
 
 The Council-member from Brazil made an impassioned speech in the
 supposedly secret meeting of the Western Defense Alliance. He pointed
@@ -489,7 +469,7 @@ action for a vote?"
 There was a pause. Then babblings. It would mean war! It would mean
 atomic war! Tens or hundreds of millions of human beings would die over
 a matter affecting less than two hundred thousand! It was ridiculous!
-Public opinion--
+Public opinion—
 
 The Council meeting ended with no vote upon the matter. Without even a
 proposal on which a vote could be taken.
@@ -499,42 +479,40 @@ in and occupied Sierra Leone. A great many of its citizens were shot,
 some for opposing the new state of affairs, but some seemingly just on
 general principles.
 
-III
-
-The _Lotus_ went on toward Planet Five, leaving a world which should
+The Lotus went on toward Planet Five, leaving a world which should
 have been alive and wasn't, to go to a world which should not exist,
 but did. On the way there was argument which became embittered. In
 theory, the discoveries made by a Survey ship became automatically
 available to all the world. But the discovery of Three in the state it
 was in would have political results on Earth.
 
-It was--and is--a fact that nobody really believes in death until he
+It was—and is—a fact that nobody really believes in death until he
 sees a dead man. And nobody can believe in the destruction of a planet
 unless he's seen the corpse or color photographs of it. But that was
-precisely what the _Lotus_ had to carry back to Earth. The WDA nations
+precisely what the Lotus had to carry back to Earth. The WDA nations
 would see those pictures and read the facts. They would believe in
 atomic war and the complete sterilization of a world. The Com nations
 would not see the pictures. They would continue to believe that the
-West--the WDA--was decadent and enslaved to tyrannical warmongers,
+West—the WDA—was decadent and enslaved to tyrannical warmongers,
 and obviously could not resist the splendid armed forces of the Com
 association. And they wouldn't really believe there could be more than
 isolated, crazy resistance to their valiant troops. So they'd back
 their leaders with enthusiasm, and the Western peoples at most would be
 merely desperate.
 
-The _Lotus_ arrived at Planet Four--which by the Lauriac laws should
+The Lotus arrived at Planet Four—which by the Lauriac laws should
 have been similar to Mars. It was almost its twin. It had ice-caps
 of hoarfrost and its atmosphere was thin and barely contaminated by
 oxygen. A base could be maintained here, of course, provided one had a
 source of supply. A base here, incidentally, would have much the value
 of the Com base on Luna.
 
-The _Lotus_ did not find that base. It found no cities or signs of
+The Lotus did not find that base. It found no cities or signs of
 settlement. But it did find a bombcrater, miles across and it seemed
 miles deep. There was an accumulation of reddish dust at its bottom,
 trapped from the thin winds that blew over this half-frozen world.
 
-The _Lotus_ went on to Planet Five.
+The Lotus went on to Planet Five.
 
 The sun, so far out, was very small and its warmth was barely
 perceptible. But there was vegetation. The surface temperature was
@@ -553,8 +531,8 @@ There was a base here, too. Kelley located it when he found a resonant
 return of certain frequencies from the ground. It was not a reflection,
 but resonance. And so they found the base.
 
-It had been built by engineers the humans on the _Lotus_ could only
-admire. There were gigantic doors which could admit the _Lotus_
+It had been built by engineers the humans on the Lotus could only
+admire. There were gigantic doors which could admit the Lotus
 herself. They were rusted shut and had to be opened with explosives.
 There were galleries and tunnels and laboratories. There were missile
 launchers and missile-storage chambers. There was a giant dome housing
@@ -562,13 +540,11 @@ a telescope men had not even dreamed of equalling. It was not an
 optical telescope.
 
 Ultimately they found a mortuary, where the members of the garrison
-were placed when they died. The _Lotus_ was not equipped for the
+were placed when they died. The Lotus was not equipped for the
 archeological and technological studies the base called for. Its
 function was to scout out things for especially qualified expeditions
 to study. And, of course, there was the political situation back on
-Earth....
-
-*       *       *       *       *
+Earth...
 
 On the fourth day after landing, the skipper sent for Nolan. The
 skipper sweated a little.
@@ -580,12 +556,12 @@ skipper sweated a little.
 "No." The skipper mopped his forehead. "Back yonder, on Three, you took
 a few looks from twenty million miles and figured out what had happened
 there. We'd have worked it out eventually, but you saw it at once.
-You're lucky that way. Now we've found something. It's an--instrument.
+You're lucky that way. Now we've found something. It's an—instrument.
 We're short on time. Come with me and make some guesses."
 
 He led the way, explaining jerkily as he went. The thing was in a room
 by itself, with its own air system and apparently its own food store.
-It was inside four successive systems of locked doors--all of them
+It was inside four successive systems of locked doors—all of them
 inches-thick stainless steel. It was intended that the last door could
 be opened from inside. It was evidently the very heart of the armed
 base on Planet Five. Anything sealed up like that would have to be
@@ -607,9 +583,9 @@ Nolan said uneasily:
 
 "It's a weapon, of course."
 
-"Of course!" said the skipper. He mopped his forehead. "I--I think we
+"Of course!" said the skipper. He mopped his forehead. "I—I think we
 should take it home. It might make a difference to WDA. But we don't
-know what it does! It could be a mistake...."
+know what it does! It could be a mistake..."
 
 Nolan walked around it. He saw that it could be aimed in almost any
 direction. But not quite. There was a direction that stops prevented it
@@ -619,7 +595,7 @@ from pointing to. Nolan said:
 
 The skipper jumped. When Nolan asked the question he began to suspect
 many answers. He said in a stricken voice, "That's where the missiles
-were launched--and where the others are stored."
+were launched—and where the others are stored."
 
 Nolan stared at the thing. It looked hateful. It had the savage feel of
 a frozen snarl.
@@ -636,7 +612,7 @@ Nolan said carefully:
 "It could be that they wanted to shield the radioactives from something
 in the base. Maybe something that would act on radioactives is
 involved." He said painfully, "Men can't change the rate of fission
-except by building up a critical mass. But maybe--possibly bug-eyed
+except by building up a critical mass. But maybe—possibly bug-eyed
 monsters could."
 
 The skipper perspired. He'd have worked out the same thing in the long
@@ -645,8 +621,6 @@ engineers. They brought an X-ray for finding flaws in metal. They took
 pictures of the inwards of the brass-barreled instrument in its place.
 They traced two separate, incomprehensible circuits. But they were
 separate.
-
-*       *       *       *       *
 
 At long last the skipper nodded permission for Nolan to try the
 eyepiece, to see what it showed with heavy metal and much soil and
@@ -662,7 +636,7 @@ the disk enlarged, the red dot grew larger and became a tiny red circle.
 
 Nolan fumbled. He shifted the position of the instrument with a
 micro-control. He moved the faintly glowing disk until it was enclosed
-in the red circle. He enlarged.... Presently the disk was very large,
+in the red circle. He enlarged... Presently the disk was very large,
 and the red circle ceased to enlarge. It enclosed only a part of the
 disk.
 
@@ -670,9 +644,9 @@ Nolan felt cold chills down his spine. He swallowed and asked for
 the angular relationship of Planet Four to Three. The skipper sent
 someone to find it out. But Nolan had found Planet Four before the
 answer came. The first disk was in some fashion a representation of
-Planet Three--the Earthlike world which was dead. The second was a
+Planet Three—the Earthlike world which was dead. The second was a
 representation of Four. There was a bright spot near the equator of
-Four--the equator being located by the flattening of the poles. It
+Four—the equator being located by the flattening of the poles. It
 would be just about where a gigantic atom-bomb crater still existed.
 
 Nolan drew back and took a deep breath.
@@ -691,7 +665,7 @@ to him.
 Presently the skipper came back and mumbled that a drone was on the
 way up. Nolan searched for it with the eyepiece. He found it. The
 sensitivity of the eyepiece was practically beyond belief. What it
-worked on--what it transmuted and amplified to light--was wholly beyond
+worked on—what it transmuted and amplified to light—was wholly beyond
 his imagination.
 
 The drone went four thousand miles out. Nolan absently asked for
@@ -709,8 +683,6 @@ intolerable flash of brilliance in the sky.
 A few moments later the word came that the drone control board
 indicated that the drone had ceased to exist.
 
-*       *       *       *       *
-
 The Com Ambassador sighed a little when he saw the expression on the
 Coordinator's face. Interviews with the titular head of the alliance of
 all Western nations became increasingly a strain on his politeness. But
@@ -720,7 +692,7 @@ the Coordinator said grimly:
 
 The Com Ambassador said politely:
 
-"It is painful to--ah--beat around the bush. May I speak plainly?"
+"It is painful to—ah—beat around the bush. May I speak plainly?"
 
 "Do," said the Coordinator.
 
@@ -740,7 +712,7 @@ The Coordinator whitened a little, but he did not look surprised.
 "I have to inform you," said the Com Ambassador, "that any military
 action directed against any Com nation, or its troops, or the Union of
 Com Republics, will be met by atomic bombardment from the moon as well
-as--ah--our standard military establishments. This, of course, does not
+as—ah—our standard military establishments. This, of course, does not
 mean war. To the contrary, we hope that it will end the possibility of
 war. We trust that all causes of tension between our nations will one
 by one be removed, and that an era of perpetual peace and prosperity
@@ -757,26 +729,24 @@ resist. At least, so it seems to me."
 The Coordinator of the Western Defense Alliance said:
 
 "Tell me something confidentially, Mr. Ambassador. How long before you
-expect--no. You wouldn't answer that. Ah! How long do you think it will
+expect—no. You wouldn't answer that. Ah! How long do you think it will
 be before I am shot?"
 
 The Com Ambassador said politely:
 
 "I would hesitate to guess."
 
-*       *       *       *       *
-
-The _Lotus_ started back to Earth with the enigmatic weapon fastened
+The Lotus started back to Earth with the enigmatic weapon fastened
 firmly in its cargo hold. Great pains had been taken to keep it from
 being knocked or shocked or battered in its transfer to the ship.
 Firmly anchored, Nolan had insisted that the stops, which prevented it
 from being aimed below the horizon or toward the radioactives in the
-base, be adjusted so it could not be aimed at the _Lotus's_ own engines
+base, be adjusted so it could not be aimed at the Lotus's own engines
 or fuel-stores. There were no missiles to worry about, of course.
 
 Even this precaution, however, roused doubt and uneasiness, especially
 among the scientific staff. It was highly probable that when the
-_Lotus_ reported in from space, the Coms would ask to examine such
+Lotus reported in from space, the Coms would ask to examine such
 specimens as she brought back. The request would be expressed as
 scientific interest, but a refusal would be treated as a concealment
 of dire designs. There were those on the ship who felt that the weapon
@@ -813,9 +783,9 @@ find that the Coms had smashed the West and were all cockahoop about
 what they'd managed to do in a sneak attack. So it had better stay
 mounted. I covered everything, didn't I?"
 
-Nolan wasn't feeling any better than anybody else on the _Lotus_. The
+Nolan wasn't feeling any better than anybody else on the Lotus. The
 jitters that affected everybody but conditioned Coms had been bad when
-the _Lotus_ went about its business. But when the ship headed for home,
+the Lotus went about its business. But when the ship headed for home,
 nerves got visibly worse. They didn't know what they'd find there.
 With the third planet of Fanuel Alpha in mind, it was all too easy to
 believe in disaster.
@@ -834,7 +804,7 @@ richest country in the world. There's practically no poverty in it."
 They march in. There are rich people and poor people. The Coms start to
 humiliate and destroy the rich. The poor people hated them. So the Coms
 are popular long enough to get things going right. But if they tried
-that in our country--"
+that in our country—"
 
 "It wouldn't work," said the skipper. "Not for a minute."
 
@@ -846,7 +816,7 @@ wouldn't try!"
 
 The skipper blinked.
 
-"If you mean they'd leave our country alone--"
+"If you mean they'd leave our country alone—"
 
 "I don't," said Nolan. "They'd destroy it. They'd have to. So they
 might as well destroy it out of hand and destroy most of the fighting
@@ -870,14 +840,12 @@ Western Defensive Alliance. The WDA couldn't use it in a preventive
 war. Their people wouldn't allow it. The initiative would always remain
 with the Coms.
 
-The _Lotus_ moved Earthward. She carried a more deadly instrument for
+The Lotus moved Earthward. She carried a more deadly instrument for
 war than men had ever dreamed of. But the ship's company daily jittered
 a little more violently.
 
 The war might have been fought and be over by now. If it had, the Coms
 would have won it.
-
-*       *       *       *       *
 
 The Coordinator for the WDA handed the Com Ambassador his passport.
 
@@ -921,7 +889,7 @@ be successful in an overwhelming, unwarned attack. We know that if you
 decide upon war, it will be directed primarily at this nation. So
 we have set up some very special atomic bombs where it is extremely
 unlikely that you will find them. They are 'dirty' bombs. They are
-designed to make the maximum possible amount of radioactive dust--of
+designed to make the maximum possible amount of radioactive dust—of
 fallout. Timing mechanisms are set to detonate them. Every day a man
 goes and sets back the timing mechanism in each place where a bomb
 is established. On the day that a man fails to do so the bombs will
@@ -947,9 +915,7 @@ The Coordinator shrugged and shook his head.
 "I have not lied to you before, Mr. Ambassador. I do not lie to you
 now." Then he said formally: "I hope you have a pleasant journey home."
 
-IV
-
-The _Lotus_ came out of the usual sequence of arrival-hops no more than
+The Lotus came out of the usual sequence of arrival-hops no more than
 six light-seconds from Earth. A million miles, more or less; perhaps
 four times the distance of the Moon. Nolan examined the planet's sunlit
 face and said steadily:
@@ -978,7 +944,7 @@ I can do it, though."
 
 He went down into the hold. He turned on the eyepiece. He saw the
 distinct, luminous disk which was Earth in the not-at-all-believable
-field of the impossible instrument. He saw points--not dots--of
+field of the impossible instrument. He saw points—not dots—of
 extremely vivid light. Obviously the size of a radioactive object did
 not determine the brightness of its report to the weapon from Planet
 Five of Fanuel Alpha. Something else controlled the brilliance.
@@ -1005,8 +971,6 @@ pictures. He's telling the Coms most of what I reported, saying that if
 they like they can try to blast us. If they try, and don't succeed, we
 can try to figure out what to do next."
 
-*       *       *       *       *
-
 The Com premiership was in some ways the equivalent of the office of
 Coordinator of the Western Defense Alliance. But the men who held the
 two posts were quite unlike and the amount of authority they could
@@ -1017,13 +981,13 @@ in their hands. The Premier beamed at them.
 
 "You have the news," he said humorously. "The WDA Coordinator first
 threatened to make all Earth's air radioactive if we attacked
-the--ah--leading member of the WDA and destroyed it. He has evidently
+the—ah—leading member of the WDA and destroyed it. He has evidently
 decided that this threat is not strong enough. So he assures us that
 a Western survey ship has come back from an exploring voyage with a
 cargo of artifacts from a non-human civilization. Among the artifacts
 there is what he says is the absolute weapon. He says that the skipper
 who has brought it back claims that it can end the tension between
-the WDA and us--by ending us!" The Premier chuckled. "He invites us
+the WDA and us—by ending us!" The Premier chuckled. "He invites us
 to verify the skipper's claim by attempting to blast the survey ship,
 whose coordinates of position he gives us. I think he has made a rather
 substantial error of judgment."
@@ -1049,7 +1013,7 @@ The Premier nodded, very humorously.
 concludes that we are disturbed. That we will wait to see what our
 rockets learn. It would be interesting, but our scientists tell me that
 the alleged weapon is impossible. Utterly impossible! So it is merely a
-trick.... And we will not wait for our rockets to arrive. We might be
+trick... And we will not wait for our rockets to arrive. We might be
 late for our dinners, and we would not like that!"
 
 The high officials made sounds of amusement.
@@ -1069,8 +1033,6 @@ off for the west. All over the Com nations, carefully distributed
 rocket-firing sites received signals from the one pushbutton. They sent
 bellowing monsters up into the sky.
 
-*       *       *       *       *
-
 Three Com rockets reached their targets, and Nolan never quite forgave
 himself for it. They were murderous. They wiped out cities. But that
 was all. The rest of the rockets went off prematurely. A spread of half
@@ -1089,7 +1051,7 @@ third.
 The only possible answer was to blast them as they rose. Then to blast
 them before they rose. Nolan's task became the terribly necessary one
 of preventing radioactives from moving away from Com territory and
-into WDA nations--specifically one WDA nation. He did not think of the
+into WDA nations—specifically one WDA nation. He did not think of the
 consequences of his actions except in terms of preventing excessively
 bright mathematical points of light from getting to the areas where
 there were so many fewer points of similar light which did not move at
@@ -1100,13 +1062,13 @@ radioactives in Com territory. He had to! When that was done, there
 were six warheads coming up from Earth. He detonated them. There were
 massed warheads moving toward Earth from the Moon. It seemed that they
 practically tore space apart that they went off together. Then the moon
-base began to fire rockets, hysterically, at the _Lotus_, and it was
+base began to fire rockets, hysterically, at the Lotus, and it was
 necessary to detonate the radioactives in the moon base.
 
 It had been estimated that an atomic war might be over in three hours.
-But prophecies are usually underestimates. Between the first and last
-explosions on Earth, in space and on the moon--there was a truly
-gigantic crater where the Com base had been--some thirty-seven minutes
+But visions are usually underestimates. Between the first and last
+explosions on Earth, in space and on the moon—there was a truly
+gigantic crater where the Com base had been—some thirty-seven minutes
 elapsed. Then the war was over.
 
 There were some survivors in Com territory, of course. But they
@@ -1118,7 +1080,7 @@ landed in the sea and sank immediately. For the rest, the background
 count on Earth nowhere went above 4.9, and people could be protected
 against that.
 
-The survey ship _Lotus_ came gingerly down to ground. There was no
+The survey ship Lotus came gingerly down to ground. There was no
 longer any reason for tension. Its crew reported in and scattered to
 the various places they called home. They were very glad to be back. In
 the course of time they were all suitably bemedalled and admired and

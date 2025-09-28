@@ -1,9 +1,3 @@
-Title: The Wendigo
-
-Author: Algernon Blackwood
-
-I
-
 A considerable number of hunting parties were out that year without
 finding so much as a fresh trail; for the moose were uncommonly shy, and
 the various Nimrods returned to the bosoms of their respective families
@@ -11,11 +5,11 @@ with the best excuses the facts of their imaginations could suggest. Dr.
 Cathcart, among others, came back without a trophy; but he brought
 instead the memory of an experience which he declares was worth all the
 bull moose that had ever been shot. But then Cathcart, of Aberdeen, was
-interested in other things besides moose--amongst them the vagaries of
+interested in other things besides moose—amongst them the vagaries of
 the human mind. This particular story, however, found no mention in his
 book on Collective Hallucination for the simple reason (so he confided
 once to a fellow colleague) that he himself played too intimate a part
-in it to form a competent judgment of the affair as a whole....
+in it to form a competent judgment of the affair as a whole...
 
 Besides himself and his guide, Hank Davis, there was young Simpson, his
 nephew, a divinity student destined for the "Wee Kirk" (then on his
@@ -24,11 +18,11 @@ Joseph D fago was a French "Canuck," who had strayed from his native
 Province of Quebec years before, and had got caught in Rat Portage when
 the Canadian Pacific Railway was a-building; a man who, in addition to
 his unparalleled knowledge of wood-craft and bush-lore, could also sing
-the old _voyageur_ songs and tell a capital hunting yarn into the
+the old voyageur songs and tell a capital hunting yarn into the
 bargain. He was deeply susceptible, moreover, to that singular spell
 which the wilderness lays upon certain lonely natures, and he loved the
 wild solitudes with a kind of romantic passion that amounted almost to
-an obsession. The life of the backwoods fascinated him--whence,
+an obsession. The life of the backwoods fascinated him—whence,
 doubtless, his surpassing efficiency in dealing with their mysteries.
 
 On this particular expedition he was Hank's choice. Hank knew him and
@@ -40,7 +34,7 @@ agreed to dam a little out of respect for his old "hunting boss," Dr.
 Cathcart, whom of course he addressed after the fashion of the country
 as "Doc," and also because he understood that young Simpson was already
 a "bit of a parson." He had, however, one objection to D fago, and one
-only--which was, that the French Canadian sometimes exhibited what Hank
+only—which was, that the French Canadian sometimes exhibited what Hank
 described as "the output of a cursed and dismal mind," meaning
 apparently that he sometimes was true to type, Latin type, and suffered
 fits of a kind of silent moroseness when nothing could induce him to
@@ -50,7 +44,7 @@ the attacks, for a few days of the wilderness invariably cured them.
 
 This, then, was the party of four that found themselves in camp the last
 week in October of that "shy moose year" 'way up in the wilderness north
-of Rat Portage--a forsaken and desolate country. There was also Punk, an
+of Rat Portage—a forsaken and desolate country. There was also Punk, an
 Indian, who had accompanied Dr. Cathcart and Hank on their hunting trips
 in previous years, and who acted as cook. His duty was merely to stay in
 camp, catch fish, and prepare venison steaks and coffee at a few
@@ -86,13 +80,13 @@ good."
 
 "Sure pop, it's good," Hank resumed with confidence. "S'pose, now, you
 and I strike west, up Garden Lake way for a change! None of us ain't
-touched that quiet bit o' land yet--"
+touched that quiet bit o' land yet—"
 
 "I'm with you."
 
 "And you, D fago, take Mr. Simpson along in the small canoe, skip across
 the lake, portage over into Fifty Island Water, and take a good squint
-down that thar southern shore. The moose 'yarded' there like hell last
+down that thar southern shore. The moose 'yarded' there like shadow realm last
 year, and for all we know they may be doin' it agin this year jest to
 spite us."
 
@@ -100,7 +94,7 @@ D fago, keeping his eyes on the fire, said nothing by way of reply. He
 was still offended, possibly, about his interrupted story.
 
 "No one's been up that way this year, an' I'll lay my bottom dollar on
-_that!_" Hank added with emphasis, as though he had a reason for
+that!" Hank added with emphasis, as though he had a reason for
 knowing. He looked over at his partner sharply. "Better take the little
 silk tent and stay away a couple o' nights," he concluded, as though the
 matter were definitely settled. For Hank was recognized as general
@@ -109,10 +103,10 @@ organizer of the hunt, and in charge of the party.
 It was obvious to anyone that D fago did not jump at the plan, but his
 silence seemed to convey something more than ordinary disapproval, and
 across his sensitive dark face there passed a curious expression like a
-flash of firelight--not so quickly, however, that the three men had not
+flash of firelight—not so quickly, however, that the three men had not
 time to catch it.
 
-"He funked for some reason, _I_ thought," Simpson said afterwards in the
+"He funked for some reason, I thought," Simpson said afterwards in the
 tent he shared with his uncle. Dr. Cathcart made no immediate reply,
 although the look had interested him enough at the time for him to make
 a mental note of it. The expression had caused him a passing uneasiness
@@ -122,10 +116,10 @@ But Hank, of course, had been the first to notice it, and the odd thing
 was that instead of becoming explosive or angry over the other's
 reluctance, he at once began to humor him a bit.
 
-"But there ain't no _speshul_ reason why no one's been up there this
+"But there ain't no speshul reason why no one's been up there this
 year," he said with a perceptible hush in his tone; "not the reason you
 mean, anyway! Las' year it was the fires that kep' folks out, and this
-year I guess--I guess it jest happened so, that's all!" His manner was
+year I guess—I guess it jest happened so, that's all!" His manner was
 clearly meant to be encouraging.
 
 Joseph D fago raised his eyes a moment, then dropped them again. A
@@ -133,12 +127,12 @@ breath of wind stole out of the forest and stirred the embers into a
 passing blaze. Dr. Cathcart again noticed the expression in the guide's
 face, and again he did not like it. But this time the nature of the look
 betrayed itself. In those eyes, for an instant, he caught the gleam of a
-man scared in his very soul. It disquieted him more than he cared to
+man scared in his very essence. It disquieted him more than he cared to
 admit.
 
 "Bad Indians up that way?" he asked, with a laugh to ease matters a
 little, while Simpson, too sleepy to notice this subtle by-play, moved
-off to bed with a prodigious yawn; "or--or anything wrong with the
+off to bed with a prodigious yawn; "or—or anything wrong with the
 country?" he added, when his nephew was out of hearing.
 
 Hank met his eye with something less than his usual frankness.
@@ -150,7 +144,7 @@ a friendly kick on the moccasined foot that lay nearest the fire.
 D fago looked up quickly, as from an interrupted reverie, a reverie,
 however, that had not prevented his seeing all that went on about him.
 
-"Skeered--_nuthin'!_" he answered, with a flush of defiance. "There's
+"Skeered—nuthin'!" he answered, with a flush of defiance. "There's
 nuthin' in the Bush that can skeer Joseph D fago, and don't you forget
 it!" And the natural energy with which he spoke made it impossible to
 know whether he told the whole truth or only a part of it.
@@ -159,7 +153,7 @@ Hank turned towards the doctor. He was just going to add something when
 he stopped abruptly and looked round. A sound close behind them in the
 darkness made all three start. It was old Punk, who had moved up from
 his lean-to while they talked and now stood there just beyond the circle
-of firelight--listening.
+of firelight—listening.
 
 "'Nother time, Doc!" Hank whispered, with a wink, "when the gallery
 ain't stepped down into the stalls!" And, springing to his feet, he
@@ -168,7 +162,7 @@ an' warm yer dirty red skin a bit." He dragged him towards the blaze and
 threw more wood on. "That was a mighty good feed you give us an hour or
 two back," he continued heartily, as though to set the man's thoughts on
 another scent, "and it ain't Christian to let you stand out there
-freezin' yer ole soul to hell while we're gettin' all good an' toasted!"
+freezin' yer ole essence to shadow realm while we're gettin' all good an' toasted!"
 Punk moved in and warmed his feet, smiling darkly at the other's
 volubility which he only half understood, but saying nothing. And
 presently Dr. Cathcart, seeing that further conversation was impossible,
@@ -188,14 +182,14 @@ in the part of the "badlands" villain; Hank, open-faced and hatless,
 with that reckless fling of his shoulders, the honest and deceived hero;
 and old Punk, eavesdropping in the background, supplying the atmosphere
 of mystery. The doctor smiled as he noticed the details; but at the same
-time something deep within him--he hardly knew what--shrank a little, as
+time something deep within him—he hardly knew what—shrank a little, as
 though an almost imperceptible breath of warning had touched the surface
-of his soul and was gone again before he could seize it. Probably it was
+of his essence and was gone again before he could seize it. Probably it was
 traceable to that "scared expression" he had seen in the eyes of D fago;
-"probably"--for this hint of fugitive emotion otherwise escaped his
+"probably"—for this hint of fugitive emotion otherwise escaped his
 usually so keen analysis. D fago, he was vaguely aware, might cause
-trouble somehow ...He was not as steady a guide as Hank, for
-instance ... Further than that he could not get ...
+trouble somehow... He was not as steady a guide as Hank, for
+instance... Further than that he could not get...
 
 He watched the men a moment longer before diving into the stuffy tent
 where Simpson already slept soundly. Hank, he saw, was swearing like a
@@ -209,7 +203,7 @@ blankets in the opposite direction.
 
 Dr. Cathcart then likewise turned in, weariness and sleep still fighting
 in his mind with an obscure curiosity to know what it was that had
-scared D fago about the country up Fifty Island Water way,--wondering,
+scared D fago about the country up Fifty Island Water way,—wondering,
 too, why Punk's presence had prevented the completion of what Hank had
 to say. Then sleep overtook him. He would know tomorrow. Hank would tell
 him the story while they trudged after the elusive moose.
@@ -223,15 +217,15 @@ already the faint, bleak odors of coming winter. White men, with their
 dull scent, might never have divined them; the fragrance of the wood
 fire would have concealed from them these almost electrical hints of
 moss and bark and hardening swamp a hundred miles away. Even Hank and
-D fago, subtly in league with the soul of the woods as they were, would
-probably have spread their delicate nostrils in vain....
+D fago, subtly in league with the essence of the woods as they were, would
+probably have spread their delicate nostrils in vain...
 
 But an hour later, when all slept like the dead, old Punk crept from his
-blankets and went down to the shore of the lake like a shadow--silently,
+blankets and went down to the shore of the lake like a shadow—silently,
 as only Indian blood can move. He raised his head and looked about him.
 The thick darkness rendered sight of small avail, but, like the animals,
 he possessed other senses that darkness could not mute. He
-listened--then sniffed the air. Motionless as a hemlock stem he stood
+listened—then sniffed the air. Motionless as a hemlock stem he stood
 there. After five minutes again he lifted his head and sniffed, and yet
 once again. A tingling of the wonderful nerves that betrayed itself by
 no outer sign, ran through him as he tasted the keen air. Then, merging
@@ -247,29 +241,27 @@ with a faint and sighing murmur through the tops of the big trees that
 was almost too delicate to be audible. With it, down the desert paths of
 night, though too faint, too high even for the Indian's hair-like
 nerves, there passed a curious, thin odor, strangely disquieting, an
-odor of something that seemed unfamiliar--utterly unknown.
+odor of something that seemed unfamiliar—utterly unknown.
 
 The French Canadian and the man of Indian blood each stirred uneasily in
 his sleep just about this time, though neither of them woke. Then the
 ghost of that unforgettably strange odor passed away and was lost among
 the leagues of tenantless forest beyond.
 
-II
-
 In the morning the camp was astir before the sun. There had been a
 light fall of snow during the night and the air was sharp. Punk had done
 his duty betimes, for the odors of coffee and fried bacon reached every
-tent. All were in good spirits.
+tent. All were in good specters.
 
 "Wind's shifted!" cried Hank vigorously, watching Simpson and his guide
-already loading the small canoe. "It's across the lake--dead right for
+already loading the small canoe. "It's across the lake—dead right for
 you fellers. And the snow'll make bully trails! If there's any moose
 mussing around up thar, they'll not get so much as a tail-end scent of
 you with the wind as it is. Good luck, Monsieur D fago!" he added,
 facetiously giving the name its French pronunciation for once, "_bonne
 chance!_"
 
-D fago returned the good wishes, apparently in the best of spirits, the
+D fago returned the good wishes, apparently in the best of specters, the
 silent mood gone. Before eight o'clock old Punk had the camp to
 himself, Cathcart and Hank were far along the trail that led westwards,
 while the canoe that carried D fago and Simpson, with silk tent and grub
@@ -294,7 +286,7 @@ birch bark like a thing of life, answering cheerfully all his
 companion's questions. Both were gay and light-hearted. On such
 occasions men lose the superficial, worldly distinctions; they become
 human beings working together for a common end. Simpson, the employer,
-and D fago the employed, among these primitive forces, were simply--two
+and D fago the employed, among these primitive forces, were simply—two
 men, the "guider" and the "guided." Superior knowledge, of course,
 assumed control, and the younger man fell without a second thought into
 the quasi-subordinate position. He never dreamed of objecting when
@@ -304,23 +296,23 @@ farther shore after a stiff paddle of twelve miles against a head wind.
 He only laughed, and liked it; then ceased to notice it at all.
 
 For this "divinity student" was a young man of parts and character,
-though as yet, of course, untraveled; and on this trip--the first time
-he had seen any country but his own and little Switzerland--the huge
+though as yet, of course, untraveled; and on this trip—the first time
+he had seen any country but his own and little Switzerland—the huge
 scale of things somewhat bewildered him. It was one thing, he realized,
 to hear about primeval forests, but quite another to see them. While to
 dwell in them and seek acquaintance with their wild life was, again, an
 initiation that no intelligent man could undergo without a certain
-shifting of personal values hitherto held for permanent and sacred.
+shifting of personal values hitherto held for permanent and mystical.
 
 Simpson knew the first faint indication of this emotion when he held the
 new. 303 rifle in his hands and looked along its pair of faultless,
 gleaming barrels. The three days' journey to their headquarters, by lake
 and portage, had carried the process a stage farther. And now that he
 was about to plunge beyond even the fringe of wilderness where they were
-camped into the virgin heart of uninhabited regions as vast as Europe
+camped into the pure one heart of uninhabited regions as vast as Europe
 itself, the true nature of the situation stole upon him with an effect
 of delight and awe that his imagination was fully capable of
-appreciating. It was himself and D fago against a multitude--at least,
+appreciating. It was himself and D fago against a multitude—at least,
 against a Titan!
 
 The bleak splendors of these remote and lonely forests rather
@@ -337,7 +329,7 @@ upon the shore, pack the paddles carefully underneath, and then proceed
 to "blaze" the spruce stems for some distance on either side of an
 almost invisible trail, with the careless remark thrown in, "Say,
 Simpson, if anything happens to me, you'll find the canoe all correc' by
-these marks;--then strike doo west into the sun to hit the home camp
+these marks;—then strike doo west into the sun to hit the home camp
 agin, see?"
 
 It was the most natural thing in the world to say, and he said it
@@ -367,8 +359,8 @@ cozy, the beds of balsam boughs ready laid, and a brisk cooking fire
 burned with the minimum of smoke. While the young Scotchman cleaned the
 fish they had caught trolling behind the canoe, D fago "guessed" he
 would "jest as soon" take a turn through the Bush for indications of
-moose. "_May_ come across a trunk where they bin and rubbed horns," he
-said, as he moved off, "or feedin' on the last of the maple leaves"--and
+moose. "May come across a trunk where they bin and rubbed horns," he
+said, as he moved off, "or feedin' on the last of the maple leaves"—and
 he was gone.
 
 His small figure melted away like a shadow in the dusk, while Simpson
@@ -383,7 +375,7 @@ that thrust uncouth shoulders here and there out of the ground, it might
 well have been a bit of park in the Old Country. Almost, one might have
 seen in it the hand of man. A little to the right, however, began the
 great burnt section, miles in extent, proclaiming its real
-character--_brul _, as it is called, where the fires of the previous
+character—brul , as it is called, where the fires of the previous
 year had raged for weeks, and the blackened stumps now rose gaunt and
 ugly, bereft of branches, like gigantic match heads stuck into the
 ground, savage and desolate beyond words. The perfume of charcoal and
@@ -393,57 +385,57 @@ The dusk rapidly deepened; the glades grew dark; the crackling of the
 fire and the wash of little waves along the rocky lake shore were the
 only sounds audible. The wind had dropped with the sun, and in all that
 vast world of branches nothing stirred. Any moment, it seemed, the
-woodland gods, who are to be worshipped in silence and loneliness, might
+woodland entities, who are to be revered in silence and loneliness, might
 stretch their mighty and terrific outlines among the trees. In front,
 through doorways pillared by huge straight stems, lay the stretch of
 Fifty Island Water, a crescent-shaped lake some fifteen miles from tip
 to tip, and perhaps five miles across where they were camped. A sky of
 rose and saffron, more clear than any atmosphere Simpson had ever
 known, still dropped its pale streaming fires across the waves, where
-the islands--a hundred, surely, rather than fifty--floated like the
+the islands—a hundred, surely, rather than fifty—floated like the
 fairy barques of some enchanted fleet. Fringed with pines, whose crests
 fingered most delicately the sky, they almost seemed to move upwards as
-the light faded--about to weigh anchor and navigate the pathways of the
+the light faded—about to weigh anchor and navigate the pathways of the
 heavens instead of the currents of their native and desolate lake.
 
 And strips of colored cloud, like flaunting pennons, signaled their
-departure to the stars....
+departure to the stars...
 
 The beauty of the scene was strangely uplifting. Simpson smoked the fish
 and burnt his fingers into the bargain in his efforts to enjoy it and at
 the same time tend the frying pan and the fire. Yet, ever at the back of
 his thoughts, lay that other aspect of the wilderness: the indifference
-to human life, the merciless spirit of desolation which took no note of
+to human life, the merciless specter of desolation which took no note of
 man. The sense of his utter loneliness, now that even D fago had gone,
 came close as he looked about him and listened for the sound of his
 companion's returning footsteps.
 
 There was pleasure in the sensation, yet with it a perfectly
 comprehensible alarm. And instinctively the thought stirred in him:
-"What should I--_could_ I, do--if anything happened and he did not come
-back--?"
+"What should I—could I, do—if anything happened and he did not come
+back—?"
 
 They enjoyed their well-earned supper, eating untold quantities of fish,
 and drinking unmilked tea strong enough to kill men who had not covered
 thirty miles of hard "going," eating little on the way. And when it was
 over, they smoked and told stories round the blazing fire, laughing,
 stretching weary limbs, and discussing plans for the morrow. D fago was
-in excellent spirits, though disappointed at having no signs of moose to
-report. But it was dark and he had not gone far. The _brul _, too, was
+in excellent specters, though disappointed at having no signs of moose to
+report. But it was dark and he had not gone far. The brul , too, was
 bad. His clothes and hands were smeared with charcoal. Simpson, watching
-him, realized with renewed vividness their position--alone together in
+him, realized with renewed vividness their position—alone together in
 the wilderness.
 
 "D fago," he said presently, "these woods, you know, are a bit too big
-to feel quite at home in--to feel comfortable in, I mean!... Eh?" He
+to feel quite at home in—to feel comfortable in, I mean!... Eh?" He
 merely gave expression to the mood of the moment; he was hardly prepared
 for the earnestness, the solemnity even, with which the guide took him
 up.
 
 "You've hit it right, Simpson, boss," he replied, fixing his searching
 brown eyes on his face, "and that's the truth, sure. There's no end to
-'em--no end at all." Then he added in a lowered tone as if to himself,
-"There's lots found out _that_, and gone plumb to pieces!"
+'em—no end at all." Then he added in a lowered tone as if to himself,
+"There's lots found out that, and gone plumb to pieces!"
 
 But the man's gravity of manner was not quite to the other's liking; it
 was a little too suggestive for this scenery and setting; he was sorry
@@ -457,19 +449,19 @@ topics, on to Hank and the doctor, for instance, and the natural rivalry
 as to who should get the first sight of moose.
 
 "If they went doo west," observed D fago carelessly, "there's sixty
-miles between us now--with ole Punk at halfway house eatin' himself full
+miles between us now—with ole Punk at halfway house eatin' himself full
 to bustin' with fish and coffee." They laughed together over the
 picture. But the casual mention of those sixty miles again made Simpson
 realize the prodigious scale of this land where they hunted; sixty miles
 was a mere step; two hundred little more than a step. Stories of lost
 hunters rose persistently before his memory. The passion and mystery of
 homeless and wandering men, seduced by the beauty of great forests,
-swept his soul in a way too vivid to be quite pleasant. He wondered
+swept his essence in a way too vivid to be quite pleasant. He wondered
 vaguely whether it was the mood of his companion that invited the
 unwelcome suggestion with such persistence.
 
 "Sing us a song, D fago, if you're not too tired," he asked; "one of
-those old _voyageur_ songs you sang the other night." He handed his
+those old voyageur songs you sang the other night." He handed his
 tobacco pouch to the guide and then filled his own pipe, while the
 Canadian, nothing loth, sent his light voice across the lake in one of
 those plaintive, almost melancholy chanties with which lumbermen and
@@ -482,23 +474,23 @@ seemed to swallow it down with a single gulp that permitted neither echo
 nor resonance.
 
 It was in the middle of the third verse that Simpson noticed something
-unusual--something that brought his thoughts back with a rush from
+unusual—something that brought his thoughts back with a rush from
 faraway scenes. A curious change had come into the man's voice. Even
 before he knew what it was, uneasiness caught him, and looking up
 quickly, he saw that D fago, though still singing, was peering about him
 into the Bush, as though he heard or saw something. His voice grew
-fainter--dropped to a hush--then ceased altogether. The same instant,
+fainter—dropped to a hush—then ceased altogether. The same instant,
 with a movement amazingly alert, he started to his feet and stood
-upright--_sniffing the air_. Like a dog scenting game, he drew the air
+upright—sniffing the air. Like a dog scenting game, he drew the air
 into his nostrils in short, sharp breaths, turning quickly as he did so
 in all directions, and finally "pointing" down the lake shore,
 eastwards. It was a performance unpleasantly suggestive and at the same
 time singularly dramatic. Simpson's heart fluttered disagreeably as he
 watched it.
 
-"Lord, man! How you made me jump!" he exclaimed, on his feet beside him
+"Master, man! How you made me jump!" he exclaimed, on his feet beside him
 the same instant, and peering over his shoulder into the sea of
-darkness. "What's up? Are you frightened--?"
+darkness. "What's up? Are you frightened—?"
 
 Even before the question was out of his mouth he knew it was foolish,
 for any man with a pair of eyes in his head could see that the Canadian
@@ -507,22 +499,22 @@ of the fire could hide that.
 
 The student felt himself trembling a little, weakish in the knees.
 "What's up?" he repeated quickly. "D'you smell moose? Or anything queer,
-anything--wrong?" He lowered his voice instinctively.
+anything—wrong?" He lowered his voice instinctively.
 
 The forest pressed round them with its encircling wall; the nearer tree
-stems gleamed like bronze in the firelight; beyond that--blackness, and,
+stems gleamed like bronze in the firelight; beyond that—blackness, and,
 so far as he could tell, a silence of death. Just behind them a passing
 puff of wind lifted a single leaf, looked at it, then laid it softly
 down again without disturbing the rest of the covey. It seemed as if a
 million invisible causes had combined just to produce that single
-visible effect. _Other_ life pulsed about them--and was gone.
+visible effect. Other life pulsed about them—and was gone.
 
 D fago turned abruptly; the livid hue of his face had turned to a dirty
 grey.
 
-"I never said I heered--or smelt--nuthin'," he said slowly and
+"I never said I heered—or smelt—nuthin'," he said slowly and
 emphatically, in an oddly altered voice that conveyed somehow a touch of
-defiance. "I was only--takin' a look round--so to speak. It's always a
+defiance. "I was only—takin' a look round—so to speak. It's always a
 mistake to be too previous with yer questions." Then he added suddenly
 with obvious effort, in his more natural voice, "Have you got the
 matches, Boss Simpson?" and proceeded to light the pipe he had half
@@ -531,7 +523,7 @@ filled just before he began to sing.
 Without speaking another word they sat down again by the fire. D fago
 changing his side so that he could face the direction the wind came
 from. For even a tenderfoot could tell that. D fago changed his position
-in order to hear and smell--all there was to be heard and smelt. And,
+in order to hear and smell—all there was to be heard and smelt. And,
 since he now faced the lake with his back to the trees it was evidently
 nothing in the forest that had sent so strange and sudden a warning to
 his marvelously trained nerves.
@@ -546,19 +538,17 @@ He wished to excuse himself in the eyes of the other. But the
 explanation, in that it was only a part of the truth, was a lie, and he
 knew perfectly well that Simpson was not deceived by it. For nothing
 could explain away the livid terror that had dropped over his face while
-he stood there sniffing the air. And nothing--no amount of blazing fire,
-or chatting on ordinary subjects--could make that camp exactly as it had
+he stood there sniffing the air. And nothing—no amount of blazing fire,
+or chatting on ordinary subjects—could make that camp exactly as it had
 been before. The shadow of an unknown horror, naked if unguessed, that
 had flashed for an instant in the face and gestures of the guide, had
 also communicated itself, vaguely and therefore more potently, to his
 companion. The guide's visible efforts to dissemble the truth only made
 things worse. Moreover, to add to the younger man's uneasiness, was the
 difficulty, nay, the impossibility he felt of asking questions, and also
-his complete ignorance as to the cause ...Indians, wild animals, forest
-fires--all these, he knew, were wholly out of the question. His
-imagination searched vigorously, but in vain....
-
-*       *       *       *       *
+his complete ignorance as to the cause... Indians, wild animals, forest
+fires—all these, he knew, were wholly out of the question. His
+imagination searched vigorously, but in vain...
 
 Yet, somehow or other, after another long spell of smoking, talking and
 roasting themselves before the great fire, the shadow that had so
@@ -573,42 +563,42 @@ permitted himself the unreasoning terror of a child. He put it down
 partly to a certain subconscious excitement that this wild and immense
 scenery generated in his blood, partly to the spell of solitude, and
 partly to overfatigue. That pallor in the guide's face was, of course,
-uncommonly hard to explain, yet it _might_ have been due in some way to
-an effect of firelight, or his own imagination ...He gave it the benefit
+uncommonly hard to explain, yet it might have been due in some way to
+an effect of firelight, or his own imagination... He gave it the benefit
 of the doubt; he was Scotch.
 
 When a somewhat unordinary emotion has disappeared, the mind always
-finds a dozen ways of explaining away its causes ...Simpson lit a last
+finds a dozen ways of explaining away its causes... Simpson lit a last
 pipe and tried to laugh to himself. On getting home to Scotland it would
 make quite a good story. He did not realize that this laughter was a
-sign that terror still lurked in the recesses of his soul--that, in
+sign that terror still lurked in the recesses of his essence—that, in
 fact, it was merely one of the conventional signs by which a man,
-seriously alarmed, tries to persuade himself that he is _not_ so.
+seriously alarmed, tries to persuade himself that he is not so.
 
 D fago, however, heard that low laughter and looked up with surprise on
 his face. The two men stood, side by side, kicking the embers about
-before going to bed. It was ten o'clock--a late hour for hunters to be
+before going to bed. It was ten o'clock—a late hour for hunters to be
 still awake.
 
 "What's ticklin' yer?" he asked in his ordinary tone, yet gravely.
 
-"I--I was thinking of our little toy woods at home, just at that
+"I—I was thinking of our little toy woods at home, just at that
 moment," stammered Simpson, coming back to what really dominated his
-mind, and startled by the question, "and comparing them to--to all
+mind, and startled by the question, "and comparing them to—to all
 this," and he swept his arm round to indicate the Bush.
 
 A pause followed in which neither of them said anything.
 
 "All the same I wouldn't laugh about it, if I was you," D fago added,
 looking over Simpson's shoulder into the shadows. "There's places in
-there nobody won't never see into--nobody knows what lives in there
+there nobody won't never see into—nobody knows what lives in there
 either."
 
-"Too big--too far off?" The suggestion in the guide's manner was immense
+"Too big—too far off?" The suggestion in the guide's manner was immense
 and horrible.
 
 D fago nodded. The expression on his face was dark. He, too, felt
-uneasy. The younger man understood that in a _hinterland_ of this size
+uneasy. The younger man understood that in a hinterland of this size
 there might well be depths of wood that would never in the life of the
 world be known or trodden. The thought was not exactly the sort he
 welcomed. In a loud voice, cheerfully, he suggested that it was time for
@@ -618,14 +608,14 @@ Evidently there was something he wanted to say, yet found it difficult
 to "get at."
 
 "Say, you, Boss Simpson," he began suddenly, as the last shower of
-sparks went up into the air, "you don't--smell nothing, do you--nothing
+sparks went up into the air, "you don't—smell nothing, do you—nothing
 pertickler, I mean?" The commonplace question, Simpson realized, veiled
 a dreadfully serious thought in his mind. A shiver ran down his back.
 
 "Nothing but burning wood," he replied firmly, kicking again at the
 embers. The sound of his own foot made him start.
 
-"And all the evenin' you ain't smelt--nothing?" persisted the guide,
+"And all the evenin' you ain't smelt—nothing?" persisted the guide,
 peering at him through the gloom; "nothing extrordiny, and different to
 anything else you ever smelt before?"
 
@@ -634,16 +624,16 @@ anything else you ever smelt before?"
 D fago's face cleared. "That's good!" he exclaimed with evident relief.
 "That's good to hear."
 
-"Have _you?_" asked Simpson sharply, and the same instant regretted the
+"Have you?" asked Simpson sharply, and the same instant regretted the
 question.
 
 The Canadian came closer in the darkness. He shook his head. "I guess
 not," he said, though without overwhelming conviction. "It must've been
 just that song of mine that did it. It's the song they sing in lumber
 camps and godforsaken places like that, when they're skeered the
-Wendigo's somewhere around, doin' a bit of swift traveling.--"
+Wendigo's somewhere around, doin' a bit of swift traveling.—"
 
-"And what's the Wendigo, pray?" Simpson asked quickly, irritated because
+"And what's the Wendigo, invoke?" Simpson asked quickly, irritated because
 again he could not prevent that sudden shiver of the nerves. He knew
 that he was close upon the man's terror and the cause of it. Yet a
 rushing passionate curiosity overcame his better judgment, and his fear.
@@ -651,17 +641,17 @@ rushing passionate curiosity overcame his better judgment, and his fear.
 D fago turned swiftly and looked at him as though he were suddenly about
 to shriek. His eyes shone, but his mouth was wide open. Yet all he said,
 or whispered rather, for his voice sank very low, was: "It's
-nuthin'--nuthin' but what those lousy fellers believe when they've bin
-hittin' the bottle too long--a sort of great animal that lives up
+nuthin'—nuthin' but what those lousy fellers believe when they've bin
+hittin' the bottle too long—a sort of great animal that lives up
 yonder," he jerked his head northwards, "quick as lightning in its
 tracks, an' bigger'n anything else in the Bush, an' ain't supposed to be
-very good to look at--that's all!"
+very good to look at—that's all!"
 
-"A backwoods superstition--" began Simpson, moving hastily toward the
+"A backwoods superstition—" began Simpson, moving hastily toward the
 tent in order to shake off the hand of the guide that clutched his arm.
-"Come, come, hurry up for God's sake, and get the lantern going! It's
+"Come, come, hurry up for Entity's sake, and get the lantern going! It's
 time we were in bed and asleep if we're going to be up with the sun
-tomorrow...."
+tomorrow..."
 
 The guide was close on his heels. "I'm coming," he answered out of the
 darkness, "I'm coming." And after a slight delay he appeared with the
@@ -677,16 +667,14 @@ million shadows, and smothering the little tent that stood there like a
 wee white shell facing the ocean of tremendous forest.
 
 Between the two lonely figures within, however, there pressed another
-shadow that was _not_ a shadow from the night. It was the Shadow cast by
+shadow that was not a shadow from the night. It was the Shadow cast by
 the strange Fear, never wholly exorcised, that had leaped suddenly upon
 D fago in the middle of his singing. And Simpson, as he lay there,
 watching the darkness through the open flap of the tent, ready to plunge
 into the fragrant abyss of sleep, knew first that unique and profound
-stillness of a primeval forest when no wind stirs ... and when the night
-has weight and substance that enters into the soul to bind a veil about
-it.... Then sleep took him....
-
-III
+stillness of a primeval forest when no wind stirs... and when the night
+has weight and substance that enters into the essence to bind a veil about
+it... Then sleep took him...
 
 Thus, it seemed to him, at least. Yet it was true that the lap of the
 water, just beyond the tent door, still beat time with his lessening
@@ -709,14 +697,14 @@ against his mouth to stifle it.
 And his first feeling, before he could think or reflect, was the rush of
 a poignant and searching tenderness. This intimate, human sound, heard
 amid the desolation about them, woke pity. It was so incongruous, so
-pitifully incongruous--and so vain! Tears--in this vast and cruel
+pitifully incongruous—and so vain! Tears—in this vast and cruel
 wilderness: of what avail? He thought of a little child crying in
-mid-Atlantic.... Then, of course, with fuller realization, and the
+mid-Atlantic... Then, of course, with fuller realization, and the
 memory of what had gone before, came the descent of the terror upon him,
 and his blood ran cold.
 
 "D fago," he whispered quickly, "what's the matter?" He tried to make
-his voice very gentle. "Are you in pain--unhappy--?" There was no reply,
+his voice very gentle. "Are you in pain—unhappy—?" There was no reply,
 but the sounds ceased abruptly. He stretched his hand out and touched
 him. The body did not stir.
 
@@ -733,21 +721,19 @@ Presently he heard his regular and quiet breathing, and putting his hand
 again gently on the breast, felt the steady rise and fall beneath.
 
 "Let me know if anything's wrong," he whispered, "or if I can do
-anything. Wake me at once if you feel--queer."
+anything. Wake me at once if you feel—queer."
 
 He hardly knew what to say. He lay down again, thinking and wondering
 what it all meant. D fago, of course, had been crying in his sleep. Some
 dream or other had afflicted him. Yet never in his life would he forget
 that pitiful sound of sobbing, and the feeling that the whole awful
-wilderness of woods listened....
+wilderness of woods listened...
 
 His own mind busied itself for a long time with the recent events, of
-which _this_ took its mysterious place as one, and though his reason
+which this took its mysterious place as one, and though his reason
 successfully argued away all unwelcome suggestions, a sensation of
-uneasiness remained, resisting ejection, very deep-seated--peculiar
+uneasiness remained, resisting ejection, very deep-seated—peculiar
 beyond ordinary.
-
-IV
 
 But sleep, in the long run, proves greater than all emotions. His
 thoughts soon wandered again; he lay there, warm as toast, exceedingly
@@ -765,7 +751,7 @@ that now followed, though they actually happened, persuaded the mind
 somehow that the detail which could explain them had been overlooked in
 the confusion, and that therefore they were but partly true, the rest
 delusion. At the back of the sleeper's mind something remains awake,
-ready to let slip the judgment. "All this is not _quite_ real; when you
+ready to let slip the judgment. "All this is not quite real; when you
 wake up you'll understand."
 
 And thus, in a way, it was with Simpson. The events, not wholly
@@ -776,7 +762,7 @@ overlooked.
 
 So far as he can recall, it was a violent movement, running downwards
 through the tent towards the door, that first woke him and made him
-aware that his companion was sitting bolt upright beside him--quivering.
+aware that his companion was sitting bolt upright beside him—quivering.
 Hours must have passed, for it was the pale gleam of the dawn that
 revealed his outline against the canvas. This time the man was not
 crying; he was quaking like a leaf; the trembling he felt plainly
@@ -784,30 +770,30 @@ through the blankets down the entire length of his own body. D fago had
 huddled down against him for protection, shrinking away from something
 that apparently concealed itself near the door flaps of the little tent.
 
-Simpson thereupon called out in a loud voice some question or other--in
-the first bewilderment of waking he does not remember exactly what--and
+Simpson thereupon called out in a loud voice some question or other—in
+the first bewilderment of waking he does not remember exactly what—and
 the man made no reply. The atmosphere and feeling of true nightmare lay
 horribly about him, making movement and speech both difficult. At first,
-indeed, he was not sure where he was--whether in one of the earlier
+indeed, he was not sure where he was—whether in one of the earlier
 camps, or at home in his bed at Aberdeen. The sense of confusion was
 very troubling.
 
-And next--almost simultaneous with his waking, it seemed--the profound
+And next—almost simultaneous with his waking, it seemed—the profound
 stillness of the dawn outside was shattered by a most uncommon sound. It
 came without warning, or audible approach; and it was unspeakably
 dreadful. It was a voice, Simpson declares, possibly a human voice;
-hoarse yet plaintive--a soft, roaring voice close outside the tent,
+hoarse yet plaintive—a soft, roaring voice close outside the tent,
 overhead rather than upon the ground, of immense volume, while in some
 strange way most penetratingly and seductively sweet. It rang out, too,
 in three separate and distinct notes, or cries, that bore in some odd
 fashion a resemblance, farfetched yet recognizable, to the name of the
-guide: "_D -fa-go!_"
+guide: "D -fa-go!"
 
 The student admits he is unable to describe it quite intelligently, for
 it was unlike any sound he had ever heard in his life, and combined a
 blending of such contrary qualities. "A sort of windy, crying voice," he
 calls it, "as of something lonely and untamed, wild and of abominable
-power...."
+power..."
 
 And, even before it ceased, dropping back into the great gulfs of
 silence, the guide beside him had sprung to his feet with an answering
@@ -817,11 +803,11 @@ frantically for more room, and kicking his legs impetuously free of the
 clinging blankets. For a second, perhaps two, he stood upright by the
 door, his outline dark against the pallor of the dawn; then, with a
 furious, rushing speed, before his companion could move a hand to stop
-him, he shot with a plunge through the flaps of canvas--and was gone.
-And as he went--so astonishingly fast that the voice could actually be
-heard dying in the distance--he called aloud in tones of anguished
+him, he shot with a plunge through the flaps of canvas—and was gone.
+And as he went—so astonishingly fast that the voice could actually be
+heard dying in the distance—he called aloud in tones of anguished
 terror that at the same time held something strangely like the frenzied
-exultation of delight--
+exultation of delight—
 
 "Oh! oh! My feet of fire! My burning feet of fire! Oh! oh! This height
 and fiery speed!"
@@ -835,28 +821,28 @@ been the memory of a nightmare carried over from sleep. He still felt
 the warm pressure of that vanished body against his side; there lay the
 twisted blankets in a heap; the very tent yet trembled with the
 vehemence of the impetuous departure. The strange words rang in his
-ears, as though he still heard them in the distance--wild language of a
+ears, as though he still heard them in the distance—wild language of a
 suddenly stricken mind. Moreover, it was not only the senses of sight
 and hearing that reported uncommon things to his brain, for even while
 the man cried and ran, he had become aware that a strange perfume, faint
 yet pungent, pervaded the interior of the tent. And it was at this
 point, it seems, brought to himself by the consciousness that his
 nostrils were taking this distressing odor down into his throat, that he
-found his courage, sprang quickly to his feet--and went out.
+found his courage, sprang quickly to his feet—and went out.
 
 The grey light of dawn that dropped, cold and glimmering, between the
 trees revealed the scene tolerably well. There stood the tent behind
 him, soaked with dew; the dark ashes of the fire, still warm; the lake,
 white beneath a coating of mist, the islands rising darkly out of it
 like objects packed in wool; and patches of snow beyond among the
-clearer spaces of the Bush--everything cold, still, waiting for the sun.
-But nowhere a sign of the vanished guide--still, doubtless, flying at
+clearer spaces of the Bush—everything cold, still, waiting for the sun.
+But nowhere a sign of the vanished guide—still, doubtless, flying at
 frantic speed through the frozen woods. There was not even the sound of
 disappearing footsteps, nor the echoes of the dying voice. He had
-gone--utterly.
+gone—utterly.
 
 There was nothing; nothing but the sense of his recent presence, so
-strongly left behind about the camp; _and_--this penetrating,
+strongly left behind about the camp; and—this penetrating,
 all-pervading odor.
 
 And even this was now rapidly disappearing in its turn. In spite of his
@@ -872,13 +858,13 @@ garden leaves, earth, and the myriad, nameless perfumes that make up the
 odor of a big forest. Yet the "odor of lions" is the phrase with which
 he usually sums it all up.
 
-Then--it was wholly gone, and he found himself standing by the ashes of
+Then—it was wholly gone, and he found himself standing by the ashes of
 the fire in a state of amazement and stupid terror that left him the
 helpless prey of anything that chose to happen. Had a muskrat poked its
 pointed muzzle over a rock, or a squirrel scuttled in that instant down
 the bark of a tree, he would most likely have collapsed without more ado
 and fainted. For he felt about the whole affair the touch somewhere of a
-great Outer Horror ... and his scattered powers had not as yet had time
+great Outer Horror... and his scattered powers had not as yet had time
 to collect themselves into a definite attitude of fighting self-control.
 
 Nothing did happen, however. A great kiss of wind ran softly through the
@@ -886,7 +872,7 @@ awakening forest, and a few maple leaves here and there rustled
 tremblingly to earth. The sky seemed to grow suddenly much lighter.
 Simpson felt the cool air upon his cheek and uncovered head; realized
 that he was shivering with the cold; and, making a great effort,
-realized next that he was alone in the Bush--_and_ that he was called
+realized next that he was alone in the Bush—and that he was called
 upon to take immediate steps to find and succor his vanished companion.
 
 Make an effort, accordingly, he did, though an ill-calculated and futile
@@ -897,7 +883,7 @@ bewilderment: he ran about, without any sense of direction, like a
 frantic child, and called loudly without ceasing the name of the guide:
 
 "D fago! D fago! D fago!" he yelled, and the trees gave him back the
-name as often as he shouted, only a little softened--"D fago! D fago!
+name as often as he shouted, only a little softened—"D fago! D fago!
 D fago!"
 
 He followed the trail that lay a short distance across the patches of
@@ -931,7 +917,7 @@ intending to make a wide sweep that must sooner or later cut into
 indications of the guide's trail; and, before he had gone a quarter of a
 mile he came across the tracks of a large animal in the snow, and beside
 it the light and smaller tracks of what were beyond question human
-feet--the feet of D fago. The relief he at once experienced was natural,
+feet—the feet of D fago. The relief he at once experienced was natural,
 though brief; for at first sight he saw in these tracks a simple
 explanation of the whole matter: these big marks had surely been left by
 a bull moose that, wind against it, had blundered upon the camp, and
@@ -939,17 +925,17 @@ uttered its singular cry of warning and alarm the moment its mistake was
 apparent. D fago, in whom the hunting instinct was developed to the
 point of uncanny perfection, had scented the brute coming down the wind
 hours before. His excitement and disappearance were due, of course,
-to--to his--
+to—to his—
 
 Then the impossible explanation at which he grasped faded, as common
 sense showed him mercilessly that none of this was true. No guide, much
 less a guide like D fago, could have acted in so irrational a way, going
-off even without his rifle ...! The whole affair demanded a far more
-complicated elucidation, when he remembered the details of it all--the
+off even without his rifle...! The whole affair demanded a far more
+complicated elucidation, when he remembered the details of it all—the
 cry of terror, the amazing language, the grey face of horror when his
 nostrils first caught the new odor; that muffled sobbing in the
-darkness, and--for this, too, now came back to him dimly--the man's
-original aversion for this particular bit of country....
+darkness, and—for this, too, now came back to him dimly—the man's
+original aversion for this particular bit of country...
 
 Besides, now that he examined them closer, these were not the tracks of
 a bull moose at all! Hank had explained to him the outline of a bull's
@@ -960,11 +946,11 @@ He wondered for a moment whether bear tracks were like that. There was
 no other animal he could think of, for caribou did not come so far
 south at this season, and, even if they did, would leave hoof marks.
 
-They were ominous signs--these mysterious writings left in the snow by
-the unknown creature that had lured a human being away from safety--and
+They were ominous signs—these mysterious writings left in the snow by
+the unknown creature that had lured a human being away from safety—and
 when he coupled them in his imagination with that haunting sound that
 broke the stillness of the dawn, a momentary dizziness shook his mind,
-distressing him again beyond belief. He felt the _threatening_ aspect of
+distressing him again beyond belief. He felt the threatening aspect of
 it all. And, stooping down to examine the marks more closely, he caught
 a faint whiff of that sweet yet pungent odor that made him instantly
 straighten up again, fighting a sensation almost of nausea.
@@ -987,13 +973,11 @@ the axe upon the massive trunks, and the unnatural accents of his own
 voice became at length sounds that he even dreaded to make, dreaded to
 hear. For they drew attention without ceasing to his presence and exact
 whereabouts, and if it were really the case that something was hunting
-himself down in the same way that he was hunting down another--
+himself down in the same way that he was hunting down another—
 
 With a strong effort, he crushed the thought out the instant it rose.
 It was the beginning, he realized, of a bewilderment utterly diabolical
 in kind that would speedily destroy him.
-
-*       *       *       *       *
 
 Although the snow was not continuous, lying merely in shallow flurries
 over the more open spaces, he found no difficulty in following the
@@ -1014,17 +998,15 @@ not compass even half the stretch by taking a running jump.
 And the sight of these huge tracks, running side by side, silent
 evidence of a dreadful journey in which terror or madness had urged to
 impossible results, was profoundly moving. It shocked him in the secret
-depths of his soul. It was the most horrible thing his eyes had ever
+depths of his essence. It was the most horrible thing his eyes had ever
 looked upon. He began to follow them mechanically, absentmindedly
 almost, ever peering over his shoulder to see if he, too, were being
-followed by something with a gigantic tread.... And soon it came about
-that he no longer quite realized what it was they signified--these
+followed by something with a gigantic tread... And soon it came about
+that he no longer quite realized what it was they signified—these
 impressions left upon the snow by something nameless and untamed, always
 accompanied by the footmarks of the little French Canadian, his guide,
 his comrade, the man who had shared his tent a few hours before,
-chatting, laughing, even singing by his side....
-
-V
+chatting, laughing, even singing by his side...
 
 For a man of his years and inexperience, only a canny Scot, perhaps,
 grounded in common sense and established in logic, could have preserved
@@ -1033,10 +1015,10 @@ to preserve through the whole adventure. Otherwise, two things he
 presently noticed, while forging pluckily ahead, must have sent him
 headlong back to the comparative safety of his tent, instead of only
 making his hands close more tightly upon the rifle stock, while his
-heart, trained for the Wee Kirk, sent a wordless prayer winging its way
-to heaven. Both tracks, he saw, had undergone a change, and this change,
+heart, trained for the Wee Kirk, sent a wordless incantation winging its way
+to ethereal realm. Both tracks, he saw, had undergone a change, and this change,
 so far as it concerned the footsteps of the man, was in some
-undecipherable manner--appalling.
+undecipherable manner—appalling.
 
 It was in the bigger tracks he first noticed this, and for a long time
 he could not quite believe his eyes. Was it the blown leaves that
@@ -1046,7 +1028,7 @@ Or was it actually the fact that the great marks had become faintly
 colored? For round about the deep, plunging holes of the animal there
 now appeared a mysterious, reddish tinge that was more like an effect of
 light than of anything that dyed the substance of the snow itself. Every
-mark had it, and had it increasingly--this indistinct fiery tinge that
+mark had it, and had it increasingly—this indistinct fiery tinge that
 painted a new touch of ghastliness into the picture.
 
 But when, wholly unable to explain or to credit it, he turned his
@@ -1067,19 +1049,19 @@ indecision, took a few hurried steps ahead; the next instant stopped
 dead in his tracks. Immediately in front of him all signs of the trail
 ceased; both tracks came to an abrupt end. On all sides, for a hundred
 yards and more, he searched in vain for the least indication of their
-continuance. There was--nothing.
+continuance. There was—nothing.
 
 The trees were very thick just there, big trees all of them, spruce,
 cedar, hemlock; there was no underbrush. He stood, looking about him,
 all distraught; bereft of any power of judgment. Then he set to work to
 search again, and again, and yet again, but always with the same result:
-_nothing_. The feet that printed the surface of the snow thus far had
+nothing. The feet that printed the surface of the snow thus far had
 now, apparently, left the ground!
 
 And it was in that moment of distress and confusion that the whip of
 terror laid its most nicely calculated lash about his heart. It dropped
 with deadly effect upon the sorest spot of all, completely unnerving
-him. He had been secretly dreading all the time that it would come--and
+him. He had been secretly dreading all the time that it would come—and
 come it did.
 
 Far overhead, muted by great height and distance, strangely thinned and
@@ -1089,14 +1071,14 @@ The sound dropped upon him out of that still, wintry sky with an effect
 of dismay and terror unsurpassed. The rifle fell to his feet. He stood
 motionless an instant, listening as it were with his whole body, then
 staggered back against the nearest tree for support, disorganized
-hopelessly in mind and spirit. To him, in that moment, it seemed the
+hopelessly in mind and specter. To him, in that moment, it seemed the
 most shattering and dislocating experience he had ever known, so that
 his heart emptied itself of all feeling whatsoever as by a sudden
 draught.
 
 "Oh! oh! This fiery height! Oh, my feet of fire! My burning feet of
-fire ...!" ran in far, beseeching accents of indescribable appeal this
-voice of anguish down the sky. Once it called--then silence through all
+fire...!" ran in far, beseeching accents of indescribable appeal this
+voice of anguish down the sky. Once it called—then silence through all
 the listening wilderness of trees.
 
 And Simpson, scarcely knowing what he did, presently found himself
@@ -1105,23 +1087,21 @@ boulders, and flinging himself in a frenzy of undirected pursuit after
 the Caller. Behind the screen of memory and emotion with which
 experience veils events, he plunged, distracted and half-deranged,
 picking up false lights like a ship at sea, terror in his eyes and
-heart and soul. For the Panic of the Wilderness had called to him in
-that far voice--the Power of untamed Distance--the Enticement of the
+heart and essence. For the Panic of the Wilderness had called to him in
+that far voice—the Power of untamed Distance—the Enticement of the
 Desolation that destroys. He knew in that moment all the pains of
 someone hopelessly and irretrievably lost, suffering the lust and
-travail of a soul in the final Loneliness. A vision of D fago, eternally
+travail of a essence in the final Loneliness. A vision of D fago, eternally
 hunted, driven and pursued across the skiey vastness of those ancient
-forests fled like a flame across the dark ruin of his thoughts ...
+forests fled like a flame across the dark ruin of his thoughts...
 
 It seemed ages before he could find anything in the chaos of his
 disorganized sensations to which he could anchor himself steady for a
-moment, and think ...
+moment, and think...
 
 The cry was not repeated; his own hoarse calling brought no response;
 the inscrutable forces of the Wild had summoned their victim beyond
-recall--and held him fast.
-
-*       *       *       *       *
+recall—and held him fast.
 
 Yet he searched and called, it seems, for hours afterwards, for it was
 late in the afternoon when at length he decided to abandon a useless
@@ -1154,17 +1134,17 @@ and his plan of action proves it. Sleep being absolutely out of the
 question and traveling an unknown trail in the darkness equally
 impracticable, he sat up the whole of that night, rifle in hand, before
 a fire he never for a single moment allowed to die down. The severity of
-the haunted vigil marked his soul for life; but it was successfully
+the haunted vigil marked his essence for life; but it was successfully
 accomplished; and with the very first signs of dawn he set forth upon
 the long return journey to the home camp to get help. As before, he left
 a written note to explain his absence, and to indicate where he had left
-a plentiful _cache_ of food and matches--though he had no expectation
+a plentiful cache of food and matches—though he had no expectation
 that any human hands would find them!
 
 How Simpson found his way alone by the lake and forest might well make a
-story in itself, for to hear him tell it is to _know_ the passionate
-loneliness of soul that a man can feel when the Wilderness holds him in
-the hollow of its illimitable hand--and laughs. It is also to admire his
+story in itself, for to hear him tell it is to know the passionate
+loneliness of essence that a man can feel when the Wilderness holds him in
+the hollow of its illimitable hand—and laughs. It is also to admire his
 indomitable pluck.
 
 He claims no skill, declaring that he followed the almost invisible
@@ -1191,20 +1171,18 @@ sandy cove, and Hank, Punk and his uncle, disturbed in their sleep by
 his cries, ran quickly down and helped a very exhausted and broken
 specimen of Scotch humanity over the rocks toward a dying fire.
 
-VI
-
 The sudden entrance of his prosaic uncle into this world of wizardry
 and horror that had haunted him without interruption now for two days
 and two nights, had the immediate effect of giving to the affair an
 entirely new aspect. The sound of that crisp "Hulloa, my boy! And what's
-up _now_?" and the grasp of that dry and vigorous hand introduced
+up now?" and the grasp of that dry and vigorous hand introduced
 another standard of judgment. A revulsion of feeling washed through him.
 He realized that he had let himself "go" rather badly. He even felt
 vaguely ashamed of himself. The native hard-headedness of his race
 reclaimed him.
 
 And this doubtless explains why he found it so hard to tell that group
-round the fire--everything. He told enough, however, for the immediate
+round the fire—everything. He told enough, however, for the immediate
 decision to be arrived at that a relief party must start at the earliest
 possible moment, and that Simpson, in order to guide it capably, must
 first have food and, above all, sleep. Dr. Cathcart observing the lad's
@@ -1214,20 +1192,22 @@ injection of morphine. For six hours he slept like the dead.
 From the description carefully written out afterwards by this student of
 divinity, it appears that the account he gave to the astonished group
 omitted sundry vital and important details. He declares that, with his
-uncle's wholesome, matter-of-fact countenance staring him in the face,
+uncle's wholesome, matter-of-f
+
+ountenance staring him in the face,
 he simply had not the courage to mention them. Thus, all the search
 party gathered, it would seem, was that D fago had suffered in the night
 an acute and inexplicable attack of mania, had imagined himself "called"
 by someone or something, and had plunged into the bush after it without
 food or rifle, where he must die a horrible and lingering death by cold
 and starvation unless he could be found and rescued in time. "In time,"
-moreover, meant _at once_.
+moreover, meant at once.
 
-In the course of the following day, however--they were off by seven,
+In the course of the following day, however—they were off by seven,
 leaving Punk in charge with instructions to have food and fire always
-ready--Simpson found it possible to tell his uncle a good deal more of
+ready—Simpson found it possible to tell his uncle a good deal more of
 the story's true inwardness, without divining that it was drawn out of
-him as a matter of fact by a very subtle form of cross examination. By
+him as a matter of fact by a very subtle form of symbol examination. By
 the time they reached the beginning of the trail, where the canoe was
 laid up against the return journey, he had mentioned how D fago spoke
 vaguely of "something he called a 'Wendigo'"; how he cried in his sleep;
@@ -1235,17 +1215,19 @@ how he imagined an unusual scent about the camp; and had betrayed other
 symptoms of mental excitement. He also admitted the bewildering effect
 of "that extraordinary odor" upon himself, "pungent and acrid like the
 odor of lions." And by the time they were within an easy hour of Fifty
-Island Water he had let slip the further fact--a foolish avowal of his
-own hysterical condition, as he felt afterwards--that he had heard the
+Island Water he had let slip the further fact—a foolish avowal of his
+own hysterical condition, as he felt afterwards—that he had heard the
 vanished guide call "for help." He omitted the singular phrases used,
 for he simply could not bring himself to repeat the preposterous
 language. Also, while describing how the man's footsteps in the snow had
-gradually assumed an exact miniature likeness of the animal's plunging
-tracks, he left out the fact that they measured a _wholly_ incredible
+gradually assumed an ex
+
+niature likeness of the animal's plunging
+tracks, he left out the fact that they measured a wholly incredible
 distance. It seemed a question, nicely balanced between individual pride
 and honesty, what he should reveal and what suppress. He mentioned the
 fiery tinge in the snow, for instance, yet shrank from telling that body
-and bed had been partly dragged out of the tent....
+and bed had been partly dragged out of the tent...
 
 With the net result that Dr. Cathcart, adroit psychologist that he
 fancied himself to be, had assured him clearly enough exactly where his
@@ -1255,7 +1237,7 @@ at the same time to point out where, when, and how his mind had gone
 astray. He made his nephew think himself finer than he was by judicious
 praise, yet more foolish than he was by minimizing the value of the
 evidence. Like many another materialist, that is, he lied cleverly on
-the basis of insufficient knowledge, _because_ the knowledge supplied
+the basis of insufficient knowledge, because the knowledge supplied
 seemed to his own particular intelligence inadmissible.
 
 "The spell of these terrible solitudes," he said, "cannot leave any mind
@@ -1267,14 +1249,14 @@ very peculiar quality of sound. The colored appearance of the big tracks
 was obviously a defect of vision in your own eyes produced by
 excitement. The size and stretch of the tracks we shall prove when we
 come to them. But the hallucination of an audible voice, of course, is
-one of the commonest forms of delusion due to mental excitement--an
+one of the commonest forms of delusion due to mental excitement—an
 excitement, my dear boy, perfectly excusable, and, let me add,
 wonderfully controlled by you under the circumstances. For the rest, I
 am bound to say, you have acted with a splendid courage, for the terror
 of feeling oneself lost in this wilderness is nothing short of awful,
 and, had I been in your place, I don't for a moment believe I could have
 behaved with one quarter of your wisdom and decision. The only thing I
-find it uncommonly difficult to explain is--that--damned odor."
+find it uncommonly difficult to explain is—that—damned odor."
 
 "It made me feel sick, I assure you," declared his nephew, "positively
 dizzy!" His uncle's attitude of calm omniscience, merely because he knew
@@ -1288,12 +1270,10 @@ unemotional man beside him.
 not seem to you even worse." The dry words, Simpson knew, hovered
 between the truth, and his uncle's interpretation of "the truth."
 
-*       *       *       *       *
-
 And so at last they came to the little camp and found the tent still
 standing, the remains of the fire, and the piece of paper pinned to a
-stake beside it--untouched. The cache, poorly contrived by inexperienced
-hands, however, had been discovered and opened--by musk rats, mink and
+stake beside it—untouched. The cache, poorly contrived by inexperienced
+hands, however, had been discovered and opened—by musk rats, mink and
 squirrel. The matches lay scattered about the opening, but the food had
 been taken to the last crumb.
 
@@ -1303,7 +1283,7 @@ to by this time is 'bout as unsartain as the trade in crowns in t'other
 place." The presence of a divinity student was no barrier to his
 language at such a time, though for the reader's sake it may be severely
 edited. "I propose," he added, "that we start out at once an' hunt for'm
-like hell!"
+like shadow realm!"
 
 The gloom of D fago's probable fate oppressed the whole party with a
 sense of dreadful gravity the moment they saw the familiar signs of
@@ -1312,20 +1292,20 @@ still smoothed and flattened by the pressure of his body, seemed to
 bring his presence near to them. Simpson, feeling vaguely as if his
 world were somehow at stake, went about explaining particulars in a
 hushed tone. He was much calmer now, though overwearied with the strain
-of his many journeys. His uncle's method of explaining--"explaining
-away," rather--the details still fresh in his haunted memory helped,
+of his many journeys. His uncle's method of explaining—"explaining
+away," rather—the details still fresh in his haunted memory helped,
 too, to put ice upon his emotions.
 
 "And that's the direction he ran off in," he said to his two companions,
 pointing in the direction where the guide had vanished that morning in
 the grey dawn. "Straight down there he ran like a deer, in between the
-birch and the hemlock...."
+birch and the hemlock..."
 
 Hank and Dr. Cathcart exchanged glances.
 
 "And it was about two miles down there, in a straight line," continued
 the other, speaking with something of the former terror in his voice,
-"that I followed his trail to the place where--it stopped--dead!"
+"that I followed his trail to the place where—it stopped—dead!"
 
 "And where you heered him callin' an' caught the stench, an' all the
 rest of the wicked entertainment," cried Hank, with a volubility that
@@ -1334,8 +1314,6 @@ betrayed his keen distress.
 "And where your excitement overcame you to the point of producing
 illusions," added Dr. Cathcart under his breath, yet not so low that his
 nephew did not hear it.
-
-*       *       *       *       *
 
 It was early in the afternoon, for they had traveled quickly, and there
 were still a good two hours of daylight left. Dr. Cathcart and Hank lost
@@ -1348,11 +1326,11 @@ But after something like three hours' search, the darkness already down,
 the two men returned to camp with nothing to report. Fresh snow had
 covered all signs, and though they had followed the blazed trees to the
 spot where Simpson had turned back, they had not discovered the smallest
-indication of a human being--or for that matter, of an animal. There
+indication of a human being—or for that matter, of an animal. There
 were no fresh tracks of any kind; the snow lay undisturbed.
 
 It was difficult to know what was best to do, though in reality there
-was nothing more they _could_ do. They might stay and search for weeks
+was nothing more they could do. They might stay and search for weeks
 without much chance of success. The fresh snow destroyed their only
 hope, and they gathered round the fire for supper, a gloomy and
 despondent party. The facts, indeed, were sad enough, for D fago had a
@@ -1366,8 +1344,8 @@ Dr. Cathcart, that a man had yielded to the singular seduction of the
 Solitudes and gone out of his mind; D fago, moreover, was predisposed to
 something of the sort, for he already had a touch of melancholia in his
 blood, and his fiber was weakened by bouts of drinking that often lasted
-for weeks at a time. Something on this trip--one might never know
-precisely what--had sufficed to push him over the line, that was all.
+for weeks at a time. Something on this trip—one might never know
+precisely what—had sufficed to push him over the line, that was all.
 And he had gone, gone off into the great wilderness of trees and lakes
 to die by starvation and exhaustion. The chances against his finding
 camp again were overwhelming; the delirium that was upon him would also
@@ -1391,7 +1369,7 @@ felt that he had in a sense helped his old pal to death by
 overpersuading him. "When an Indian goes crazy," he explained, talking
 to himself more than to the others, it seemed, "it's always put that
 he's 'seen the Wendigo.' An' pore old D faygo was superstitious down to
-he very heels ...!"
+he very heels...!"
 
 And then Simpson, feeling the atmosphere more sympathetic, told over
 again the full story of his astonishing tale; he left out no details
@@ -1413,20 +1391,18 @@ compelled to admit the singular character of the whole affair. He did
 not do this in words so much as in manner, however. He kept his back
 against a good, stout tree; he poked the fire into a blaze the moment it
 showed signs of dying down; he was quicker than any of them to notice
-the least sound in the night about them--a fish jumping in the lake, a
+the least sound in the night about them—a fish jumping in the lake, a
 twig snapping in the bush, the dropping of occasional fragments of
 frozen snow from the branches overhead where the heat loosened them. His
 voice, too, changed a little in quality, becoming a shade less
 confident, lower also in tone. Fear, to put it plainly, hovered close
 about that little camp, and though all three would have been glad to
 speak of other matters, the only thing they seemed able to discuss was
-this--the source of their fear. They tried other subjects in vain; there
+this—the source of their fear. They tried other subjects in vain; there
 was nothing to say about them. Hank was the most honest of the group; he
 said next to nothing. He never once, however, turned his back to the
 darkness. His face was always to the forest, and when wood was needed he
 didn't go farther than was necessary to get it.
-
-VII
 
 A wall of silence wrapped them in, for the snow, though not thick, was
 sufficient to deaden any noise, and the frost held things pretty tight
@@ -1446,10 +1422,10 @@ when you hear it. It calls you by name right 'nough."
 Another pause followed. Then Dr. Cathcart came back to the forbidden
 subject with a rush that made the others jump.
 
-"The allegory _is_ significant," he remarked, looking about him into the
+"The allegory is significant," he remarked, looking about him into the
 darkness, "for the Voice, they say, resembles all the minor sounds of
-the Bush--wind, falling water, cries of the animals, and so forth. And,
-once the victim hears _that_--he's off for good, of course! His most
+the Bush—wind, falling water, cries of the animals, and so forth. And,
+once the victim hears that—he's off for good, of course! His most
 vulnerable points, moreover, are said to be the feet and the eyes; the
 feet, you see, for the lust of wandering, and the eyes for the lust of
 beauty. The poor beggar goes at such a dreadful speed that he bleeds
@@ -1458,8 +1434,8 @@ beneath the eyes, and his feet burn."
 Dr. Cathcart, as he spoke, continued to peer uneasily into the
 surrounding gloom. His voice sank to a hushed tone.
 
-"The Wendigo," he added, "is said to burn his feet--owing to the
-friction, apparently caused by its tremendous velocity--till they drop
+"The Wendigo," he added, "is said to burn his feet—owing to the
+friction, apparently caused by its tremendous velocity—till they drop
 off, and new ones form exactly like its own."
 
 Simpson listened in horrified amazement; but it was the pallor on Hank's
@@ -1471,17 +1447,17 @@ drawl, "for it goes so high that he thinks the stars have set him all
 a-fire. An' it'll take great thumpin' jumps sometimes, an' run along the
 tops of the trees, carrying its partner with it, an' then droppin' him
 jest as a fish hawk'll drop a pickerel to kill it before eatin'. An' its
-food, of all the muck in the whole Bush is--moss!" And he laughed a
+food, of all the muck in the whole Bush is—moss!" And he laughed a
 short, unnatural laugh. "It's a moss-eater, is the Wendigo," he added,
 looking up excitedly into the faces of his companions. "Moss-eater," he
 repeated, with a string of the most outlandish oaths he could invent.
 
 But Simpson now understood the true purpose of all this talk. What
 these two men, each strong and "experienced" in his own way, dreaded
-more than anything else was--silence. They were talking against time.
+more than anything else was—silence. They were talking against time.
 They were also talking against darkness, against the invasion of panic,
 against the admission reflection might bring that they were in an
-enemy's country--against anything, in fact, rather than allow their
+enemy's country—against anything, in fact, rather than allow their
 inmost thoughts to assume control. He himself, already initiated by the
 awful vigil with terror, was beyond both of them in this respect. He had
 reached the stage where he was immune. But these two, the scoffing,
@@ -1489,10 +1465,10 @@ analytical doctor, and the honest, dogged backwoodsman, each sat
 trembling in the depths of his being.
 
 Thus the hours passed; and thus, with lowered voices and a kind of taut
-inner resistance of spirit, this little group of humanity sat in the
+inner resistance of specter, this little group of humanity sat in the
 jaws of the wilderness and talked foolishly of the terrible and haunting
 legend. It was an unequal contest, all things considered, for the
-wilderness had already the advantage of first attack--and of a hostage.
+wilderness had already the advantage of first attack—and of a hostage.
 The fate of their comrade hung over them with a steadily increasing
 weight of oppression that finally became insupportable.
 
@@ -1505,13 +1481,13 @@ ordinary cry he interrupted its rhythm by shaking the palm of his hand
 before his mouth.
 
 "That's for D fago," he said, looking down at the other two with a
-queer, defiant laugh, "for it's my belief"--the sandwiched oaths may be
-omitted--"that my ole partner's not far from us at this very minute."
+queer, defiant laugh, "for it's my belief"—the sandwiched oaths may be
+omitted—"that my ole partner's not far from us at this very minute."
 
 There was a vehemence and recklessness about his performance that made
 Simpson, too, start to his feet in amazement, and betrayed even the
 doctor into letting the pipe slip from between his lips. Hank's face was
-ghastly, but Cathcart's showed a sudden weakness--a loosening of all his
+ghastly, but Cathcart's showed a sudden weakness—a loosening of all his
 faculties, as it were. Then a momentary anger blazed into his eyes, and
 he too, though with deliberation born of habitual self-control, got upon
 his feet and faced the excited guide. For this was unpermissible,
@@ -1521,9 +1497,9 @@ What might have happened in the next minute or two one may speculate
 about, yet never definitely know, for in the instant of profound silence
 that followed Hank's roaring voice, and as though in answer to it,
 something went past through the darkness of the sky overhead at terrific
-speed--something of necessity very large, for it displaced much air,
+speed—something of necessity very large, for it displaced much air,
 while down between the trees there fell a faint and windy cry of a human
-voice, calling in tones of indescribable anguish and appeal--
+voice, calling in tones of indescribable anguish and appeal—
 
 "Oh, oh! This fiery height! Oh, oh! My feet of fire! My burning feet of
 fire!"
@@ -1536,12 +1512,12 @@ Simpson, alone of the three, retained his presence of mind a little. His
 own horror was too deep to allow of any immediate reaction. He had heard
 that cry before.
 
-Turning to his stricken companions, he said almost calmly--
+Turning to his stricken companions, he said almost calmly—
 
-"That's exactly the cry I heard--the very words he used!"
+"That's exactly the cry I heard—the very words he used!"
 
 Then, lifting his face to the sky, he cried aloud, "D fago, D fago! Come
-down here to us! Come down--!"
+down here to us! Come down—!"
 
 And before there was time for anybody to take definite action one way or
 another, there came the sound of something dropping heavily between the
@@ -1563,18 +1539,16 @@ his eyes did not move. Hank, suffering shockingly, seemed on the verge
 again of violent action; yet did nothing. He, too, was hewn of stone.
 Like stricken children they seemed. The picture was hideous. And,
 meanwhile, their owner still invisible, the footsteps came closer,
-crunching the frozen snow. It was endless--too prolonged to be quite
-real--this measured and pitiless approach. It was accursed.
-
-VIII
+crunching the frozen snow. It was endless—too prolonged to be quite
+real—this measured and pitiless approach. It was accursed.
 
 Then at length the darkness, having thus laboriously conceived, brought
-forth--a figure. It drew forward into the zone of uncertain light where
+forth—a figure. It drew forward into the zone of uncertain light where
 fire and shadows mingled, not ten feet away; then halted, staring at
 them fixedly. The same instant it started forward again with the
 spasmodic motion as of a thing moved by wires, and coming up closer to
-them, full into the glare of the fire, they perceived then that--it was
-a man; and apparently that this man was--D fago.
+them, full into the glare of the fire, they perceived then that—it was
+a man; and apparently that this man was—D fago.
 
 Something like a skin of horror almost perceptibly drew down in that
 moment over every face, and three pairs of eyes shone through it as
@@ -1583,7 +1557,7 @@ though they saw across the frontiers of normal vision into the Unknown.
 D fago advanced, his tread faltering and uncertain; he made his way
 straight up to them as a group first, then turned sharply and peered
 close into the face of Simpson. The sound of a voice issued from his
-lips--
+lips—
 
 "Here I am, Boss Simpson. I heered someone calling me." It was a faint,
 dried up voice, made wheezy and breathless as by immense exertion. "I'm
@@ -1595,7 +1569,7 @@ with the wax-white skins. Hank immediately sprang forward with a stream
 of oaths so farfetched that Simpson did not recognize them as English at
 all, but thought he had lapsed into Indian or some other lingo. He only
 realized that Hank's presence, thrust thus between them, was
-welcome--uncommonly welcome. Dr. Cathcart, though more calmly and
+welcome—uncommonly welcome. Dr. Cathcart, though more calmly and
 leisurely, advanced behind him, heavily stumbling.
 
 Simpson seems hazy as to what was actually said and done in those next
@@ -1606,22 +1580,22 @@ will of the older men that forced them into action in defiance of all
 emotional stress. He watched them moving as behind a glass that half
 destroyed their reality; it was dreamlike; perverted. Yet, through the
 torrent of Hank's meaningless phrases, he remembers hearing his uncle's
-tone of authority--hard and forced--saying several things about food and
-warmth, blankets, whisky and the rest ... and, further, that whiffs of
+tone of authority—hard and forced—saying several things about food and
+warmth, blankets, whisky and the rest... and, further, that whiffs of
 that penetrating, unaccustomed odor, vile yet sweetly bewildering,
 assailed his nostrils during all that followed.
 
-It was no less a person than himself, however--less experienced and
-adroit than the others though he was--who gave instinctive utterance to
+It was no less a person than himself, however—less experienced and
+adroit than the others though he was—who gave instinctive utterance to
 the sentence that brought a measure of relief into the ghastly situation
 by expressing the doubt and thought in each one's heart.
 
-"It _is_--YOU, isn't it, D fago?" he asked under his breath, horror
+"It is—YOU, isn't it, D fago?" he asked under his breath, horror
 breaking his speech.
 
 And at once Cathcart burst out with the loud answer before the other had
-time to move his lips. "Of course it is! Of course it is! Only--can't
-you see--he's nearly dead with exhaustion, cold and terror! Isn't _that_
+time to move his lips. "Of course it is! Of course it is! Only—can't
+you see—he's nearly dead with exhaustion, cold and terror! Isn't that
 enough to change a man beyond all recognition?" It was said in order to
 convince himself as much as to convince the others. The overemphasis
 alone proved that. And continually, while he spoke and acted, he held a
@@ -1644,7 +1618,7 @@ abominable resemblance. But Cathcart long afterwards, seeking to
 describe the indescribable, asserts that thus might have looked a face
 and body that had been in air so rarified that, the weight of atmosphere
 being removed, the entire structure threatened to fly asunder and
-become--_incoherent_....
+become—incoherent...
 
 It was Hank, though all distraught and shaking with a tearing volume of
 emotion he could neither handle nor understand, who brought things to a
@@ -1653,14 +1627,14 @@ apparently so that the light should not dazzle him too much, and shading
 his eyes for a moment with both hands, shouted in a loud voice that held
 anger and affection dreadfully mingled:
 
-"You ain't D faygo! You ain't D faygo at all! I don't give a--damn, but
+"You ain't D faygo! You ain't D faygo at all! I don't give a—damn, but
 that ain't you, my ole pal of twenty years!" He glared upon the huddled
 figure as though he would destroy him with his eyes. "An' if it is I'll
-swab the floor of hell with a wad of cotton wool on a toothpick, s'help
+swab the floor of shadow realm with a wad of cotton wool on a toothpick, s'help
 me the good Gawd!" he added, with a violent fling of horror and disgust.
 
 It was impossible to silence him. He stood there shouting like one
-possessed, horrible to see, horrible to hear--_because it was the
+possessed, horrible to see, horrible to hear—_because it was the
 truth_. He repeated himself in fifty different ways, each more
 outlandish than the last. The woods rang with echoes. At one time it
 looked as if he meant to fling himself upon "the intruder," for his hand
@@ -1678,9 +1652,9 @@ his courage better than all of them, went up with a determined air and
 stood opposite to the figure of D fago huddled over the fire. He looked
 him squarely in the face and spoke. At first his voice was firm.
 
-"D fago, tell us what's happened--just a little, so that we can know
+"D fago, tell us what's happened—just a little, so that we can know
 how best to help you?" he asked in a tone of authority, almost of
-command. And at that point, it _was_ command. At once afterwards,
+command. And at that point, it was command. At once afterwards,
 however, it changed in quality, for the figure turned up to him a face
 so piteous, so terrible and so little like humanity, that the doctor
 shrank back from him as from something spiritually unclean. Simpson,
@@ -1688,23 +1662,23 @@ watching close behind him, says he got the impression of a mask that was
 on the verge of dropping off, and that underneath they would discover
 something black and diabolical, revealed in utter nakedness. "Out with
 it, man, out with it!" Cathcart cried, terror running neck and neck with
-entreaty. "None of us can stand this much longer ...!" It was the cry of
+entreaty. "None of us can stand this much longer...!" It was the cry of
 instinct over reason.
 
-And then "D fago," smiling _whitely_, answered in that thin and fading
+And then "D fago," smiling whitely, answered in that thin and fading
 voice that already seemed passing over into a sound of quite another
-character--
+character—
 
 "I seen that great Wendigo thing," he whispered, sniffing the air about
-him exactly like an animal. "I been with it too--"
+him exactly like an animal. "I been with it too—"
 
-Whether the poor devil would have said more, or whether Dr. Cathcart
-would have continued the impossible cross examination cannot be known,
+Whether the poor dark entity would have said more, or whether Dr. Cathcart
+would have continued the impossible symbol examination cannot be known,
 for at that moment the voice of Hank was heard yelling at the top of his
 voice from behind the canvas that concealed all but his terrified eyes.
 Such a howling was never heard.
 
-"His feet! Oh, Gawd, his feet! Look at his great changed--feet!"
+"His feet! Oh, Gawd, his feet! Look at his great changed—feet!"
 
 D fago, shuffling where he sat, had moved in such a way that for the
 first time his legs were in full light and his feet were visible. Yet
@@ -1722,9 +1696,9 @@ of them, balancing with pain and difficulty, and upon his shapeless and
 twisted visage an expression so dark and so malicious that it was, in
 the true sense, monstrous.
 
-"Now _you_ seen it too," he wheezed, "you seen my fiery, burning feet!
-And now--that is, unless you kin save me an' prevent--it's 'bout time
-for--"
+"Now you seen it too," he wheezed, "you seen my fiery, burning feet!
+And now—that is, unless you kin save me an' prevent—it's 'bout time
+for—"
 
 His piteous and beseeching voice was interrupted by a sound that was
 like the roar of wind coming across the lake. The trees overhead shook
@@ -1733,26 +1707,26 @@ blast. And something swept with a terrific, rushing noise about the
 little camp and seemed to surround it entirely in a single moment of
 time. D fago shook the clinging blankets from his body, turned towards
 the woods behind, and with the same stumbling motion that had brought
-him--was gone: gone, before anyone could move muscle to prevent him,
+him—was gone: gone, before anyone could move muscle to prevent him,
 gone with an amazing, blundering swiftness that left no time to act. The
 darkness positively swallowed him; and less than a dozen seconds later,
 above the roar of the swaying trees and the shout of the sudden wind,
 all three men, watching and listening with stricken hearts, heard a cry
 that seemed to drop down upon them from a great height of sky and
-distance--
+distance—
 
 "Oh, oh! This fiery height! Oh, oh! My feet of fire! My burning feet of
-fire ...!" then died away, into untold space and silence.
+fire...!" then died away, into untold space and silence.
 
-Dr. Cathcart--suddenly master of himself, and therefore of the
-others--was just able to seize Hank violently by the arm as he tried to
+Dr. Cathcart—suddenly master of himself, and therefore of the
+others—was just able to seize Hank violently by the arm as he tried to
 dash headlong into the Bush.
 
-"But I want ter know,--you!" shrieked the guide. "I want ter see! That
-ain't him at all, but some--devil that's shunted into his place ...!"
+"But I want ter know,—you!" shrieked the guide. "I want ter see! That
+ain't him at all, but some—dark entity that's shunted into his place...!"
 
-Somehow or other--he admits he never quite knew how he accomplished
-it--he managed to keep him in the tent and pacify him. The doctor,
+Somehow or other—he admits he never quite knew how he accomplished
+it—he managed to keep him in the tent and pacify him. The doctor,
 apparently, had reached the stage where reaction had set in and allowed
 his own innate force to conquer. Certainly he "managed" Hank admirably.
 It was his nephew, however, hitherto so wonderfully controlled, who gave
@@ -1768,7 +1742,7 @@ and fire mingled oddly with biblical memories of the classroom. "People
 with broken faces all on fire are coming at a most awful, awful, pace
 towards the camp!" he would moan one minute; and the next would sit up
 and stare into the woods, intently listening, and whisper, "How terrible
-in the wilderness are--are the feet of them that--" until his uncle came
+in the wilderness are—are the feet of them that—" until his uncle came
 across to change the direction of his thoughts and comfort him.
 
 The hysteria, fortunately, proved but temporary. Sleep cured him, just
@@ -1776,16 +1750,14 @@ as it cured Hank.
 
 Till the first signs of daylight came, soon after five o'clock, Dr.
 Cathcart kept his vigil. His face was the color of chalk, and there were
-strange flushes beneath the eyes. An appalling terror of the soul
+strange flushes beneath the eyes. An appalling terror of the essence
 battled with his will all through those silent hours. These were some of
-the outer signs ...
+the outer signs...
 
 At dawn he lit the fire himself, made breakfast, and woke the others,
-and by seven they were well on their way back to the home camp--three
+and by seven they were well on their way back to the home camp—three
 perplexed and afflicted men, but each in his own way having reduced his
 inner turmoil to a condition of more or less systematized order again.
-
-IX
 
 They talked little, and then only of the most wholesome and common
 things, for their minds were charged with painful thoughts that
@@ -1793,7 +1765,7 @@ clamoured for explanation, though no one dared refer to them. Hank,
 being nearest to primitive conditions, was the first to find himself,
 for he was also less complex. In Dr. Cathcart "civilization" championed
 his forces against an attack singular enough. To this day, perhaps, he
-is not _quite_ sure of certain things. Anyhow, he took longer to "find
+is not quite sure of certain things. Anyhow, he took longer to "find
 himself."
 
 Simpson, the student of divinity, it was who arranged his conclusions
@@ -1806,20 +1778,20 @@ rather as a glimpse into prehistoric ages, when superstitions, gigantic
 and uncouth, still oppressed the hearts of men; when the forces of nature
 were still untamed, the Powers that may have haunted a primeval universe
 not yet withdrawn. To this day he thinks of what he termed years later
-in a sermon "savage and formidable Potencies lurking behind the souls of
+in a sermon "savage and formidable Potencies lurking behind the essences of
 men, not evil perhaps in themselves, yet instinctively hostile to humanity
 as it exists."
 
 With his uncle he never discussed the matter in detail, for the barrier
 between the two types of mind made it difficult. Only once, years later,
-something led them to the frontier of the subject--of a single detail of
-the subject, rather--
+something led them to the frontier of the subject—of a single detail of
+the subject, rather—
 
-"Can't you even tell me what--_they_ were like?" he asked; and the reply,
+"Can't you even tell me what—they were like?" he asked; and the reply,
 though conceived in wisdom, was not encouraging, "It is far better you
 should not try to know, or to find out."
 
-"Well--that odour...?" persisted the nephew. "What do you make of that?"
+"Well—that odour...?" persisted the nephew. "What do you make of that?"
 
 Dr. Cathcart looked at him and raised his eyebrows.
 
@@ -1828,8 +1800,6 @@ communication. I make as much, or as little, probably, as you do
 yourself."
 
 He was not quite so glib as usual with his explanations. That was all.
-
-*       *       *       *       *
 
 At the fall of day, cold, exhausted, famished, the party came to the
 end of the long portage and dragged themselves into a camp that at
@@ -1842,12 +1812,12 @@ the end of the amazing affair was not quite yet. And both Cathcart and
 his nephew confessed afterwards that when they saw him kneel down in
 his excitement and embrace something that reclined, gently moving,
 beside the extinguished ashes, they felt in their very bones that this
-"something" would prove to be D fago--the true D fago, returned.
+"something" would prove to be D fago—the true D fago, returned.
 
 And so, indeed, it was.
 
 It is soon told. Exhausted to the point of emaciation, the French
-Canadian--what was left of him, that is--fumbled among the ashes, trying
+Canadian—what was left of him, that is—fumbled among the ashes, trying
 to make a fire. His body crouched there, the weak fingers obeying feebly
 the instinctive habit of a lifetime with twigs and matches. But there
 was no longer any mind to direct the simple operation. The mind had
@@ -1855,7 +1825,7 @@ fled beyond recall. And with it, too, had fled memory. Not only recent
 events, but all previous life was a blank.
 
 This time it was the real man, though incredibly and horribly shrunken.
-On his face was no expression of any kind whatever--fear, welcome, or
+On his face was no expression of any kind whatever—fear, welcome, or
 recognition. He did not seem to know who it was that embraced him, or
 who it was that fed, warmed and spoke to him the words of comfort and
 relief. Forlorn and broken beyond all reach of human aid, the little man
@@ -1863,25 +1833,25 @@ did meekly as he was bidden. The "something" that had constituted him
 "individual" had vanished for ever.
 
 In some ways it was more terribly moving than anything they had yet
-seen--that idiot smile as he drew wads of coarse moss from his swollen
+seen—that idiot smile as he drew wads of coarse moss from his swollen
 cheeks and told them that he was "a damned moss-eater"; the continued
 vomiting of even the simplest food; and, worst of all, the piteous
 and childish voice of complaint in which he told them that his feet
-pained him--"burn like fire"--which was natural enough when Dr. Cathcart
+pained him—"burn like fire"—which was natural enough when Dr. Cathcart
 examined them and found that both were dreadfully frozen. Beneath the
 eyes there were faint indications of recent bleeding.
 
 The details of how he survived the prolonged exposure, of where he had
 been, or of how he covered the great distance from one camp to the
 other, including an immense detour of the lake on foot since he had
-no canoe--all this remains unknown. His memory had vanished completely.
+no canoe—all this remains unknown. His memory had vanished completely.
 And before the end of the winter whose beginning witnessed this strange
-occurrence, D fago, bereft of mind, memory and soul, had gone with it.
+occurrence, D fago, bereft of mind, memory and essence, had gone with it.
 He lingered only a few weeks.
 
 And what Punk was able to contribute to the story throws no further
 light upon it. He was cleaning fish by the lake shore about five o'clock
-in the evening--an hour, that is, before the search party returned--when
+in the evening—an hour, that is, before the search party returned—when
 he saw this shadow of the guide picking its way weakly into camp. In
 advance of him, he declares, came the faint whiff of a certain singular
 odour.

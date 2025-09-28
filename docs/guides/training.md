@@ -106,7 +106,7 @@ config = IterativeConfig(
 #### Memory-Constrained Training
 ```python
 config = IterativeConfig(
-    base_model="distilgpt2",
+    base_model="gpt2",
     max_seq_length=512,
     batch_size=1,
     gradient_accumulation_steps=8,
@@ -173,6 +173,54 @@ iterative_models/
     │   ├── config.json
     │   └── model_metrics.json
     └── training_log.txt
+```
+
+## Enhanced Tagging System
+
+The Model Tea system includes a comprehensive corpus tagging system that extracts 42+ different tag categories from novels to enhance both training and memory systems.
+
+### Tag Categories
+
+The tagging system detects:
+
+1. **Basic Themes** (15 categories): romance, horror, mystery, adventure, fantasy, historical, war, supernatural, crime, scifi, spy, thriller, action, space
+2. **Scene Types** (12 categories): dialogue_scene, action_scene, romantic_scene, death_scene, discovery_scene, travel_scene, conflict_scene, emotional_scene, indoor_scene, outdoor_scene, flashback_scene, dream_scene
+3. **Character Behaviors** (10 types): heroic, villainous, mysterious, aggressive, compassionate, intelligent, deceptive, loyal, fearful, ambitious
+4. **Narrative Elements** (10 elements): first_person, third_person, foreshadowing, flashback, prophecy, symbolism, irony, suspense, twist, resolution
+5. **Social Dynamics** (10 relationships): family, friendship, romance, rivalry, mentorship, authority, rebellion, hierarchy, betrayal, alliance
+
+### Using Enhanced Tags with Training
+
+```python
+# Train with pre-tagged novel data
+config = IterativeConfig(
+    base_model="gpt2",
+    iterations_per_novel=15,
+    use_enhanced_tags=True  # Leverage tag data during training
+)
+
+trainer = IterativeTrainer(config)
+results = trainer.train_novel("alice_in_wonderland")
+
+# Access tag-enhanced results
+print(f"Training enhanced with {len(results['tag_integration']['themes'])} themes")
+print(f"Scene diversity: {len(results['tag_integration']['scene_types'])} scene types")
+print(f"Behavioral complexity: {len(results['tag_integration']['behaviors'])} behaviors")
+```
+
+### Tag-Based Novel Selection
+
+```python
+from corpus_tagger import find_novels_by_criteria
+
+# Find novels by specific criteria
+horror_novels = find_novels_by_criteria({'theme': 'horror'})
+short_novels = find_novels_by_criteria({'max_words': 20000})
+spy_thrillers = find_novels_by_criteria({'theme': 'spy', 'genre': 'Thriller/Suspense'})
+
+# Train on curated subsets
+for novel in horror_novels[:5]:
+    trainer.train_novel(novel)
 ```
 
 ## Advanced Training Techniques
@@ -294,7 +342,7 @@ memory_result = memory_system.build_memory_for_model(
 print(f"Created {len(memory_result['memories'])} memories")
 ```
 
-### Memory-Augmented Training
+### Memory-Augmented Training with Enhanced Tags
 
 ```python
 def train_with_memory_integration(novel_name: str):
@@ -309,7 +357,7 @@ def train_with_memory_integration(novel_name: str):
     # Train model
     training_results = trainer.train_novel(novel_name)
 
-    # Build episodic memories
+    # Build episodic memories with enhanced tagging
     novel_path = Path(f"novels/{novel_name}.txt")
     memory_results = memory_system.build_memory_for_model(novel_name, novel_path)
 
@@ -317,8 +365,30 @@ def train_with_memory_integration(novel_name: str):
     return {
         "training": training_results,
         "memory": memory_results,
-        "model_path": f"iterative_models/{novel_name}/final"
+        "model_path": f"iterative_models/{novel_name}/final",
+        "tags": memory_results.get("tag_integration", {})
     }
+```
+
+### Corpus Tagging Integration
+
+```python
+from corpus_tagger import SimpleNovelTagger
+from batch_tag_novels import batch_tag_novels, tag_specific_novels
+
+# Tag individual novels before training
+tagger = SimpleNovelTagger()
+tags = tagger.tag_novel(Path("novels/alice_in_wonderland.txt"))
+
+print(f"Detected themes: {tags.themes}")
+print(f"Scene types: {tags.scene_types}")
+print(f"Character behaviors: {tags.behaviors}")
+print(f"Narrative elements: {tags.narrative_elements}")
+print(f"Social dynamics: {tags.social_dynamics}")
+
+# Batch tag multiple novels
+batch_tag_novels(max_novels=50)  # Tag first 50 novels
+tag_specific_novels(["alice_in_wonderland", "call_of_cthulhu"])  # Tag specific novels
 ```
 
 ### Memory-Enhanced Generation

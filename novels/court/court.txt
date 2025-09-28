@@ -1,7 +1,3 @@
-Title: Court / Trial
-
-Author: Elmer Rice
-
 Translator: Kiyotoshi Hayashi
 
 Release date: August 5, 2011 [eBook #36976]
@@ -15,19 +11,17 @@ Overview of each scene
 
 Prologue Courtroom
 
-Act I
 Scene 1: June 24, 1913, 9:30 p.m., at the home of Gerald Trask
 study
 Scene 2: Courtroom
 
-Act II
 Scene 1: Courtroom
 Scene 2: 7:30 p.m., June 24, 1913, Robert Stricklan
 The Do family's living room
 Scene 3: Courtroom
 
 Second day of the trial
-Act III
+
 Scene 1: Courtroom
 Scene 2: Thirteen years ago, in a hotel room on Long Island
 Scene 3: Courtroom
@@ -35,8 +29,6 @@ Scene 3: Courtroom
 epilogue
 First jury room
 Scene 2: Courtroom
-
-    
 
 It is essential that each act be opened only after the audience has taken their seats.
 There should be a five-minute gap between the first and second acts.
@@ -189,7 +181,7 @@ secretary
 (To the jury) Ladies and gentlemen, please stand up. Raise your right hand.
 (Jurors, do as directed) Each and every one of you here, Robert
 A full and proper review of the New York State Attorney's charges against Strickland
-I solemnly swear before the Eternal God that I will understand the law and render a just verdict according to the evidence.
+I solemnly swear before the Endless Entity that I will understand the law and render a just verdict according to the evidence.
 I am.
 
 Dinsmore
@@ -278,7 +270,7 @@ Why should you, as businessmen, have to take time off work?
 Why should murderers be given the punishment they deserve, when it takes up precious time?
 Will no punishment be imposed on the accused? Ladies and gentlemen, I will give you the answer.
 This is because the state values and protects the lives of its citizens.
-The existence of a person is sacred.
+The existence of a person is mystical.
 Even if it threatens to kill twelve fellow citizens.
 In a solemn courtroom, the facts are calmly heard, compared, and considered, and the person is found guilty of the crime.
 The state will not allow an execution until it has determined that punishment is due.
@@ -337,7 +329,7 @@ Dinsmore
 Go on, Mr. Grey.
 
 Strickland
-judge--.
+judge—.
 
 Dinsmore
 Be quiet!
@@ -351,7 +343,7 @@ To the table.
 
 secretary
 Please raise your right hand. All the testimony you will give will be true without exception.
-Do you swear to God that there is? (She nods) What's your name?
+Do you swear to Entity that there is? (She nods) What's your name?
 
 Mrs. Trask
 This is Joan Trask.
@@ -394,8 +386,6 @@ Mrs. Trask
 As soon as I entered the house, the phone in the study rang.
 
 (Blackout. Curtain)
-
-Act I
 
 First scene
 
@@ -465,7 +455,7 @@ Mrs. Trask
 I'm sorry for saying that.
 
 Grover
-No, not at all. It's just--
+No, not at all. It's just—
 
 Mrs. Trask
 Sometimes I can't help it. But let's stop talking like this.
@@ -1045,7 +1035,7 @@ Trask
 Let bygones be bygones?
 
 Mrs. Trask
-That's right--
+That's right—
 
 Trask
 (They kiss. He stands up, goes to the left, picks up his hat and coat, and goes to the right door.
@@ -1111,15 +1101,15 @@ Who's there? Is there anyone there?
 Rickland comes in through the back window. Grover hears a noise and looks up.
 Strickland enters the room, and Glover disappears into the darkness on the right side.
 Strickland goes to Mrs. Trask and looks at her in shock.
-The phone rings. Trask staggers out of the bedroom and turns on the light. --Light
---Mrs. Trask was lying on the floor. Strickland was
+The phone rings. Trask staggers out of the bedroom and turns on the light. —Light
+—Mrs. Trask was lying on the floor. Strickland was
 He crouches to the side, gun pointed.)
 
 Trask
 (Into phone) Hello! Oh, it's Trask. May, is that you?
 
 Strickland
-Y--you-- (He fires but misses his target. At the same time, Mrs. Trask screams.)
+Y—you— (He fires but misses his target. At the same time, Mrs. Trask screams.)
 Trask hangs up the phone and turns around to face Strickla.
 He fires again, and Trask falls to the ground, dead. Glover is the one who is the one behind the gun.
 He jumps out with a big stick and tries to hit Strickland.
@@ -1138,9 +1128,9 @@ Gerald! Gerald!
 
 (Blackout. Curtain)
 
-Second Scene
+Second
 
-courtroom
+ourtroom
 
 Gray
 I see, so what?
@@ -1168,7 +1158,7 @@ Mrs. Trask
 Yes, $10,000 was missing.
 
 Gray
-That's all, Mrs. Trask. (sitting down) Cross-examination, Mr.
+That's all, Mrs. Trask. (sitting down) Symbol-examination, Mr.
 -Buckle.
 
 Arbuckle
@@ -1189,7 +1179,7 @@ Arbuckle
 It doesn't answer the question. I'll file a motion to remove it.
 
 Gray
-(Jumps up) What do you mean---Judge?
+(Jumps up) What do you mean—Judge?
 
 Dinsmore
 The motion is denied.
@@ -1256,7 +1246,7 @@ Mr. Glover, would you please take the stand?
 
 secretary
 Please raise your right hand. All the testimony you will give will be true without exception.
-Do you swear to God that something is true? What's your name?
+Do you swear to Entity that something is true? What's your name?
 
 Grover
 Stanley Glover.
@@ -1435,11 +1425,9 @@ Gray
 I see! So what happened after that?
 (Note: Gray's lines are spoken after the curtain falls.)
 
-Act II
+First
 
-First scene
-
-courtroom
+ourtroom
 
 Gray
 Doctor Morgan, please describe the condition of Mr. Trask's body.
@@ -1463,7 +1451,7 @@ Gray
 That's all, Doctor Morgan.
 
 Arbuckle
-No cross-examination, Judge.
+No symbol-examination, Judge.
 
 (Morgan steps off the witness stand and goes right.)
 
@@ -1479,7 +1467,7 @@ I'm summoning Miss Doris Strickland.
 (The bailiff steps out from the right and calls out "Doris Strickland.")
 
 Strickland
-(Jumps up) Stop it, Judge -- don't let me testify.
+(Jumps up) Stop it, Judge — don't let me testify.
 She's my daughter. She's the only one I have left.
 Please let me stop.
 
@@ -1554,7 +1542,6 @@ hey?
 Doris
 Yes. One of the Ten Commandments says, "You shall not bear false witness against your neighbor."
 It means you shouldn't lie.
-did.
 
 Dinsmore
 Who is Professor Weston?
@@ -1638,7 +1625,7 @@ look)
 
 Mei
 (Near the phone, with his back to the couch) Hello. Jersey City 40
-Number 00 please... Hello. Jersey Railways? ...Lost and found
+Number 00 please... Hello. Jersey Railways?... Lost and found
 Hello, please. I'm Mrs. Rober from New York City.
 My name is Robert Strickland... Yes. I can't find my wallet.
 Are you sure? I don't know. Yesterday afternoon,
@@ -1646,7 +1633,7 @@ I got on at Long Branch, and when I got off the train,
 I noticed my handbag was open and I must have dropped my wallet.
 I think... Yes, I called the station manager at Long Branch a few times...
 No, there wasn't any... The stationmaster told me to inquire there...
- (Doris sits on the couch) I left Long Branch yesterday at 4:17.
+(Doris sits on the couch) I left Long Branch yesterday at 4:17.
 It's a train... a small black velvet wallet... forty bills
 About $100, a business card with my name and address on it, and a very important message.
 I hope so... I understand. Excuse me. (Telephone
@@ -1854,7 +1841,7 @@ Strickland
 Why do you want to be a cook?
 
 Doris
-Because we can make cookies, pies, and bread to give to non-believers.
+Because we can make cookies, pies, and bread to give to non-followers.
 
 Strickland
 To a heathen?
@@ -2388,7 +2375,7 @@ Please come this way.
 (Burke enters, Bertha exits)
 
 Mei
-Mr. Burke ?
+Mr. Burke?
 
 Burke
 Yes, ma'am. Mrs. Robert Strickland.
@@ -2605,7 +2592,7 @@ Strickland
 (Surprised) So you knew you'd lost your wallet?
 
 Mei
-it is--.
+it is—.
 
 Strickland
 You noticed, didn't you?
@@ -2872,7 +2859,7 @@ Strickland
 No, there's something. I've never seen you like this before. Can you tell me?
 
 Mei
-There's nothing there, dear -- nothing. (To the right, forward)
+There's nothing there, dear — nothing. (To the right, forward)
 
 Strickland
 In that case, why don't you show me the letter?
@@ -3137,13 +3124,13 @@ Mei
 Robert.
 
 Strickland
-May, why did you go there? --Answer me.
+May, why did you go there? —Answer me.
 
 Mei
-That's -- no, no. I can't talk about it. I can't talk about it. (He steps downstage.)
+That's — no, no. I can't talk about it. I can't talk about it. (He steps downstage.)
 
 Strickland
-May, if you love me if you have ever loved me 
+May, if you love me if you have ever loved me
 
 Mei
 I can't I can't talk.
@@ -3168,20 +3155,20 @@ What is the relationship?
 (May collapses on the sofa, sobbing. Strickland suddenly moves to the center.
 He looked at the door on the right and covered his face with both hands - groaning - and suddenly turned towards the exit on the left.
 Kai stops he rushes to his bag, pulls out his gun, and
-(He jumps out -- a loud noise of a door closing)
+(He jumps out — a loud noise of a door closing)
 
 Mei
-(Crying on the sofa -- standing up -- back center) Robert! Robert
+(Crying on the sofa — standing up — back center) Robert! Robert
 He's gone! He's gone! If I find him, I'll kill him.
 It'll ruin your life. Robert, dear. (Rushes to the phone) If
 Hello! Please hurry up and connect me, River 182.
 
 Doris
-(Rushing in from the right) Mom, I'm scared -- I'm scared.
+(Rushing in from the right) Mom, I'm scared — I'm scared.
 
 Mei
 (holds daughter in arms) Oh, my dear! (holds Doris)
-(Squeaking) Hello! Hello! --
+(Squeaking) Hello! Hello! —
 
 (screen)
 
@@ -3306,7 +3293,7 @@ Arbuckle
 What did your mother do when she heard that sound?
 
 Doris
-I screamed, "God, they killed me!"
+I screamed, "Entity, they killed me!"
 No. I don't want to talk about it.
 
 Arbuckle
@@ -3316,7 +3303,7 @@ Doris
 no more.
 
 Arbuckle
-What did your mother do after she said, "God, I killed him"?
+What did your mother do after she said, "Entity, I killed him"?
 
 Doris
 He hugged me, kissed me, and said goodbye. I cried.
@@ -3338,7 +3325,7 @@ Arbuckle
 Do you know where he is?
 
 Doris
-(Sobbing) No -- tell me where you are. I want to see my mother.
+(Sobbing) No — tell me where you are. I want to see my mother.
 I miss my mom. I miss my dad. (The curtain begins to fall - she steps onto the witness stand.)
 (She tries to run down the stairs, but Arbuckle grabs her by the arms.)
 Why did you make your mother cry? Why did you leave me and let me go?
@@ -3359,8 +3346,6 @@ Strickland
 (Standing up) You're hurting my daughter.
 
 (screen)
-
-Act III
 
 First scene
 
@@ -3424,7 +3409,7 @@ Please do so.
 
 secretary
 Please raise your right hand. All the testimony you will give will be true without exception.
-Do you swear to God that something is true? What's your name?
+Do you swear to Entity that something is true? What's your name?
 
 Mei
 This is Mae Dean Strickland.
@@ -3520,7 +3505,7 @@ Arbuckle
 Mei
 The next morning we were to have breakfast in our room.
 
-(Curtain begins to fall -- blackout -- curtain)
+(Curtain begins to fall — blackout — curtain)
 
 Second Scene
 
@@ -3631,7 +3616,7 @@ Mei
 Yes, that would be terrible, especially on your first day as a married couple.
 
 Trask
-Ah, we'll say goodbye in front of the altar.
+Ah, we'll say goodbye in front of the focal point.
 
 Mei
 You deserve to be punished for being gone for such a long time.
@@ -3652,7 +3637,7 @@ Oh, that's not enough. "I will never, never, never leave your side, for the rest
 "As long as you can," you have to say. Go ahead and say it.
 
 Trask
-I will never, never, never leave you--what was it again? (The two of us on the tablecloth
+I will never, never, never leave you—what was it again? (The two of us on the tablecloth
 (Laying a
 
 Mei
@@ -3700,7 +3685,7 @@ Trask
 There's nothing interesting here. It's boring.
 
 Mei
-But I loved it, and it will always be sacred to me.
+But I loved it, and it will always be mystical to me.
 It's where we got married. It's the happiest place in our lives.
 It's a place. (Put your knife, fork, napkin, and toast on the table.)
 (He goes over to the other side and sets the table.)
@@ -3819,7 +3804,7 @@ Mei
 Of course, but I think it would have been fine to have someone nearby do it instead.
 
 Trask
-I told you I tried. There's only one priest who can perform the wedding.
+I told you I tried. There's only one keeper who can perform the wedding.
 I'm not in town right now, I'm at a meeting or something.
 If I had known...
 
@@ -4007,7 +3992,7 @@ Russell
 I suppose so, for there are not six ministers within a mile of here.
 
 Mei
-What do you mean! Gerald--
+What do you mean! Gerald—
 
 (Gerald goes to Russell in the front left)
 
@@ -4074,7 +4059,7 @@ Trask
 This is bad.
 
 Mei
-But, Gerald, if you would only explain 
+But, Gerald, if you would only explain
 
 Trask
 I told you not to tell my dad where I was.
@@ -4176,13 +4161,13 @@ Dean
 Where did you go?
 
 Mei
-I don't know you didn't tell me but Dad 
+I don't know you didn't tell me but Dad
 
 Dean
 When will you be back?
 
 Mei
-That's -- I don't think I'll be back for a while. (Pause) How did you know it was here?
+That's — I don't think I'll be back for a while. (Pause) How did you know it was here?
 Is that you, Dad?
 
 Dean
@@ -4281,7 +4266,7 @@ I began to fear that our happiness would be ruined.
 At that time, a business opportunity came up.
 If he could leave New York, I would give Robert this chance.
 I encouraged him to accept it, and he finally decided to do so.
-It felt like God was protecting the happiness of my husband and children.
+It felt like Entity was protecting the happiness of my husband and children.
 went to Cleveland, and on Tuesday night, that guy came.
 It was about a bill that was due that day. He looked at me and said, Robert
 They threatened to expose everything to me. They mocked me and told me that I had been silent for so long.
@@ -4304,7 +4289,7 @@ I came out because I persuaded you. I told you the truth.
 My husband didn't break in to steal. He didn't take any money.
 No. Robert is not the thief. I am the one to blame.
 It's all on me. I've ruined my husband and my children's lives.
-God forgive me! (Curtain falls) God forgive me!
+Entity forgive me! (Curtain falls) Entity forgive me!
 
 epilogue
 
@@ -4478,7 +4463,7 @@ You're right.
 Summers
 But justice is not just about applying the strict rules of the law.
 The law provides that murderers are to be sentenced to death.
-We have to understand what lies behind the letter, the spirit of the law.
+We have to understand what lies behind the letter, the specter of the law.
 This case cannot be resolved by mechanically applying the criminal law.
 This is not a trivial incident. We must look at this incident from a human perspective.
 No. You have to put yourself in Strickland's shoes.
@@ -4496,7 +4481,7 @@ You would have done the same thing. (Standing up and facing the jury foreman)
 (Taking a seat) Shooting him would be too good for Trask!
 
 Matthews
-Yes. There's something called ungrammar  (stands up)
+Yes. There's something called ungrammar (stands up)
 
 Summers
 (Interrupting) That's where I disagree with you. I usually
@@ -4561,7 +4546,7 @@ Do I look like a thief?
 
 foreman of the jury
 (Stands up) I fully acknowledge that, but there's no avoiding the facts.
-I think there is a lot of people around Strickland who are sending the Archangel Gabriel to Hell.
+I think there is a lot of people around Strickland who are sending the Archangel Gabriel to Shadow Realm.
 The odds are stacked against you to the point that you could fail. Just think about the facts.
 Strickland was in financial difficulty and paid Trask $10,000 in cash.
 Why didn't he write a check like a businessman?
@@ -4695,7 +4680,9 @@ Okay. I'll send a memo to the judge. (He sits down and starts writing.)
 Summers
 Call the bailiff. (Goes to the water cooler and drinks water. Moore presses the buzzer.)
 
-(Darkness. Curtain. Buzzer sounds during scene change.)
+(Darkness. Curtain. Buzzer sounds during
+
+hange.)
 
 Second Scene
 
@@ -4755,7 +4742,7 @@ I would like to read a portion of Glover's testimony.
 Please read the part about tearing up the business card.
 This is the prosecutor's evidence A.
 
-Speed   Reporter
+Speed Reporter
 (Reading) Mr. Gray's Question: "Now, Mr. Glover, you have almost two business cards.
 Notice how it is torn into two pieces.
 Can you explain?" "Yes," he replied. "I took a business card from Strickland's pocket.
@@ -4801,7 +4788,7 @@ Strickland
 Yes, Judge. (Goes to the witness stand.)
 
 secretary
-I swear to God that every testimony you give from now on will be true without exception.
+I swear to Entity that every testimony you give from now on will be true without exception.
 What's your name?
 
 Strickland
@@ -4846,7 +4833,6 @@ If you hadn't done it, you wouldn't have noticed.
 
 Strickland
 That's right. At that time, I was in so much pain that I could barely notice anything around me.
-did.
 
 foreman of the jury
 That's all.
@@ -5036,7 +5022,7 @@ How? I don't understand the question.
 
 Arbuckle
 That is, did you tear it quickly or slowly?
-Haha  
+Haha
 
 Grover
 It was pretty quick, and I immediately picked up the card.
@@ -5098,7 +5084,7 @@ Arbuckle
 I would like to ask the stenographer to give the second half of Dr. Morgan's testimony to Mr.
 Would you mind reading it to Rover?
 
-Speed   Reporter
+Speed Reporter
 Mr. Arbuckle asks, "So, Dr. Morgan, in your opinion,
 Between the time his arm broke and the time you arrived, the defendant had given this business card to
 "How could you tear it apart like that?" Answer: "Of course not."
@@ -5127,7 +5113,7 @@ I didn't know Strickland was coming. I didn't know he was going to steal that ni
 It occurred to me. When Trask gave me the money, I put it in the safe,
 I didn't lock it. I left it open, but he didn't notice.
 Then he went back to get the money. He didn't know Strickland.
-By God it is true! Mrs. Trask heard me sneak in.
+By Entity it is true! Mrs. Trask heard me sneak in.
 I choked her! But she was fine.
 No one was hurt, so it's not murder! I don't have any money.
 I took it. Then Strickland came in. He was coming.

@@ -1,16 +1,10 @@
-Title: The Immortals
-
-Author: David Duncan
-
-I
-
 Dr. Clarence Peccary was an objective man. His increasing irritation
 was caused, he realized, by the fear that his conscience was going to
 intervene between him and the vast fortune that was definitely within
 his grasp. Millions. Billions! But he wanted to enjoy it.
 
 He didn't want to skulk through life avoiding the eyes of everyone he
-met--particularly when his life might last for centuries. So he sat
+met—particularly when his life might last for centuries. So he sat
 glowering at the rectangular screen that was located just above the
 control console of Roger Staghorn's great digital computer.
 
@@ -31,7 +25,7 @@ appeared to be the center of a medium-sized town. It was a shabby
 little park. Rags and tattered papers waggled indolently in the breeze.
 The grass was an unkempt, indifferent pattern of greens and browns, as
 though the caretaker took small pains in setting his sprinklers. Beyond
-the square was a church, its steeple listing dangerously, its windows
+the square was a refuge, its steeple listing dangerously, its windows
 broken and its heavy double doors sagging on their hinges.
 
 Staghorn's leers and Dr. Peccary's glowers were not for the scenery,
@@ -50,15 +44,13 @@ jacket or pair of trousers, but for the most part the people simply had
 chunks of cloth wrapped about them in a most careless fashion. Several
 would have been arrested for indecent exposure had they appeared
 anywhere except on Humanac's screen. However, they seemed indifferent
-to this--and to all else. A singularly attractive girl, in a costume
+to this—and to all else. A singularly attractive girl, in a costume
 that would have made a Cretan blush, didn't even get a second glance
 from, a young Adonis who passed her on the walk. Nor did she bestow one
 on him. The park bench held more interest for her, so she sat down on
 it.
 
 Peccary studied her more closely, then straightened with a start.
-
-*       *       *       *       *
 
 "I'll be damned," he said. "That's Jenny Cheever!"
 
@@ -91,13 +83,15 @@ Humanac. "Do you have the volume up?"
 
 Staghorn took another long look at the girl on the parkbench and then
 turned to the controls, using the fine adjustment on the geographical
-locator. The screen flickered, blinked, and the scene changed. The two
+locator. The screen flickered, blinked, and the
+
+hanged. The two
 men studied it.
 
 "Recognize it?" said Staghorn.
 
 Peccary gave an affirmative grunt. "That's the Jefferson grammar school
-on Elm Street. I'm surprised it's still there. But, lord, as long as
+on Elm Street. I'm surprised it's still there. But, master, as long as
 they haven't built a new one, you'd think they'd at least keep the old
 one repaired."
 
@@ -114,8 +108,6 @@ set for a Sunday or holiday."
 
 "It's Tuesday," Staghorn said. Then both were silent because at that
 moment a child appeared, a boy of about eleven.
-
-*       *       *       *       *
 
 He burst from the schoolhouse door and ran across the cracked asphalt
 toward the playground, glancing back over his shoulder as though
@@ -155,7 +147,7 @@ the schoolhouse.
 Paul went along, sniveling miserably. They entered the building and the
 play yard was once more silent and deserted.
 
-"By God, Staghorn," Peccary thundered, "you've doctored it! You've
+"By Entity, Staghorn," Peccary thundered, "you've doctored it! You've
 deliberately fed false information into Humanac's memory cells!"
 
 Staghorn turned to glare at his guest, his eyes flaming at the
@@ -176,8 +168,6 @@ down and stop waving your arms. I'm going to see if we can get into the
 school."
 
 Peccary sat down, seething.
-
-*       *       *       *       *
 
 It had been a mistake to bring his Y Hormone to Staghorn. It was simply
 that he'd been thinking of himself as such a benefactor to the human
@@ -202,9 +192,9 @@ aging process. If administered artificially, it could keep insects in
 the larval stage almost indefinitely.
 
 Dr. Peccary's great contribution had been to synthesize this
-extract--which affected only insects--with protein elements that
+extract—which affected only insects—with protein elements that
 could be assimilated by mammals and humans. It had required years of
-experimentation, but the result was his Y Hormone--Y for Youth.
+experimentation, but the result was his Y Hormone—Y for Youth.
 
 In his laboratory he now had playful kittens that were six years old
 and puppies that should have been fully grown dogs. The only human he'd
@@ -239,14 +229,12 @@ methods of evaluation had been given a strictly human touch by feeding
 into its resistance chambers the cephalic wave patterns produced by the
 brains of Staghorn's colleagues.
 
-*       *       *       *       *
-
 An added feature, though by no means an original one, was the screen
 upon which Humanac produced visually the events of the time and place
 for which the controls were set.
 
 This screen was simply the big end of a cathode-ray tube, similar
-to those used in television sets. It was adapted from I.B.M.'s 704
+to those used in television sets. It was adapted from I. B. M.'s 704
 electronic computer used by the Vanguard tracking center to produce
 visual predictions of the orbits of artificial satellites.
 
@@ -283,13 +271,11 @@ effect, if any, the episode had had upon history.
 
 To his amazement, with that single kiss missing, Humanac produced a
 picture of the American continent composed of six different nations
-speaking French, German, Chinese, Hindu, Arabic and Muskogean--the last
+speaking French, German, Chinese, Hindu, Arabic and Muskogean—the last
 being the language of an Indian nation occupying the Mississippi Valley
 and extending northward to Lake Winnepeg. It served as a buffer state
 between the Hindus and Chinese in the west and the French, Germans and
 Arabs to the east.
-
-*       *       *       *       *
 
 It was Humanac's ability to predict the future consequences of any
 hypothetical event, however, that made it an instrument capable
@@ -302,7 +288,7 @@ consequences.
 If the consequences were good, the note would then be sent.
 
 If they were bad, the Secretary could destroy the note and try
-others--until he composed one that produced the desired result.
+others—until he composed one that produced the desired result.
 
 Humanac's flaw was that it had no way of explaining the predictions
 produced on its screen. It merely showed what would happen when and
@@ -350,7 +336,7 @@ world the Y Hormone._
 "All right then," said Peccary, somewhat mollified by this tribute. "If
 they put my picture on school room walls a hundred years from now, it
 means I'm an honored man, a man the world admires. And therefore the Y
-Hormone _can't_ be the cause of all this desolation!"
+Hormone can't be the cause of all this desolation!"
 
 "I've found that Humanac's reasoning and human reasoning differ in many
 ways," said Staghorn. On the screen they were out in the corridor again
@@ -364,8 +350,6 @@ vernier control. The focal point slid forward along the corridor.
 "Stand up and recite, Paul," Miss Terry said more sharply.
 
 "I think they're in the room on the left," said Peccary.
-
-II
 
 The focus shifted to the open door and then Peccary and Staghorn could
 see into the classroom. This one was in slightly better order than
@@ -407,18 +391,16 @@ just now on the playground?"
 "I was breaking Rule Three," Paul said, then quoted sadly, "I must stay
 away from high places or I may fall and dash my brains out."
 
-*       *       *       *       *
-
 Dr. Peccary was on his feet stomping around in front of the computer.
 "Sheer idiocy," he muttered. "He doesn't have any brains to dash out!
 I'll admit that a computer with sufficient information about the state
 of the world might be able to make accurate predictions of events a few
-months or possibly a year into the future--but not one hundred years!
+months or possibly a year into the future—but not one hundred years!
 In that long an interval even the most trivial error could distort
 every circuit in the machine." He jabbed a finger toward the screen
 where Paul was seated at his desk again. "And that's what that picture
-is--a distortion. I'm not going to let it influence me one bit in what
-I intend to--" He broke off because of what was happening on the screen.
+is—a distortion. I'm not going to let it influence me one bit in what
+I intend to—" He broke off because of what was happening on the screen.
 
 From somewhere outside the school building came the wail of a
 deep-throated alarm. Both Miss Terry and Paul were on their feet and by
@@ -441,7 +423,7 @@ The bearded man pointed at Paul. "There's the boy," he said quietly.
 "Take him."
 
 Paul let out a shriek of terror and fled into a corner as the two men
-advanced. He clawed futilely as they laid hands on him. "For God's
+advanced. He clawed futilely as they laid hands on him. "For Entity's
 sake, shut up," one of the men said with more disgust than anger. He
 pinioned Paul's arms while the other man bound them together with a
 strip of cloth.
@@ -463,8 +445,6 @@ Miss Terry let out an agonized wail of protest and fainted across her
 desk. One of the men slung Paul over his shoulder and the bearded
 leader led the group from the room.
 
-*       *       *       *       *
-
 "Amazing," murmured Staghorn. "Absolutely amazing. One never knows what
 to expect."
 
@@ -481,7 +461,7 @@ street beyond. Staghorn twisted the focus in all directions without
 discovering anyone.
 
 "That whistle we heard was obviously some kind of alarm," he said.
-"Everyone must be in hiding--from the Atavars, whoever they are. I
+"Everyone must be in hiding—from the Atavars, whoever they are. I
 strongly suspect that bearded fellow of being one."
 
 "You might as well shut it off, Staghorn," Dr. Peccary said coldly.
@@ -512,22 +492,20 @@ about the age to stop growing older."
 
 "That boy is nothing but a mathematical probability!"
 
-*       *       *       *       *
-
 "That's all you and I are," Staghorn said owlishly. "Mathematical
 probabilities. Despite Omar, nothing exactly like either of us has ever
 existed before or will exist again."
 
-"But damn it, Staghorn...." Dr. Peccary sat down, his face in his
+"But damn it, Staghorn..." Dr. Peccary sat down, his face in his
 hands. "It's worth millions! I've invested years of work and all
 the money I could scrape together. I don't see anything wrong in a
 scientist's profiting by his discoveries. And to keep it off the
 market just because that insane computer says that a hundred years
-from now--" He broke off, glaring at Humanac's screen which was still
+from now—" He broke off, glaring at Humanac's screen which was still
 focused on the deserted park. "It simply doesn't make sense! The
 machine doesn't give any reasons for anything. If there were a way
 I could talk directly to some of those mathematical probabilities,
-question them, ask them what it's all about...." He was on his feet,
+question them, ask them what it's all about..." He was on his feet,
 striding back and forth before the computer again.
 
 "Perhaps there is a way," Staghorn said quietly.
@@ -540,7 +518,7 @@ striding back and forth before the computer again.
 
 "By making your mind a temporary part of the computer."
 
-Peccary studied the huge machine apprehensively--its ranks of memory
+Peccary studied the huge machine apprehensively—its ranks of memory
 units, its chambers of flickering tubes, the labyrinth of circuits.
 "How would you go about it?"
 
@@ -588,8 +566,6 @@ future event, it has to take all factors into consideration. If one of
 those factors is its own destruction, it can predict nothing beyond
 that moment."
 
-*       *       *       *       *
-
 Peccary repeated this sentence in his mind while he slowly digested its
 meaning. What it seemed to mean was that, although Staghorn and Peccary
 thought of Humanac as only a complicated machine, Humanac's opinion of
@@ -599,13 +575,13 @@ itself was altogether otherwise. It could foresee its own death.
 around on Humanac's screen. To us they're only images made by a
 stream of electrons hitting the end of a cathode ray tube. Their space
 and time is an illusion. All the same, Humanac comprises an entire
-system--a system modeled as accurately as possible on our own. It's
+system—a system modeled as accurately as possible on our own. It's
 just possible that the boy we saw, Paul, was experiencing a real
 terror."
 
 Dr. Peccary examined Staghorn in amazement. He had often suspected that
 Staghorn's genius was tinged with madness. "You're not suggesting that
-those ... those images are conscious?"
+those... those images are conscious?"
 
 "Ah! What is consciousness?"
 
@@ -613,7 +589,7 @@ those ... those images are conscious?"
 
 "No, but it's only fair for me to suggest the possible emotional
 hazzards involved in hooking you up to Humanac. Because you have to
-admit that _you'll_ be conscious during the experiment."
+admit that you'll be conscious during the experiment."
 
 "Certainly. But I'll be sitting right there." Peccary pointed to the
 seat in the transmitter unit.
@@ -623,7 +599,7 @@ seat in the transmitter unit.
 Peccary eyed the helmet uneasily. "I'm not sure I want to do this."
 
 "But you do want to make millions from the Y Hormone. And you want to
-enjoy it with a clear conscience. Perhaps it's as you say--there may
+enjoy it with a clear conscience. Perhaps it's as you say—there may
 be other factors involved. By knowing what they are you may be able to
 negate their influence." Staghorn's voice was a soft purr as he took
 Dr. Peccary's arm and urged him into the transmitter unit. Peccary sat
@@ -632,7 +608,7 @@ down. The seat was small and hard.
 "Just bear one thing in mind," Staghorn said. "Don't get lost. It will
 be best if you stay in the little park where I can see you and where
 you'll be in focus. Unless you're in focus it might be impossible
-to--ah--disengage you."
+to—ah—disengage you."
 
 Dr. Peccary could find no meaning whatsoever in this statement, except
 confirmation of his suspicion that Staghorn was mad. He felt this so
@@ -643,7 +619,7 @@ he remained seated. For a second or two he could feel the tiny metallic
 contacts on the inside of the helmet pressing against his skull, but
 this sensation of physical pressure vanished almost at once. It was
 replaced by one of headlessness. His body up to his chin still seemed
-to be sitting in the transmitter--but his intellect had lost completely
+to be sitting in the transmitter—but his intellect had lost completely
 its sense of localization in the head.
 
 He could think clearly enough, but had no notion as to the spot where
@@ -661,8 +637,6 @@ Humanac's circuits now."
 Staghorn's hand moved across the controls and one of his long fingers
 flipped a switch.
 
-*       *       *       *       *
-
 This was the last Dr. Peccary saw of Roger Staghorn. Instantly he found
 himself standing in the center of the small park in his home town. His
 reaction was not one of alarm. Quite to the contrary, his immediate
@@ -672,11 +646,11 @@ the little square felt entirely normal and proper.
 Next he was jolted by the realization that he must be an image on
 Humanac's screen. He quickly looked about in all directions, half
 expecting to see Staghorn's huge face peering down from the sky like
-God. There was no sign of Staghorn, however. The world about him was
+Entity. There was no sign of Staghorn, however. The world about him was
 as three-dimensional as any he'd ever known. He was in his home town a
 hundred years after he'd last seen it.
 
-Good lord! He was a hundred and forty-two years old!
+Good master! He was a hundred and forty-two years old!
 
 This realization was followed by a host of others. Like a man coming
 out of amnesia, his past began filling with memories. He was rich. He
@@ -684,7 +658,7 @@ was the richest man on earth. His Y Hormone was used the world over. A
 mile away, on the outskirts of town, he could see a portion of his huge
 production plant. He lived in a majestic palace surrounded by every
 manner of automatic protective device. Protection? From what? And how
-had he dared to venture out here in the park alone? But wait ... wait.
+had he dared to venture out here in the park alone? But wait... wait.
 It was all an illusion. Actually he was only an image on Humanac's
 screen, a mathematical probability.
 
@@ -694,7 +668,7 @@ balance.
 He gazed about at the town, dismayed by its appearance. Not a person
 in sight. Not even an automobile. Of course, the motor car might have
 become obsolete during the passage of a hundred years. There must be
-some new mode of transportation--something undreamed of a century ago!
+some new mode of transportation—something undreamed of a century ago!
 
 While he was wondering what this might be, he heard a
 clop-clop-clopping and was astonished to see three horsemen approaching
@@ -712,8 +686,6 @@ were within speaking distance, he managed to hail them with, "Hey, you!"
 His nervousness made his words harsh. But then, there was no reason why
 he should speak politely to kidnapers. He saw that Paul was conscious.
 The boy had a gag over his mouth but his eyes were open.
-
-*       *       *       *       *
 
 The three riders reined in their horses and looked at Peccary with
 frank curiosity.
@@ -733,7 +705,7 @@ urged his horse closer. "You must be a stranger here, son?"
 That was some time ago and it's true I haven't been here recently." The
 way the bearded man stared at him made him extremely nervous. "But I'm
 sure that kidnaping is against the law. If you don't release that boy
-I'll have to--to make a citizen's arrest!" Peccary knew that his words
+I'll have to—to make a citizen's arrest!" Peccary knew that his words
 sounded ridiculous. From the way the three riders exchanged glances it
 was evident that they thought the same thing.
 
@@ -743,14 +715,14 @@ repeat whatever Peccary said.
 "Hush," said the bearded leader. And then to Peccary, "What's your
 name, son?"
 
-"Clarence Peccary. If you don't do as I say I'll--" He stopped short,
+"Clarence Peccary. If you don't do as I say I'll—" He stopped short,
 his heart leaping as the force of his indiscretion struck him.
 
 The three men had been struck also.
 
 The two younger ones were already on the ground, one on either side
 of him. Only the bearded man remained mounted. He leaned forward. "I
-thought you looked familiar. You're _Doctor_ Peccary of the Y Hormone?"
+thought you looked familiar. You're Doctor Peccary of the Y Hormone?"
 His voice was a menacing whisper. Peccary finally answered with a slow
 nod.
 
@@ -758,10 +730,8 @@ nod.
 him said. "However, let's never insult fortune!"
 
 This was the last Dr. Peccary heard. For at that instant one of the
-men--he never knew which--struck him forcibly over the head with a
+men—he never knew which—struck him forcibly over the head with a
 blunt instrument.
-
-III
 
 At Humanac's controls Roger Staghorn leaped to his feet in alarm as he
 saw what was happening on the screen.
@@ -774,8 +744,8 @@ Peccary's consciousness from Humanac's circuits.
 
 Nothing happened. Peccary's body remained as before, blissfully asleep.
 
-Good lord, of course nothing happened! How could it? Peccary had just
-been knocked cold; at the moment he didn't _have_ any consciousness!
+Good master, of course nothing happened! How could it? Peccary had just
+been knocked cold; at the moment he didn't have any consciousness!
 Staghorn opened the circuit again and whirled back to the control
 console.
 
@@ -786,7 +756,7 @@ They set spurs to their horses and galloped away, taking the
 unconscious Peccary with them.
 
 "No!" Staghorn shouted at the fleeing images. "No, Dr. Peccary! Stay
-in focus!" The horsemen paid no heed--nor did Staghorn expect them to,
+in focus!" The horsemen paid no heed—nor did Staghorn expect them to,
 rationally. His shouts were only involuntary expressions of despair.
 Grasping the geographic locator, he twiddled it wildly, managing to
 keep the three riders in focus for several blocks as they sped down a
@@ -802,7 +772,7 @@ Humanac's labyrinthean brain!
 Staghorn was stunned. There would be no difficulty in keeping Peccary's
 physical body alive indefinitely by intravenous feeding, but it was
 as good as dead while separated from its sense of identity. Worse yet
-were the probable consequences to Humanac of having a free soul loose
+were the probable consequences to Humanac of having a free essence loose
 in its mathematical universe. These were too dire to contemplate. The
 machine's reliability might be altogether ruined and Staghorn's life
 work destroyed. Under the circumstances there was but one course of
@@ -824,14 +794,12 @@ and pulled the helmet down on his head. As sensations of vastness and
 lost dimensions spread through him, he reached out and pressed down the
 switch that would pour his own brain impulses into Humanac's circuits.
 
-*       *       *       *       *
-
 Instantly, as with Dr. Peccary, Staghorn found himself standing in the
 little park.
 
 He examined his hands and slapped his sides a few times, taking time to
-assimilate the fact that he felt perfectly solid. Ah, Bishop Berkeley
-was right all the time! The universe was subjective--a creation of
+assimilate the fact that he felt perfectly solid. Ah, Prelate Berkeley
+was right all the time! The universe was subjective—a creation of
 consciousness!
 
 He left off these speculations and recalled himself to his mission.
@@ -882,9 +850,7 @@ time.
 
 "Yeah," he said.
 
-*       *       *       *       *
-
-"I see," said Staghorn. "And when is this ... merry event to take
+"I see," said Staghorn. "And when is this... merry event to take
 place?"
 
 "Some day," Jenny said indifferently. "When we both feel like it.
@@ -924,8 +890,8 @@ feel my blood pounding. Let's go get married."
 Jenny nodded and, with a cold glance at Staghorn, moved away with her
 companion. Staghorn was tempted to follow and demand an answer to his
 question when he saw Miss Terry approaching. Miss Terry was more likely
-to have the information he needed, and in any case--since she was only
-in her fifties--she was less than half of Jenny Cheever's age. He hoped
+to have the information he needed, and in any case—since she was only
+in her fifties—she was less than half of Jenny Cheever's age. He hoped
 this would make a difference in her attitude. That she was capable
 of emotion he already knew. Her expression, as she approached, was
 disconsolate.
@@ -938,8 +904,6 @@ to associate his name with those scientific achievements that had so
 startled the world a hundred years earlier. To his chagrin Miss Terry
 only gazed at him blankly and shook her head.
 
-*       *       *       *       *
-
 "No," she murmured. Then tears formed in her eyes and she tried to move
 on. Staghorn stopped her.
 
@@ -949,7 +913,7 @@ Paul."
 Her tears dropped more freely. "Sooner or later I knew they'd get him.
 The only child in town. And now I have nothing to do. Nothing at all!"
 
-"They? Just who are they--the Atavars?"
+"They? Just who are they—the Atavars?"
 
 Miss Terry turned pale. "Don't say it," she pleaded. "In time I'll
 forget."
@@ -960,13 +924,13 @@ forget."
 then wept copiously as she added, "But I'll live on with nothing to do!"
 
 "Then why didn't someone stop them?" He gestured angrily at the
-handsome young males wandering through the park. "All these men--why
+handsome young males wandering through the park. "All these men—why
 don't they rescue Paul?"
 
 This suggestion so shocked Miss Terry that she stopped weeping. "That's
 impossible! There'd be violence. Someone might get killed!"
 
-"They think of _that_ with a boy's life at stake?" Staghorn felt his
+"They think of that with a boy's life at stake?" Staghorn felt his
 rage rising. He was an irascible man by nature and had controlled
 himself so far only because he knew he was part of an illusion. The
 sense of illusion was fading rapidly, however. The guiding principles
@@ -989,7 +953,7 @@ Clarence Peccary, and I'm responsible for his life!"
 At this statement Miss Terry let out a cry of horror. "They've caught
 Dr. Peccary? No! No!"
 
-"They most certainly have. So hurry up and tell me--"
+"They most certainly have. So hurry up and tell me—"
 
 "We'll all die!" wailed Miss Terry. "We'll all die!"
 
@@ -1002,8 +966,6 @@ The news of Peccary's capture had unsettled her entirely. But despite
 the roughness with which he was forced to use her, no one came to her
 rescue. Several young men and women gathered at a safe distance to
 watch, but they did nothing to interfere.
-
-*       *       *       *       *
 
 Staghorn finally elicited the information that High Canyon was several
 miles north of town and could be reached by following a dirt road. To
@@ -1025,11 +987,11 @@ through a surge of prosperity, for there were several quite majestic
 buildings whose cornerstones bore dates of the late twentieth century.
 But it was also clear that during the last fifty years not only had
 few new enterprises been started but the old ones had been allowed to
-languish. The museum even lacked an attendant at the door--unless one
+languish. The museum even lacked an attendant at the door—unless one
 gave this title to the bust of Dr. Peccary which stood on a pedestal
 just inside the entrance. The plaque beneath the bust noted that Dr.
 Peccary had given the museum to the city in 1985 "to preserve for our
-immortal posterity a true picture of the world of mortals."
+undying posterity a true picture of the world of mortals."
 
 In the seven and a half decades since, however, this true picture had
 suffered badly.
@@ -1044,7 +1006,7 @@ He headed there at once, passing by displays of tractors, bulldozers,
 jackhammers and other commonplaces before reaching the automobiles.
 
 There was an excellent selection of standard and sports models, all a
-uniform gray under their coats of dust--and all of them out of gas.
+uniform gray under their coats of dust—and all of them out of gas.
 
 After so long a time it was doubtful if any would have run anyway. He
 had simply hoped that one lone attendant might have kept one in working
@@ -1055,8 +1017,6 @@ Bicycles. He chose a racing model.
 
 A few minutes later he was pedaling rapidly northward on the dirt road
 that led to High Canyon.
-
-IV
 
 Dr. Peccary could feel fingers probing at his sore head. A bit of damp
 cloth or cotton was pressed against his upper lip. The sharp odor that
@@ -1076,7 +1036,7 @@ his little black bag.
 Dr. Peccary sat up and touched the back of his head gingerly. It was
 very, very sore. He'd never had an illusion quite like this before.
 Besides, the illusion had persisted too long. How long had he been out?
-Hours? Days? Good lord, had Staghorn deserted him?
+Hours? Days? Good master, had Staghorn deserted him?
 
 The bearded man ushered the doctor out, locked the door and came back
 to observe Peccary. He put a booted foot on the chair and leaned an
@@ -1112,15 +1072,13 @@ in the plant, my men will do the rest."
 
 "Absolutely!"
 
-*       *       *       *       *
-
 "And what do you gain by that? The formula for the Y Hormone still
 exists!"
 
 The bearded man laughed. "Yes, I can see you've been out of touch with
 the world. It's been thirty years since the country produced anyone
 capable of working with that formula. That's when the last university
-closed down--thirty years ago."
+closed down—thirty years ago."
 
 "That's shocking," said Dr. Peccary. "But my experiments showed
 conclusively that the Y Hormone has no deleterious effect upon
@@ -1129,13 +1087,13 @@ intelligence. I took every precaution!"
 "Nothing wrong with anyone's intelligence," said the bearded man,
 "except that no one's under pressure to use it. When the future
 stretches on indefinitely, it gets easier and easier to put things off
-until tomorrow--even education--until finally it's put off forever.
+until tomorrow—even education—until finally it's put off forever.
 There's only one man living who understands that formula."
 
 "And who is that?"
 
 The bearded man looked down at him hatefully. "Yourself, Dr. Peccary!
-That's why we're so delighted to capture you--because now you'll never
+That's why we're so delighted to capture you—because now you'll never
 use it again!"
 
 Peccary stared at him aghast. "I understand now! You mean to steal
@@ -1171,8 +1129,6 @@ whose vertical walls rose high on either side. He recognized the place
 at once. Often when he was a boy he'd come here to camp overnight. It
 had been a delightful wilderness with a year-round stream.
 
-*       *       *       *       *
-
 The canyon had changed. Some forty cabins like the one he'd been in
 were built in the shade of the southern cliff, and the canyon floor
 was covered with green crops and pasture. He heard singing, laughter.
@@ -1202,7 +1158,7 @@ so terrified when you captured him?"
 
 "Because he'd had it pounded into him that if the Atavars got him
 he'd die. He will, too, eventually. Like any other mortal. But in the
-meanwhile--" He broke off and turned on Peccary savagely. "You see,
+meanwhile—" He broke off and turned on Peccary savagely. "You see,
 there's one thing you didn't consider at all! The Y Hormone stops aging
 and keeps people healthy, but it can't protect them from accidents. The
 immortals can still die if they get hit by a train or fall overboard
@@ -1216,10 +1172,8 @@ They weren't needed anyway, because people stopped traveling. To travel
 is to court accident. But one precaution breeds another, and before
 long people were avoiding all dangerous occupations. With immortality
 at stake, even the smallest risk was too much. Planing mills, machine
-shops, mines, smelters--bah! Name me an occupation that doesn't
+shops, mines, smelters—bah! Name me an occupation that doesn't
 occasionally entail some hazard. Even motherhood!"
-
-*       *       *       *       *
 
 "But I anticipated the need for birth control! I had the plans all set
 up."
@@ -1236,7 +1190,7 @@ immortals in a very soft position. For years now they've been existing
 on the leftovers from civilization, finding shelter in the old houses,
 ransacking the attics and closets of the dead for scraps of clothing,
 daring to plant a few crops in areas where they'll grow with little
-care. And after that--boredom."
+care. And after that—boredom."
 
 He thrust an accusing finger at Peccary. "And you dared to use the
 slogan, 'Time to achieve perfection!' I tell you, Dr. Peccary, the
@@ -1244,7 +1198,7 @@ source of man's courage and energy is the knowledge of death! Man was
 meant to be mortal. We strive because we know the time is short. We
 climb mountains, make love, descend to the depths of the sea and reach
 for the stars because the certainty of death urges us on. It's the only
-certainty the world had--and you would destroy it!"
+certainty the world had—and you would destroy it!"
 
 Peccary quailed before the bearded man's ferocity. He was relieved when
 his captor's attention was diverted by a party of horsemen who rode
@@ -1260,9 +1214,7 @@ of being forcibly hoisted into the saddle when he was given a reprieve
 by a diversion of another kind.
 
 Approaching on the path through the center of the canyon, pedaling his
-bicycle frantically, came--Staghorn!
-
-*       *       *       *       *
+bicycle frantically, came—Staghorn!
 
 He rode up to the group and leapt from his seat, his face blue from
 exertion. He'd been climbing all the way from town. He stood gasping
@@ -1285,7 +1237,7 @@ Dr. Peccary, at once!"
 
 The bearded man was so amazed by this request that he forgot to take
 offense. He gaped at Staghorn. "Who are you? I can't imagine an
-immortal risking himself on a bicycle!"
+undying risking himself on a bicycle!"
 
 "At this moment I'm desperately mortal, and so is Dr. Peccary!"
 
@@ -1295,7 +1247,7 @@ immortal risking himself on a bicycle!"
 
 The bearded man stomped the ground. "I've been living on this planet
 fifty-five years. I know reality when I see it! And what's more, I'm
-beginning to think you _are_ one of the immortals. Even an immortal
+beginning to think you are one of the immortals. Even an undying
 might show some courage when he knows he's going to be deprived of the
 Y Hormone."
 
@@ -1304,8 +1256,6 @@ industry and education in this canyon and so it's possible you've heard
 of me. I have quite a record of scientific achievements back in the
 twentieth century."
 
-*       *       *       *       *
-
 At this announcement the bearded man goggled at him, then threw back
 his head and laughed uproariously. "You couldn't have picked a worse
 masquerade. Dr. Roger Staghorn died in 1994!"
@@ -1313,7 +1263,7 @@ masquerade. Dr. Roger Staghorn died in 1994!"
 "I can't help that I'm Staghorn!"
 
 The bearded man stopped laughing and thrust his face forward
-threateningly. "You're a fraud! Because it so happens that _I'm_
+threateningly. "You're a fraud! Because it so happens that I'm
 Staghorn!"
 
 "You? Staghorn?"
@@ -1373,8 +1323,6 @@ bicycle, both men charged into it.
 "The square!" Staghorn gasped. "I'm focused on the square!" He hauled
 out his watch as he ran. Only seven minutes remained.
 
-*       *       *       *       *
-
 The deep-throated alarm whistle was sounding over the town. Its
 inhabitants must have sighted the approach of the Atavars for they
 were scurrying into buildings and basements, leaving the way clear for
@@ -1399,13 +1347,13 @@ second hand creep around the dial.
 The second hand crept on. A minute left. Staghorn judged the distance
 from their hiding place to the grassy plot where the bearded man was
 standing. About seventy-five yards. Could he do seventy-five yards in
-ten seconds? Could Peccary? Thirty seconds left ... twenty-five ...
-twenty. He'd never gone through such a painful count-down ... fifteen
+ten seconds? Could Peccary? Thirty seconds left... twenty-five...
+twenty. He'd never gone through such a painful count-down... fifteen
 seconds.
 
 "Ready, Dr. Peccary. It's now or never."
 
-Thirteen ... twelve ... eleven ... "Go!"
+Thirteen... twelve... eleven... "Go!"
 
 Staghorn burst from his hiding place with Peccary at his heels. They
 dashed for the square. They were over the curb and into the street
@@ -1426,8 +1374,6 @@ They were over the park and onto the grass. A bullet crashed into
 Staghorn's leg and he fell, diving forward.
 
 "Got him!" cried his great-grandson. "Now get Peccary!"
-
-*       *       *       *       *
 
 Three shots rang out as one. But at some point in the bullets' flight
 toward Peccary and Staghorn, the square and everything in it vanished.
@@ -1466,7 +1412,7 @@ Then slowly he moved to a laboratory sink and poured the contents of
 the bottle down the drain.
 
 "I can't help wondering," mused Staghorn, "of whose computer we're a
-part right now--slight factors in the chain of causation that started
-God knows when and will end...."
+part right now—slight factors in the chain of causation that started
+Entity knows when and will end..."
 
 "When someone pulls the switch," said Dr. Peccary.

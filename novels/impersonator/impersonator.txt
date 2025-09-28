@@ -1,13 +1,9 @@
-Title: The Impersonator
-
-Author: Robert Wicks
-
 He opened his eyes. He couldn't remember having ever seen humans
 before, but he recognized them instantly. Nor could he remember having
 seen anything before, yet he felt a warm familiarity with all that fell
-into view--the light panels set flush with the ceiling, the gleaming
+into view—the light panels set flush with the ceiling, the gleaming
 laboratory paraphernalia erected around the table on which he lay,
-electronic scanners probing his mind with invisible beams--but, most of
+electronic scanners probing his mind with invisible beams—but, most of
 all, the two men in white lab coats bending over him.
 
 "Clench your fingers," ordered the shorter of the two humans.
@@ -80,8 +76,6 @@ conference table.
 
 Marta, partially reassured, sat down again.
 
-*       *       *       *       *
-
 As Chandler poured himself a glass of water, he studied her clean
 features as he would a mathematical problem in topology. Add in her
 blue eyes and white skin, subtract her hair pulled back in a severe bun
@@ -106,7 +100,7 @@ were here to determine an immediate course of action. My government
 instructed me to work to that end. I do not know what your instructions
 were."
 
-"My dear Dr. White--" the Russian began, but Chandler's gavel rapped
+"My dear Dr. White—" the Russian began, but Chandler's gavel rapped
 firmly on the table.
 
 "Surely," he said, "Professor Kotenko is willing to concede that a cold
@@ -124,7 +118,7 @@ and a half of Soviet weather control? Would you destroy the Bering
 Strait Dam and the North Atlantic pumping stations?"
 
 Dr. White stood up to face Kotenko. "If it would stop that infernal ice
-sheet, yes, by God!"
+sheet, yes, by Entity!"
 
 "It is easy for you to talk," the Russian fired back. "It is not
 British science that is being impugned."
@@ -134,8 +128,6 @@ British science that is being impugned."
 "A tribute to Soviet science," the Russian replied, smiling.
 
 The Englishman's neck reddened.
-
-*       *       *       *       *
 
 Chandler rapped his gavel again. All eyes turned his way.
 
@@ -148,7 +140,7 @@ Professor Kotenko remained standing.
 "You have the Soviet plan before you," he directed at Chandler.
 
 "I've read it," said Chandler, glancing down at the document neatly
-bound in manuscript covers. "An interesting idea--increasing the
+bound in manuscript covers. "An interesting idea—increasing the
 greenhouse effect by adding carbon dioxide to the upper atmosphere.
 But the amount that could be added would only raise the temperature
 by a few degrees. Since snowfall increases considerably at the warmer
@@ -157,7 +149,7 @@ our problem."
 
 Kotenko's features stiffened. "The plan also includes changing the
 albedo of the ice by coating it with coal dust. Not only would this
-raise the mean temperature, it would melt the--"
+raise the mean temperature, it would melt the—"
 
 "What happens when it snows over your precious coal dust?" the
 Britisher cut in.
@@ -189,8 +181,6 @@ challenged.
 "My dear Dr. White," returned the Russian, "the X-factor is best left
 under international ban."
 
-*       *       *       *       *
-
 The Englishman turned to the Canadian delegate. "Is it? Perhaps this
 is the time to screen your stop-motion studies of the destruction of
 Ottawa."
@@ -218,7 +208,9 @@ the rooftops of Ottawa, once the capital of Canada. At the edge of the
 business district loomed a massive wall of gray ice. It was pushing a
 ridge of boulders and dirt before it as it bore down on the city.
 
-The scene dissolved to a closer view of the glacier. As Chandler
+The
+
+ssolved to a closer view of the glacier. As Chandler
 watched, fascinated, the glacier ground the city under like a huge
 bulldozer. And still it came on and, for a moment, looked as if it
 might flow right into the conference room.
@@ -241,7 +233,7 @@ felt strangely detached.
 
 "I don't think we're capable of reversing the warm currents flowing
 into the Arctic," he found himself saying. "The Bering Strait Dam is
-one thing, but a dam across the North Atlantic...."
+one thing, but a dam across the North Atlantic..."
 
 "Then what have you in mind?" asked the Russian.
 
@@ -269,26 +261,24 @@ surface."
 "Gentlemen," Marta Neilson said. "As you know, I have been working
 rather closely with Dr. Chandler on the plans that have been suggested.
 However, tapping the core comes as a surprise even to me. But because
-I am acquainted not only with his reputation"--she acknowledged the
-Hindu with a nod--"but with his ability as well, I move that we allow
+I am acquainted not only with his reputation"—she acknowledged the
+Hindu with a nod—"but with his ability as well, I move that we allow
 Dr. Chandler to pick a committee to consider the feasibility and the
 consequences of such a plan."
 
 "And what sort of magical drill is going to accomplish this?" the
 Russian demanded.
 
-"The edge of the core is 1,800 miles down--" the Englishman started to
+"The edge of the core is 1,800 miles down—" the Englishman started to
 say.
 
 Chandler rapped his gavel once. "I believe there is a motion before
 us," he said.
 
-*       *       *       *       *
-
 Unlike the days before the threat of avalanches, the tubeway over
 the Sierra Nevada range was not heavily traveled. Twice in the past
 year avalanches had dislodged the tube, once resulting in a number of
-deaths--something that hadn't happened on American highways for nearly
+deaths—something that hadn't happened on American highways for nearly
 fifty years. But it was the most direct route to the Detroit Glacier
 Control Center.
 
@@ -303,14 +293,14 @@ lounge.
 continuing. "It'll be another century before Europe forgets World War
 III. Maybe you thought Kotenko's selection would appease the Eastern
 Union or maybe you were simply trying to get him out of the role of
-principal opponent, but--"
+principal opponent, but—"
 
 "I picked him because I needed him."
 
 Marta frowned slightly. "Now it's my turn to ask why."
 
 "Kotenko isn't just another glaciologist or meteorologist," Chandler
-said. "His forte is pure science--creative science."
+said. "His forte is pure science—creative science."
 
 "But he's impractical." Marta sat back in her chair. "You were the
 first to point out the weaknesses of his greenhouse plan. In fact, you
@@ -379,8 +369,6 @@ fully automated and not physically directed from the surface."
 "And I suppose you will use some sort of thermocouple or heat transfer
 pump to direct the heat against the ice."
 
-*       *       *       *       *
-
 Chandler nodded. "And pump it into the air to raise the mean
 temperature in the glacial areas."
 
@@ -398,8 +386,8 @@ the Earth is made of molten metal?"
 "Would it make much difference as long as we can use the heat?" Marta
 asked.
 
-"If we are not careful in tapping such a core--" Kotenko paused for a
-moment, considering the consequences--"we could turn the Solar System
+"If we are not careful in tapping such a core—" Kotenko paused for a
+moment, considering the consequences—"we could turn the Solar System
 into a binary system."
 
 "I doubt that," Chandler said. "Besides, I don't plan to set off an
@@ -419,7 +407,7 @@ that will melt anything it comes into contact with, fuse the material
 into a casing and remove the heat conductivity from it so that it
 will remain solid. This device would sink toward the center of the
 Earth on a gravity drive principle. Your pressure traps would be force
-fields--controlled to allow surplus debris to spew out the top like an
+fields—controlled to allow surplus debris to spew out the top like an
 oil gusher." Kotenko settled back against the head rest.
 
 "Where would we get the energy to drive this device?" Chandler asked.
@@ -468,15 +456,13 @@ glistened in the soft reflected light of the tube.
 
 "We have just received word of an avalanche," the voice of the driver
 reported. "There is no immediate danger. However, we may be forced to
-turn back to--" A sound as of rolling thunder drowned him out.
+turn back to—" A sound as of rolling thunder drowned him out.
 
-"What--" Kotenko started to say, and then a gigantic mass of snow
+"What—" Kotenko started to say, and then a gigantic mass of snow
 shuddered down the side of the mountain and broke against the tube like
 a foaming tidal wave engulfing the shore. Marta screamed and fell into
 Chandler's arms as the tubeway lifted, twisted, then slid with the snow
 into the valley below.
-
-*       *       *       *       *
 
 It was like the dissolve on the video screen. Marta's terror-filled
 eyes were replaced by the penetrating eyes of the short man in the
@@ -525,11 +511,11 @@ fainted."
 
 "What about Marta?" Chandler asked.
 
-Kotenko smiled. "_She_ didn't faint."
+Kotenko smiled. "She didn't faint."
 
 "Then she's all right?"
 
-"Everyone in the last three cars lived--a few broken bones, that's
+"Everyone in the last three cars lived—a few broken bones, that's
 all. The tube separated and the front cars and some of the other
 vehicles were carried down into the valley. This would not be permitted
 in the Soviet Union."
@@ -546,8 +532,6 @@ blankets and tended by doctors and nurses.
 "Three or four hours. A long time to be unconscious. They want to X-ray
 that skull of yours."
 
-*       *       *       *       *
-
 Chandler frowned. "No need of that."
 
 Again Kotenko smiled. "That's what I told them, but medical men
@@ -563,7 +547,7 @@ the front entrance, he was intercepted by Marta.
 
 "To the center."
 
-"But--"
+"But—"
 
 "No arguments. We've got a lot of work to do."
 
@@ -592,14 +576,12 @@ opposition and much stronger backing."
 "I can hardly wait to see the faces of the committee when we tell them
 that," said Kotenko.
 
-*       *       *       *       *
-
 But Kotenko showed little interest in the surprised faces of the
 committee when Chandler announced his deadline one month later in
 Detroit. Chandler knew that it was another aspect of his report that
 deeply concerned the Russian.
 
-Marta supported Chandler's contention that the job could be done--and
+Marta supported Chandler's contention that the job could be done—and
 in a year. She produced carefully detailed studies of non-conductive
 metals that she had painstakingly prepared.
 
@@ -607,7 +589,7 @@ Finally it was Kotenko's turn.
 
 "Yes, Dr. Chandler, with his rather remarkable mental resources, has
 clearly shown that the drill can be produced by modern technology. And
-I believe that Dr. Neilson--" he smiled at Marta--"can lead the way to
+I believe that Dr. Neilson—" he smiled at Marta—"can lead the way to
 a system of non-conductive conduits to pump the heat anywhere it is
 needed. Only the one hole with its inexhaustible supply of heat will be
 necessary. On only one point do I disagree with Dr. Chandler."
@@ -636,7 +618,7 @@ Solar System. Right here on our own planet, the X-factor could have
 rebuilt the world almost overnight following the war."
 
 "There is an ancient saying," Kotenko interrupted. "Those who play with
-fire--"
+fire—"
 
 "The time has come," Dr. White pushed on, "to reappraise our position
 with regard to the X-factor capsules lying unused in the Swiss
@@ -646,8 +628,8 @@ stockpile."
 from Greater Germany. "This is a matter for the Council itself."
 
 Chandler tossed his pencil aside and stood up. "Nor is there any need
-to get a decision at this moment. The drill--with or without the
-capsule--will be basically the same. I'd like to see a motion for work
+to get a decision at this moment. The drill—with or without the
+capsule—will be basically the same. I'd like to see a motion for work
 to proceed on the drill. The matter of the X-factor can be decided
 later."
 
@@ -672,8 +654,6 @@ from many nations of the World Council were brought together in the old
 General Motors Technical Center in Detroit. Plans were drawn, models
 constructed and a test vehicle sent to the center of Saturn's moon,
 Mimas.
-
-*       *       *       *       *
 
 Chandler carefully studied Kotenko's report of the Mimas probe, then
 met with the Russian in the latter's office.
@@ -713,8 +693,6 @@ Russian. "And neither would I. You're too valuable a man."
 
 Kotenko was still studying his cigar as Chandler left.
 
-*       *       *       *       *
-
 The X-factor capsule arrived under an international guard with the
 blessings of slightly over half of the member nations. Kotenko didn't
 resign, but his friendliness vanished.
@@ -740,9 +718,9 @@ manufacture of the conduits."
 Chandler smiled. The last obstacle was over.
 
 "And more than that," Marta said, "we can build a test drill that will
-go down into one of the big moons--one with a molten core."
+go down into one of the big moons—one with a molten core."
 
-"The next drill," said Chandler, "will be the _real_ thing to tap the
+"The next drill," said Chandler, "will be the real thing to tap the
 core of the Earth."
 
 Marta kissed him.
@@ -762,8 +740,6 @@ surprising even to himself.
 
 Chandler felt a deep pride as he gazed at the drill, complete with the
 controversial capsule.
-
-*       *       *       *       *
 
 "Excuse me, Dr. Chandler." A reporter with dry, unkempt hair stepped
 up. "I still don't see how that thing will work."
@@ -789,7 +765,7 @@ hole in the ground?"
 Chandler laughed. "Don't get me mixed up in politics."
 
 "Are you disturbed by the Interplanetary Council of Churches' charge
-that any attempt to stop the glacier is defying the will of God?"
+that any attempt to stop the glacier is defying the will of Entity?"
 
 "Nor religion, either, please."
 
@@ -824,7 +800,7 @@ animated conversation with several committee members.
 "You mean the composition of the core?"
 
 Chandler nodded at the drill. "Basically, that thing is an X-bomb.
-If fusion were to occur in the core and that core _were_ made up of
+If fusion were to occur in the core and that core were made up of
 compacted hydrogen atoms, I think the Earth might crack apart along
 the fault lines surrounding the Pacific Ocean basin."
 
@@ -851,8 +827,6 @@ thing," Chandler said.
 
 "Which would only make it happen quicker by reflecting the heat back in
 on itself."
-
-*       *       *       *       *
 
 The press photographers' strobe lights began to flicker as the drill
 was lowered into the center of the control ring. Someone was making a
@@ -887,7 +861,7 @@ everything. Maybe the fact that I'm a woman has been outweighing the
 fact that I'm also a scientist. But let's talk now about the moral
 obligation of a scientist."
 
-"I'm interested in one thing--the best method to save civilization
+"I'm interested in one thing—the best method to save civilization
 from certain destruction."
 
 "But have you the right to gamble like this? Which is worse, the
@@ -913,14 +887,14 @@ without someone on hand who knows how to handle it?"
 
 "No, I wouldn't," Marta said. "I'm not sure I want to see it start at
 all." She touched his arm. "Paul, this is a side of you I've tried
-hard not to see. You're--you're almost obsessed with the belief that
+hard not to see. You're—you're almost obsessed with the belief that
 the drill is the only answer. And you're battling ruthlessly against
 counter-ideas and time. After all, even the most radical estimates
 give us at least two more centuries. Granted there'll be a southern
-migration, but--"
+migration, but—"
 
 "Don't ask me how I know," Chandler said, "but we don't have two or
-even one century. _We don't have ten years!_ When the ice cap at the
+even one century. We don't have ten years! When the ice cap at the
 South Pole was at its peak, it exerted tremendous pressures on the
 continental land masses."
 
@@ -937,7 +911,7 @@ way, then the other, until fatigue causes it to snap."
 
 "With catastrophic consequences."
 
-"You're asking me to accept a great deal on faith."
+"You're asking me to accept a great deal on conviction."
 
 "When you stood by me back in New San Francisco," Chandler asked, "did
 you honestly think we could tap the core?"
@@ -946,8 +920,6 @@ you honestly think we could tap the core?"
 
 "Would you have supported me if I had backed the Canadian plan for
 tilting the world on its axis?"
-
-*       *       *       *       *
 
 Marta seemed lost in deep reflection for a few moments. "I don't really
 know," she said as they reached the VIP quarters.
@@ -1021,7 +993,7 @@ A small Army verti-plane swung down alongside him.
 Chandler stopped and faced the plane. "It's me, Dr. Chandler."
 
 The plane settled down beside him. "Oh, yes, sir," the voice
-apologized. "We saw you running and--"
+apologized. "We saw you running and—"
 
 "Quick, take me to the drill," Chandler said.
 
@@ -1042,8 +1014,6 @@ team of technicians to the Gismo."
 "Follow me," Chandler ordered, and pushed through the inner door.
 
 Hesitantly, the guards followed.
-
-*       *       *       *       *
 
 Down in the basin, Chandler saw the yellow glow of a work light.
 Figures were silhouetted against it. He took the spiral stairs two at a
@@ -1066,8 +1036,6 @@ X-factor," Kotenko said firmly.
 moving toward the shadowy figure.
 
 "I am armed," Kotenko warned.
-
-*       *       *       *       *
 
 Chandler stopped. Marta, clad in an overcoat, came down the stairs.
 Several others followed.
@@ -1097,13 +1065,13 @@ the control lever. Electro-mechanisms whirred and the drill suddenly
 plunged into the depths of the Earth, carrying most of Kotenko's crew
 with it.
 
-"Good God!" someone cried.
+"Astounding!" someone cried.
 
 Marta was kneeling beside Chandler, tears streaming down her face.
 "Paul!" she sobbed. "Oh, Paul!"
 
 Chandler could taste the warm saltiness of blood in his mouth. "Get the
-control crew here--quick," he gasped.
+control crew here—quick," he gasped.
 
 Someone moved for the stairs while someone else leaped for the field
 control unit.
@@ -1129,7 +1097,7 @@ shock waves from the drill reverberated around the globe.
 He looked around. They were alone on the basin floor except for the
 contorted body of Kotenko. Paul looked up at Marta.
 
-"How--much--time?"
+"How—much—time?"
 
 Marta, her face close to his, smiled faintly. "No more time for you and
 me." Her eyes were dry.
@@ -1141,8 +1109,6 @@ everything vaporized into blinding white heat.
 "Clench your fingers."
 
 "Blink your eyes."
-
-*       *       *       *       *
 
 The short man in the gleaming laboratory was leaning over Chandler. "We
 did our best," he said.
@@ -1159,13 +1125,13 @@ this all about?"
 The tall man snapped a series of switches off. "You ask the same
 question every time."
 
-"_Every_ time?"
+"Every time?"
 
 "We've sent you back three times now." The tall man traded his lab
 coat for a tunic. "Once you tried to X-bomb the Bering Strait Dam, but
 the crust shifted, wiping out the whole population. On the second time
 pass, you tried to tilt the Earth on its axis, but it was thrown out of
-orbit and plunged into the sun. This time--you still have your memories
+orbit and plunged into the sun. This time—you still have your memories
 of that."
 
 "Makes you wonder about fate," the short man said.
@@ -1182,8 +1148,8 @@ send your mind matrix to meld with Chandler's."
 "To help him save the Earth," the tall man said. "When it was destroyed
 originally, small colonies of us were stranded on inhospitable planets.
 We're still trying to crawl out of the decline that set in. But if we
-can send you back and save the Earth--well, you will remain with Paul
-Chandler. And we--?" He walked to a bank of controls near the door and
+can send you back and save the Earth—well, you will remain with Paul
+Chandler. And we—?" He walked to a bank of controls near the door and
 put his hand on one. "Who knows? None of this will have happened. We
 might not even exist."
 

@@ -1,0 +1,104 @@
+{
+  "total_memories": 148,
+  "novel_word_count": 61133,
+  "memory_density": 2.4209510411725255,
+  "memory_types": {
+    "description": 21,
+    "character": 42,
+    "dialogue": 39,
+    "location": 37,
+    "emotion": 2,
+    "theme": 7
+  },
+  "emotional_distribution": {
+    "neutral": 80,
+    "positive": 28,
+    "negative": 38,
+    "happy": 2
+  },
+  "average_importance": 0.7457702702702702,
+  "position_coverage": {
+    "min": 0.00039261876717707107,
+    "max": 0.9972516686297606,
+    "mean": 0.5155137469625102
+  },
+  "memory_system_config": {
+    "max_memories": 250,
+    "chunk_size": 35,
+    "retrieval_limit": 5,
+    "randomness_factor": 0.15
+  },
+  "novel_tags": {
+    "themes": [
+      "romance",
+      "horror",
+      "mystery",
+      "adventure",
+      "war",
+      "crime"
+    ],
+    "characters": [
+      "Connie",
+      "Danjuro",
+      "Helzephron",
+      "Japanese",
+      "Vargus",
+      "cave",
+      "have",
+      "never",
+      "only",
+      "suddenly",
+      "that",
+      "then",
+      "what",
+      "which"
+    ],
+    "locations": [
+      "England",
+      "HIGH AIR",
+      "Plymouth",
+      "RESTAURANT",
+      "Whitehall",
+      "eight",
+      "least",
+      "once",
+      "same time",
+      "twenty"
+    ],
+    "genre_hints": [
+      "Romance",
+      "Gothic/Horror",
+      "Mystery/Crime",
+      "Adventure",
+      "War/Military"
+    ],
+    "basic_stats": {
+      "word_count": 61133,
+      "sentence_count": 4892,
+      "paragraph_count": 1530,
+      "avg_sentence_length": 12.496524938675389,
+      "avg_paragraph_length": 39.9562091503268,
+      "dialogue_ratio": 0.005687450770156906,
+      "capitalization_ratio": 0.029419604484071243,
+      "unique_words": 5329,
+      "lexical_diversity": 0.08717059525951613
+    },
+    "memory_compatibility": {
+      "memory_density_estimate": 30,
+      "character_memory_potential": 14,
+      "location_memory_potential": 10,
+      "theme_memory_potential": 6,
+      "dialogue_memory_potential": 949.5,
+      "descriptive_memory_potential": 4725,
+      "optimal_chunk_size": 400,
+      "suggested_memory_types": {
+        "character": true,
+        "location": true,
+        "dialogue": true,
+        "description": true,
+        "emotion": true,
+        "theme": true
+      }
+    }
+  }
+}

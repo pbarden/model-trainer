@@ -1,8 +1,4 @@
-Title: The Repairman
-
-Author: Harry Harrison
-
-Being an interstellar trouble shooter wouldn't be so bad ... if I
+Being an interstellar trouble shooter wouldn't be so bad... if I
 could shoot the trouble!
 
 The Old Man had that look of intense glee on his face that meant someone
@@ -29,9 +25,9 @@ shot, burned the contract to ashes.
 The Old Man pressed the button again and another contract slid out on
 his desk. If possible, the smile was still wider now.
 
-"I should have said a _duplicate_ of your contract--like this one here."
+"I should have said a duplicate of your contract—like this one here."
 He made a quick note on his secretary plate. "I have deducted 13 credits
-from your salary for the cost of the duplicate--as well as a 100-credit
+from your salary for the cost of the duplicate—as well as a 100-credit
 fine for firing a Solar inside a building."
 
 I slumped, defeated, waiting for the blow to land. The Old Man fondled
@@ -39,28 +35,26 @@ my contract.
 
 "According to this document, you can't quit. Ever. Therefore I have a
 little job I know you'll enjoy. Repair job. The Centauri beacon has shut
-down. It's a Mark III beacon...."
+down. It's a Mark III beacon..."
 
-"_What_ kind of beacon?" I asked him. I have repaired hyperspace beacons
+"What kind of beacon?" I asked him. I have repaired hyperspace beacons
 from one arm of the Galaxy to the other and was sure I had worked on
 every type or model made. But I had never heard of this kind.
 
 "Mark III," the Old Man repeated, practically chortling. "I never heard
 of it either until Records dug up the specs. They found them buried in
 the back of their oldest warehouse. This was the earliest type of beacon
-ever built--by Earth, no less. Considering its location on one of the
+ever built—by Earth, no less. Considering its location on one of the
 Proxima Centauri planets, it might very well be the first beacon."
-
-*       *       *       *       *
 
 I looked at the blueprints he handed me and felt my eyes glaze with
 horror. "It's a monstrosity! It looks more like a distillery than a
-beacon--must be at least a few hundred meters high. I'm a repairman, not
+beacon—must be at least a few hundred meters high. I'm a repairman, not
 an archeologist. This pile of junk is over 2000 years old. Just forget
 about it and build a new one."
 
 The Old Man leaned over his desk, breathing into my face. "It would take
-a year to install a new beacon--besides being too expensive--and this
+a year to install a new beacon—besides being too expensive—and this
 relic is on one of the main routes. We have ships making
 fifteen-light-year detours now."
 
@@ -69,17 +63,17 @@ Forty-four on Company Duty and My Troubles.
 
 "This department is officially called Maintenance and Repair, when it
 really should be called trouble-shooting. Hyperspace beacons are made to
-last forever--or damn close to it. When one of them breaks down, it is
-_never_ an accident, and repairing the thing is never a matter of just
+last forever—or damn close to it. When one of them breaks down, it is
+never an accident, and repairing the thing is never a matter of just
 plugging in a new part."
 
-He was telling _me_--the guy who did the job while he sat back on his
+He was telling me—the guy who did the job while he sat back on his
 fat paycheck in an air-conditioned office.
 
 He rambled on. "How I wish that were all it took! I would have a fleet
 of parts ships and junior mechanics to install them. But its not like
 that at all. I have a fleet of expensive ships that are equipped to do
-almost anything--manned by a bunch of irresponsibles like _you_."
+almost anything—manned by a bunch of irresponsibles like you."
 
 I nodded moodily at his pointing finger.
 
@@ -101,13 +95,11 @@ the money out."
 I smiled, a little weakly, I'm afraid, as if I had never meant to keep
 that account a secret. His spies were getting more efficient every day.
 Walking down the hall, I tried to figure a way to transfer the money
-without his catching on--and knew at the same time he was figuring a way
+without his catching on—and knew at the same time he was figuring a way
 to outfigure me.
 
 It was all very depressing, so I stopped for a drink, then went on to
 the spaceport.
-
-*       *       *       *       *
 
 By the time the ship was serviced, I had a course charted. The nearest
 beacon to the broken-down Proxima Centauri Beacon was on one of the
@@ -116,17 +108,17 @@ about nine days in hyperspace.
 
 To understand the importance of the beacons, you have to understand
 hyperspace. Not that many people do, but it is easy enough to understand
-that in this _non_-space the regular rules don't apply. Speed and
+that in this non-space the regular rules don't apply. Speed and
 measurements are a matter of relationship, not constant facts like the
 fixed universe.
 
-The first ships to enter hyperspace had no place to go--and no way to
+The first ships to enter hyperspace had no place to go—and no way to
 even tell if they had moved. The beacons solved that problem and opened
 the entire universe. They are built on planets and generate tremendous
 amounts of power. This power is turned into radiation that is punched
 through into hyperspace. Every beacon has a code signal as part of its
 radiation and represents a measurable point in hyperspace. Triangulation
-and quadrature of the beacons works for navigation--only it follows its
+and quadrature of the beacons works for navigation—only it follows its
 own rules. The rules are complex and variable, but they are still rules
 that a navigator can follow.
 
@@ -158,8 +150,6 @@ couldn't end up inside a star no matter how hard you tried. I'm sure
 there was no humaneness in this decision. They just didn't want to lose
 the ship.
 
-*       *       *       *       *
-
 It was a twenty-hour jump, ship's time, and I came through in the middle
 of nowhere. The robot analyzer chuckled to itself and scanned all the
 stars, comparing them to the spectra of Proxima Centauri. It finally
@@ -167,7 +157,7 @@ rang a bell and blinked a light. I peeped through the eyepiece.
 
 A fast reading with the photocell gave me the apparent magnitude and a
 comparison with its absolute magnitude showed its distance. Not as bad
-as I had thought--a six-week run, give or take a few days. After feeding
+as I had thought—a six-week run, give or take a few days. After feeding
 a course tape into the robot pilot, I strapped into the acceleration
 tank and went to sleep.
 
@@ -197,12 +187,10 @@ eye controls and dived the thing down.
 I cut out the radar and cut in the nose orthicon and sat back to watch
 the beacon appear on the screen.
 
-[Illustration]
-
-The image blinked, focused--and a great damn pyramid swam into view. I
+The image blinked, focused—and a great damn pyramid swam into view. I
 cursed and wheeled the eye in circles, scanning the surrounding country.
 It was flat, marshy bottom land without a bump. The only thing in a
-ten-mile circle was this pyramid--and that definitely wasn't my beacon.
+ten-mile circle was this pyramid—and that definitely wasn't my beacon.
 
 Or wasn't it?
 
@@ -212,13 +200,11 @@ light from the top and I took a closer look at it. On the peak of the
 pyramid was a hollow basin filled with water. When I saw that, something
 clicked in my mind.
 
-*       *       *       *       *
-
 Locking the eye in a circular course, I dug through the Mark III
-plans--and there it was. The beacon had a precipitating field and a
+plans—and there it was. The beacon had a precipitating field and a
 basin on top of it for water; this was used to cool the reactor that
 powered the monstrosity. If the water was still there, the beacon was
-still there--inside the pyramid. The natives, who, of course, weren't
+still there—inside the pyramid. The natives, who, of course, weren't
 even mentioned by the idiots who constructed the thing, had built a nice
 heavy, thick stone pyramid around the beacon.
 
@@ -241,7 +227,7 @@ bottle.
 Normally, a repairman stays away from native cultures. They are poison.
 Anthropologists may not mind being dissected for their science, but a
 repairman wants to make no sacrifices of any kind for his job. For this
-reason, most beacons are built on uninhabited planets. If a beacon _has_
+reason, most beacons are built on uninhabited planets. If a beacon has
 to go on a planet with a culture, it is usually built in some
 inaccessible place.
 
@@ -249,7 +235,7 @@ Why this beacon had been built within reach of the local claws, I had
 yet to find out. But that would come in time. The first thing to do was
 make contact. To make contact, you have to know the local language.
 
-And, for _that_, I had long before worked out a system that was
+And, for that, I had long before worked out a system that was
 fool-proof.
 
 I had a pryeye of my own construction. It looked like a piece of rock
@@ -274,29 +260,27 @@ MT brain takes over and starts filling in the missing pieces. As soon as
 the MT could give a running translation of any conversation it heard, I
 figured it was time to make a contact.
 
-*       *       *       *       *
-
 I found him easily enough. He was the Centaurian version of a
-goat-boy--he herded a particularly loathsome form of local life in the
+goat-boy—he herded a particularly loathsome form of local life in the
 swamps outside the town. I had one of the working eyes dig a cave in an
 outcropping of rock and wait for him.
 
 When he passed next day, I whispered into the mike: "Welcome, O
-Goat-boy Grandson! This is your grandfather's spirit speaking from
-paradise." This fitted in with what I could make out of the local
+Goat-boy Grandson! This is your grandfather's specter speaking from
+perfect realm." This fitted in with what I could make out of the local
 religion.
 
 Goat-boy stopped as if he'd been shot. Before he could move, I pushed a
 switch and a handful of the local currency, wampum-type shells, rolled
 out of the cave and landed at his feet.
 
-"Here is some money from paradise, because you have been a good boy."
-Not really from paradise--I had lifted it from the treasury the night
+"Here is some money from perfect realm, because you have been a good boy."
+Not really from perfect realm—I had lifted it from the treasury the night
 before. "Come back tomorrow and we will talk some more," I called after
 the fleeing figure. I was pleased to notice that he took the cash before
 taking off.
 
-After that, Grandpa in paradise had many heart-to-heart talks with
+After that, Grandpa in perfect realm had many heart-to-heart talks with
 Grandson, who found the heavenly loot more than he could resist. Grandpa
 had been out of touch with things since his death and Goat-boy happily
 filled him in.
@@ -310,24 +294,24 @@ little religious war going on around the pyramid.
 It all began with the land bridge. Apparently the local lizards had been
 living in the swamps when the beacon was built, but the builders didn't
 think much of them. They were a low type and confined to a distant
-continent. The idea that the race would develop and might reach _this_
+continent. The idea that the race would develop and might reach this
 continent never occurred to the beacon mechanics. Which is, of course,
 what happened.
 
 A little geological turnover, a swampy land bridge formed in the right
 spot, and the lizards began to wander up beacon valley. And found
-religion. A shiny metal temple out of which poured a constant stream of
-magic water--the reactor-cooling water pumped down from the atmosphere
+religion. A shiny metal ancient hall out of which poured a constant stream of
+magic water—the reactor-cooling water pumped down from the atmosphere
 condenser on the roof. The radioactivity in the water didn't hurt the
 natives. It caused mutations that bred true.
 
-A city was built around the temple and, through the centuries, the
+A city was built around the ancient hall and, through the centuries, the
 pyramid was put up around the beacon. A special branch of the priesthood
-served the temple. All went well until one of the priests violated the
-temple and destroyed the holy waters. There had been revolt, strife,
-murder and destruction since then. But still the holy waters would not
-flow. Now armed mobs fought around the temple each day and a new band of
-priests guarded the sacred fount.
+served the ancient hall. All went well until one of the keepers violated the
+ancient hall and destroyed the mystical waters. There had been revolt, strife,
+murder and destruction since then. But still the mystical waters would not
+flow. Now armed mobs fought around the ancient hall each day and a new band of
+keepers guarded the mystical fount.
 
 And I had to walk into the middle of that mess and repair the thing.
 
@@ -340,12 +324,10 @@ when I got back.
 Diplomacy was called for. I sighed and dragged out the plastiflesh
 equipment.
 
-*       *       *       *       *
-
 Working from 3D snaps of Grandson, I modeled a passable reptile head
 over my own features. It was a little short in the jaw, me not having
 one of their toothy mandibles, but that was all right. I didn't have to
-look _exactly_ like them, just something close, to soothe the native
+look exactly like them, just something close, to soothe the native
 mind. It's logical. If I were an ignorant aborigine of Earth and I ran
 into a Spican, who looks like a two-foot gob of dried shellac, I would
 immediately leave the scene. However, if the Spican was wearing a suit
@@ -366,7 +348,7 @@ a duck-waddle, but that only helped the resemblance.
 That night I took the ship down into the hills nearest the pyramid, an
 out-of-the-way dry spot where the amphibious natives would never go. A
 little before dawn, the eye hooked onto my shoulders and we sailed
-straight up. We hovered above the temple at about 2,000 meters, until it
+straight up. We hovered above the ancient hall at about 2,000 meters, until it
 was light, then dropped straight down.
 
 It must have been a grand sight. The eye was camouflaged to look like a
@@ -375,10 +357,10 @@ wings obviously had nothing to do with our flight. But it was impressive
 enough for the natives. The first one that spotted me screamed and
 dropped over on his back. The others came running. They milled and
 mobbed and piled on top of one another, and by that time I had landed in
-the plaza fronting the temple. The priesthood arrived.
+the plaza fronting the ancient hall. The priesthood arrived.
 
 I folded my arms in a regal stance. "Greetings, O noble servers of the
-Great God," I said. Of course I didn't say it out loud, just whispered
+Great Entity," I said. Of course I didn't say it out loud, just whispered
 loud enough for the throat mike to catch. This was radioed back to the
 MT and the translation shot back to a speaker in my jaws.
 
@@ -388,7 +370,7 @@ instantly. I had the volume turned up and the whole square echoed.
 Some of the more credulous natives prostrated themselves and others fled
 screaming. One doubtful type raised a spear, but no one else tried that
 after the pterodactyl-eye picked him up and dropped him in the swamp.
-The priests were a hard-headed lot and weren't buying any lizards in a
+The keepers were a hard-headed lot and weren't buying any lizards in a
 poke; they just stood and muttered. I had to take the offensive again.
 
 "Begone, O faithful steed," I said to the eye, and pressed the control
@@ -396,41 +378,39 @@ in my palm at the same time.
 
 It took off straight up a bit faster than I wanted; little pieces of
 wind-torn plastic rained down. While the crowd was ogling this ascent, I
-walked through the temple doors.
+walked through the ancient hall doors.
 
-"I would talk with you, O noble priests," I said.
+"I would talk with you, O noble keepers," I said.
 
 Before they could think up a good answer, I was inside.
 
-*       *       *       *       *
-
-The temple was a small one built against the base of the pyramid. I
+The ancient hall was a small one built against the base of the pyramid. I
 hoped I wasn't breaking too many taboos by going in. I wasn't stopped,
-so it looked all right. The temple was a single room with a
+so it looked all right. The ancient hall was a single room with a
 murky-looking pool at one end. Sloshing in the pool was an ancient
 reptile who clearly was one of the leaders. I waddled toward him and he
 gave me a cold and fishy eye, then growled something.
 
 The MT whispered into my ear, "Just what in the name of the thirteenth
-sin are you and what are you doing here?"
+crime are you and what are you doing here?"
 
 I drew up my scaly figure in a noble gesture and pointed toward the
 ceiling. "I come from your ancestors to help you. I am here to restore
-the Holy Waters."
+the Mystical Waters."
 
 This raised a buzz of conversation behind me, but got no rise out of the
 chief. He sank slowly into the water until only his eyes were showing. I
 could almost hear the wheels turning behind that moss-covered forehead.
 Then he lunged up and pointed a dripping finger at me.
 
-"You are a liar! You are no ancestor of ours! We will--"
+"You are a liar! You are no ancestor of ours! We will—"
 
 "Stop!" I thundered before he got so far in that he couldn't back out.
-"I said your ancestors sent me as emissary--I am not one of your
+"I said your ancestors sent me as emissary—I am not one of your
 ancestors. Do not try to harm me or the wrath of those who have Passed
 On will turn against you."
 
-When I said this, I turned to jab a claw at the other priests, using the
+When I said this, I turned to jab a claw at the other keepers, using the
 motion to cover my flicking a coin grenade toward them. It blew a nice
 hole in the floor with a great show of noise and smoke.
 
@@ -439,17 +419,17 @@ meeting of the shamans. It, of course, took place in the public bathtub
 and I had to join them there. We jawed and gurgled for about an hour and
 settled all the major points.
 
-I found out that they were new priests; the previous ones had all been
-boiled for letting the Holy Waters cease. They found out I was there
+I found out that they were new keepers; the previous ones had all been
+boiled for letting the Mystical Waters cease. They found out I was there
 only to help them restore the flow of the waters. They bought this,
 tentatively, and we all heaved out of the tub and trickled muddy paths
 across the floor. There was a bolted and guarded door that led into the
 pyramid proper. While it was being opened, the First Lizard turned to
 me.
 
-"Undoubtedly you know of the rule," he said. "Because the old priests
+"Undoubtedly you know of the rule," he said. "Because the old keepers
 did pry and peer, it was ruled henceforth that only the blind could
-enter the Holy of Holies." I'd swear he was smiling, if thirty teeth
+enter the Mystical of Holies." I'd swear he was smiling, if thirty teeth
 peeking out of what looked like a crack in an old suitcase can be called
 smiling.
 
@@ -460,30 +440,28 @@ toward me. He was just drawing a bead on my right eyeball when my brain
 got back in gear.
 
 "Of course," I said, "blinding is only right. But in my case you will
-have to blind me before I _leave_ the Holy of Holies, not now. I need my
-eyes to see and mend the Fount of Holy Waters. Once the waters flow
+have to blind me before I leave the Mystical of Holies, not now. I need my
+eyes to see and mend the Fount of Mystical Waters. Once the waters flow
 again, I will laugh as I hurl myself on the burning iron."
-
-*       *       *       *       *
 
 He took a good thirty seconds to think it over and had to agree with me.
 The local torturer sniffled a bit and threw a little more charcoal on
 the fire. The gate crashed open and I stalked through; then it banged to
 behind me and I was alone in the dark.
 
-But not for long--there was a shuffling nearby and I took a chance and
-turned on my flash. Three priests were groping toward me, their
+But not for long—there was a shuffling nearby and I took a chance and
+turned on my flash. Three keepers were groping toward me, their
 eye-sockets red pits of burned flesh. They knew what I wanted and led
 the way without a word.
 
 A crumbling and cracked stone stairway brought us up to a solid metal
-doorway labeled in archaic script _MARK III BEACON--AUTHORIZED PERSONNEL
+doorway labeled in archaic script _MARK III BEACON—AUTHORIZED PERSONNEL
 ONLY_. The trusting builders counted on the sign to do the whole job,
 for there wasn't a trace of a lock on the door. One lizard merely turned
 the handle and we were inside the beacon.
 
 I unzipped the front of my camouflage suit and pulled out the
-blueprints. With the faithful priests stumbling after me, I located the
+blueprints. With the faithful keepers stumbling after me, I located the
 control room and turned on the lights. There was a residue of charge in
 the emergency batteries, just enough to give a dim light. The meters and
 indicators looked to be in good shape; if anything, unexpectedly bright
@@ -494,9 +472,7 @@ One of the eager lizards had managed to open a circuit box and had
 polished the switches inside. While doing this, he had thrown one of the
 switches and that had caused the trouble.
 
-*       *       *       *       *
-
-Rather, that had _started_ the trouble. It wasn't going to be ended by
+Rather, that had started the trouble. It wasn't going to be ended by
 just reversing the water-valve switch. This valve was supposed to be
 used only for repairs, after the pile was damped. When the water was cut
 off with the pile in operation, it had started to overheat and the
@@ -509,33 +485,31 @@ I wasn't going to play with the fuel problem at all. It would be far
 easier to install a new power plant. I had one in the ship that was
 about a tenth the size of the ancient bucket of bolts and produced at
 least four times the power. Before I sent for it, I checked over the
-rest of the beacon. In 2000 years, there should be _some_ sign of wear.
+rest of the beacon. In 2000 years, there should be some sign of wear.
 
 The old boys had built well, I'll give them credit for that. Ninety per
 cent of the machinery had no moving parts and had suffered no wear
 whatever. Other parts they had beefed up, figuring they would wear, but
 slowly. The water-feed pipe from the roof, for example. The pipe walls
-were at least three meters thick--and the pipe opening itself no bigger
+were at least three meters thick—and the pipe opening itself no bigger
 than my head. There were some things I could do, though, and I made a
 list of parts.
 
 The parts, the new power plant and a few other odds and ends were chuted
 into a neat pile on the ship. I checked all the parts by screen before
 they were loaded in a metal crate. In the darkest hour before dawn, the
-heavy-duty eye dropped the crate outside the temple and darted away
+heavy-duty eye dropped the crate outside the ancient hall and darted away
 without being seen.
 
-I watched the priests through the pryeye while they tried to open it.
+I watched the keepers through the pryeye while they tried to open it.
 When they had given up, I boomed orders at them through a speaker in the
 crate. They spent most of the day sweating the heavy box up through the
-narrow temple stairs and I enjoyed a good sleep. It was resting inside
+narrow ancient hall stairs and I enjoyed a good sleep. It was resting inside
 the beacon door when I woke up.
-
-*       *       *       *       *
 
 The repairs didn't take long, though there was plenty of groaning from
 the blind lizards when they heard me ripping the wall open to get at the
-power leads. I even hooked a gadget to the water pipe so their Holy
+power leads. I even hooked a gadget to the water pipe so their Mystical
 Waters would have the usual refreshing radioactivity when they started
 flowing again. The moment this was all finished, I did the job they were
 waiting for.
@@ -548,23 +522,23 @@ shaken its stone walls. Shaking my hands once over my head, I went down
 for the eye-burning ceremony.
 
 The blind lizards were waiting for me by the door and looked even
-unhappier than usual. When I tried the door, I found out why--it was
+unhappier than usual. When I tried the door, I found out why—it was
 bolted and barred from the other side.
 
 "It has been decided," a lizard said, "that you shall remain here
-forever and tend the Holy Waters. We will stay with you and serve your
+forever and tend the Mystical Waters. We will stay with you and serve your
 every need."
 
-A delightful prospect, eternity spent in a locked beacon with three
+A delightful prospect, endless time spent in a locked beacon with three
 blind lizards. In spite of their hospitality, I couldn't accept.
 
-"What--you dare interfere with the messenger of your ancestors!" I had
+"What—you dare interfere with the messenger of your ancestors!" I had
 the speaker on full volume and the vibration almost shook my head off.
 
 The lizards cringed and I set my Solar for a narrow beam and ran it
 around the door jamb. There was a great crunching and banging from the
 junk piled against it, and then the door swung free. I threw it open.
-Before they could protest, I had pushed the priests out through it.
+Before they could protest, I had pushed the keepers out through it.
 
 The rest of their clan showed up at the foot of the stairs and made a
 great ruckus while I finished welding the door shut. Running through the
@@ -573,8 +547,8 @@ the surface.
 
 "What lack of courtesy!" I shouted. He made little bubbles in the water.
 "The ancestors are annoyed and have decided to forbid entrance to the
-Inner Temple forever; though, out of kindness, they will let the waters
-flow. Now I must return--on with the ceremony!"
+Inner Ancient Hall forever; though, out of kindness, they will let the waters
+flow. Now I must return—on with the ceremony!"
 
 The torture-master was too frightened to move, so I grabbed out his hot
 iron. A touch on the side of my face dropped a steel plate over my eyes,
@@ -583,8 +557,6 @@ eye-sockets and the plastic gave off an authentic odor.
 
 A cry went up from the crowd as I dropped the iron and staggered in
 blind circles. I must admit it went off pretty well.
-
-*       *       *       *       *
 
 Before they could get any more bright ideas, I threw the switch and my
 plastic pterodactyl sailed in through the door. I couldn't see it, of
@@ -607,9 +579,9 @@ One: The beacon was repaired.
 Two: The door was sealed, so there should be no more sabotage,
 accidental or deliberate.
 
-Three: The priests should be satisfied. The water was running again, my
+Three: The keepers should be satisfied. The water was running again, my
 eyes had been duly burned out, and they were back in business. Which
-added up to--
+added up to—
 
 Four: The fact that they would probably let another repairman in, under
 the same conditions, if the beacon conked out again. At least I had done
@@ -619,4 +591,4 @@ antagonistic toward future ancestral messengers.
 I stripped off my tattered lizard suit back in the ship, very glad that
 it would be some other repairman who'd get the job.
 
---HARRY HARRISON
+—HARRY HARRISON

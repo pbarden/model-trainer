@@ -1,11 +1,3 @@
-Title: On the Trail of the Space Pirates
-
-Author: Carey Rockwell
-
-CHAPTER 1
-
-"ALL ABOARD!"
-
 A metallic voice rasped over the loud-speakers and echoed through the
 lofty marble and aluminum concourse of the New Chicago Monorail
 Terminal. "Atom City express on Track Seven! Space Academy first stop!
@@ -58,7 +50,7 @@ Suddenly Astro sat bolt upright. "I'm hungry!" he announced.
 
 "Why, you overgrown Venusian ape, Mrs. Corbett gave you dinner less than
 an hour ago!" Roger complained. "Steak, French fries, beans, corn, pie,
-ice cream...."
+ice cream..."
 
 "Two helpings," chimed in Tom.
 
@@ -86,7 +78,7 @@ behind him.
 A hand grabbed him by the shoulder and pushed him to one side. Caught
 off balance, Astro fell back on his sleeping unit-mates.
 
-"Hey! What th--" stuttered Astro as he sprawled on top of his friends.
+"Hey! What th—" stuttered Astro as he sprawled on top of his friends.
 The two sleepy cadets came up howling.
 
 "Astro! What in blazes do you think you're doing?" roared Tom.
@@ -119,7 +111,7 @@ the two grinning men.
 
 "You know, Tom," he drawled, looking the heavier of the two right in the
 eye, "the only thing I don't like about being a Space Cadet is having to
-be polite to _all_ the people, including the space crawlers!"
+be polite to all the people, including the space crawlers!"
 
 "Why, you little punk," sneered the bigger man, "I oughta wipe up the
 deck with you!"
@@ -167,8 +159,6 @@ on its food bills."
 Tom and Roger smiled at each other, closed their eyes, and in a moment
 the three cadets of the Polaris unit were sound asleep.
 
-*       *       *       *       *
-
 Suspended from a single gleaming rail that stretched across the western
 plains like an endless silver ribbon, the monorail express hurtled
 through the early dawn speeding its passengers to their destination. As
@@ -196,7 +186,7 @@ headed for the morning room. Astro and Roger followed, dragging their
 feet and rubbing their eyes.
 
 Five minutes later, as the sleek monorail whistled into the tunnel
-beneath the mountain range, the boys of the _Polaris_ unit returned to
+beneath the mountain range, the boys of the Polaris unit returned to
 their seats.
 
 "Back to the old grind," sighed Roger. "Drills, maneuvers, books,
@@ -224,7 +214,7 @@ the exit.
 All around the cadets, men and women in the vari-colored uniforms of the
 Solar Guard hurried through the station. The green of the Earthworm
 cadets, first-year students of the Cadet Corps; the brilliant rich blue
-of the senior cadets like the _Polaris_ unit; the scarlet red of the
+of the senior cadets like the Polaris unit; the scarlet red of the
 enlisted Solar Guard; and here and there, the black and gold of the
 officers of the Solar Guard.
 
@@ -256,7 +246,7 @@ instructor. Steve Strong, captain in the Solar Guard, had been their
 cadet instructor since the unit had been formed and he now smiled a
 welcome as the cadets snapped to attention in front of his desk.
 
-"_Polaris_ unit reporting as ordered, sir," said Tom, handing over the
+"Polaris unit reporting as ordered, sir," said Tom, handing over the
 audiogram order he had received the day before.
 
 "Thank you, Corbett," said Strong, taking the paper. "At ease."
@@ -272,14 +262,14 @@ desk and shook hands with each of them.
 
 "And how she can cook!" Astro licked his lips involuntarily.
 
-"Well, I hope you had a good rest--" said Strong, but was suddenly
+"Well, I hope you had a good rest—" said Strong, but was suddenly
 interrupted by the sound of a small bell. Behind his desk a small
 teleceiver screen glowed into life to reveal the stern face of Commander
 Walters, the commander of Space Academy.
 
 Strong turned to the teleceiver and called, "Yes, Commander Walters?"
 
-"Did the _Polaris_ unit arrive yet, Steve?" asked the commander.
+"Did the Polaris unit arrive yet, Steve?" asked the commander.
 
 "Yes, sir," replied Strong. "They're here in my office now, sir."
 
@@ -314,29 +304,29 @@ acceleration on a rocket ship than ride on any of them."
 
 "But what will we do, sir?" asked Tom.
 
-"Our job is very simple. We're to take the _Polaris_ to the exposition
+"Our job is very simple. We're to take the Polaris to the exposition
 and land on the fairgrounds. When the fair opens, we show all the
 visitors who are interested, everything about her."
 
-"You mean we're going to be"--Roger swallowed--"guides?"
+"You mean we're going to be"—Roger swallowed—"guides?"
 
 "That's right, Manning," said Strong. "You three will guide all visitors
-through the _Polaris_."
+through the Polaris."
 
 "How long will we be there, sir?" asked Tom.
 
-"A month or so, I guess. The _Polaris_ will be the first Academy
+"A month or so, I guess. The Polaris will be the first Academy
 exhibit. When you leave, another unit will replace you with their ship
 and do the same thing."
 
-"But--but--" stammered Astro, "what will we say to them? The visitors, I
+"But—but—" stammered Astro, "what will we say to them? The visitors, I
 mean?"
 
 "Just answer all their questions, Astro. Also, make up a little speech
 about the functions of your particular station."
 
 Strong looked at his watch and rose to his feet. "It's getting late.
-Check the _Polaris_ over and stand by to raise ship in an hour."
+Check the Polaris over and stand by to raise ship in an hour."
 
 "Yes, sir," said Tom.
 
@@ -353,9 +343,9 @@ The three cadets saluted sharply and filed out of the room, their
 skipper's final words ringing in their ears.
 
 Fifteen minutes later, having packed the necessary gear for the extended
-trip, the _Polaris_ unit rode the slidewalk through the grassy
+trip, the Polaris unit rode the slidewalk through the grassy
 quadrangle and the cluster of Academy buildings, out toward the
-spaceport. In the distance they could see the rocket cruiser _Polaris_,
+spaceport. In the distance they could see the rocket cruiser Polaris,
 poised on the launching ramp, her long silhouette outlined sharply
 against the blue sky. Resting on her four stabilizer fins, her nose
 pointed toward the stars, the ship looked like a giant projectile poised
@@ -425,7 +415,7 @@ intercom.
 
 "All departments, report!" he called.
 
-"Radar bridge checks in O.K.," replied Roger.
+"Radar bridge checks in O. K.," replied Roger.
 
 "Power deck checks in on the nose, Tom," reported Astro.
 
@@ -436,12 +426,12 @@ then steadied into a view of the spaceport outside. Tom scanned the
 launching ramp below, and, satisfied it was clear, he switched the
 teleceiver to the spaceport traffic-control circuit.
 
-"Rocket cruiser _Polaris_ to spaceport control," he called. "Come in,
+"Rocket cruiser Polaris to spaceport control," he called. "Come in,
 spaceport control. Request orbit clearance."
 
-"Spaceport traffic control to _Polaris_," reported the traffic officer,
+"Spaceport traffic control to Polaris," reported the traffic officer,
 his face in focus on the teleceiver screen. "Your orbit has been cleared
-for blast-off. Orbit number 3847--repeat, 3847--raise ship when ready!"
+for blast-off. Orbit number 3847—repeat, 3847—raise ship when ready!"
 
 "Orbit 3847," repeated Tom. "End transmission!"
 
@@ -452,7 +442,7 @@ At the rear of the control deck, Captain Strong suddenly stepped through
 the hatch and dropped his black plastic space bag on the deck. Tom got
 up and saluted sharply.
 
-"_Polaris_ ready to blast off, sir," he said. "Orbit cleared."
+"Polaris ready to blast off, sir," he said. "Orbit cleared."
 
 "Very well, Corbett," replied Strong, returning the salute. "Carry on!"
 
@@ -487,7 +477,7 @@ Receiving acknowledgment from below, he grasped the master blast-off
 switch and watched the sweeping hand of the astral chronometer.
 
 "Stand by to raise ship!" he yelled. "Blast off
-minus--five--four--three--two--one--_zero_!"
+minus—five—four—three—two—one—zero!"
 
 He pulled the switch.
 
@@ -499,8 +489,6 @@ Venus.
 
 Once again Tom Corbett and his unit-mates had embarked on a mission for
 the Solar Guard.
-
-CHAPTER 2
 
 "Stand by for touchdown!" bellowed Captain Strong's voice on the big
 spaceship's intercom.
@@ -518,7 +506,7 @@ ground-approach check from Roger.
 "About two miles to touchdown, Tom," reported Roger from the radar
 bridge. "Trajectory clear!"
 
-"O.K., Roger," said Tom. Glancing quickly at the air speed and rocket
+"O. K., Roger," said Tom. Glancing quickly at the air speed and rocket
 thrust indicators, he flipped a switch and sang out, "Power deck, reduce
 thrust on main drive rockets to minimum!"
 
@@ -535,7 +523,7 @@ Reacting swiftly, Tom adjusted several levers, then picking up the
 intercom microphone, he threw a switch and yelled, "Power deck! Full
 braking thrust!"
 
-Deep inside the _Polaris_, Astro, who tended the mighty rocket power
+Deep inside the Polaris, Astro, who tended the mighty rocket power
 plant with loving care, eased home the sensitive control mechanism,
 applying even pressure to the braking rockets.
 
@@ -546,7 +534,7 @@ the landing platform with a gentle thump.
 
 "Touchdown!" yelled Tom. Then, glancing at the astral chronometer on the
 control board, he turned to Strong, and saluting smartly, reported,
-"_Polaris_ completes space flight at exactly seven fifty-two-O-two!"
+"Polaris completes space flight at exactly seven fifty-two-O-two!"
 
 Strong returned the salute. "Very well, Tom. Now, I want you, Roger, and
 Astro to come with me to the exposition commissioner's office for an
@@ -557,7 +545,7 @@ interview and detailed orders."
 A few minutes later, dressed in fresh uniforms, the three cadets
 followed their unit commander out of the ship, then stood by as Strong
 ordered the chief petty officer of an enlisted Solar Guard working party
-to prepare the _Polaris_ for moving to the exposition site.
+to prepare the Polaris for moving to the exposition site.
 
 "Empty the reactant fuel tanks of all but enough for us to raise ship
 and touch down over to the fairgrounds," said Strong. "Better strip her
@@ -598,7 +586,7 @@ looked up when Strong and the cadets walked in and rose quickly with a
 broad smile to greet them.
 
 "Steve!" he exclaimed, rounding the desk to shake hands with his old
-friend. "I never dreamed we'd have you and the _Polaris_ unit at our
+friend. "I never dreamed we'd have you and the Polaris unit at our
 fair!" He nodded warmly to the cadets who stood at rigid attention. "At
 ease, cadets. Glad to have you aboard."
 
@@ -641,13 +629,11 @@ Council. I answer only to the council. If you have a complaint, then you
 must present your case before that body." He cleared his throat and
 glared at them from behind his desk. "Good day, gentlemen!" he said.
 
-[Illustration: _Hawks stood up and eyed the two men coldly_]
-
 The two men, who until now had been seated facing the desk, got up, and
 after glaring at Hawks, turned and walked toward the door. Tom gasped,
 and grabbing Roger by the arm, involuntarily pointed at the two men.
 
-"Look, Roger--those men--" he whispered.
+"Look, Roger—those men—" he whispered.
 
 "Yeah," said Roger. "Those are the wise-guy space crawlers we met on the
 monorail, the ones who called us punks!"
@@ -660,7 +646,7 @@ Strong, who sat near Tom, heard the exchange between the cadets.
 
 "You know those men?" he asked.
 
-"Well--uh--not exactly, sir. We just had a little run-in with them on
+"Well—uh—not exactly, sir. We just had a little run-in with them on
 the monorail returning from leave, that's all," said Tom. "Nothing
 serious. They don't think much of the Solar Guard, though."
 
@@ -689,7 +675,7 @@ as he spoke.
 thoughts, and ideas in the knowledgeable history of mankind! There are
 going to be lectures from the greatest minds in the system on any and
 all subjects you can think of. In one building we're going to build a
-whole spaceship--a rocket cruiser--piece by piece, right in front of the
+whole spaceship—a rocket cruiser—piece by piece, right in front of the
 eyes of fair visitors. In another building we're going to have the
 greatest collection of musicians in the universe, continuously playing
 the most beautiful music, in a hall built to seat a half million people.
@@ -705,24 +691,26 @@ Strong and the cadets sat transfixed as they listened to the
 commissioner speak in glowing terms of the exposition, which, until this
 time, by the cadets at least, had been considered little more than a
 giant amusement park. Finally Strong managed to say, "And we thought the
-_Polaris_ was going to be so big, it'd be the center of attraction." He
+Polaris was going to be so big, it'd be the center of attraction." He
 smiled.
 
 Hawks waved his hand. "Look, I don't want to offend you or the boys,
-Steve, but the fact is, the _Polaris_ is one of the _smaller_ exhibits!"
+Steve, but the f
+
+s, the Polaris is one of the smaller exhibits!"
 
 "I can see that now," answered Strong. "Tell me, Mike, just what do you
 want us to do?"
 
 "I'll answer that in two parts. First, I would like the cadets to set up
-the _Polaris_, get her shining and bright, and with quiet courtesy,
+the Polaris, get her shining and bright, and with quiet courtesy,
 answer any question anyone might ask concerning the ship, referring any
 question they can't answer to the information center in the Space
 Building."
 
 "That's all, sir?" asked Tom incredulously.
 
-"That's all, Corbett. You open the _Polaris_ at nine in the morning and
+"That's all, Corbett. You open the Polaris at nine in the morning and
 close her at nine at night. You'll be living aboard, of course."
 
 "Yes, sir. Of course, sir."
@@ -743,9 +731,9 @@ that opening speech, Steve."
 
 "Me!" cried Strong. "Me, make a speech?"
 
-"I can't think of anyone more deserving--or dependable."
+"I can't think of anyone more deserving—or dependable."
 
-"But--but--" stammered the captain, "I can't make a speech. I wouldn't
+"But—but—" stammered the captain, "I can't make a speech. I wouldn't
 know what to say."
 
 "Say anything you want. Just make it short and to the point."
@@ -779,7 +767,7 @@ Strong shook hands with the cadets and thanked them.
 "Not a thing, Steve."
 
 Strong turned back to the boys. "Better hop out to the spaceport and get
-the _Polaris_ over the exposition site, cadets. Soon as you set her
+the Polaris over the exposition site, cadets. Soon as you set her
 down, clean her up a little, then relax. I'll be at the Galaxy Hotel if
 you need me."
 
@@ -787,7 +775,7 @@ you need me."
 
 The cadets saluted sharply and left the office.
 
-Arriving at the spaceport, they found the _Polaris_ stripped of her guns
+Arriving at the spaceport, they found the Polaris stripped of her guns
 and her galley stocked with food. The chief petty officer in charge of
 the enlisted spacemen detail was roving through the passageways of the
 rocket cruiser when Tom found him.
@@ -855,7 +843,7 @@ to cover the families?"
 "Listen, punk!" sneered Wallace, "get back over to your Solar Guard
 space toy and keep your trap shut!"
 
-"Now--now--" jeered Roger, "mustn't get nasty. Remember, we're going to
+"Now—now—" jeered Roger, "mustn't get nasty. Remember, we're going to
 be neighbors. Never can tell when you might want to borrow some baling
 wire or chewing gum to keep your craft together!"
 
@@ -868,7 +856,7 @@ back.
 "Okay, punk! You asked for it," yelled Wallace. He had been holding a
 length of chain and now he swung it at Roger. The cadet ducked easily,
 hopped over the fence, and before Wallace knew what was happening,
-jolted him with three straight lefts and a sharp right cross. Wallace
+jolted him with three straight lefts and a sharp right symbol. Wallace
 went down in a heap, out cold.
 
 Luther Simms, who had been watching the affair from one side, now rushed
@@ -892,10 +880,10 @@ cadet's shoulder, and drawled, "Why, then you'd have just taken them
 apart to avenge me! Wouldn't you, pal?"
 
 "Aw, stow it," snapped Tom. For a second Roger looked at him sharply,
-then broke into a smile again. "O.K., Tom, I'm sorry," he said. "O.K.,
+then broke into a smile again. "O. K., Tom, I'm sorry," he said. "O. K.,
 let's get back to work," ordered Tom.
 
-Back at the _Polaris_, as they continued cleaning the hull of the ship,
+Back at the Polaris, as they continued cleaning the hull of the ship,
 Tom saw the two men disappear into their craft, throwing dirty looks
 back at the three cadets as they went.
 
@@ -906,8 +894,6 @@ way or another, they'll try to even the score with you."
 
 Roger, cocky and unafraid, broke out his engaging grin again and
 shrugged his shoulders.
-
-CHAPTER 3
 
 "... And so we dedicate this capsule to the civilizations of the future.
 Those who may dig this cylinder out of the ground in ages to come will
@@ -925,7 +911,7 @@ sending the opening ceremonies of the Solar Exposition to all parts of
 the Alliance moved in to focus on the capsule as it was lowered into a
 deep, concrete-lined pit.
 
-The three members of the _Polaris_ unit, standing to one side of the
+The three members of the Polaris unit, standing to one side of the
 platform, joined in the cheers as their skipper shook hands with the
 delegates and waved again and again at the roaring crowd.
 
@@ -972,13 +958,13 @@ trusted men in the universe!" Strong stopped suddenly and laughed.
 "There I go, making another speech! Come on. Let's get out of here," he
 cried.
 
-"Do we start showing people through the _Polaris_ now, sir?" asked
+"Do we start showing people through the Polaris now, sir?" asked
 Astro.
 
 "In the morning, Astro," replied Strong. "Tonight there's a big Solar
 Alliance banquet. You three are invited, too."
 
-"Er--" stammered Roger, "you mean--a banquet--with--uh--?"
+"Er—" stammered Roger, "you mean—a banquet—with—uh—?"
 
 Strong laughed. "More speeches? I'm afraid so, Manning. Of course
 there'll be plenty of food."
@@ -986,13 +972,13 @@ there'll be plenty of food."
 "Well, it's not that we're against speeches," ventured Astro.
 
 "Not yours anyway, sir," added Tom hastily. "But what we mean, sir, is
-that--"
+that—"
 
 Strong held up his hand. "I understand perfectly. Suppose you stay here
 on the exposition grounds. Have a look around. See the sights, have some
 fun."
 
-_"Yes, sir!"_ The boys chorused their reply.
+"Yes, sir!" The boys chorused their reply.
 
 "Just don't spend all your credits at the first booth," continued
 Strong. "And watch that Venusian cloud candy. It's good, but murder on
@@ -1027,7 +1013,7 @@ wheels of chance, the cadets wearily returned to the Polaris.
 As they neared their section of the fair site they heard a harsh voice
 appealing to a small crowd around the stand in front of Wallace and
 Simms' spaceship. A huge sign spelled out the attraction: RIDE IN
-SPACE--ONE CREDIT.
+SPACE—ONE CREDIT.
 
 Luther Simms, a bamboo cane in one hand, a roll of tickets in another,
 was hawking his attraction to the bystanders.
@@ -1035,7 +1021,7 @@ was hawking his attraction to the bystanders.
 "Step right up, ladies and gentlemen! Step right up! It's a thrill of a
 lifetime, the greatest sensation of the entire exposition. Ride a rocket
 ship, and all this for one credit! A lone, single credit, ladies and
-gents, will buy you a pathway to the stars! Step right up--"
+gents, will buy you a pathway to the stars! Step right up—"
 
 In laughing groups, the crowd around the stand began to purchase tickets
 and climb aboard the old freighter.
@@ -1054,7 +1040,7 @@ ago!" Tom protested.
 "So what, Junior?" drawled Roger. "Scared?"
 
 "Don't be silly," replied Tom. "But with all the other things to do
-here, why should we--"
+here, why should we—"
 
 "Oh," said Astro, nudging Tom, "now I get it!"
 
@@ -1066,15 +1052,13 @@ Glancing at the air lock, Tom saw three young and pretty girls file into
 the ship. "Oh, so that's it, huh?" he said, looking quizzically at his
 unit-mate.
 
-[Illustration: _Tom saw three pretty girls board the ship_]
-
 The blond cadet's eyes were wide with mock surprise.
 
 "Girls? Well, what do you know about that? I never noticed!"
 
 "Yeah, I'll bet you didn't!" said Tom.
 
-"Well, they _are_ trim little space dolls. And there are three of them!"
+"Well, they are trim little space dolls. And there are three of them!"
 
 "Come on, Astro," sighed Tom. "We have to give the little boy his fun."
 
@@ -1082,7 +1066,7 @@ They walked toward the stand where Simms was still making his pitch to
 the crowd.
 
 "Just five more seats left, ladies and gentlemen, only five chances to
-blast into space ..."
+blast into space..."
 
 Tom stepped up and put three credits on the counter. "Three, please," he
 said.
@@ -1115,13 +1099,13 @@ Simms stopped speaking and turned to his partner. "Yeah?"
 "Everything's all set. Let's blast off!"
 
 "I'll be with you as soon as I sell the last two tickets," said Simms.
-"Here you are, ladies and gents, the last two--"
+"Here you are, ladies and gents, the last two—"
 
 Wallace grabbed him by the arm and yanked him from the stand. "I said we
 blast off, you idiot! You want to risk everything for two lousy
 credits?"
 
-"O.K., O.K. Don't blow a fuse!"
+"O. K., O. K. Don't blow a fuse!"
 
 Simms quickly closed the stand, turned out the lighted sign, and
 followed Wallace into the old freighter. He then collected the tickets
@@ -1162,7 +1146,7 @@ hatch. "Keep your seat!"
 
 "Not your Aunt Tilly, wise guy! Sit down and shut up!"
 
-"Listen," said Roger, "you don't seem to realize--"
+"Listen," said Roger, "you don't seem to realize—"
 
 "I realize you're going to sit down or else!" snarled Simms.
 
@@ -1183,7 +1167,7 @@ into space junk before he cleared atmosphere."
 Suddenly another explosion racked the ship and the rockets cut out all
 together. The passengers began to look around nervously.
 
-"By the craters of Luna, what was _that_?" demanded Tom, looking at
+"By the craters of Luna, what was that?" demanded Tom, looking at
 Astro.
 
 "The rockets have cut out," answered the Venusian. "Hope we're out in
@@ -1216,7 +1200,7 @@ squirts getting in our way!"
 spaceships than you'll ever learn!"
 
 "One more crack out of you and I'll blast your ears off!" roared
-Wallace. _"Now sit down!"_
+Wallace. "Now sit down!"
 
 Roger's face turned a deep red and he moved toward Wallace, but Tom put
 out a restraining hand.
@@ -1231,7 +1215,7 @@ to Space Academy!"
 "Hey, Wallace," yelled Simms, who had walked away when the argument
 started. "Come on. We gotta fix that reactor unit!"
 
-"Yeah--yeah," Wallace called back. He turned to Roger again. "Just
+"Yeah—yeah," Wallace called back. He turned to Roger again. "Just
 remember what I said, cadet!" Brushing the boys aside, he strode down
 the aisle to join Simms.
 
@@ -1240,7 +1224,7 @@ Roger and tried to calm him down. "Skippers are skippers, Roger, even
 aboard a piece of space junk!"
 
 "Yeah," growled Roger, "but I don't like to be called a squirt or a
-punk! Why, I know more about reactor units than--"
+punk! Why, I know more about reactor units than—"
 
 "Reactor units?" broke in Astro from his seat.
 
@@ -1256,7 +1240,7 @@ his head. "No, Tom. It doesn't make sense."
 
 "Well," chimed in Roger, "here's something else I've been wondering
 about. They charge one credit for this ride. Which makes a total of
-about fifty credits for a capacity load--"
+about fifty credits for a capacity load—"
 
 "I get you," Tom interrupted. "It costs at least two hundred credits in
 fuel alone to get one of these chemical jalopies off the ground!"
@@ -1266,7 +1250,7 @@ what those guys are doing. You just don't hand out free rides in space."
 
 "How about snooping around?" asked Astro.
 
-Tom thought a moment. "O.K. You two stay here. I'll go aft and see what
+Tom thought a moment. "O. K. You two stay here. I'll go aft and see what
 they're doing."
 
 Tom walked quickly to the stern of the ship, entered the power-deck
@@ -1287,7 +1271,7 @@ fingers. "Tom, I'll bet they're smugglers!"
 
 "That's it," said Roger. "I'll bet that's it. The concession is just a
 phony to cover up their smuggling. It lets them take a load of stuff up
-without a custom's search. Then, when they're far enough out--"
+without a custom's search. Then, when they're far enough out—"
 
 "They dump it," supplied Astro.
 
@@ -1314,10 +1298,8 @@ maneuvering!"
 "I'm sure of it!" said Tom. "And from now on, we're going to keep our
 eyes open and find out what it is!"
 
-CHAPTER 4
-
 Tom glanced at the astral chronometer over the control board of the
-_Polaris_ and sighed with relief. It was nine P.M. He turned to the
+Polaris and sighed with relief. It was nine P. M. He turned to the
 intercom.
 
 "Attention, please! Attention, please! The exhibit is now closing for
@@ -1350,7 +1332,7 @@ command post, which demanded decisions, as conditions arose, rather than
 a fixed routine that could be explained. But even so, to be asked over
 and over what the astral chronometer was, how he could read time on
 Earth, Mars, Venus, Titan, Ganymede, and all the satellites at the same
-time was wearing on the toughest of young spirits.
+time was wearing on the toughest of young specters.
 
 Eager to forget the grueling day of questions and answers, the cadets
 turned their thoughts to the mysterious midnight activity that had been
@@ -1372,16 +1354,14 @@ for someone to carry."
 
 "Well," said Tom finally, "I'm stumped. I think the only thing left to
 do is to decide if it's anything important enough to tell Captain Strong
-about. Working on the _Polaris_ twelve hours a day and staying up all
+about. Working on the Polaris twelve hours a day and staying up all
 night to watch those two jokers has me all in."
 
 Roger and Astro looked at each other and then silently nodded their
 agreement.
 
-"O.K.," said Tom, "we'll go to the skipper's hotel in Venusport and tell
+"O. K.," said Tom, "we'll go to the skipper's hotel in Venusport and tell
 him the whole thing. Let's see what he makes of it."
-
-*       *       *       *       *
 
 At that moment Captain Strong was in the office of Exposition
 Commissioner Mike Hawks trying to make sense out of a series of reports
@@ -1416,12 +1396,12 @@ grounds, watching the thousands of holiday visitors streaming in and out
 of the buildings, all unaware of the strange mystery in the sky above
 them. Hawks' attention was drawn to the giant solar beacon, a huge light
 that flashed straight out into space, changing color every second and
-sending out the message: "Quis separabit homo"--Who shall separate
+sending out the message: "Quis separabit homo"—Who shall separate
 mankind?
 
 This beacon that at the beginning of the exposition had reached into the
 black void of space like a clean bright ray was now cloudy and
-murky--the result of the puzzling "dirty sky."
+murky—the result of the puzzling "dirty sky."
 
 "All right, Mike," Strong announced suddenly. "Let's go."
 
@@ -1486,7 +1466,7 @@ to the air lock.
 
 "You said three possibilities, professor," said Strong.
 
-"The third," replied the professor, "could be--"
+"The third," replied the professor, "could be—"
 
 The professor was interrupted by Lieutenant Claude calling over the
 intercom.
@@ -1510,7 +1490,7 @@ black cloud that enveloped the ship. "Well," he said, "one of the
 professor's theories has been knocked out."
 
 "Yes," replied Hawks. "Which means this stuff is either the remains of a
-large asteroid or--"
+large asteroid or—"
 
 "The third possibility," finished Strong, "which the professor never
 explained."
@@ -1519,9 +1499,6 @@ Suddenly the air-lock hatch opened again and the two spacemen stepped
 inside. Closing the hatch behind them, they waited until the pressure
 was built up again to equal that of the ship, and then they removed
 their helmets and space suits.
-
-[Illustration: _The hatch opened again and the two spacemen entered the
-air lock_]
 
 Leaving the air lock and walking down the companionway, Hawks suddenly
 caught Strong by the arm.
@@ -1589,11 +1566,9 @@ suddenly smiled and turned to Claude. "As soon as that exhaust is
 cleared, blast off for Venusport, Lieutenant. I'm going to find out who
 dirtied up the sky!"
 
-*       *       *       *       *
-
 Two hours later, when Captain Strong returned to his hotel in Venusport
 with Mike Hawks, he was surprised to see the three cadets of the
-_Polaris_ crew slumped, sleepy-eyed, on a couch in the lobby.
+Polaris crew slumped, sleepy-eyed, on a couch in the lobby.
 
 "What are you doing here, boys?" he asked.
 
@@ -1611,8 +1586,8 @@ Strong turned to Hawks who said quietly, "Wallace and Simms are the only
 ones in this whole area that blast off regularly without a customs
 search."
 
-"You mean," stammered Strong, "Wallace and Simms are dumping"--he could
-hardly say the word--"_dirt_ in space?"
+"You mean," stammered Strong, "Wallace and Simms are dumping"—he could
+hardly say the word—"dirt in space?"
 
 "They have a ship. The cadets say the ship blasts off loaded and returns
 light. And we've got the sky full of dirt. Venusian dirt!"
@@ -1622,8 +1597,6 @@ light. And we've got the sky full of dirt. Venusian dirt!"
 "I suggest we go out to the exposition grounds right now and ask them!"
 said Hawks coldly. "And believe me, they'd better have some
 rocket-blasting good answers!"
-
-CHAPTER 5
 
 The great educational exhibits had long been closed and only a few
 sections of the amusement park of the big exposition remained open. The
@@ -1653,11 +1626,11 @@ Wallace laughed. "Not only that, but think of what the boss will say
 when we show up with it!"
 
 "You know, Wallace," said Simms, a sly look on his face, "we could take
-it and use it ourselves--"
+it and use it ourselves—"
 
 "Don't even think a thing like that!" snapped Wallace.
 
-"Oh, of course not," said Simms hurriedly. "It doesn't pay to cross the
+"Oh, of course not," said Simms hurriedly. "It doesn't pay to symbol the
 boss. There's enough here for all of us."
 
 "You know," mused Wallace, "there's only one thing I regret."
@@ -1686,11 +1659,11 @@ lead baffles. In an hour the two spacemen were ready to blast off.
 "There she is," said Simms, standing back to survey their work. "As fast
 as anything in space, except the Solar Guard cruisers on hyperdrive."
 
-"O.K.," said Wallace. "Let's get out of here!"
+"O. K.," said Wallace. "Let's get out of here!"
 
 Minutes later, in a jet car speeding along the main highway toward the
 exposition grounds, Captain Strong, Mike Hawks, and the three cadets of
-the _Polaris_ saw a rocket ship blast off. They watched it disappear
+the Polaris saw a rocket ship blast off. They watched it disappear
 into the dark space above.
 
 "That might be they," said Strong to Hawks. "I'd better alert the patrol
@@ -1702,7 +1675,7 @@ ship near the space station and tell them to pick them up."
 
 "That was an atomic-powered ship. The wagon Wallace and Simms have is a
 chemical job. I know the sound of her jets almost as well as I do the
-_Polaris_."
+Polaris."
 
 Hawks looked at Strong.
 
@@ -1717,7 +1690,7 @@ animal in the interplanetary zoo disturbed the night.
 
 Hawks drove the low, sleek jet car around the fair, taking a short cut
 through the outdoor mercuryball field and pulled up in front of the
-_Polaris_.
+Polaris.
 
 The five spacemen turned toward the concession site across the promenade
 and stopped, aghast.
@@ -1748,7 +1721,7 @@ ten years of hauling passengers on joy rides!"
 
 Astro whirled around and faced the two cadets. "I'm telling you the ship
 that blasted off from here was an atomic drive. I don't know any more
-than that, but I _do_ know that!"
+than that, but I do know that!"
 
 There was a sudden shout from Strong and the three boys hurried to the
 shack. The Solar Guard captain and the exposition commissioner were
@@ -1758,7 +1731,7 @@ walls.
 "Looks as though you were right about the atomic drive, Astro," said
 Strong. He flashed the light into one corner where a tangled jumble of
 lines lay on the floor. "That's feed-line gear for a chemical burner,
-and over there"--he played the light on some empty cartons--"is what's
+and over there"—he played the light on some empty cartons—"is what's
 left of the crate's lead baffling it shipped in. They must have changed
 over to atomic drive recently."
 
@@ -1821,7 +1794,7 @@ The captain stepped to the door and called the cadets.
 over to atomic drive."
 
 "That's enough" said Strong. "I'm going to send a report to Commander
-Walters. Is the teleceiver on the _Polaris_ hooked up, Roger?"
+Walters. Is the teleceiver on the Polaris hooked up, Roger?"
 
 "Yes, sir," replied Roger. "But Astro will have to start up the
 auxiliary generators to give you power."
@@ -1833,15 +1806,15 @@ junk there in the corner and see if there's anything important in it!"
 "Aye, aye, sir," replied Roger.
 
 Strong and Hawks, followed by Tom and Astro, left the shack and hurried
-to the _Polaris_.
+to the Polaris.
 
 On the power deck, Tom and Astro made the necessary connections on the
 generator, and in a few minutes, as power surged through the ship,
 Strong flipped on the teleceiver.
 
-"Attention! Attention! This is Captain Strong on the _Polaris_ calling
+"Attention! Attention! This is Captain Strong on the Polaris calling
 Commander Walters at Space Academy! Earth emergency circuit, priority
-B--"
+B—"
 
 In a few moments the Solar Guard officer's call had been picked up by a
 monitor station on Earth and relayed directly to Space Academy.
@@ -1885,7 +1858,7 @@ search operations unless it's awfully serious!"
 "Come on," urged Tom. "Maybe Roger's found something."
 
 They entered the shack together and Tom called out, "Say, Roger, Captain
-Strong just spoke to Commander Walters at the Academy and--"
+Strong just spoke to Commander Walters at the Academy and—"
 
 The curly-haired cadet stopped short. "Astro, look!"
 
@@ -1908,8 +1881,6 @@ all right?"
 
 There was no answer from the shaft. Nothing but the echo of Astro's
 voice.
-
-CHAPTER 6
 
 "Easy, Astro," said Strong, standing behind the big cadet. "Pull that
 line up slowly and gently."
@@ -1949,7 +1920,7 @@ from shock. A day or so in sick bay and he'll be good as new."
 
 "Thanks, Mike," replied Strong. Then as he and the commissioner lifted
 the still form of the cadet and started to carry him out of the shack,
-he turned to Astro. "Blast over to the _Polaris_ and call Solar Guard
+he turned to Astro. "Blast over to the Polaris and call Solar Guard
 headquarters in Venusport. Tell them to send an emergency crew down here
 right away."
 
@@ -1963,7 +1934,7 @@ where that dirt came from the hard way."
 
 Reaching the jet car, the two men placed Roger in the back seat, and
 Hawks slid in under the wheel to start the powerful jets. Just then
-Astro, racing back from the _Polaris_, pulled up breathlessly.
+Astro, racing back from the Polaris, pulled up breathlessly.
 
 "Solar Guard crew is on the way, sir," he reported. He glanced anxiously
 into the back seat of the jet car.
@@ -1999,7 +1970,7 @@ darkness.
 feet left."
 
 Strong glanced at the remaining coils of line on the floor. "I'll get
-more from the _Polaris_, if we need it," he said. "How long was that
+more from the Polaris, if we need it," he said. "How long was that
 line to begin with?"
 
 "It's a regulation space line, sir," said Tom. "Astro took it out of the
@@ -2069,15 +2040,13 @@ capsule! The dirt floor of the tunnel around Strong and beside the
 capsule was littered with audio spools, sound disks, micropapers, and
 stereo slides.
 
-Tom kneeled down beside his skipper and stammered, "What--what does it
+Tom kneeled down beside his skipper and stammered, "What—what does it
 mean, sir?"
 
 "It means," answered Strong slowly, "that we're dealing with two of the
 cleverest men in the universe! If they've stolen what I think they have,
 the entire Solar Guard, Solar Alliance, and just about everyone in the
 universe is at their mercy!"
-
-*       *       *       *       *
 
 "How do you feel, Roger?" asked Astro.
 
@@ -2093,8 +2062,8 @@ standing near by.
 
 "I really don't know, sir," replied Roger. "I was moving the junk out of
 the corner of the shack so I could examine it. I was piling it up in the
-middle of the floor when--wham--something gave way and I took a header
-into nowhere!" He looked at Astro. "Now suppose _you_ tell me what
+middle of the floor when—wham—something gave way and I took a header
+into nowhere!" He looked at Astro. "Now suppose you tell me what
 happened!"
 
 Astro told Roger about finding him dangling at the end of the tangled
@@ -2139,10 +2108,10 @@ description of the bearer.
 
 In the pale light of dawn, feverish activity could be seen taking place
 around the shack. Two huge jet vans, filled with every possible piece of
-emergency equipment, were parked near by. The _Polaris_ had been taken
+emergency equipment, were parked near by. The Polaris had been taken
 over as a temporary headquarters and the area was crowded with
 scarlet-clad enlisted men. Astro could hear the hum of generators on the
-_Polaris_ and immediately felt concern for his power deck.
+Polaris and immediately felt concern for his power deck.
 
 Proceeding to the shack they were again challenged by a guard and again
 had to produce their identification disks before entering. Once inside,
@@ -2170,7 +2139,7 @@ you care to."
 "Congratulations, Cadet Manning," said Silvers. "I understand you had a
 close call in the shaft."
 
-"I did, sir," said Roger. "It was _very_ close."
+"I did, sir," said Roger. "It was very close."
 
 A light suddenly flashed on and the four spacemen turned to watch a
 large wire cage rise out of the shaft. It was built in three sections,
@@ -2206,7 +2175,7 @@ light-key, so that if one combination of colors and light vibrations do
 not work, you can try another. In that way you could open any energy
 lock on any vault in the system."
 
-"And Wallace and Simms--" Tom hesitated.
+"And Wallace and Simms—" Tom hesitated.
 
 "Yes, Corbett," said Strong grimly. "Wallace and Simms stole an
 information sound spool from the capsule. On that spool was a detailed
@@ -2215,7 +2184,7 @@ only seven keys in the system up to now. If we don't catch Wallace and
 Simms, there'll be eight."
 
 "Great galaxy," Commissioner Hawks broke in. "This will ruin the
-exposition! The Alliance will close it after--"
+exposition! The Alliance will close it after—"
 
 Strong waved a calming hand at Hawks. "I've already spoken to Commander
 Walters at Space Academy, Mike," he said. "He wants this to remain a
@@ -2233,7 +2202,7 @@ first time.
 
 "Oh, Manning!" he said, smiling. "Good to see you. How do you feel?"
 
-"O.K., sir," replied Roger. "But I'd feel a lot better if those space
+"O. K., sir," replied Roger. "But I'd feel a lot better if those space
 crawlers didn't have the combination to every safe and vault in the
 universe!"
 
@@ -2248,10 +2217,8 @@ and then figure out how we're going to beat them!"
 them, the only safe place left for the credits and securities of the
 people in the system will be behind rows of paralo-ray guns!"
 
-CHAPTER 7
-
 "Attention! Attention! This is Captain Maitland of the rocket cruiser
-_Orion_ reporting to Captain Strong at Space Academy. Come in, Strong!"
+Orion reporting to Captain Strong at Space Academy. Come in, Strong!"
 
 High in the Tower of Galileo overlooking Space Academy, the Solar Guard
 officer, his face showing the strain of the last three-weeks' futile
@@ -2306,16 +2273,16 @@ the foxes' den dressed as foxes!"
 "Ummmmh," mused Strong. "It is an idea."
 
 "Give it a try, anyway," urged Walters. "Take that old freighter we
-confiscated from the Titan smugglers, the _Dog Star_. Wander around for
+confiscated from the Titan smugglers, the Dog Star. Wander around for
 a few weeks and see what you can pick up. We have the advantage, since
-only a few of us know _why_ we're looking for Wallace and Simms. It
+only a few of us know why we're looking for Wallace and Simms. It
 might make finding them a little easier."
 
 Strong looked at the cadets and then back at the commander. "It might
 just work, at that, sir," he said at last.
 
 "Work your way around to Venusport," said Walters. "Let it be known that
-you four are--well, willing to do just about anything for a credit."
+you four are—well, willing to do just about anything for a credit."
 
 Strong and the cadets smiled. "All right, sir," said the young captain.
 "We'll start right away."
@@ -2335,7 +2302,7 @@ listening, to suppress a smile. They saluted and followed Strong from
 the room. He left them at the slidestairs with orders to be ready to
 blast off at 0800 hours.
 
-Tom was silent as he climbed into his bed in the _Polaris_ unit's
+Tom was silent as he climbed into his bed in the Polaris unit's
 quarters on the forty-second floor. Roger and Astro fell asleep almost
 as soon as their heads touched their air-foam pillows, but the
 curly-haired cadet lay with arms under his head, staring up at the
@@ -2349,8 +2316,6 @@ the secret of the adjustable light-key, and their methods, plus their
 complete disappearance, just didn't add up. He made up his mind to speak
 to Captain Strong about it in the morning. As soon as the matter was
 settled in his mind, he was asleep.
-
-*       *       *       *       *
 
 At exactly 0800 hours the three cadets and Captain Strong appeared at
 the Academy spaceport dressed in the severe black tight-fitting trousers
@@ -2376,12 +2341,12 @@ ship's intercom.
 Strong sat on an acceleration cushion and strapped himself in. He heard
 Tom's voice counting off the seconds for blast-off.
 
-"... Five--four--three--two--one--_zero_."
+"... Five—four—three—two—one—zero."
 
 As the rockets burst into a loud roar, the freighter lurched from the
 ground and thundered up into the atmosphere, pushing Strong deep into
 his acceleration cushion. Minutes later, he felt the freedom of
-free-fall space. In a strange ship, the _Polaris_ crew had begun a
+free-fall space. In a strange ship, the Polaris crew had begun a
 strange mission.
 
 During the flight to Luna City, their first stop on the tour of the
@@ -2422,7 +2387,7 @@ establish ourselves as tramp spacemen."
 "Watch that 'sir,' Tom," snapped Strong. "Might as well begin to forget
 it now."
 
-"O.K., Steve," replied Tom sheepishly.
+"O. K., Steve," replied Tom sheepishly.
 
 "To answer your question, we'll stay in each city only as long as there
 might be something to be gained by staying. We'll live aboard the _Dog
@@ -2490,8 +2455,6 @@ spaceport, Tom appeared at Strong's elbow.
 "Very well, Tom," said Strong. "But from now on, keep your eyes and ears
 open. It only takes one slip to make a dead spaceman!"
 
-CHAPTER 8
-
 "See that fellow over there, Steve?" whispered Tom. "The one with the
 scar on his face?"
 
@@ -2506,7 +2469,7 @@ that lounged around the stuffy little room.
 to two of us together. You go over and see if you can strike up a
 conversation."
 
-"Good idea, sir--uh--Steve," said Tom.
+"Good idea, sir—uh—Steve," said Tom.
 
 Strong got up and with an exaggerated swagger walked to the small bar.
 From the mirror in back of the bar, he could see Tom rise and saunter
@@ -2521,8 +2484,6 @@ with a total of nothing. Finally, Strong had decided that this would be
 the last night they would spend in Luna City. It was after making this
 decision that he and Tom spotted the scar-faced man sitting alone in one
 corner.
-
-[Illustration: _The scar-faced man obviously wanted something from Tom_]
 
 Strong saw Tom stop at the table, say a few words, then sit down and
 order drinks. Tom and the scar-faced man continued their conversation,
@@ -2539,7 +2500,7 @@ across the crowded room to the table.
 Tom glanced up casually and then turned to his companion at the table.
 "This is my skipper," he said. "Name's Steve. You gotta job to do,
 Steve'll do it. Anything, anywhere, any time," he paused, and then added
-with a smirk, "for a _price_!"
+with a smirk, "for a price!"
 
 The scar-faced man looked up at Steve. His eyes traced a pattern over
 the tall man, noting the broad shoulders, the piercing eyes, and the
@@ -2586,7 +2547,7 @@ Before Strong could answer, Tom spoke quickly. "No, I bought a half
 interest in Steve's ship with my share of the take." Strong could hardly
 keep from smiling, so easily was the young cadet's tale growing.
 
-"Then who _was_ in on this job with you?" persisted the scar-faced man.
+"Then who was in on this job with you?" persisted the scar-faced man.
 "You look pretty young to pull a big job like that."
 
 Tom glanced around the room and then leaned over the table before
@@ -2607,10 +2568,10 @@ coldly, "or I'll freeze you right where you are!"
 Pete relaxed his grip and settled back into his chair. He glared at Tom
 and then at Strong.
 
-"All right," snapped Strong. "Now _you_ talk!"
+"All right," snapped Strong. "Now you talk!"
 
 Pete didn't say anything. Strong inched closer to the scar-faced man
-menacingly. "I said _talk_! Why do you want to know where Gus Wallace
+menacingly. "I said talk! Why do you want to know where Gus Wallace
 is? Maybe you're Solar Guard, eh? Trying to play a little trick on us.
 How do I know you haven't got a squad of MP's outside waiting to pick us
 up?"
@@ -2668,10 +2629,8 @@ Solar Guard it threw him completely off stride."
 up, we blast off for Marsopolis. Our next target is a joint called the
 Spacelanes!"
 
-*       *       *       *       *
-
 Against a backdrop of shimmering stars that studded the velvet black
-emptiness of space, the freighter _Dog Star_ rocketed toward the red
+emptiness of space, the freighter Dog Star rocketed toward the red
 planet of Mars carrying the four spacemen on the next step of their
 search. Relaxing from the three arduous days on the Moon and able to be
 themselves once more, Strong and the three cadets rested and discussed
@@ -2721,7 +2680,7 @@ recently."
 
 "End transmission," replied Strong and flipped off the screen.
 
-Fifteen minutes later, the _Dog Star_ settled on a blast-scorched ramp
+Fifteen minutes later, the Dog Star settled on a blast-scorched ramp
 at the Marsopolis spaceport, and after a hasty review of their plans,
 the four spacemen left the ship. Strong had a brief argument with a
 customs officer over a personal search for small arms. They were forced
@@ -2752,7 +2711,7 @@ the bar. Tom's eye caught the move and he wished the customs men hadn't
 taken away their paralo-ray guns.
 
 Just at that moment he heard Roger's unmistakable laugh and turned to
-see the blond cadet, followed by Astro, enter, cross the room, and slap
+see the blond cadet, followed by Astro, enter, symbol the room, and slap
 the bar for service.
 
 "Let me take care of these two," muttered the bartender and walked down
@@ -2827,13 +2786,13 @@ would know if anyone does."
 
 "Who?" asked Tom.
 
-"On Venusport's Spaceman's Row. There's a joint called the Caf   Cosmos.
+"On Venusport's Spaceman's Row. There's a joint called the Caf Cosmos.
 Go there and ask for a little guy named Shinny. Nicholas Shinny. If
 anyone knows about Wallace, he'll know."
 
 Tom's heart almost stopped. Nicholas Shinny was a retired spaceman who
 had taken part in his last adventure to Alpha Centauri, and was a good
-friend of Strong's and the _Polaris_ unit. Shinny had always operated on
+friend of Strong's and the Polaris unit. Shinny had always operated on
 the edge of the space code. Nothing illegal, but as Shinny himself put
 it, 'just bending the code a little, not breaking it.'
 
@@ -2863,8 +2822,6 @@ The bartender paused, then shook his head. "Couldn't be!" he said.
 "Because the Solar Guard has a guy salted away that knows exactly where
 Wallace is."
 
-CHAPTER 9
-
 "That's the story, sir," said Strong to Commander Walters, after the
 Solar Guard captain had related the information he had wormed out of the
 bartender at the Spacelanes Bar and the news Roger and Astro had
@@ -2879,7 +2836,7 @@ Nicholas Shinny."
 "End transmission," acknowledged Walters. Strong flipped the switch and
 the teleceiver screen darkened.
 
-Fifteen minutes later, the _Dog Star_ blasted off from Mars, heading for
+Fifteen minutes later, the Dog Star blasted off from Mars, heading for
 Venus.
 
 During the trip back to the young planet that was rapidly growing into a
@@ -2915,15 +2872,15 @@ space tan. "It's mighty good to see you boys. Come on in the house. I
 got a mess of fatfish just pulled out of the stream and some of the most
 delicious biscuits you ever had in your life!"
 
-"Well, thanks, Nick," hesitated the captain. "But we're in--"
+"Well, thanks, Nick," hesitated the captain. "But we're in—"
 
 "Can't be in too much of a hurry to eat," snapped the old man with a
 grin. "Anything you got to say is better said when you got a bellyful of
 Molly's cookin'."
 
-"Molly!" cried Tom. "But, Mr. Shinny--"
+"Molly!" cried Tom. "But, Mr. Shinny—"
 
-"When--" gulped Astro, "when did you--"
+"When—" gulped Astro, "when did you—"
 
 "Hey! Hold on!" cried the old spaceman. "Just damp your tubes there,
 youngsters! You're way off course. Molly ain't nothing but an electronic
@@ -3043,7 +3000,7 @@ a lot tougher."
 take yourself. You're smart, you're hard, and you got a good mind.
 You're one of the best spacemen in the deep. Take all that and turn it
 bad. Real bad. Sour it with too many years on a prison asteroid and
-you've got a fire-eating rocket buster as tough and as rough as God and
+you've got a fire-eating rocket buster as tough and as rough as Entity and
 society can make him!"
 
 The three cadets gulped and looked at Strong. They saw their skipper
@@ -3054,8 +3011,6 @@ Wallace and Simms are, he'll tell me. You can bet your last credit,
 he'll tell me!"
 
 Shinny paused reflectively. "I won't bet," he said simply.
-
-*       *       *       *       *
 
 The air inside the space shack was stale because of a faulty filter in
 the oxygen circulator that neither Wallace nor Simms bothered to clean.
@@ -3078,7 +3033,7 @@ laughed. "The hunting's been real good! We've got a full catch!" The
 giant spaceman laughed again.
 
 "Yeah," agreed Simms. "I just went over the take. We've got enough money
-in that locker"--he indicated a black box on the floor--"to sit back and
+in that locker"—he indicated a black box on the floor—"to sit back and
 take it easy for the rest of our lives."
 
 "Yeah?" snarled Wallace. "You mean sitting in the sun on a crummy
@@ -3099,7 +3054,7 @@ system, the adjustable light-key plus an airtight hide-out, and you want
 to quit!"
 
 "It ain't that," whined Simms. "It's the other deal. I don't mind going
-out and blasting a few freighters, but to try to--"
+out and blasting a few freighters, but to try to—"
 
 "Lissen," interrupted Wallace, "I'd rather try it and take the licking
 if we mess it up, than not try it and take that licking. I know which
@@ -3124,7 +3079,7 @@ loud whisper.
 
 "... The operation will take place on the night of October twenty-ninth
 at exactly twenty-one hundred hours. You will make your approach from
-section eleven, M quadrant--"
+section eleven, M quadrant—"
 
 Simms jumped up abruptly and switched off the playback. Turning to
 Wallace, he pleaded, "I can't listen to it again! I know it by heart.
@@ -3134,7 +3089,7 @@ instructions on how to hijack the first ship and what to take. Orders,
 information, instructions! I'm sick of listening. If you want to, go
 ahead, but I'm going to work on the ship!"
 
-"O.K., O.K.," said Wallace, getting up. "Don't blow your jets. I hate
+"O. K., O. K.," said Wallace, getting up. "Don't blow your jets. I hate
 the thing as much as you do. Wait a minute and I'll go with you."
 
 The two men began climbing into space suits. In a few minutes they were
@@ -3143,7 +3098,7 @@ They stepped into the air lock on one side of the room and closed a
 heavy door. Wallace adjusted the valve in the chamber and watched the
 needle drop until it showed zero.
 
-"O.K.," said Wallace over his helmet spacephones. "All the air's out.
+"O. K.," said Wallace over his helmet spacephones. "All the air's out.
 Open the outer lock."
 
 Simms cranked the heavy handle, and the door in the opposite wall of the
@@ -3168,15 +3123,15 @@ two holes in the stern.
 When Wallace reappeared, he was carrying a coil of wire with a double
 plug to attach to the spacephones inside their helmets. He jammed the
 plug into Simms' helmet and then into his own. Simms' eyes lit up with
-surprise as he heard....
+surprise as he heard...
 
-"...This is a general emergency announcement from Solar Guard
+"... This is a general emergency announcement from Solar Guard
 headquarters. Squadrons A and B of the Marsopolis garrison will proceed
 to space quadrants W, sections forty-one to fifty. It is believed that
 Gus Wallace and Luther Simms are in that vicinity. Approach with
 caution, they are armed with atomic blasters and are believed to be
 psychologically unable to surrender. It is believed they will resist
-arrest...."
+arrest..."
 
 The voice repeated the announcement and added a general call for the
 men, if they were listening, to surrender. Wallace pulled out the two
@@ -3195,8 +3150,6 @@ gone before they know what happened!"
 Simms patted the barrel of the nearest atomic blaster. "And, spaceman,
 we're going to hit them hard!"
 
-CHAPTER 10
-
 "Stop your ship and be recognized!"
 
 The rasping voice on the audioceiver was sharp. A command to be obeyed.
@@ -3209,7 +3162,7 @@ make it quick or we'll all be blasted into protons!"
 
 Tom and the captain gripped their chairs tightly as the ship bucked
 against the deceleration force of the powerful braking rockets.
-Gradually the freighter _Dog Star_ slowed and came to a dead stop in
+Gradually the freighter Dog Star slowed and came to a dead stop in
 space.
 
 "Hey!" yelled Astro over the intercom from the power deck. "What's going
@@ -3226,7 +3179,7 @@ interjected Roger who was listening from the radar bridge.
 
 "Identify yourselves!" commanded the voice over the audioceiver again.
 
-"This is space freighter _Dog Star_ under temporary command of Captain
+"This is space freighter Dog Star under temporary command of Captain
 Strong of the Solar Guard," answered Strong.
 
 "What's your business here?" demanded the voice again.
@@ -3271,7 +3224,7 @@ no hope of ever returning to society."
 on Prison Rock didn't surrender easily. They are the toughest, most
 ruthless men in the universe."
 
-"Attention! Freighter _Dog Star_! Attention!" the audioceiver rasped
+"Attention! Freighter Dog Star! Attention!" the audioceiver rasped
 into life again. "You have been given temporary clearance. A space
 launch will ferry you to the asteroid. You are warned that any weapons
 discovered on your person, or acts that may be construed as providing
@@ -3284,20 +3237,20 @@ Strong just smiled. "Don't worry, boys. That little speech is read to
 every visitor to the asteroid."
 
 "Just the same, sir," said Roger huskily, "I would prefer to remain
-aboard the _Dog Star_ and give you, Tom, and Astro the pleasure of the
+aboard the Dog Star and give you, Tom, and Astro the pleasure of the
 visit."
 
 Strong laughed. "They won't let you, Roger. They'll send up a crew of
 guards to search the ship. And the way these boys search makes a customs
 inspection look like a casual glance."
 
-"Attention _Dog Star_!" A younger voice suddenly came in on the
+"Attention Dog Star!" A younger voice suddenly came in on the
 audioceiver. "This is Lieutenant Williams aboard the space launch. We
 are approaching your starboard catapult deck. Please open the air lock
 and take us aboard."
 
 "They sure don't waste any time," commented Tom as he turned to the
-audioceiver. "Freighter _Dog Star_, Cadet Tom Corbett to Lieutenant
+audioceiver. "Freighter Dog Star, Cadet Tom Corbett to Lieutenant
 Williams," he called, "the air lock is open and the catapult deck is
 ready to receive you." At the same time, the young cadet turned the
 valve that would open the outer air lock to the jet-boat deck.
@@ -3330,7 +3283,7 @@ time, isn't there, sir?"
 good indeed!"
 
 "Thank you, sir," said Williams. "You know, we've heard about you and
-the _Polaris_ unit here on the Rock." He turned to Tom, Roger, and
+the Polaris unit here on the Rock." He turned to Tom, Roger, and
 Astro. "We have a stereo of that mercuryball game you played at the
 Academy when you were Earthworms."
 
@@ -3431,7 +3384,7 @@ extended his hand in greeting.
 "Major Savage!" he explained. "Good to see you again!"
 
 "Same here," said Savage, returning Strong's firm handclasp. He turned
-and faced the cadets. "So this is the _Polaris_ unit, eh?" He smiled.
+and faced the cadets. "So this is the Polaris unit, eh?" He smiled.
 "We've really enjoyed the stereo of that game of mercuryball you played
 back at the Academy."
 
@@ -3481,12 +3434,12 @@ who flushed in quick embarrassment.
 "Very well, Strong," said Savage. "I'll have a jet car brought around.
 You can go right down to his hut."
 
-"Er--may I ask a question, sir?" asked Tom.
+"Er—may I ask a question, sir?" asked Tom.
 
 The major smiled. "Go right ahead, Corbett."
 
 "It's about this whole setup," explained Tom. "I was expecting fences
-and prisoners and--well, most anything but green grass and small white
+and prisoners and—well, most anything but green grass and small white
 buildings!"
 
 "The little huts you saw," replied the major, "are as much of a prison
@@ -3507,7 +3460,7 @@ him a year later."
 "That method of protection was only installed a few months ago," said
 the major.
 
-"And the prisoners just sit there--in those little huts?" asked Astro.
+"And the prisoners just sit there—in those little huts?" asked Astro.
 
 "Yes, Astro!" said the major with a tone of finality in his voice. "They
 just sit. This is the end of the line."
@@ -3570,7 +3523,7 @@ know where it is," said Strong.
 "Then start turning, Strong," snarled the giant prisoner, "because I
 ain't got nothing to tell you except how much I hate your guts!"
 
-Astro moved forward slightly, but Strong held him back. "O.K., Bull. If
+Astro moved forward slightly, but Strong held him back. "O. K., Bull. If
 that's the way you want it, I'll leave."
 
 "Why don't you let the young punk try something?" challenged Coxine. "I
@@ -3587,14 +3540,14 @@ the light of the late afternoon sun. To their horror, they saw the
 unmistakable mushrooming cloud of an atomic blast rising in the
 synthetic atmosphere behind it.
 
-"By the craters of Luna--" gasped Strong.
+"By the craters of Luna—" gasped Strong.
 
 A second flash and explosion rocked the prison asteroid and suddenly the
 tower disappeared. Almost immediately, a spaceship appeared over the
 small planetoid and began systematically pounding the surface
 installations with atomic blasters.
 
-"Captain Strong," cried Astro. "Tom and Roger--they were in the tower!"
+"Captain Strong," cried Astro. "Tom and Roger—they were in the tower!"
 
 "Come on," yelled Strong, "we've got to get back!"
 
@@ -3606,8 +3559,6 @@ the back of the neck. They both lay deathly still.
 
 Then, as the atomic bombardment of the penal asteroid continued, the
 giant space criminal jumped into the jet car and sped away.
-
-CHAPTER 11
 
 "Fire!" bawled Major Savage to his crew of gunners.
 
@@ -3654,7 +3605,7 @@ blast off under full acceleration. It roared spaceward in a straight
 line, disappearing at incredible speed.
 
 Meanwhile, the invader continued to blast relentlessly.
-One--two--three--four--automatic reload--one--two--three--four, reload.
+One—two—three—four—automatic reload—one—two—three—four, reload.
 Over and over, firing at seemingly peaceful fields of grass, only to
 strike an armory, space cradle, or supply depot buried underneath the
 ground. Suddenly it changed its course and trained its guns skyward. Tom
@@ -3682,7 +3633,7 @@ hurried past him and Tom grabbed him by the arm.
 The guard pointed to a near-by stretcher and Tom saw the unconscious
 figure of the major sprawled on the plastic frame.
 
-"But--but the prisoners are getting away!" yelled Tom.
+"But—but the prisoners are getting away!" yelled Tom.
 
 "I can't do anything about it. I've got wounded men to care for!" The
 man jerked away and disappeared in the smoky, choking dust.
@@ -3769,8 +3720,6 @@ exploded in his brain. "Wallace and Simms!"
 He turned to jump out of the air lock, but it slid closed in front of
 him. He was trapped.
 
-*       *       *       *       *
-
 Sprawled on the ground in front of one of the white houses near the
 tower perimeter, Captain Strong stirred, shook his head, and painfully
 rose to a half-crouch. With eyes still dulled by shock, he looked around
@@ -3778,7 +3727,7 @@ to see Astro lying unconscious a few feet away. His brain still reeling
 from the effects of Coxine's sneak attack, he staggered over to his
 knees beside him.
 
-"Astro, Astro--" Strong called. "Astro, snap out of it!"
+"Astro, Astro—" Strong called. "Astro, snap out of it!"
 
 The big Venusian moaned and opened his eyes. He sat bolt upright.
 "Captain Strong! What happened?"
@@ -3791,7 +3740,7 @@ columns of smoke rising into the air.
 
 "By the rings of Saturn!" gasped Strong. "Look, Astro!"
 
-"Blast my jets!" cried the big cadet. "What--what could have happened?"
+"Blast my jets!" cried the big cadet. "What—what could have happened?"
 
 The two spacemen stood gaping at the shattered remains of the tower and
 the smoldering area around it. In the distance, scarlet-clad guardsmen
@@ -3805,7 +3754,7 @@ it! Come on! We've got to get over there!"
 "Yes, sir," said Astro. As they started running toward the field, he
 searched the figures moving about in the distance for two familiar blue
 uniforms. "I don't see Roger or Tom, sir," he said hesitantly. "Do you
-think--?"
+think—?"
 
 "We'll just have to wait and see," interrupted Strong grimly. "Come on,
 step it up!"
@@ -3822,14 +3771,14 @@ The man turned and looked at Strong and Astro. Aside from the swollen
 bump on the Solar Guard captain's head and the bruise on the cadet's
 neck there were no signs of their having been in the attack. When the
 guardsman finally replied, there was a sharp edge to his voice. "I
-thought _everyone_ knew we were attacked, _sir_!" He turned back to a
+thought everyone knew we were attacked, sir!" He turned back to a
 detail of men who were watching. But Strong pulled the man up sharply.
 
 "Attention!" he barked. The sergeant and the crew came to stiff
 attention. Strong stepped forward and looked the guardsman straight in
 the eye. "Under any other circumstances, Sergeant," snapped Strong, "I'd
 have your stripes and throw you in the brig for your insolence! Now I
-want a clear account of what happened. And I want it blasted _quick_!"
+want a clear account of what happened. And I want it blasted quick!"
 
 "Yes, sir!" stammered the guardsman, realizing he had gone too far. He
 hurriedly gave a detailed description of the battle, ending with a
@@ -3904,7 +3853,7 @@ twenty-four."
 "What is it?" asked Strong.
 
 Astro's eyes suddenly widened and he stepped forward. "Why,
-that's ... that's Tom's uniform!" he stammered.
+that's... that's Tom's uniform!" he stammered.
 
 "Tom!" gasped Strong. "But where is he?"
 
@@ -3932,19 +3881,17 @@ now is, do they know it?"
 
 "You mean he smuggled himself aboard?" asked Williams.
 
-"I'm almost sure of it!" said Strong. "And if he _is_, he's going to try
+"I'm almost sure of it!" said Strong. "And if he is, he's going to try
 to get some sort of message out. I've got to be ready to pick it up."
 
 Strong paused and looked up at the sky overhead, still thick with smoke.
 "And if he does ask for help, I'm going to answer him with the biggest
 fleet of spaceships he'll ever see in his life!"
 
-CHAPTER 12
-
 "Stand by, you space crawlers!" roared Bull Coxine into the microphone,
 but the loud laughter and singing of the noisily celebrating prisoners
 continued unabated over the intercom's loud-speakers. "Avast there!" he
-bellowed again. "Stow that noise! Attention! And I want _attention_!"
+bellowed again. "Stow that noise! Attention! And I want attention!"
 
 Standing on the control deck of his ship, Coxine waited as the men
 gradually quieted down. No longer wearing the white prison coverall, he
@@ -3973,11 +3920,11 @@ There was a chorus of cheers on the intercom and Coxine nodded grimly.
 
 "All right," he continued, "now that we understand each other, I'll get
 on with the business. Second-in-command to me will be Gus Wallace.
-_Lieutenant_ Wallace!"
+Lieutenant Wallace!"
 
 A roar of approval came over the loud-speaker.
 
-"Third-in-command--Luther Simms! _Lieutenant_ Simms!"
+"Third-in-command—Luther Simms! Lieutenant Simms!"
 
 There was another roar of approval as the prisoners recognized the names
 of the men who had liberated them from the asteroid.
@@ -4001,14 +3948,14 @@ Coxine's eyes narrowed into slits. "Get this, both of you!" he snapped.
 of this outfit and you don't even guess about what we're going to do,
 until I say so!"
 
-"But, Bull--!" whined Wallace.
+"But, Bull—!" whined Wallace.
 
 "Shut up!" roared Coxine. "And when you talk to me, you call me
 captain!"
 
-Wallace and Simms looked at each other. "O.K., Captain," muttered Simms.
+Wallace and Simms looked at each other. "O. K., Captain," muttered Simms.
 
-"Yes, _sir_!" corrected Coxine.
+"Yes, sir!" corrected Coxine.
 
 "Yes, sir," said Simms quickly.
 
@@ -4046,8 +3993,6 @@ the Rock, not me!"
 "Aw shut up!" snarled Wallace. He turned to the intercom and began
 barking orders to his new crew.
 
-*       *       *       *       *
-
 Tom Corbett sat in one corner of a cargo compartment that had been
 converted into sleeping quarters, watching the celebrating prisoners.
 Someone had broken into the galley stores and mixed a concoction of
@@ -4077,7 +4022,7 @@ Simms' hide-out. And so far, the men had been so excited over their new
 freedom they hadn't bothered him. He had managed to sit quietly in the
 corner of the storage compartment and watch them.
 
-"I'm talking to _you_!" shouted the hairy man, looking straight at Tom.
+"I'm talking to you!" shouted the hairy man, looking straight at Tom.
 "You called me Monkey and then lied about it! Maybe you're scared, eh?"
 
 He slipped off the table and advanced toward Tom. The young cadet tried
@@ -4101,8 +4046,6 @@ could feel his feet sink deep into the man's mid-section as he kicked
 out hard and sent him sprawling against the bulkhead. With a bellow of
 rage, the hairy man picked himself up and charged back at Tom, who was
 now on his feet, braced to meet him.
-
-[Illustration: _The young cadet timed his move perfectly_]
 
 As the prisoners began to roar, Tom side-stepped and back-pedaled
 frantically, trying to get out of the impossible situation. If he won,
@@ -4166,13 +4109,13 @@ should burst into the room and attempt to overpower the men on duty, or
 wait for a better chance later, he was suddenly startled by a sharp
 voice in back of him.
 
-"You--spaceman!" Tom turned to stare right into the face of Bull Coxine!
+"You—spaceman!" Tom turned to stare right into the face of Bull Coxine!
 
 The big man looked at Tom with piercing eyes.
 
 "What's your name?" demanded Coxine.
 
-"Uh--uh--they call me the Space Kid!" he finally managed.
+"Uh—uh—they call me the Space Kid!" he finally managed.
 
 "Space Kid, eh?" mused Coxine. "I don't remember seeing you on the
 Rock."
@@ -4219,11 +4162,11 @@ quickly. "I was an enlisted spaceman in the Solar Guard."
 "Why'd you get sent to the Rock?"
 
 "My officer was a smart-alec lieutenant just out of Space Academy. We
-got in a fight--" Tom didn't finish the sentence.
+got in a fight—" Tom didn't finish the sentence.
 
 "And you were kicked out, eh?"
 
-"No, sir," said Tom. "I hit him so hard--he never woke up again. I had
+"No, sir," said Tom. "I hit him so hard—he never woke up again. I had
 to blast out of there, but they caught me."
 
 "All right," said Coxine. "Report to the gunnery chief. Tell him I said
@@ -4233,8 +4176,6 @@ cadet without another word.
 Tom watched him disappear and smiled. He had faced two impossible
 situations, the fight with Monkey and now this meeting, and he had come
 out on top in each. Perhaps he had a chance, after all.
-
-CHAPTER 13
 
 "Any report from the search squadrons yet, Steve?" asked Commander
 Walters.
@@ -4273,7 +4214,7 @@ every ship."
 
 "Yes, sir," said Roger.
 
-"One more thing," said Strong, "tell Astro to get the _Polaris_ ready to
+"One more thing," said Strong, "tell Astro to get the Polaris ready to
 blast off. And you make sure your radar bridge is in A-one condition."
 
 "Are we blasting off, sir?" asked Roger.
@@ -4317,8 +4258,8 @@ and paged Lieutenant Moore on the central communicators. In a few
 moments the young officer appeared and saluted smartly.
 
 "Take over here, Moore," said Strong. "I'm going to sack in for a little
-rest and then take the _Polaris_ out. I'll be in constant contact with
-you and will direct search operations from the _Polaris_. You stand by
+rest and then take the Polaris out. I'll be in constant contact with
+you and will direct search operations from the Polaris. You stand by
 here and relay all reports. We'll use code 'VISTA' for all contacts."
 
 "Yes, sir," said Moore. "Shall I work up charts like that one?" He
@@ -4334,10 +4275,8 @@ Coxine, he'll fight. And when he fights, that will be the end of him!
 
 He went to his quarters and in thirty seconds was asleep.
 
-*       *       *       *       *
-
 "Radar bridge to control deck!" A voice crackled over the intercom
-aboard the newly named pirate ship, _Avenger_. "Hullo, control deck!
+aboard the newly named pirate ship, Avenger. "Hullo, control deck!
 Come in!"
 
 "Yeah?" roared Bull Coxine. "Whaddya want?"
@@ -4354,7 +4293,7 @@ hard glint in his eyes. "That's the jet liner, all right!" He rubbed the
 palms of his huge hands together and smiled thinly. "It looks like we're
 in business!"
 
-Wallace stepped forward. "You mean, you're going to--?"
+Wallace stepped forward. "You mean, you're going to—?"
 
 "I'll tell you what I mean," snapped Coxine, "when I want you to know
 it!"
@@ -4404,7 +4343,7 @@ show how friendly we are!"
 
 In the turret Tom listened to the orders to attack the helpless
 spaceship with mounting anxiety. If he could only plant the signal on
-the _Avenger_ before going to the liner, he might be able to remain
+the Avenger before going to the liner, he might be able to remain
 aboard the passenger ship and escape. He was interrupted in his thoughts
 by a rough voice in back of him.
 
@@ -4418,7 +4357,7 @@ Gaillard, "Let her go!"
 
 "Fire!"
 
-There was a thunderous noise and the _Avenger_ rocked gently in recoil
+There was a thunderous noise and the Avenger rocked gently in recoil
 from the heavy blast. Tom quickly sighted on the range finder and saw a
 ball of light flash brilliantly in front of the passenger ship. He
 breathed a sigh of relief. He had to keep up his avowed reputation of
@@ -4433,14 +4372,14 @@ earned him a certain amount of respect.
 
 Coxine quickly made contact with the captain of the liner on the
 teleceiver and the outraged captain's face sharpened into focus on the
-screen aboard the _Avenger_.
+screen aboard the Avenger.
 
 "By the craters of Luna," exploded the skipper of the passenger ship,
 "what's the meaning of this? There are women and children aboard this
 vessel."
 
 Coxine smiled thinly. "My name's Bull Coxine, master of the vessel
-_Avenger_. One funny move out of you and I'll blast your ship into
+Avenger. One funny move out of you and I'll blast your ship into
 protons! Stand by for a boarding party!"
 
 "Captain! Captain!" the radar operator's voice screamed over the
@@ -4463,10 +4402,10 @@ fanciest shooting you'll ever see in your life!"
 
 He turned back to the range finder, his mind racing like a calculating
 machine. He figured the angles of the two ships, considering that the
-jet liner was a dead ship in space and the _Avenger_ still under way,
+jet liner was a dead ship in space and the Avenger still under way,
 but slowing down at a specific rate of deceleration. He rechecked his
 figure a third and fourth time, correcting his calculations each time
-with the forward movement of the _Avenger_. If he misjudged a fraction
+with the forward movement of the Avenger. If he misjudged a fraction
 of a degree, he might kill or injure hundreds of people aboard the
 passenger vessel.
 
@@ -4504,7 +4443,7 @@ face.
 The pirate lieutenant hardly gave the cadet a glance as he brushed past
 and entered the radar bridge. Tom caught a fleeting glimpse of the
 interior. His heart jumped. The bridge was exactly like the one on the
-_Polaris_! Though annoyed that his chance had slipped past, Tom was
+Polaris! Though annoyed that his chance had slipped past, Tom was
 thankful to learn that the communications equipment was thoroughly
 familiar.
 
@@ -4566,8 +4505,8 @@ beside the control panel, his eyes flashing angrily. A half-dozen junior
 officers stood stiffly in back of him.
 
 Coxine stepped up to the elderly officer and laughed good-naturedly. "No
-one will be hurt, skipper. I just want a few things for my men"--he
-paused and glanced at the ship's vault--"and whatever you have in
+one will be hurt, skipper. I just want a few things for my men"—he
+paused and glanced at the ship's vault—"and whatever you have in
 there!"
 
 "I'll live to see the day when you're caught and sent to the prison
@@ -4615,8 +4554,6 @@ Tom gulped and wondered if he would have the nerve to fire on the
 spaceman. He thought about it a moment and decided that he would take
 any chance that came along, if he could outwit the criminal. When the
 time came, he would risk his life to stop Coxine!
-
-CHAPTER 14
 
 "All right, line up, you space crawlers!" bawled Coxine. "When I call
 your name step up to get your share of the haul!"
@@ -4729,17 +4666,15 @@ exposed wire from the scanner. He looked at the radar scanner and
 watched it flash white static lines each time he touched the wires.
 Carefully he tapped out a message.
 
-" ... emergency ... attention ... Corbett ... Space Cadet ... aboard ...
-Coxine ... pirate ... ship ... space quadrant ... B ... section ...
-twenty ... three ..."
+"... emergency... attention... Corbett... Space Cadet... aboard...
+Coxine... pirate... ship... space quadrant... B... section...
+twenty... three..."
 
 Over and over he repeated the desperate message, hoping against hope
 that someone would be scanning space and the interference would show up
 on their radar.
 
-" ... emergency ... attention ... Corbett ... Space Cadet--"
-
-*       *       *       *       *
+"... emergency... attention... Corbett... Space Cadet—"
 
 "Captain Strong!" Roger's voice came shrieking over the ship's intercom.
 "Captain! Quick! I'm picking up a message from Tom!"
@@ -4758,7 +4693,7 @@ them to Tom's position.
 
 Endlessly, during the past few days, Strong, Roger, and Astro had swept
 space in a wide arc around the asteroid belt, hoping to pick up just
-such a signal. Now, with the position of the _Avenger_ in his hands,
+such a signal. Now, with the position of the Avenger in his hands,
 Strong grabbed for the intercom.
 
 "Attention, power deck!" yelled Strong. "We've just picked up a message
@@ -4843,9 +4778,7 @@ was no appeal for help in the desperate call.
 He shook his head wearily and flipped the teleceiver switch to report to
 Commander Walters.
 
-*       *       *       *       *
-
-"Emergency ... attention...." Tom continued to tap out the message
+"Emergency... attention..." Tom continued to tap out the message
 slowly and carefully. Behind him, he could hear Brooks hammering against
 the locker door. Tom felt like opening the door and freezing the pirate
 with his paralo-ray gun to keep him quiet, but he didn't dare to stop
@@ -4909,7 +4842,7 @@ acceleration, and since there was nothing else to do but wait for time
 to pass and hope for escape, he began to examine the contents of the
 small ship. He opened the emergency food locker and was relieved to see
 it fully stocked with synthetics and water. Every second carried him
-farther away from the _Avenger_, and when he looked back, Tom saw no
+farther away from the Avenger, and when he looked back, Tom saw no
 evidence of pursuit. The cadet smiled. They would depend on the radar to
 find him, instead of sending out the other jet boats. Tom almost laughed
 out loud. With the radar jammed, he was safe. He would make it. Once
@@ -4922,8 +4855,6 @@ than three days' oxygen remaining in the tanks. In three days the jet
 boat would become an airless shell. A vacuum no different than the cold
 silent void of space!
 
-CHAPTER 15
-
 "What's our position, Roger?" Captain Strong called into the intercom.
 
 "Space quadrant B, section twenty-three, sir," replied Roger from the
@@ -4935,7 +4866,7 @@ Tom sent out is scrambling everything."
 "Yes, sir. I checked it three times."
 
 "All right, then," said Strong grimly. "There's only one thing to do.
-We're too near the asteroid belt to use the _Polaris_ without radar, so
+We're too near the asteroid belt to use the Polaris without radar, so
 we'll search in jet boats. Astro! We're parking right here! Give me full
 braking rockets and secure the power deck. Then prepare the jet boats
 for flight."
@@ -4954,7 +4885,7 @@ have to be eliminated at its source."
 
 "Well," sighed Strong, "to go looking for Tom without the help of radar
 would be like looking for an air bubble in the ammonia clouds of
-Jupiter. And we don't even know if he's still aboard the _Avenger_ or
+Jupiter. And we don't even know if he's still aboard the Avenger or
 not!"
 
 "You know, sir," said Roger speculatively, "I've been thinking. I might
@@ -5000,14 +4931,14 @@ isn't. So we'll search and hope for the best."
 "Keep your jet-boat audioceiver open all the time and maintain contact
 with me."
 
-"Why not contact Roger here on the _Polaris_, sir?" asked Astro.
+"Why not contact Roger here on the Polaris, sir?" asked Astro.
 
 "He's busy trying to find out where the flashing static on the radar is
 coming from," explained Strong. "We'll make wide circles, starting
 outside and working in. Blast in a continuous circle inward, like a
 spiral. If there's anything around here, we'll find it that way."
 
-"Yes, sir," said Astro. "I sure hope Tom is O.K."
+"Yes, sir," said Astro. "I sure hope Tom is O. K."
 
 "Best answer I can give you. Astro, is to blast off and find out."
 
@@ -5015,7 +4946,7 @@ The two spacemen climbed into the small craft, and while Strong opened
 the outer lock, exposing them to the emptiness of space, Astro started
 the jets in his boat. With a wave of his hand to Strong, he roared away
 from the sleek rocket cruiser. Strong followed right on his tail. They
-circled the _Polaris_ twice, establishing their positions, and then
+circled the Polaris twice, establishing their positions, and then
 roared away from each other to begin their search.
 
 Astro turned his midget space vessel toward the asteroid belt, ahead and
@@ -5037,7 +4968,7 @@ approached the asteroid belt from a different angle. He realized any
 number of things could have happened on the pirate-ship. Tom could have
 been captured, or if not yet discovered, unable to escape from the ship.
 Strong's throat choked up with fierce pride over the gallant effort Tom
-had made to warn the Solar Guard of the _Avenger's_ position.
+had made to warn the Solar Guard of the Avenger's position.
 
 As he neared the outer edges of the belt, he concentrated on guiding his
 small ship in and around the drifting asteroids, his eyes constantly
@@ -5066,9 +4997,7 @@ his skipper's voice crackle in his headphones.
 voice, and Strong, many miles away, nodded in silent agreement with
 Astro's feelings.
 
-*       *       *       *       *
-
-The _Avenger_ had long since disappeared and Tom was left alone in space
+The Avenger had long since disappeared and Tom was left alone in space
 in the tiny jet boat. To conserve his oxygen supply, the curly-haired
 cadet had set the controls of his boat on a steady orbit around one of
 the larger asteroids and lay down quietly on the deck. One of the first
@@ -5106,7 +5035,7 @@ find them again. He sat back in his chair for a moment, mopping his brow
 and watching the white hairline in its continuous swing around the face
 of the scope. As the line swept to the top of the screen, he saw the
 blip outline of a jet boat and recognized it as one belonging to the
-_Polaris_. Then, slowly, the line swept down and Roger suddenly saw the
+Polaris. Then, slowly, the line swept down and Roger suddenly saw the
 blip outline of a second craft. With the experienced eye of a radar
 veteran, Roger was able not only to distinguish the jet boats from the
 asteroids, but from each other. He gripped the edge of the instrument
@@ -5116,7 +5045,7 @@ model!
 He reached for the audioceiver and switched it on.
 
 "Attention! Attention! Captain Strong! Astro! Come in! This is Manning
-aboard the _Polaris_! Come in!"
+aboard the Polaris! Come in!"
 
 Strong and Astro replied almost together.
 
@@ -5124,7 +5053,7 @@ Strong and Astro replied almost together.
 
 "Astro here!"
 
-"I've spotted a jet boat!" Roger shouted. "You think it might be--"
+"I've spotted a jet boat!" Roger shouted. "You think it might be—"
 
 "Where?" bawled Astro before Roger could finish. "Where is it, you
 rockethead?"
@@ -5144,21 +5073,21 @@ direction, saw the boat and relayed the position to Astro. In a few
 moments the two space craft had regulated their speeds to that of Tom's
 ship and were hastily donning space suits. A quick look inside had shown
 them Tom's sleeping body. As Astro started to open the crystal hatch of
-his ship to cross over to the other, Strong yelled over the audioceiver.
+his ship to symbol over to the other, Strong yelled over the audioceiver.
 
 "Astro, wait!"
 
 Astro looked across at the captain's ship questioningly.
 
 "Tom isn't in a space suit. If we open the hatch it would kill him.
-We've got to tow him back to the _Polaris_ and get his boat inside the
+We've got to tow him back to the Polaris and get his boat inside the
 air lock before we can open the hatch!"
 
 Without a word, Astro nodded, ducked inside his ship, and climbed out
 again with a length of rope. Working quickly, he tied one end securely
 to the bow of Tom's jet boat and made the other end fast to the stern of
 his. Then returning to his cockpit, he sent the jet boat hurtling back
-toward the _Polaris_.
+toward the Polaris.
 
 But he was still faced with the problem of getting Tom's jet boat inside
 the air lock. It was still under acceleration and there was no way to
@@ -5172,7 +5101,7 @@ out of fuel."
 oxygen Tom has left."
 
 "There's nothing else we can do, sir," replied Astro. "We can't brake
-her to land inside the _Polaris_ and we can't open the hatch to turn off
+her to land inside the Polaris and we can't open the hatch to turn off
 the motor. We'll have to take a chance on Tom lasting until it runs out
 of fuel!"
 
@@ -5195,11 +5124,9 @@ Even before the black cloud swept over him, Tom could hear the jets
 become silent. He had signaled them. He had stopped the jet boat. They
 would know, now, how to save him.
 
-CHAPTER 16
-
 "... and you never picked up that static flash again, eh?" mused Strong,
 looking at Roger. "Well, the only reason I can think of is that someone
-aboard the _Avenger_ must have discovered what was happening."
+aboard the Avenger must have discovered what was happening."
 
 "That's the way I figure it, sir," replied Roger.
 
@@ -5212,7 +5139,7 @@ That's plenty to be thankful for."
 
 "He'll be all right," replied the Solar Guard captain, his face showing
 the strain of the past weeks. "We gave him pure oxygen and he came to
-long enough to tell us what happened aboard the _Avenger_. Get me
+long enough to tell us what happened aboard the Avenger. Get me
 teleceiver contact with Space Academy as soon as possible. I've got to
 send a report to Commander Walters."
 
@@ -5221,7 +5148,7 @@ send a report to Commander Walters."
 "You've done a good job, Manning. Your work here on the radar bridge did
 as much toward saving Tom's life as anything."
 
-"Thank you, sir. After what Tom did on the _Avenger_, though, I don't
+"Thank you, sir. After what Tom did on the Avenger, though, I don't
 feel like I've done very much. It took real courage to go aboard that
 ship with Coxine."
 
@@ -5266,13 +5193,13 @@ exclusively out of the asteroid belt, I think it would be a good idea to
 concentrate the entire fleet of patrol ships in that area."
 
 "Good idea! I'll set it up. But get back here as soon as possible,
-Steve. Coxine and that crew on the _Avenger_ aren't sitting still."
+Steve. Coxine and that crew on the Avenger aren't sitting still."
 
 "What do you mean, sir?"
 
 "In the last three days we've had reports from seven ships. Jet liners,
 passenger freighters, and supply ships. All were attacked by the
-_Avenger_ and stripped of everything those criminals could load on their
+Avenger and stripped of everything those criminals could load on their
 murderous backs. Blasters, paralo-ray guns, whole and synthetic
 foodstuffs, clothes, money, jewels, equipment. Everything under the
 stars that they could use. Any ship that even comes close to the
@@ -5311,7 +5238,7 @@ crew justified Captain Strong's fears. Repeatedly, ships were attacked
 on the fringe of the asteroid belt and stripped of armor, food supplies,
 and valuables. With the secret of the light-key, the vaults of the ships
 were opened as easily as though there had been no lock at all. The
-totals had reached staggering amounts and the daring of the _Avenger_
+totals had reached staggering amounts and the daring of the Avenger
 was more pronounced, as Coxine struck repeatedly, farther and farther
 away from the protection of the asteroid belt. It seemed as though he
 were taunting the Solar Guard with his exploits.
@@ -5325,32 +5252,30 @@ of the energy locks were changed every day, but with the adjustable
 light-key, Coxine met every change easily. The entire Solar Alliance was
 in an uproar, and the citizens of the planets were clamoring for action.
 
-[Illustration: _All Solar Guard defense measures seemed to be futile_]
-
 Finally, the commanding officers of the Solar Guard noticed a change in
 Coxine's operations. Instead of merely attacking spaceships and
 hijacking their cargoes, he now took over the vessel completely, sending
 the passengers and crews drifting helplessly in space in jet boats.
-Three large, fast space freighters of the same class as the _Avenger_
+Three large, fast space freighters of the same class as the Avenger
 were now in the pirates' hands.
 
 Then, one morning, in his headquarters at Space Academy, Captain Strong
 received an electrifying report. Coxine had attacked a freighter
 escorted by a Solar Guard rocket scout. Outgunned, the scout had been
-destroyed, but it had inflicted damage on the _Avenger_. The last report
+destroyed, but it had inflicted damage on the Avenger. The last report
 from a dying communications officer on the scout was that the pirate
 ship was drifting helplessly in space!
 
 Strong, his face showing hope for the first time in weeks, burned the
 teleceivers, flashing orders to the various elements of the search fleet
-to converge on the disabled _Avenger_.
+to converge on the disabled Avenger.
 
 "Attention! All ships in quadrants C through M and Q through B-l!
 Proceed full thrust to quadrant A-2, section fifty-nine. On approaching
 target you will signal standard surrender message, and if not obeyed,
 you will open fire!"
 
-Behind him, the three cadets of the _Polaris_ unit listened to the
+Behind him, the three cadets of the Polaris unit listened to the
 decisive words of their commander and then let out an earsplitting yell.
 
 "No time for celebrating," barked Strong. "We haven't caught him yet.
@@ -5365,7 +5290,7 @@ Five minutes later, Strong and the boys were aboard their ship.
 was still pale and drawn, showing the effects of his ordeal in space.
 
 "Get me direct teleceiver contact with Captain Randolph on the rocket
-cruiser _Sirius_," ordered Strong.
+cruiser Sirius," ordered Strong.
 
 "Yes, sir," replied Tom. He turned to flip on the teleceiver, and a
 moment later the captain's face appeared on the screen.
@@ -5373,11 +5298,11 @@ moment later the captain's face appeared on the screen.
 "Randolph here. What's up, Steve?"
 
 "I've got Squadron Nineteen of the Martian reserve fleet heading for the
-last reported position of the _Avenger_ now, Randy. I'll take the point
+last reported position of the Avenger now, Randy. I'll take the point
 position of your squadron and direct operations. I'll relay course to
 you as soon as we're in space."
 
-"O.K., Steve," replied Randolph. "I'm ready to raise ship."
+"O. K., Steve," replied Randolph. "I'm ready to raise ship."
 
 "I'll go up first. Form up around me at about five thousand miles. End
 transmission!"
@@ -5417,7 +5342,7 @@ The cadet closed the master switch on the control panel and the noise
 from the power deck below began to build to an unbearable crescendo!
 
 Watching the sweeping second hand of the chronometer, Tom called out,
-"Blast off minus five--four--three--two--one--_zero_!"
+"Blast off minus five—four—three—two—one—zero!"
 
 With a mighty roar, all main rockets of the spaceship exploded into
 life. Shuddering under the sudden surge of power, the ship rose from the
@@ -5425,12 +5350,12 @@ ground, accelerated at the rate of seven miles per second, and arrowed
 into the sky, space-borne!
 
 On the Academy spaceport, ships of Squadron L began to blast off one by
-one behind the _Polaris_ at ten-second intervals. Three rocket cruisers,
+one behind the Polaris at ten-second intervals. Three rocket cruisers,
 six destroyers, and twelve rocket scouts. The explosive blast of one
 hardly rolling away across the surrounding hills before another
 deafening blast lifted the next space vessel away from Earth.
 
-Aboard the _Polaris_, Roger was busy over the chart table plotting the
+Aboard the Polaris, Roger was busy over the chart table plotting the
 course when Strong appeared at his side.
 
 "Have that course for you in a minute, sir," said Roger. He turned to
@@ -5440,14 +5365,14 @@ a piece of paper, rechecked them against a table of relative values and
 handed the papers to Strong.
 
 The captain immediately opened the teleceiver and relayed the
-information to other ships of the squadron. After the _Polaris_ had made
+information to other ships of the squadron. After the Polaris had made
 the course change, the ships followed, taking positions all around the
 lead vessel.
 
 Like fingers of a giant hand, the Solar Guard squadrons converged on the
-reported position of the disabled _Avenger_. From every ship, radar
+reported position of the disabled Avenger. From every ship, radar
 scanners probed the space ahead with invisible electronic fingers for
-contact with the target. On the _Polaris_, Strong, his nimble brain
+contact with the target. On the Polaris, Strong, his nimble brain
 figuring Coxine's possibilities of escape, hunched over the chart table
 and worked at plotting alternate courses on which he could send pursuit
 squadrons on a moment's notice. One thing worried Strong, and that was
@@ -5462,7 +5387,7 @@ immediately.
 "We still have quite a way to go before we reach him, Strong. But if our
 luck holds out, we might be able to pin him down in a wide circle."
 
-Strong studied the chart and marked the position of the _Avenger_ just
+Strong studied the chart and marked the position of the Avenger just
 reported. He compared the position to that of the other fleet ships and
 decided that they were still too far away to tighten a ring of armor
 around the pirate. Strong was well aware that if the Solar Guard could
@@ -5472,7 +5397,7 @@ repairing his ship and disappearing into the asteroid belt. He grabbed
 the intercom and bawled orders.
 
 "Power deck, emergency space speed. Control deck, relay that order to
-every ship converging on the _Avenger's_ position!"
+every ship converging on the Avenger's position!"
 
 "What's up, sir?" asked Tom from below.
 
@@ -5481,7 +5406,7 @@ commission, but we're too far away to hail him."
 
 Strong began to pace the deck of the radar bridge, and with each turn,
 he glanced at the radar scanner where Roger was waiting anxiously for
-the telltale blip of the _Avenger_ to appear.
+the telltale blip of the Avenger to appear.
 
 Suddenly the blond-haired cadet stiffened. He peered at the scanner
 screen, then cried, "There he is, sir!" His finger pointed to a white
@@ -5491,8 +5416,8 @@ Strong took a quick look at the pirate's position and compared it to the
 positions of the converging fleet. He turned to the teleceiver and
 signaled for the immediate attention of all ships.
 
-"This is Strong aboard the flagship _Polaris_! All ships will proceed
-according to attack plan seventeen--code nine. Use full power! Emergency
+"This is Strong aboard the flagship Polaris! All ships will proceed
+according to attack plan seventeen—code nine. Use full power! Emergency
 thrust!"
 
 As the minutes passed and the Solar Guard fleet plunged forward, the
@@ -5514,7 +5439,7 @@ In reply, the elements of the fleet smoothly reformed until they formed
 a giant wheel in space with the pirate ship as the hub. Around and
 around they flew, all inboard guns trained on the enemy.
 
-As the command ship, the _Polaris_ flew high over the formation. Strong
+As the command ship, the Polaris flew high over the formation. Strong
 checked the formation carefully on the scanner and nodded his
 satisfaction.
 
@@ -5529,7 +5454,7 @@ mind," said Strong wryly and turned to the intercom. "Tom, check in!"
 
 "Aye, aye, sir!"
 
-"Head for the _Avenger_. Close in!"
+"Head for the Avenger. Close in!"
 
 "You mean we're going to lead the attack, sir?" Tom shouted in a sudden
 burst of enthusiasm.
@@ -5538,7 +5463,7 @@ burst of enthusiasm.
 replied Strong. "We're going alongside to accept Coxine's surrender.
 Start blasting!"
 
-"Aye, aye, _sir_!"
+"Aye, aye, sir!"
 
 As Tom's voice was heard over the intercom speaker, issuing orders to
 Astro for change of course, Strong turned back to Roger.
@@ -5587,19 +5512,19 @@ ship's intercom.
 
 "Don't bother me now, Corbett," replied Strong irritably.
 
-"But, sir," Tom persisted, "that isn't the _Avenger_!"
+"But, sir," Tom persisted, "that isn't the Avenger!"
 
 "What!" Strong was thunderstruck.
 
 "No, sir," continued the young cadet. "I'm looking at her right now on
-my control-deck scanner. It's the same model ship as the _Avenger_, but
+my control-deck scanner. It's the same model ship as the Avenger, but
 it isn't Coxine's!"
 
 "Are you sure?"
 
 "Positive, sir. I was on her long enough to know."
 
-"Blast it! Then what--?"
+"Blast it! Then what—?"
 
 Roger suddenly interrupted Strong. "Sir, look at her over the
 magnascope! She's been abandoned!"
@@ -5610,7 +5535,7 @@ emergency ports were open and the jet-boat locks were empty.
 
 Strong's face grew pale and he slumped back in his chair.
 
-"What--what do you suppose happened, sir?" asked Roger hesitantly.
+"What—what do you suppose happened, sir?" asked Roger hesitantly.
 
 "It's easy enough to figure," Strong replied, his voice dull and
 lifeless. "Coxine is using more than one ship now. And when this one was
@@ -5621,10 +5546,8 @@ Slowly, with wooden legs, he walked over to the teleceiver.
 "Attention all ships! Resume former search stations. All we've caught
 here is a red herring!"
 
-And as the powerful engines of the _Polaris_ picked up speed, Strong
+And as the powerful engines of the Polaris picked up speed, Strong
 imagined he could hear Gargantuan laughter echoing in space around him.
-
-CHAPTER 17
 
 "Spaceman's luck, sir," said Tom, shaking Captain Strong's hand.
 
@@ -5637,7 +5560,7 @@ pay roll."
 
 "But won't you take at least one man with you, sir?" pleaded Tom.
 "Sitting up there in space in a decoy ship waiting for Coxine is
-like--" Tom paused. "Well, you won't have much of a chance, sir, if
+like—" Tom paused. "Well, you won't have much of a chance, sir, if
 Coxine opens fire before asking questions."
 
 "That's the risk I've got to take, Tom," said Strong. "It took a lot of
@@ -5653,7 +5576,7 @@ the satellite of Titan for the crystal miners.
 
 Thinking one sure way to catch any rat was to use a lure, Tom suggested
 that the Titan armored freighter be used as a decoy to capture the
-pirate, and the cadets could carry the pay roll in the _Polaris_.
+pirate, and the cadets could carry the pay roll in the Polaris.
 
 Commander Walters had considered the plan, and then realizing that
 Coxine might fire on the freighter before seizing it, disapproved of
@@ -5661,7 +5584,7 @@ placing a full crew aboard the lightly armed ship. Instead, he would
 send only one man. Strong had volunteered for the assignment and had
 persuaded the commander to allow him to man the decoy ship.
 
-Now, the two ships, the _Polaris_ and the armed freighter stood side by
+Now, the two ships, the Polaris and the armed freighter stood side by
 side at the Academy spaceport, and the three cadets and their commanding
 officer waited for the signal to blast off.
 
@@ -5720,8 +5643,6 @@ Reluctantly, Roger and Astro followed their unit-mate from the traffic
 tower, their eyes full of concern for their skipper. Each was grimly
 aware that they might never see their skipper alive again.
 
-*       *       *       *       *
-
 "Now shut your traps!" roared Bull Coxine. "The next crawler that opens
 his mouth gets taken apart!" He stood on top of a table and faced his
 crew of pirates who were sitting about swilling large cups of rocket
@@ -5748,7 +5669,7 @@ since that space-crawling cadet pulled a fast one on me there's been
 talk about voting for another leader!" He spat the word as if it had
 left a foul taste in his mouth. "Well, get this. There'll be no voting!
 I'm the boss of this outfit! Any man who thinks he can take over my
-job," Coxine's voice dropped to a deadly whisper, "_just let him try!_"
+job," Coxine's voice dropped to a deadly whisper, "just let him try!"
 
 Stony silence greeted the huge spaceman, a silence inspired by fear.
 
@@ -5788,17 +5709,17 @@ Simms' face turned red, and he nodded curtly.
 
 "Now as for the rest of you crawlers," said Coxine, facing the room full
 of men. "Repair crews have been assigned for work on the rocket scout
-and the rest of you will work on the _Avenger_ and prepare her for a
+and the rest of you will work on the Avenger and prepare her for a
 long flight. I want the three-inch blasters, every paralo-ray gun and
 rifle, the fuel tanks, food supplies, oxygen circulators, in fact
-everything checked, rechecked, and _double-checked_!"
+everything checked, rechecked, and double-checked!"
 
 Joe Brooks, who had become a favorite of Coxine's, rose and faced the
 pirate captain. "Where are we going to strike next, skipper?"
 
 Coxine looked at the man with a half-smile playing on his lips. "This
-operation will have two parts, Joe. The first--well--" his smiled
-broadened--"the Titan pay-roll ship just blasted off from Space Academy.
+operation will have two parts, Joe. The first—well—" his smiled
+broadened—"the Titan pay-roll ship just blasted off from Space Academy.
 For the last ten years, the Titan pay-roll ship has been blasting off
 from Atom City. Now why do you think it would suddenly leave from Space
 Academy, the home of the Solar Guard?"
@@ -5811,7 +5732,7 @@ packed with blasters it would take a fleet to stop it, or it's a trap!"
 "But if you think it's a trap," exclaimed Wallace, "you're not going to
 hit it, are you?"
 
-"I said it _might_ be a trap!" snapped Coxine. "But it might not and
+"I said it might be a trap!" snapped Coxine. "But it might not and
 with twenty million credits to be had for the taking, I'm not going to
 let her breeze through. I'm going to make sure it's a trap before I try
 something else!"
@@ -5820,7 +5741,7 @@ something else!"
 
 Coxine looked at his lieutenant coldly. He had indulged the man too
 long. "I'll tell you when I get good and ready! Now all of you, get out
-of here and make sure everything, and I _mean everything_, is ready to
+of here and make sure everything, and I mean everything, is ready to
 raise ship at a moment's notice!"
 
 The men got up and shuffled from the room. Coxine turned to his two
@@ -5833,8 +5754,6 @@ to be so surprising that the Solar Guard would be absolutely helpless.
 
 Bull Coxine smiled and turned to study the charts of the asteroid belt.
 
-*       *       *       *       *
-
 Alone aboard the armored decoy ship, Captain Strong blasted steadily on
 his course through the asteroid belt. The young Solar Guard officer was
 aware that at any moment after reaching the celestial jungle of small
@@ -5846,10 +5765,8 @@ Grim-faced, his hands gripping the controls, he rocketed through space,
 determined to put an end, once and for all, to the marauding pirate and
 old enemy, Bull Coxine.
 
-*       *       *       *       *
-
 When night fell over the Academy spaceport, Tom, Roger, and Astro
-climbed silently into the giant rocket cruiser _Polaris_ and raised ship
+climbed silently into the giant rocket cruiser Polaris and raised ship
 for Titan. Their departure from Earth was routine, with no one but
 Commander Walters and Captain Strong knowing that stowed in the storage
 compartment of the spaceship was twenty million credits, the pay roll
@@ -5866,8 +5783,6 @@ safely. The only comment was Astro's grim prediction.
 "If anything happens to Captain Strong," he paused and finished his
 sentence in a tense whisper, "I'll search the universe until I find
 Coxine. And when I do, I'll break him in two!"
-
-CHAPTER 18
 
 "Have you got everything straight?" asked Coxine. Simms nodded his head.
 
@@ -5914,8 +5829,8 @@ on that ship."
 
 "No! I mean that ship, right there," snapped Coxine. He pointed to a
 white blip on the scanner. "And after you get the bearing I want a
-course that'll intersect it in"--Coxine paused and glanced at the astral
-chronometer--"ten minutes!"
+course that'll intersect it in"—Coxine paused and glanced at the astral
+chronometer—"ten minutes!"
 
 Quickly calculating the bearing and working up the course as ordered,
 Brooks handed Coxine a slip of paper. The pirate glanced at it briefly.
@@ -5943,8 +5858,6 @@ Coxine sat in front of the control panel, ready to give the final order
 that would send the vessel hurtling into space. In a little while, the
 evil mind, the twisted brain of Bull Coxine would be pitted against the
 might of the Solar Guard.
-
-*       *       *       *       *
 
 Captain Strong sat on the control deck of the decoy ship, watching the
 radar scanner and waiting for the appearance of Bull Coxine and his
@@ -5979,7 +5892,7 @@ When he was certain that it was heading for him, he grabbed the
 audioceiver microphone and began calling hurriedly.
 
 "Attention all ships! This is Captain Strong. Spaceship approaching me,
-starboard quarter, one-one-five degrees. Estimated speed--" Strong
+starboard quarter, one-one-five degrees. Estimated speed—" Strong
 paused and watched the moving blip. "Speed unknown. All ships close in
 immediately!"
 
@@ -6012,7 +5925,7 @@ metal.
 Strong grabbed the audioceiver microphone and shouted orders to the
 fleet squadron leaders.
 
-" ... Squadron L! Put out immediate rescue jet boats and begin salvage
+"... Squadron L! Put out immediate rescue jet boats and begin salvage
 operations. All remaining ships will return to Solar Guard base, Space
 Academy. End transmission!"
 
@@ -6043,8 +5956,6 @@ Behind the protective glass of his helmet, Strong grimaced. He turned to
 Captain Randolph. "We've been tricked again, Randy," said Strong
 bitterly. "We used a decoy and so did Coxine!"
 
-*       *       *       *       *
-
 "They're closing in!" Roger's voice crackled through the intercom from
 the radar bridge. "Do we fight or do we let those space crawlers take
 over?"
@@ -6058,7 +5969,7 @@ Rocketing through the asteroid belt with the Titan pay roll, the three
 space cadets, under strict orders to maintain communications silence,
 were unaware that Bull Coxine had outsmarted Captain Strong. Sending in
 the rocket scout, he had sprung the Solar Guard trap and had cagily
-scanned the belt for another ship. Finding the _Polaris_ easily, the
+scanned the belt for another ship. Finding the Polaris easily, the
 pirate captain was blasting in for the attack.
 
 On the control deck of the Solar Guard cruiser, Tom Corbett desperately
@@ -6079,21 +5990,21 @@ smart!"
 "Well, start making with the brains," sneered Roger. "Coxine's in range
 now."
 
-"Attention--" A harsh unmistakable voice rumbled over the audioceiver.
+"Attention—" A harsh unmistakable voice rumbled over the audioceiver.
 "This is Bull Coxine! Heave to or you'll be blasted!"
 
 "All right, Junior," said Roger bitterly, "company's coming. What now?"
 
-"Cut all power, Astro--fast!" ordered Tom.
+"Cut all power, Astro—fast!" ordered Tom.
 
 "What's the matter?" growled Astro. "Afraid they'll shoot if you don't
 stop fast enough?"
 
 "Keep your big trap shut and do as I tell you!" snapped Tom.
 
-"Listen, Junior!" snarled Roger. "As far as I'm concerned--"
+"Listen, Junior!" snarled Roger. "As far as I'm concerned—"
 
-Tom interrupted him. "_You_ listen, you idiot! Don't you see what's
+Tom interrupted him. "You listen, you idiot! Don't you see what's
 happened? Coxine must have found out about the decoy ship, and when we
 showed up on his scanner, he figured right away that we might have the
 Titan pay roll."
@@ -6122,16 +6033,16 @@ a signal beacon that'll send out a constant automatic SOS?"
 "A what?" asked Roger.
 
 "Beacon. One that will transmit on the Solar Guard special frequency and
-be small enough to hide here on the _Polaris_."
+be small enough to hide here on the Polaris."
 
-"Why hide it on the _Polaris_?" asked Astro. "Why not try to get it on
+"Why hide it on the Polaris?" asked Astro. "Why not try to get it on
 their ship?" His tone was almost apologetic now that he realized Tom was
 not planning a cowardly surrender.
 
-"It's a cinch they'll take the _Polaris_ over," explained Tom. "She's
+"It's a cinch they'll take the Polaris over," explained Tom. "She's
 fast and she's got six-inch blasters."
 
-"I get it!" yelped Astro. "We plant the beacon on the _Polaris_, and
+"I get it!" yelped Astro. "We plant the beacon on the Polaris, and
 when they take her over, the signal will be going out all the time."
 Astro paused. "But wait a minute. They'll be sure to search the ship
 first!"
@@ -6158,9 +6069,9 @@ box-shaped?"
 Roger hesitated again. "Yeah, I guess so. Why?"
 
 "Because I just thought of a good place to hide it. They'd have to tear
-the ship apart to find it, _if_ they even hear the signal!"
+the ship apart to find it, if they even hear the signal!"
 
-"Attention! Attention! This is Coxine--" The pirate's voice bawled over
+"Attention! Attention! This is Coxine—" The pirate's voice bawled over
 the audioceiver again. "You are under my guns. Stand by to receive a
 boarding party. If you make any attempt to escape, you will be blasted!"
 
@@ -6211,7 +6122,7 @@ preparing the cutting torches. Ten minutes later Tom emerged from the
 chamber and nodded triumphantly. "All set, Astro! Now all we need is the
 beacon."
 
-Suddenly the _Polaris_ was rocked by a heavy explosion.
+Suddenly the Polaris was rocked by a heavy explosion.
 
 "They're firing!" yelled Astro.
 
@@ -6220,9 +6131,9 @@ Suddenly the _Polaris_ was rocked by a heavy explosion.
 "I need another five minutes!" answered Roger. "I have to set the signal
 to send out the SOS."
 
-"Will it send out _anything_?" asked Tom.
+"Will it send out anything?" asked Tom.
 
-The _Polaris_ rocked again from a second explosion.
+The Polaris rocked again from a second explosion.
 
 "I don't know, Tom," yelled Roger. "I haven't even tested it!"
 
@@ -6273,8 +6184,6 @@ the richest prize in the universe! The colony on Ganymede!"
 He then turned and smiled at his three prisoners, adding menacingly,
 "And we've got three passes to get us through the defenses!"
 
-CHAPTER 19
-
 Ganymede, the largest moon of Jupiter, was an important way station of
 the Solar Alliance for all spaceships traveling between the outer
 planets of Saturn, Uranus, Neptune, and Pluto and the inner planets of
@@ -6287,9 +6196,9 @@ system.
 
 With the Solar Guard search squadrons hopelessly out of range on the
 other side of the asteroid belt, the cadets' only hope of saving the
-tiny colony lay in the beacon hidden inside the hull of the _Polaris_.
+tiny colony lay in the beacon hidden inside the hull of the Polaris.
 
-Leaving Wallace and half of his crew aboard the _Polaris_, Bull Coxine
+Leaving Wallace and half of his crew aboard the Polaris, Bull Coxine
 had transferred the three cadets to the Avenger and thrown them into the
 brig. As the ship accelerated toward the colony, Tom stared out of the
 small, barred viewport while Roger and Astro sprawled glumly on the hard
@@ -6372,7 +6281,7 @@ Coxine's neck. But the big man met him coming on and with a powerful
 slap of his hand sent the boy sprawling back across the deck.
 
 "You're a good man, Corbett," said Coxine, standing over the fallen
-cadet, "but you're a _little_ man, and a good big man can lick a good
+cadet, "but you're a little man, and a good big man can lick a good
 little man any time!"
 
 Brooks and the crewmen laughed loudly as Tom dragged himself to his
@@ -6395,7 +6304,7 @@ garrison and wipe it out before it could raise a ship in defense.
 "Well?" demanded Coxine, placing his huge hand on the valve.
 
 Tom knew that if he could stall long enough, the signal aboard the
-_Polaris_ might be picked up by the Solar Guard. Roger and Astro were in
+Polaris might be picked up by the Solar Guard. Roger and Astro were in
 good physical condition. They could conserve their energy as soon as
 they discovered the trap. He had to stall and hope the signal would be
 picked up in time.
@@ -6404,7 +6313,7 @@ picked up in time.
 teeth, "is a blast of a paralo-ray!"
 
 Coxine snarled in anger and turned the valve, shouting, "One more thing,
-_Mister Hero_! The minute the air lock is empty, _you_ take a swim in
+Mister Hero! The minute the air lock is empty, you take a swim in
 space too!"
 
 Tom was prepared for that. He knew the pirate would not take defeat at
@@ -6423,7 +6332,7 @@ men with a curt nod and returned to his charts.
 Tom sat in front of the control panel, his eyes sweeping the gauges and
 dials and at last fixing on the master acceleration lever. Two feet away
 was the lever that controlled all the power on the ship. If he could
-only reach it, he could stop the _Avenger_ dead, and possibly even put
+only reach it, he could stop the Avenger dead, and possibly even put
 the ship completely out of commission. But try as he might, he could not
 get his hands free.
 
@@ -6462,7 +6371,7 @@ Tom gulped. He had no assurance that Coxine would release Roger and
 Astro, even if he did give him the signal. But he knew there was no
 choice. He looked up at Coxine.
 
-"Do I have your word as an _Earthman_ that nothing will happen to them?"
+"Do I have your word as an Earthman that nothing will happen to them?"
 he asked quietly.
 
 Coxine laughed. "Sure. I'll give you my word. I'll even bring them up
@@ -6471,7 +6380,7 @@ time I'm finished with the Ganymede colony the Solar Guard will have
 your hides for handing out their secrets."
 
 Tom knew what the pirate said was true. He was taking a gamble now. A
-gamble that by this time his signal on the _Polaris_ had been picked up
+gamble that by this time his signal on the Polaris had been picked up
 and a fleet of ships would be on their trail.
 
 "Attention! Attention! Identify yourselves immediately!" The voice from
@@ -6489,17 +6398,17 @@ Coxine's face twisted into a half-smile.
 
 Coxine gave the valve a number of turns in the opposite direction and
 jumped to the teleceiver. He flipped the key open and called Wallace
-aboard the _Polaris_. "When they ask you for identification, tell them
+aboard the Polaris. "When they ask you for identification, tell them
 you're working on operation Vista. That's the key word. Vista!"
 
 "Right!" answered Wallace.
 
 Coxine then turned to the audioceiver and spoke in confident, assured
 tones. "Attention, Ganymede traffic control! This is armed freighter
-_Samson_, assigned on project Vista. Request clearance for approach and
+Samson, assigned on project Vista. Request clearance for approach and
 touchdown on Ganymede spaceport!"
 
-"You are properly identified, _Samson_," replied Ganymede. "Proceed on
+"You are properly identified, Samson," replied Ganymede. "Proceed on
 your present course. End transmission."
 
 "End transmission!" roared Coxine triumphantly.
@@ -6520,7 +6429,7 @@ want! Solar Guard or no Solar Guard!"
 never saw before. Their own ships blasting them right out of space!"
 
 Coxine turned to the intercom, ordered Astro and Roger brought up to the
-control deck, and then contacted Wallace aboard the _Polaris_.
+control deck, and then contacted Wallace aboard the Polaris.
 
 "Yeah?" answered the spaceman from the control deck of the rocket
 cruiser.
@@ -6540,11 +6449,11 @@ colony. He could make out the outline of the uranium plant, the
 atmosphere booster stations and small buildings clustered around the
 spaceport. As they drew closer to the tiny colony, Coxine grabbed the
 intercom and the teleceiver microphones and barked crisp orders to both
-the Avengers and the _Polaris_' power decks. "Full braking rockets!"
+the Avengers and the Polaris' power decks. "Full braking rockets!"
 roared Coxine.
 
 Tom braced himself against the sudden reverse pressure of the powerful
-nose rockets, and then, in a moment, felt the _Avenger_ come to a dead
+nose rockets, and then, in a moment, felt the Avenger come to a dead
 stop. Watching the scanner again, he saw that they were directly over
 the Solar Guard garrison. Coxine switched the teleceiver to the colony
 frequency and spoke sharply and confidently.
@@ -6566,18 +6475,18 @@ Suddenly the hatch was thrown open and Astro and Roger were pushed into
 the room by two crewmen.
 
 Coxine turned to them, smiling thinly. "You owe your lives to your buddy
-here. One more minute and you would've been walking with the angels.
+here. One more minute and you would've been walking with the ethereal beings.
 Now," he added to the crewmen, "tie them up so they can see the scanner.
 I want them to see how easy it is to knock off a Solar Guard garrison!"
 
-"Why you--" Astro lunged toward the pirate but was stopped in his tracks
+"Why you—" Astro lunged toward the pirate but was stopped in his tracks
 by a blast from a paralo-ray gun behind him. The big cadet stood rigid,
 motionless, every nerve and muscle in his body paralyzed. Coxine sneered
 and turned back to the intercom while his men tied up the two cadets.
 
 Tom and Roger looked at each other and, without speaking, knew what the
 other was thinking. Their only hope was the beacon signal aboard the
-_Polaris_.
+Polaris.
 
 After the men had tied Astro, they released him from the effects of the
 ray charge and threw him down beside Roger.
@@ -6587,7 +6496,7 @@ ray charge and threw him down beside Roger.
 "Like I've been run through a set of gears," mumbled Astro. "How about
 yourself?"
 
-"O.K.," replied Tom. "Was it"--he paused--"was it tough in the air
+"O. K.," replied Tom. "Was it"—he paused—"was it tough in the air
 lock?"
 
 Roger smiled. "Not as tough as it must have been on you up here. We
@@ -6618,17 +6527,17 @@ echoed in the control room.
 
 "Hello, Coxine! This is Major Sommers! Come in, Coxine!"
 
-"Yeah--" replied Coxine. "Whaddya want?" The pirate captain stepped
+"Yeah—" replied Coxine. "Whaddya want?" The pirate captain stepped
 arrogantly in front of the teleceiver's transmitting lens, and from the
 look on the officer's face, Tom knew he had seen Coxine on his own
 screen.
 
 "We've followed orders," said the major. "Our only request is that you
-do not harm any of the citizens--"
+do not harm any of the citizens—"
 
 Coxine cut him off. "Stow that space gas! I'll do what I please! I'm
 sending down a crew of men. They have certain orders. Any interference
-from you and I'll open fire with everything I've got--right in the
+from you and I'll open fire with everything I've got—right in the
 middle of the spaceport."
 
 Tom gasped. The spaceport was now crowded with the citizens of the tiny
@@ -6672,10 +6581,8 @@ you can hear on a story spool, and the Solar Alliance will be run by one
 man!" He paused, his face grew hard and he tapped his chest menacingly.
 "Me!"
 
-CHAPTER 20
-
 "I don't care if the blasted ship blows up!" roared Captain Strong to
-the power-deck officer of the Solar Guard rocket cruiser _Arcturus_. "I
+the power-deck officer of the Solar Guard rocket cruiser Arcturus. "I
 want every ounce of thrust you can get out of this space heap!"
 
 The young Solar Guard captain turned back to the loud-speaker of the
@@ -6683,16 +6590,16 @@ audioceiver, turned the volume dial a fraction, and listened. The steady
 pronounced ping of Roger's signal beacon filled his ears.
 
 When Strong discovered that Coxine had outwitted him, he had gone aboard
-the rocket cruiser _Arcturus_ of Squadron Ten and had continued on
+the rocket cruiser Arcturus of Squadron Ten and had continued on
 search patrol. He dared not break audio silence to warn the cadets
-aboard the _Polaris_, lest he give away the position of the ship. Later,
-when the radar officer of the _Arcturus_ reported a steady signal over
+aboard the Polaris, lest he give away the position of the ship. Later,
+when the radar officer of the Arcturus reported a steady signal over
 the audioceiver, Strong at first dismissed it as some form of
 interference from space. But when Titan failed to report the arrival of
-the _Polaris_ on time, Strong investigated the strange sound. Taking a
+the Polaris on time, Strong investigated the strange sound. Taking a
 bearing on the signal, he discovered it came from a position dangerously
 close to the small Jovian colony of Ganymede. After repeated attempts to
-raise the _Polaris_ failed, and no distress signals had been received,
+raise the Polaris failed, and no distress signals had been received,
 Strong feared that Bull Coxine had won again. In a desperate effort to
 catch the criminal, he took repeated bearings on the signal and ordered
 full emergency space speed toward the small satellite of Jupiter.
@@ -6729,11 +6636,9 @@ attack under plan S! We'll engage the enemy as soon as he's sighted!"
 The young officer saluted and turned away quickly. But not before he saw
 the mist in Steve Strong's eyes.
 
-*       *       *       *       *
-
 Tom, Roger, and Astro watched the incredible scene taking place in front
 of them with unbelieving eyes. Seven men were standing at rigid
-attention on the control deck of the _Avenger_. Wallace, Russell,
+attention on the control deck of the Avenger. Wallace, Russell,
 Attardi, Harris, Shelly, Martin, and Brooks. In front of them, standing
 equally rigid, Bull Coxine was addressing them in a low restrained
 voice.
@@ -6744,7 +6649,7 @@ The men raised their hands.
 
 "I hereby pledge my life to Bull Coxine!"
 
-"... I hereby pledge my life to Bull Coxine...." repeated the men in
+"... I hereby pledge my life to Bull Coxine..." repeated the men in
 unison.
 
 "To uphold his decisions, obey his orders, and fulfill his purpose of
@@ -6783,7 +6688,7 @@ Tom suddenly guffawed. Though close to death, he couldn't help laughing
 at Roger's remark. The big spaceman flushed angrily and with the flat of
 his hand slapped the cadet across the face. Then, he turned to the
 teleceiver and opened the circuit to all the ships that were standing by
-in space around the _Avenger_, the ships of the Ganymede garrison.
+in space around the Avenger, the ships of the Ganymede garrison.
 
 "Stand by for acceleration," he called. "We're going to show the Solar
 Alliance who's boss, beginning right now! I'll give you the target in a
@@ -6802,7 +6707,7 @@ Squadrons! Heading straight for us! We've got to get out of here!"
 screen verified the alarm. He shouted into the teleceiver, "Man your
 guns! We'll wipe them out right now!"
 
-"But, Bull--" whined Wallace. "They'll blast us out of space!"
+"But, Bull—" whined Wallace. "They'll blast us out of space!"
 
 Coxine roared into the mike. "The first one of you yellow crawlers that
 tries to run for it will be blasted by me! Man your guns, I said! This
@@ -6813,7 +6718,7 @@ Tom, Roger, and Astro looked at each other, mouths open, not knowing
 whether they should laugh or not at the dramatic speech of the huge
 spaceman. But whatever the private feelings of the criminals, Coxine had
 roused them to fever pitch and the boys could hear them racing through
-the _Avenger_, preparing to fight the squadrons of Solar Guard ships
+the Avenger, preparing to fight the squadrons of Solar Guard ships
 bearing down on them.
 
 Coxine strapped himself in the pilot's chair and began barking orders to
@@ -6835,14 +6740,14 @@ squadrons the deadly order!
 "Fire!"
 
 Coxine snapped his order at almost the same instant and the three cadets
-felt the _Avenger_ shudder as her turrets began blazing away, returning
+felt the Avenger shudder as her turrets began blazing away, returning
 round for round of the deadly atomic missiles.
 
 Racing from scanner to the control panel and back again, Coxine watched
 the battle rage around him. With speeds nearing that of light, exhaust
 trails cut scarlet paths through the black space, as the two opposing
 fleets attacked, counterattacked, and then regrouped to attack again.
-The rhythm of the blasters on the _Avenger_ had taken on a familiar
+The rhythm of the blasters on the Avenger had taken on a familiar
 pattern of five-second intervals between bursts. Gradually, one by one,
 the pirate ships were hit, demolished or badly damaged, but still they
 fought on. Coxine, his eyes wild with desperation, now kept lining up
@@ -6856,13 +6761,13 @@ away from the scanner when he saw a rocket destroyer plow through the
 escaping swarm of jet boats after one of the pirate ships had been hit.
 
 Fire and change course, fire and change course, again and again, Coxine
-performed the miracle of escaping the deadly atomic blasters aboard the
+performed the manifestation of escaping the deadly atomic blasters aboard the
 Solar Guard ships.
 
 Suddenly the three cadets saw the outline of a rocket cruiser bearing
 down on them. The white blip on the scanner came closer and closer to
 the heart of the scanner. Just in time Coxine saw it and shouted for a
-course change. But even as the _Avenger_ swung up and away from the
+course change. But even as the Avenger swung up and away from the
 attacking ship, the cadets saw the flash of flame from the cruiser's
 turrets and a moment later felt the bone-rattling shudder of a near
 miss.
@@ -6894,8 +6799,6 @@ them, stood Astro, torn strands of rope dangling from his arms, in
 mortal combat with Coxine. The two giants were holding each other's
 wrists, their feet spread wide, legs braced, grimacing faces an inch
 apart, struggling to throw each other off balance.
-
-[Illustration: _Astro and Coxine were locked in mortal combat_]
 
 Tom and Roger watched the two huge spacemen brace against each other,
 muscles straining and faces turning a slow red as they tried to force
@@ -6987,7 +6890,7 @@ tying up Coxine.
 Strong pointed his gun at the fallen pirate. "What happened to him?"
 
 Roger smiled and nodded toward Astro. "Coxine told Astro he reminded him
-of an ox he saw at a zoo once on Venus. Astro got mad--" Roger shrugged
+of an ox he saw at a zoo once on Venus. Astro got mad—" Roger shrugged
 his shoulders. "Poor Coxine, he didn't have a chance!"
 
 Astro blushed and looked up at Strong. "Never mind us, sir," said the
@@ -6995,16 +6898,16 @@ big cadet. "How did you get here!"
 
 Strong told them of having picked up the beacon signal. "That was quick
 thinking, boys," he said. "It was the end of Coxine. If we hadn't
-stopped him now--" Strong shook his head.
+stopped him now—" Strong shook his head.
 
-"But how did you get aboard the _Avenger_, sir?" asked Tom.
+"But how did you get aboard the Avenger, sir?" asked Tom.
 
 "This was the only ship that wasn't a Solar Guard fleet vessel, so it
-was easy to spot. We captured the _Polaris_ right off the bat, and after
+was easy to spot. We captured the Polaris right off the bat, and after
 we searched it, figured you three were either dead, or aboard this one.
 I gave the order not to fire on you, since we wiped out Coxine's fleet
 before he could do any real damage. When we saw you accelerating, after
-that last near miss--which incidentally was intended to miss you--we
+that last near miss—which incidentally was intended to miss you—we
 came alongside, forced the air lock open, and took over."
 
 "But didn't the crew offer any resistance?" asked Roger.
@@ -7014,7 +6917,7 @@ new order, or something like that, they were glad to surrender. They
 think he's crazy."
 
 When the enlisted men carried Coxine, still unconscious, off the control
-deck, the three members of the _Polaris_ unit and their skipper watched
+deck, the three members of the Polaris unit and their skipper watched
 him leave silently. All of them realized how close the Solar Alliance
 had come to destruction at the hands of the insane pirate. Finally
 Strong turned to his crew of cadets.
@@ -7027,7 +6930,5 @@ and captured Coxine. I guess that finishes the space pirates!"
 "What's that?" said Strong.
 
 "Never to think that being a Space Cadet is a matter of learning
-something from a story spool. Being a Space Cadet is like being--" He
+something from a story spool. Being a Space Cadet is like being—" He
 stopped. "Like nothing in the universe!"
-
-*       *       *       *       *

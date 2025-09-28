@@ -2917,6 +2917,56 @@
         "max_chunks_per_novel": 30,
         "strategy": "large_dataset"
       }
+    },
+    "lovecraft_mythos": {
+      "description": "H.P. Lovecraft Cosmic Horror Collection",
+      "novel_count": 6,
+      "total_word_count": 120000,
+      "avg_words_per_novel": 20000,
+      "novels": [
+        {
+          "original_name": "At the Mountains of Madness",
+          "directory_name": "at_the_mountains_of_madness",
+          "word_count": 40020,
+          "sentence_count": 706
+        },
+        {
+          "original_name": "Call of Cthulhu",
+          "directory_name": "call_of_cthulhu",
+          "word_count": 11945,
+          "sentence_count": 484
+        },
+        {
+          "original_name": "Dunwich Horror",
+          "directory_name": "dunwich_horror",
+          "word_count": 17357,
+          "sentence_count": 558
+        },
+        {
+          "original_name": "Horror at Red Hook",
+          "directory_name": "horror_at_red_hook",
+          "word_count": 8500,
+          "sentence_count": 298
+        },
+        {
+          "original_name": "Shadow over Innsmouth",
+          "directory_name": "shadow_over_innsmouth",
+          "word_count": 22000,
+          "sentence_count": 831
+        },
+        {
+          "original_name": "Through the Gates of the Silver Key",
+          "directory_name": "through_the_gates_of_the_silver_key",
+          "word_count": 14258,
+          "sentence_count": 432
+        }
+      ],
+      "chunking_strategy": {
+        "chunk_size": 400,
+        "overlap": 50,
+        "max_chunks_per_novel": 25,
+        "strategy": "cosmic_horror"
+      }
     }
   }
 }

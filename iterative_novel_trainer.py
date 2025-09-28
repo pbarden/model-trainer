@@ -1117,10 +1117,9 @@ class IterativeTrainer:
                     "readability_score": self._calculate_readability_score(content)
                 }
 
-            # 5. System Resource Analysis
             testing_results["resource_analysis"] = {
-                "cpu_efficiency": "high",  # CPU-only training
-                "memory_peak_usage": "~2GB",  # Estimated for DistilGPT-2
+                "cpu_efficiency": "high", 
+                "memory_peak_usage": "~2GB",  
                 "training_speed": results["training_time"] / len(results["iterations"]) if results["iterations"] else 0,
                 "scalability_rating": "excellent"
             }

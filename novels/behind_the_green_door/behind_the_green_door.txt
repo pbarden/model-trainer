@@ -1,54 +1,46 @@
-Title: Behind the Green Door
+"1 TROUBLE FOR MR. PARKER 1," Tale Of The Witch Doll
+The Vanishing Houseboat
+Danger At The Drawbridge
+Behind The Green Door
+Clue Of The Silken Ladder
+The Secret Pact
+The Clock Strikes Thirteen
+The Wishing Well
+Saboteurs On The River
+Ghost Beyond The Gate
+Hoofbeats On The Turnpike
+Voice From The Cave
+Guilt Of The Brass Thieves
+Signal In The Dark
+Whispering Walls
+Swamp Island
+The Cry At Midnight said.
+2 A RIVAL REPORTER 12
+3 TRAVELING COMPANIONS 21
+4 PINE TOP MOUNTAIN 30
+5 OVER THE BARBED WIRE 38
+6 PENNY TRESPASSES 47
+7 THE GREEN DOOR 55
+8 A CODED MESSAGE 63
+9 A CALL FOR HELP 72
+10 LOCKED IN THE CABIN 79
+11 A NEWSPAPER MYSTERY 89
+12 THE GREEN CARD 97
+13 AN UNKIND TRICK 105
+14 A BROKEN ROD 115
+15 IN THE TOOL HOUSE 123
+16 A PUZZLING SOLUTION 129
+17 STRANGE SOUNDS 138
+18 QUESTIONS AND CLUES 146
+19 PETER JASKO SERVES NOTICE 152
+20 VISITORS 162
+21 OLD PETER'S DISAPPEARANCE 173
+22 THE SECRET STAIRS 182
+23 RESCUE 189
+24 HENRI'S SALON 197
+25 SCOOP! 206
 
-Author: Mildred A. Wirt
-TALE OF THE WITCH DOLL
-THE VANISHING HOUSEBOAT
-DANGER AT THE DRAWBRIDGE
-BEHIND THE GREEN DOOR
-CLUE OF THE SILKEN LADDER
-THE SECRET PACT
-THE CLOCK STRIKES THIRTEEN
-THE WISHING WELL
-SABOTEURS ON THE RIVER
-GHOST BEYOND THE GATE
-HOOFBEATS ON THE TURNPIKE
-VOICE FROM THE CAVE
-GUILT OF THE BRASS THIEVES
-SIGNAL IN THE DARK
-WHISPERING WALLS
-SWAMP ISLAND
-THE CRY AT MIDNIGHT
-
-CHAPTER                                                            PAGE
-1 TROUBLE FOR MR. PARKER                                            _1_
-2 A RIVAL REPORTER                                                 _12_
-3 TRAVELING COMPANIONS                                             _21_
-4 PINE TOP MOUNTAIN                                                _30_
-5 OVER THE BARBED WIRE                                             _38_
-6 PENNY TRESPASSES                                                 _47_
-7 THE GREEN DOOR                                                   _55_
-8 A CODED MESSAGE                                                  _63_
-9 A CALL FOR HELP                                                  _72_
-10 LOCKED IN THE CABIN                                             _79_
-11 A NEWSPAPER MYSTERY                                             _89_
-12 THE GREEN CARD                                                  _97_
-13 AN UNKIND TRICK                                                _105_
-14 A BROKEN ROD                                                   _115_
-15 IN THE TOOL HOUSE                                              _123_
-16 A PUZZLING SOLUTION                                            _129_
-17 STRANGE SOUNDS                                                 _138_
-18 QUESTIONS AND CLUES                                            _146_
-19 PETER JASKO SERVES NOTICE                                      _152_
-20 VISITORS                                                       _162_
-21 OLD PETER'S DISAPPEARANCE                                      _173_
-22 THE SECRET STAIRS                                              _182_
-23 RESCUE                                                         _189_
-24 HENRI'S SALON                                                  _197_
-25 SCOOP!                                                         _206_
-
-CHAPTER
-1
-_TROUBLE FOR MR. PARKER_
+TROUBLE FOR MR. PARKER
 
 "Watch me coming down the mountain, Mrs. Weems! This one is a honey! An
 open christiana turn with no brakes dragging!"
@@ -79,13 +71,13 @@ A red-billed cap pulled at a jaunty angle over her blond curls, Penny
 made a striking figure in the well tailored suit of dark wool. Her eyes
 sparkled with the joy of youth and it was easy for her to smile. She was
 an only child, the daughter of Anthony Parker, editor and publisher of
-the _Riverview Star_, and her mother had died when she was very young.
+the Riverview Star, and her mother had died when she was very young.
 
 "It looks like a good, practical suit," conceded the housekeeper.
 
 Penny made a wry face. "Is that the best you can say for it? Louise
 Sidell and I shopped all over Riverview to get the snappiest number out,
-and then you call it _practical_."
+and then you call it practical."
 
 "Oh, you know you look cute in it," laughed Mrs. Weems. "So what's the
 use of telling you?"
@@ -127,7 +119,7 @@ wheeling it around the curve of the driveway with speed and ease. She
 liked to handle her father's automobile, and since he did not enjoy
 driving, she frequently called at the newspaper office to take him home.
 
-The _Star_ building occupied a block in the downtown section of
+The Star building occupied a block in the downtown section of
 Riverview. Penny parked the car beside the loading dock at the rear, and
 took an elevator to the editorial rooms. Nearly all of the desks were
 deserted at this late hour of the afternoon. But Jerry Livingston, one of
@@ -138,7 +130,7 @@ typewriter.
 you caught any more witch dolls?"
 
 "Not for the front page," she flung back at him. "My newspaper career is
-likely to remain in a state of _status quo_ for the next two weeks. Dad
+likely to remain in a state of status quo for the next two weeks. Dad
 and I are heading for Pine Top to dazzle the natives with our particular
 brand of skiing. Don't you envy us?"
 
@@ -152,7 +144,7 @@ to wiggle out of it at the last minute."
 needs a good rest, Penny. But I have a sneaking notion you're in for a
 disappointment again."
 
-"What makes you say that, Jerry? Dad promised me faithfully--"
+"What makes you say that, Jerry? Dad promised me faithfully—"
 
 "Sure, I know," he nodded, "but there have been developments."
 
@@ -171,14 +163,14 @@ waiting a few minutes?"
 "Not at all."
 
 Studying her father's lean, tired-looking face, Penny decided that
-something _was_ wrong. He seemed unusually worried and nervous.
+something was wrong. He seemed unusually worried and nervous.
 
 "A hard day, Dad?" she asked.
 
 Mr. Parker finished straightening a sheaf of papers before he glanced up.
 
 "Yes, I hadn't intended to tell you until later, but I may as well. I'm
-afraid our trip is off--at least as far as I'm concerned."
+afraid our trip is off—at least as far as I'm concerned."
 
 "Oh, Dad!"
 
@@ -188,7 +180,7 @@ trouble."
 "Isn't that the usual condition of a newspaper publisher?"
 
 "Yes," he smiled, "but there are different degrees of trouble, and this
-is the worst possible. The _Star_ has been sued for libel, a matter of
+is the worst possible. The Star has been sued for libel, a matter of
 fifty odd thousand."
 
 "Fifty thousand!" gasped Penny. "But of course you'll win the suit!"
@@ -208,7 +200,7 @@ travels a great deal, and in general is a hard, shrewd business man."
 "Maxwell acquired a fortune from some source, but I've always had a doubt
 that it came from the hotel business."
 
-"Why is he suing the _Star_ for libel, Dad?"
+"Why is he suing the Star for libel, Dad?"
 
 "Early this fall, while I was out of town for a day DeWitt let a story
 slip through which should have been killed. It was an interview with a
@@ -270,7 +262,7 @@ private office.
 While Penny waited, she entertained herself by reading all the comic
 strips she could find in the out-of-town exchange papers. In the
 adjoining room she could hear the rhythmical thumping, clicking sound of
-the _Star's_ teletype machines. She wandered aimlessly into the room to
+the Star's teletype machines. She wandered aimlessly into the room to
 read the copy just as the machines typed it out, a story from Washington,
 one from Chicago, another from Los Angeles. It was fascinating to watch
 the print appear like magic upon the long rolls of copy paper.
@@ -360,17 +352,13 @@ remained in a deep study. Penny had never seen him look so worried. Her
 own disappointment was keen, yet she realized that far more than a
 vacation trip was at stake. Fifty thousand dollars represented a large
 sum of money! If Maxwell won his suit it might even mean the loss of the
-_Riverview Star_.
+Riverview Star.
 
 Sensing his daughter's alarm, Mr. Parker reached out to pat her knee.
 
 "Don't worry," he said, "we're not licked yet, Penny! And if there's any
 way to arrange it, you shall have your trip to Pine Top just as we
 planned."
-
-CHAPTER
-2
-_A RIVAL REPORTER_
 
 Penny presently edged the sedan into a parking space across the street
 from the Riverview Hotel. As she switched off the ignition her father
@@ -460,7 +448,7 @@ reportorial experiences had satisfied even Penny's deep craving for
 excitement.
 
 Three truly "big" stories had rolled from her typewriter through the
-thundering presses of the _Riverview Star_: Tale of the Witch Doll, The
+thundering presses of the Riverview Star: Tale of the Witch Doll, The
 Vanishing Houseboat, and Danger at the Drawbridge. Even now, months after
 her last astonishing adventure, friends liked to tease her about a
 humorous encounter with a certain Mr. Kippenberg's alligator.
@@ -502,7 +490,7 @@ turmoil.
 "I feel sorry for Dad being left here alone," remarked Penny. "He'll
 never make his bed, and he'll probably exist on strong coffee and those
 wretched raw beef sandwiches they serve at the beanery across from the
-_Star_ office."
+Star office."
 
 "I ought to give up my vacation," declared Mrs. Weems. "It seems selfish
 of me not to stay here."
@@ -598,7 +586,7 @@ of the cold. Penny sat up a bit straighter in her chair.
 
 "Which means nothing to me."
 
-"Don't tell me you haven't seen her by-line in the _Riverview Record_!
+"Don't tell me you haven't seen her by-line in the Riverview Record!
 Francine would die of mortification."
 
 "Is she a reporter?"
@@ -631,12 +619,10 @@ Penny nudged Louise and whispered in her ear: "Did you hear that?"
 skiing?"
 
 "Unless I'm all tangled in a knot, she's after a big story for the
-_Record_. And I just wonder if those two mysterious-looking gentlemen
+Record. And I just wonder if those two mysterious-looking gentlemen
 aren't the reason for her trip!"
 
-CHAPTER
-3
-_TRAVELING COMPANIONS_
+TRAVELING COMPANIONS
 
 Francine Sellberg paid for her ticket and turned so that her gaze fell
 squarely upon Penny and Louise. Abruptly, she crossed over to where they
@@ -683,7 +669,7 @@ with suspicion.
 
 "Oh, certainly for the skiing," retorted Francine, mockery in her voice.
 
-"Nice of the _Record_ to give you a vacation."
+"Nice of the Record to give you a vacation."
 
 By this time the silver-winged transport had wheeled into position on the
 apron, and passengers were beginning to leave the waiting room. The two
@@ -710,14 +696,16 @@ will be no misunderstanding or tears later on."
 "Exactly. And mind you don't give any tip-off as to who I am!"
 
 "You mean you don't care to have those two gentlemen who were here a
-moment ago know that you are a reporter for the _Record_."
+moment ago know that you are a reporter for the Record."
 
 "Naturally."
 
 "And who are these men of mystery?"
 
 "As if you don't know!" Francine made an impatient gesture. "Oh, why
-pose, Penny? This innocent act doesn't go over worth a cent."
+pose, Penny? This innocent
+
+oesn't go over worth a cent."
 
 Louise broke indignantly into the conversation. "Penny isn't posing! It's
 true she is going to Pine Top for the skiing and not to get a story.
@@ -784,7 +772,7 @@ reading, she turned her attention to her fellow passengers. Beside her,
 on the right, sat the over-painted woman, her hands gripping the arm
 rests so hard that her knuckles showed white.
 
-"We--we're in the air now, aren't we?" she asked nervously, meeting
+"We—we're in the air now, aren't we?" she asked nervously, meeting
 Penny's gaze. "I do hope I'm not going to be sick."
 
 "I am sure you won't be," replied Penny. "The air is very quiet today."
@@ -814,7 +802,7 @@ mountain side, and try a little skiing."
 
 "This is strictly a business trip with me," confided the woman. She had
 relaxed now that the transport was flying at an even keel. "I am going
-there to see Mr. Balantine--David Balantine. You've heard of him, of
+there to see Mr. Balantine—David Balantine. You've heard of him, of
 course."
 
 Penny shook her head.
@@ -880,10 +868,10 @@ and say in a cutting tone:
 listening hard enough."
 
 "Eavesdropping isn't my method," replied Penny indignantly. "It's stupid
-and is employed only by trash fiction writers and possibly _Record_
+and is employed only by trash fiction writers and possibly Record
 reporters."
 
-"Say, are you suggesting--?"
+"Say, are you suggesting—?"
 
 "Yes," interrupted Penny wearily. "Now please go find yourself a roost!"
 
@@ -900,13 +888,9 @@ now."
 
 "You're not forgetting Mrs. Downey's place?"
 
-"We'll soon take care of _her_," the other boasted. "That's why I'm going
+"We'll soon take care of her," the other boasted. "That's why I'm going
 out to Pine Top with you, Ralph. I'll show you how these little affairs
 are handled."
-
-CHAPTER
-4
-_PINE TOP MOUNTAIN_
 
 Penny was startled by the remarks of the two men because she felt certain
 that the Mrs. Downey under discussion must be the woman at whose inn she
@@ -1017,7 +1001,7 @@ disappointed me. Why didn't he come along?"
 "He wanted to, but he's up to his eyebrows in trouble. A man is suing him
 for libel."
 
-"Oh, that _is_ bad," murmured Mrs. Downey. "I know what legal trouble
+"Oh, that is bad," murmured Mrs. Downey. "I know what legal trouble
 means because I've had an unpleasant taste of it myself lately. But come,
 let's get your luggage and be starting up the mountain."
 
@@ -1095,7 +1079,7 @@ those two men yonder."
 She gazed scornfully toward the strangers whose identity Penny hoped to
 learn.
 
-"Who _are_ they?" Penny asked quickly.
+"Who are they?" Penny asked quickly.
 
 "The slim fellow with the sharp face is Ralph Fergus," answered Mrs.
 Downey, her voice filled with bitterness. "He manages the hotel and is
@@ -1126,9 +1110,9 @@ Inn for the sole purpose of keeping an eye on me."
 
 "Why should she wish to do that?"
 
-"Francine is a reporter for the _Riverview Record_. Dad's story about
+"Francine is a reporter for the Riverview Record. Dad's story about
 Maxwell bribing a football player served as a tip-off to other editors.
-Now the _Record_ may hope to get evidence against him which they can
+Now the Record may hope to get evidence against him which they can
 build up into a big story."
 
 "I should think that would help your father's case."
@@ -1137,9 +1121,7 @@ build up into a big story."
 But somehow, I don't trust Francine. If there's any fancy newspaper work
 to be done at Pine Top, I aim to look after it myself!"
 
-CHAPTER
-5
-_OVER THE BARBED WIRE_
+OVER THE BARBED WIRE
 
 Mrs. Downey laughed at Penny's remark, not taking it very seriously.
 
@@ -1408,10 +1390,6 @@ Penny rolled over in the snow, waving her skis in the air. She drew in
 her breath sharply. An old man with a dark beard had stepped from the
 shadow of the pine trees, a gun grasped in his gnarled hands!
 
-CHAPTER
-6
-_PENNY TRESPASSES_
-
 "Can't you understand signs?" the old man demanded, advancing with
 cat-like tread from the fringe of pine trees.
 
@@ -1554,7 +1532,7 @@ Penny gazed at the actress with frank amazement.
 
 "Not so loud or the clerk will hear you," Miss Miller warned. "And don't
 use such an ugly word. If I land the part with Mr. Balantine, of course
-I'll pay. If not--the worst they can do is to throw me out."
+I'll pay. If not—the worst they can do is to throw me out."
 
 Penny said no more but her opinion of Miss Miller had descended several
 notches.
@@ -1628,10 +1606,6 @@ equally strange.
 "Sure I do," he said with emphasis. "And I aim to keep my job for awhile.
 If you want to know anything about the Green Room ask at the desk!"
 
-CHAPTER
-7
-_THE GREEN DOOR_
-
 Before Penny could ask another question, the signal board flashed a
 summons, and the attendant slammed shut the door of the elevator. He shot
 the cage up to the fifth floor and did not return.
@@ -1651,7 +1625,7 @@ Penny had not meant to have the matter go so far, but there was no
 retreating. The hotel manager came out of his office, and recognizing
 her, smiled ingratiatingly.
 
-"Ah, good afternoon, Miss--" He groped for her name but Penny did not
+"Ah, good afternoon, Miss—" He groped for her name but Penny did not
 supply it. "So you decided to pay us a visit after all."
 
 "This young lady asked about the Green Room," said the clerk
@@ -1782,7 +1756,7 @@ very select clientele!
 herself. "Anything showing that Maxwell is mixed up in a dishonest scheme
 might turn the trick!"
 
-It occurred to Penny that the editor of the _Riverview Record_ might have
+It occurred to Penny that the editor of the Riverview Record might have
 had some inkling of a story to be found at Pine Top. Otherwise, why had
 Francine been sent to the mountain resort? Certainly the rival reporter
 was working upon an assignment which concerned Harvey Maxwell. She
@@ -1862,11 +1836,7 @@ Penny laughed as she bent down to strap on her skis.
 
 "No, thanks," she declined pleasantly. "You once suggested that a clever
 reporter finds his own answers. You'll have to wait until you read it in
-the _Star_!"
-
-CHAPTER
-8
-_A CODED MESSAGE_
+the Star!"
 
 Penny sat in the kitchen of Mrs. Downey's lodge, warming her half frozen
 toes in the oven.
@@ -1888,7 +1858,7 @@ to me. It seems he doesn't like skiers."
 "And who is he, Mrs. Downey?"
 
 "One of the oldest settlers on Pine Top Mountain," sighed Mrs. Downey.
-"He's a very pleasant man in some respects, but in others--oh, dear."
+"He's a very pleasant man in some respects, but in others—oh, dear."
 
 "Skiing must be one of his unpleasant aspects. I noticed he had a 'Keep
 Out' sign posted on his property."
@@ -1902,7 +1872,7 @@ barbed wire fence."
 
 "Oh, yes! He has an idea it will keep folks from skiing."
 
-"He isn't--?" Penny tapped her forehead significantly.
+"He isn't—?" Penny tapped her forehead significantly.
 
 "No," smiled Mrs. Downey. "Old Peter is right in his mind, at least in
 every respect save this one. He owns our best ski slopes, too."
@@ -1986,7 +1956,7 @@ much distance as they gained.
 As she watched, Francine swung into view, poling rhythmically, in perfect
 timing with her long easy strides.
 
-"She _is_ good," thought Penny, grudgingly.
+"She is good," thought Penny, grudgingly.
 
 Dinner was served at six. Afterwards, the guests sat before the crackling
 log fire and bored each other with tales of their skiing prowess. A few
@@ -2013,7 +1983,7 @@ report," explained Mrs. Downey, smiling at her guest.
 "What annoys me is that the guests at the Fergus hotel always get their
 papers. I wish someone would explain it to me."
 
-"And I wish someone would explain it to _me_," murmured Mrs. Downey,
+"And I wish someone would explain it to me," murmured Mrs. Downey,
 retreating to the kitchen.
 
 In the morning Penny decided to ski down to the village for a jar of cold
@@ -2073,7 +2043,7 @@ come to Pine Top for Christmas."
 
 Penny read the message twice, scowling at the sentence: "Are you sure it
 is the same man?" It was clear to her that her father did not have a
-great deal of faith in her identification. And obviously, he did not
+great deal of conviction in her identification. And obviously, he did not
 believe that anything could be gained by making a special trip to Pine
 Top to see the hotel man.
 
@@ -2107,9 +2077,7 @@ At first glance Penny thought she had gone to trouble for no purpose. The
 paper seemed to be blank. But as she turned it over she saw a single line
 of jumbled letters:
 
-YL GFZKY GLULFFLS
-
-"What can this be?" Penny thought in amazement. "Nothing, I guess."
+"What can this be?" Penny thought in amazement. "Nothing, I guess.," Yl Gfzky Glulffls said.
 
 She crumpled the paper and tossed it away. But as it skittered and
 bounced like a tumble weed down the trail, she suddenly changed her mind
@@ -2117,7 +2085,7 @@ and darted after it again. Carefully straightening out the page she
 examined it a second time.
 
 "This looks like copy paper used in a newspaper office," she told
-herself. "But there is no newspaper in Pine Top, I wonder--?"
+herself. "But there is no newspaper in Pine Top, I wonder—?"
 
 The conviction came to Penny that the jumbled letters might be in code.
 Her pulse leaped at the thought. If only she were able to decipher it!
@@ -2125,10 +2093,6 @@ Her pulse leaped at the thought. If only she were able to decipher it!
 "I'll take this to the lodge and work on it," she decided quickly. "Who
 knows? It may be just the key I need to unlock this strange affair of the
 Green Door!"
-
-CHAPTER
-9
-_A CALL FOR HELP_
 
 All that afternoon and far into the evening Penny devoted to her assigned
 task, trying to make sense out of the jumbled sentence of typewriting.
@@ -2317,9 +2281,7 @@ the trees.
 "Help! Help!" called a shrill, half muffled voice. "Come back, and let me
 out of my prison!"
 
-CHAPTER
-10
-_LOCKED IN THE CABIN_
+LOCKED IN THE CABIN
 
 Penny hesitated, and as the call was repeated, went slowly back toward
 the cabin. She could see no one.
@@ -2401,7 +2363,7 @@ uneven. One could see a faint resemblance to Peter Jasko.
 your grandfather won't be too angry."
 
 "Oh, he won't know about it," the girl answered carelessly. "I see you
-know who I am--Sara Jasko."
+know who I am—Sara Jasko."
 
 "My name is Penny Parker."
 
@@ -2574,7 +2536,7 @@ down the hill and with a lifting of her arms soared over the take-off.
 She made a perfectly poised figure in mid-air and an effortless landing
 on the slope below, finishing off with a christiana turn.
 
-"She's _good_!" thought Penny. "I'll try it, too, even if they carry me
+"She's good!" thought Penny. "I'll try it, too, even if they carry me
 off on a stretcher!"
 
 In a wave of enthusiasm she pushed off, keeping her arms behind her. As
@@ -2618,16 +2580,14 @@ here?" she inquired.
 Francine regarded her coldly. "You're the Jasko girl, aren't you, whose
 grandfather will not allow skiers on his property?"
 
-"Yes, but--"
+"Yes, but—"
 
 "Since you Jaskos are so sign conscious I should think you might obey
 them yourself! Take a glance at that one over on the tree. Unless my
 eyesight is failing it reads: 'Only guests of the hotel may use these
 slopes.'"
 
-CHAPTER
-11
-_A NEWSPAPER MYSTERY_
+A NEWSPAPER MYSTERY
 
 Penny stared at Francine, for a moment not believing that she had meant
 the remark seriously. As she comprehended that the girl indeed was
@@ -2677,7 +2637,7 @@ Grandfather sees you!"
 now. And Grandfather is near sighted."
 
 "I don't like this business at all," complained Penny as they kept close
-to the fence on their way to the cabin. "Why not tell your grandfather--"
+to the fence on their way to the cabin. "Why not tell your grandfather—"
 
 "He would rage for days and never let me out again. No, this is the best
 way. And you'll come back soon, won't you, Penny?"
@@ -2708,7 +2668,7 @@ Penny turned the wooden peg, and retreating from the cabin, locked the
 door.
 
 "Don't forget!" Sara called to her from the window. "Come again
-soon--tomorrow if you can."
+soon—tomorrow if you can."
 
 Hiding the key in the woodshed, Penny tramped about the outside of the
 building several times before gliding off toward the boundary fence. As
@@ -2763,7 +2723,7 @@ for me last winter isn't available at present."
 "Sara Jasko," responded Mrs. Downey, smiling. "However, it's not likely
 her grandfather would give his consent."
 
-The following day dawned bright and clear and brought a revival of spirit
+The following day dawned bright and clear and brought a revival of specter
 at the Downey lodge. Nevertheless, with the roads open once more, both
 Francine and Mr. Glasser moved their belongings down to the Fergus hotel.
 As was to be expected, their departure caused a certain amount of comment
@@ -2825,7 +2785,7 @@ returned.
 
 "That's right. You can get them from Benny Smith."
 
-"From Benny? But he said--"
+"From Benny? But he said—"
 
 Penny started to reveal that the boy had blamed the failure of service
 upon the pilot, and then changed her mind.
@@ -2863,12 +2823,8 @@ Penny paid for the paper and carrying it over to a chair, quickly looked
 at the dateline.
 
 "It's today's issue, all right," she told herself grimly. "This proves
-what I suspected. Ralph Fergus has been buying up all the papers--a
+what I suspected. Ralph Fergus has been buying up all the papers—a
 little trick to annoy Mrs. Downey and get her in bad with her guests!"
-
-CHAPTER
-12
-_THE GREEN CARD_
 
 "Do you always talk to yourself?" inquired an amused voice from behind
 Penny.
@@ -2906,7 +2862,7 @@ secret which she longed to reveal.
 "Better than that," beamed Miss Miller. "I've acquired a new job. Take
 dinner with me and I'll tell you all about it."
 
-"Well--" Penny deliberated and said honestly, "I didn't bring very much
+"Well—" Penny deliberated and said honestly, "I didn't bring very much
 money with me, and I'm not dressed up."
 
 Miss Miller brushed aside both objections as if they were of no
@@ -2973,7 +2929,7 @@ wardrobe.
 "You were asking me about my fur coat, dearie," she said. "Would you like
 to have one like it?"
 
-"Who wouldn't? What must I do to acquire one--rob a bank?"
+"Who wouldn't? What must I do to acquire one—rob a bank?"
 
 Miss Miller laughed in a forced way. "You will have your little joke.
 From what you've told me, I imagine your father has plenty of money."
@@ -3080,10 +3036,6 @@ card was green. Her pulse quickened as she turned it over. On its face
 were six engraved words:
 
 "Admit Bearer Through The Green Door."
-
-CHAPTER
-13
-_AN UNKIND TRICK_
 
 Penny all but executed a clog dance in the snow. She knew that she had
 picked up an admittance ticket to the Green Room of the Fergus hotel
@@ -3277,7 +3229,7 @@ The reporter greeted her with a suspicious stare.
 "No, on the fourth," Francine answered before she considered her words.
 
 "Looking for someone?" remarked Penny with a grin. "Or should I say
-_something_?"
+something?"
 
 An elevator stopped at the landing. "Going down," the attendant called,
 opening the door. He gazed questioningly at the two girls.
@@ -3326,7 +3278,7 @@ may be going on here, while I'm working in the dark. On the other hand,
 I've acquired something which should interest you. Why don't we pool our
 interests and work together?"
 
-"That would be very nice--for you."
+"That would be very nice—for you."
 
 "I think I might contribute something to the case."
 
@@ -3349,7 +3301,7 @@ have an admittance card to the Green Room."
 
 Flashing a gay smile, Penny held up the ticket for Francine to see.
 
-"How did you get it?" the reporter gasped. "I've tried--"
+"How did you get it?" the reporter gasped. "I've tried—"
 
 "A little bird dropped it on my window sill. Too bad you didn't decide to
 work with me."
@@ -3377,10 +3329,6 @@ startled girl.
 "I've just learned who you are," he said angrily. "Kindly leave this
 hotel at once, and don't come back!"
 
-CHAPTER
-14
-_A BROKEN ROD_
-
 "You must have mistaken me for some other person," Penny stammered,
 backing a step away from the hotel man. "Who do you think I am?"
 
@@ -3394,10 +3342,12 @@ catch you in the hotel ever again."
 Observing the green card in Penny's hand he reached out and jerked it
 from her.
 
-"I wasn't doing any harm," she said, trying to act injured. "My father
+"I wasn't doing any harm," she said, trying to
+
+njured. "My father
 didn't send me to Pine Top. I came for the skiing."
 
-Secretly, Penny was angry at Maxwell's reference to the _Riverview Star_
+Secretly, Penny was angry at Maxwell's reference to the Riverview Star
 as being a "yellow" sheet, which in newspaper jargon meant that it was a
 sensation-seeking newspaper.
 
@@ -3446,11 +3396,11 @@ it to you."
 
 "You couldn't have thought that fast, my dear Penny."
 
-"I might tell Mr. Maxwell you're a reporter for the _Riverview Record_.
+"I might tell Mr. Maxwell you're a reporter for the Riverview Record.
 How would you like that?"
 
 Francine shrugged. "In that case we both lose the story. All I want is an
-exclusive. After the yarn breaks in the _Record_, your father will be
+exclusive. After the yarn breaks in the Record, your father will be
 welcome to make use of any information published. So if you really want
 him to win his libel suit, you'll gain by not interfering with me."
 
@@ -3464,7 +3414,7 @@ she might be tempted. As Francine had pointed out, her own chance of
 gleaning any worth while information had been lost.
 
 "It's a bitter pill to choke down," thought Penny, "but I would rather
-have the _Record_ get the story than to lose it altogether."
+have the Record get the story than to lose it altogether."
 
 Sunk deep in depression, she tramped back to the Downey lodge. The mail
 had arrived during her absence but there was no letter from home.
@@ -3594,14 +3544,10 @@ had snapped! They were roaring down the track with undiminished speed,
 and Horseshoe Curve, the most dangerous point on the run, lay directly
 ahead.
 
-CHAPTER
-15
-_IN THE TOOL HOUSE_
-
 Sara, her face white and tense, turned her head for a fraction of a
 second and then, crouching lower, kept her eyes glued on the track. She
 knew what had happened, and she knew, too, that they never could hope to
-make the Horseshoe Curve. Even a miracle of steering would not save them
+make the Horseshoe Curve. Even a manifestation of steering would not save them
 from going over the wall of ice at terrific speed.
 
 The two passengers, frozen with fright, gripped the side ropes, and kept
@@ -3636,10 +3582,10 @@ Spectators, thrilled by the display of heroism, came running to the
 scene. Penny, every muscle screaming with pain, rolled over in the snow.
 Gripping her wrenched arm, she tried to get to her feet and could not.
 
-"Penny, you _are_ hurt!" cried Sara.
+"Penny, you are hurt!" cried Sara.
 
 "It's my arm, more than anything else," Penny said, trying to keep her
-face from twisting. "I--I hope it's not broken."
+face from twisting. "I—I hope it's not broken."
 
 Willing hands raised her to her feet and supported her. Penny was
 relieved to discover that she could lift her injured arm.
@@ -3661,7 +3607,7 @@ Sara overturned the sled and took one glance. "A broken rod."
 
 "I thought Jake checked over everything last night."
 
-"That's what he _said_," returned Sara. "We'll ask him about it."
+"That's what he said," returned Sara. "We'll ask him about it."
 
 The workman, white-faced and frightened, came running down the hill.
 
@@ -3744,7 +3690,7 @@ knowledge."
 business. And our bob-sledding parties were growing popular."
 
 "They were taking a few guests away from the big hotel," Sara admitted
-slowly. "Still, it doesn't seem possible--"
+slowly. "Still, it doesn't seem possible—"
 
 She broke off as Penny reached down to pick up a small object which lay
 on the floor beneath the window.
@@ -3765,9 +3711,7 @@ The workman glanced at it and shook his head.
 Penny declared thoughtfully. "Not much of a clue, perhaps, but at least
 it's something to go on!"
 
-CHAPTER
-16
-_A PUZZLING SOLUTION_
+A PUZZLING SOLUTION
 
 Penny pocketed the button and then with Sara went outside the building to
 look for additional clues. The girls found only a multitude of footprints
@@ -3943,7 +3887,7 @@ number of guests away from their hotel."
 declared bitterly. "He purchased the site of the old mine, and I can't
 see what good it will ever do the hotel."
 
-"You don't suppose there's valuable mineral--"
+"You don't suppose there's valuable mineral—"
 
 "No," Mrs. Downey broke in with an amused laugh. "The mine played out
 years ago."
@@ -3995,12 +3939,10 @@ of paper which she had saved, and brought it back to the bed.
 The third word in the message was similar, although not the same as the
 one she had written by accident. Penny typed them one above the other.
 
-GLMLFFLS
-GLULFFLS
-
-"They're identical except for the third letter," she mused. "Why, I
+""They're identical except for the third letter," she mused. "Why, I," Glmlffls
+Glulffls said.
 believe I have it! You simply strike the letter directly below the true
-one--that is, the one in the next row of keys. And when your true letter
+one—that is, the one in the next row of keys. And when your true letter
 is in the bottom row, you strike the corresponding key on the top row.
 That's why I wrote an M for a U!"
 
@@ -4008,28 +3950,22 @@ Penny was certain she had deciphered the third word of the code and that
 it was the same as she had written unintentionally. Quickly she wrote out
 the entire jumbled message, and under it her translation.
 
-YL GFZKY GLULFFLS
-NO TRAIN TOMORROW
-
-"That's it!" she chortled, bounding up and down in bed.
+""That's it!" she chortled, bounding up and down in bed.," Yl Gfzky Glulffls
+No Train Tomorrow said.
 
 And then her elation fled away. A puzzled expression settled over her
 face.
 
 "I have it, only I haven't," she muttered. "What can the message mean?
-There are no trains at Pine Top--not even a railroad station. This leaves
+There are no trains at Pine Top—not even a railroad station. This leaves
 everything in a worse puzzle than before!"
-
-CHAPTER
-17
-_STRANGE SOUNDS_
 
 Penny felt reasonably certain that she had deciphered the code correctly,
 but although she studied over the message for nearly an hour, she could
 make nothing of it.
 
 "No train tomorrow," she repeated to herself. "How silly! Perhaps it
-means, no _plane_ tomorrow."
+means, no plane tomorrow."
 
 She worked out the code a second time, checking her letters carefully.
 There was no mistake.
@@ -4096,11 +4032,11 @@ deserve a medal."
 
 "I imagine you do feel rather bruised and battered," the actress replied
 with a show of sympathy. "But how proud you must be of yourself! Everyone
-is talking about it! As I was telling Mr. Jasko last night--"
+is talking about it! As I was telling Mr. Jasko last night—"
 
 "You were talking with Peter Jasko?" broke in Penny.
 
-"Yes, he came to the hotel to see Mr. Fergus--something about a lease, I
+"Yes, he came to the hotel to see Mr. Fergus—something about a lease, I
 think. Imagine! He hadn't heard a word about the accident, and his
 granddaughter was in it!"
 
@@ -4132,7 +4068,7 @@ you might be interested in one yourself?"
 you at least look at them and try one on. Come down to the hotel with me
 now and I'll arrange for you to meet my employer."
 
-"Well--" Penny hesitated, "could we enter the hotel by the back way?"
+"Well—" Penny hesitated, "could we enter the hotel by the back way?"
 
 "I suppose so," replied the actress in surprise. "You're sensitive about
 being crippled?"
@@ -4180,7 +4116,7 @@ Presently, Penny's attention was directed to a distant sound, low and
 rhythmical, carrying a staccato overtone.
 
 At first the girl paid little heed to the sound. No doubt it was just
-another noise incidental to a large hotel--some machine connected with
+another noise incidental to a large hotel—some machine connected with
 the cleaning services perhaps.
 
 But gradually, the sound impressed itself deeper on her mind. There was
@@ -4212,7 +4148,7 @@ No one was in sight.
 
 Moving closer, she pressed her ear to the panel. There was no sound
 inside the room, but as she waited, the rhythmical chugging began again.
-And suddenly she knew what caused it--a teletype machine!
+And suddenly she knew what caused it—a teletype machine!
 
 Often in her father's newspaper office Penny had heard that same sound
 and had watched the printers recording news from all parts of the
@@ -4228,7 +4164,7 @@ Into Penny's mind leaped a startling thought. The coded message in upper
 case letters which Fergus had dropped in the snow! Might it not have been
 printed by a teletype machine?
 
-"But what significance _could_ it have?" she asked herself. "From what
+"But what significance could it have?" she asked herself. "From what
 office are the messages being sent and for what purpose?"
 
 It seemed to Penny that the answer to her many questions might lie, not
@@ -4243,9 +4179,7 @@ A mop handle clattered to the floor, making a loud sound on the tiles.
 Penny whirled about in confusion. A cleaning maid stood beside her,
 regarding her with evident though unspoken suspicion.
 
-CHAPTER
-18
-_QUESTIONS AND CLUES_
+QUESTIONS AND CLUES
 
 "Good morning," stammered Penny, backing from the door. "Were you wanting
 to get into this room?"
@@ -4341,12 +4275,12 @@ hotels by means of such a wire service. Surely it was an expensive and
 unnecessary means of communication.
 
 The cleaning woman's information that messages came through in
-unintelligible form convinced Penny a code was being used--a code to
+unintelligible form convinced Penny a code was being used—a code to
 which she had the key. But why did Maxwell and Fergus find it necessary
 to employ one? If their messages concerned only the routine operation of
 the various hotels in the chain, there would be no need for secrecy.
 
-The one message she had interpreted--"No Train Tomorrow"--undoubtedly had
+The one message she had interpreted—"No Train Tomorrow"—undoubtedly had
 been received by teletype transmission. But Penny could not hazard a
 guess as to its true meaning. She feared it might be in double code, and
 that the words did not have the significance usually attributed to them.
@@ -4409,9 +4343,7 @@ proposition."
 Picking up his cap, a ridiculous looking affair with ear muffs, Peter
 Jasko brushed past Penny and went out the door.
 
-CHAPTER
-19
-_PETER JASKO SERVES NOTICE_
+PETER JASKO SERVES NOTICE
 
 After the old man had gone, Penny spoke apologetically to Mrs. Downey.
 
@@ -4540,7 +4472,7 @@ Penny dared not hope that the voice was other than her own. "Help! Help!"
 she called once more.
 
 Her heart leaped. The cry which came back definitely belonged to a man!
-And as she marveled at the miracle of a rescue, a dark figure loomed up
+And as she marveled at the manifestation of a rescue, a dark figure loomed up
 at the rim of the ravine.
 
 A gruff voice called to her: "Hold on! Don't try to move! I'll get a rope
@@ -4622,7 +4554,7 @@ certain amount of freedom."
 Peter Jasko listened to the girl's words in silence. When she had
 finished he said in a strangely shaken voice:
 
-"My son met his death going on ten years ago. It was on this trail--"
+"My son met his death going on ten years ago. It was on this trail—"
 
 "I'm sorry," Penny said contritely. "I shouldn't have spoken the way I
 did. Actually, I was on my way down the mountain to tell you I deeply
@@ -4632,7 +4564,7 @@ regret helping Sara to go against your will."
 what's best for her. That's why I've tried to protect her."
 
 "I'm sure you've done what you thought was right," Penny returned. "Why
-don't you see Mrs. Downey again and--"
+don't you see Mrs. Downey again and—"
 
 "No!" said the old man stubbornly. "You can't say anything which will
 make me change my mind. Take my arm and see if you can walk!"
@@ -4690,12 +4622,8 @@ from the cloth.
 
 Shifting her gaze, Penny glanced at Sara. The girl nodded her head slowly
 up and down. She, too, had made the important observation, and was
-thinking the same thought. There could be little doubt of it--Ralph
+thinking the same thought. There could be little doubt of it—Ralph
 Fergus was the man who had weakened the brake rod of their bob-sled!
-
-CHAPTER
-20
-_VISITORS_
 
 "May we see you alone, Mr. Jasko?" requested Ralph Fergus.
 
@@ -4738,7 +4666,7 @@ beginning to lose patience. "At least read the paper."
 "No."
 
 "Think what this would mean to your granddaughter," interposed Harvey
-Maxwell. "Pretty clothes, school in the city perhaps--"
+Maxwell. "Pretty clothes, school in the city perhaps—"
 
 "Don't listen to them, Grandfather," spoke Sara quickly. "I have enough
 clothes. And Pine Top school suits me."
@@ -4746,7 +4674,7 @@ clothes. And Pine Top school suits me."
 "You're wastin' your time and mine," said Peter Jasko. "I ain't leasing
 my land to anybody."
 
-"We're only asking you to sign a three-year lease--" Mr. Fergus argued.
+"We're only asking you to sign a three-year lease—" Mr. Fergus argued.
 
 "Can't you understand plain language?" the old man cried. "You think
 money will buy everything, but you got another guess coming. I've seen
@@ -4854,14 +4782,14 @@ the ankle.
 
 "There, how does it feel now?"
 
-"Much better," said Penny. "Thanks a lot. I--I feel rather mean to put
+"Much better," said Penny. "Thanks a lot. I—I feel rather mean to put
 your grandfather to so much trouble, especially after the way I've
 crossed him."
 
 "Oh, don't you worry about Grandfather," laughed Sara. "He likes you,
 Penny."
 
-"He _likes_ me?"
+"He likes me?"
 
 "I could tell by the way he acted tonight. He respects a person who
 stands up to him."
@@ -4941,7 +4869,7 @@ up the team to the sled, she inquired if he were driving down to Pine
 Top.
 
 "Yes, I am sending him after supplies," explained Mrs. Downey. "And the
-newspapers--if there are any."
+newspapers—if there are any."
 
 "I wish I could go along for the ride."
 
@@ -5017,9 +4945,7 @@ was startled to see Sara Jasko running after the sled.
 
 "Wait, Jake!" Penny commanded. "It's Sara! Something seems to be wrong!"
 
-CHAPTER
-21
-_OLD PETER'S DISAPPEARANCE_
+OLD PETER'S DISAPPEARANCE
 
 "Whoa!" shouted Jake, pulling on the reins.
 
@@ -5039,7 +4965,7 @@ for lunch but he hasn't returned."
 "Oh, you don't know Grandfather," declared Sara, her forehead wrinkling
 with anxiety. "He always does exactly as he says he will do. He never
 would have stayed away this long unless something had happened. He's
-getting on in years and I'm afraid--"
+getting on in years and I'm afraid—"
 
 "Jake, couldn't we go up to Hatter's place, wherever it is?" Penny urged.
 
@@ -5123,7 +5049,7 @@ down the mountain to the Downey lodge.
 "I wish we knew who came in the car," said Penny. "That might explain a
 lot."
 
-"You--you think Grandfather met with violence?"
+"You—you think Grandfather met with violence?"
 
 "I hope not," replied Penny earnestly. "But it seems very queer. Did your
 grandfather have enemies?"
@@ -5168,7 +5094,7 @@ start combing the woods on his farm next."
 "May I ride with you?" she requested. "I want to go down to the Fergus
 hotel."
 
-"Penny, your ankle--" protested Mrs. Downey.
+"Penny, your ankle—" protested Mrs. Downey.
 
 "I can get around on it," Penny said hurriedly. "See!" She hobbled across
 the floor to prove her words. "And this is important. I want to see
@@ -5230,7 +5156,7 @@ padded carpet.
 Going to the window, Penny raised it and gazed at the wide ledge which
 she had noted from below. If she had perfect balance, if the window of
 Room 27 were unlocked, if her lame ankle did not let her down, she
-_might_ be able to span the distance! It would be dangerous and she must
+might be able to span the distance! It would be dangerous and she must
 run the risk of being observed by persons on the grounds of the hotel.
 Penny gazed down at the frozen yard far below and shuddered.
 
@@ -5261,7 +5187,7 @@ Penny went over to the machines and focused her light upon the paper in
 the rollers. It was blank.
 
 "This is maddening!" she thought. "I take a big risk to get in here and
-what do I find--nothing!"
+what do I find—nothing!"
 
 Footsteps could be heard coming down the hallway. Penny remained
 perfectly still, expecting the person to pass on. Instead, the noise
@@ -5273,10 +5199,6 @@ was a closet.
 
 Switching off her light, Penny opened the door. Stepping inside, she
 closed it softly behind her.
-
-CHAPTER
-22
-_THE SECRET STAIRS_
 
 In the darkness, Penny felt something soft and covered with fur brush
 against her face. She recoiled, nearly screaming in terror. Recovering
@@ -5438,7 +5360,7 @@ Peter Jasko maintained a sullen silence, glaring at the two hotel men.
 his watch. "You will have less than a half hour to decide."
 
 "My mind's made up now! You won't get anyone to believe your cock and
-bull story. I'll tell 'em you brought me here and held me prisoner--"
+bull story. I'll tell 'em you brought me here and held me prisoner—"
 
 "And no one will believe you," smiled Maxwell. "We'll give out that you
 came to the hotel and started running amuck. Dozens of employes will
@@ -5457,10 +5379,6 @@ think it over."
 Fergus trussed up the old man's hands and placed a gag in his mouth. Then
 the two hotel men left the room, turning out the light and locking the
 door behind them.
-
-CHAPTER
-23
-_RESCUE_
 
 After the door had closed there was no further sound for a moment. Then
 in the darkness Penny heard a choked sob.
@@ -5532,14 +5450,14 @@ his wrists.
 
 "We don't dare go through the hotel lest we be seen," she told him. "I
 think we may be able to get out by means of the fire escape. If luck is
-only with us--"
+only with us—"
 
 Making certain that the coast was clear, Penny led the old man down the
 hall to a room which she knew would be opposite the fire escape. She was
 afraid it would be locked, but to her intense relief it had not been
 secured.
 
-Only a minute was required to cross the room, raise the window and help
+Only a minute was required to symbol the room, raise the window and help
 Peter Jasko through it.
 
 "I can't come with you," she said. "I have something else to do. Now
@@ -5610,7 +5528,7 @@ someone who would recognize her. Soon the maid stepped from the closet,
 and handed over a bundle of clothing.
 
 "And here is your money," said Penny. "Don't mention to anyone what we've
-done--at least not until tomorrow."
+done—at least not until tomorrow."
 
 "Don't worry, Miss, I won't," replied the woman grimly. "I might lose my
 job if they caught me."
@@ -5659,7 +5577,7 @@ back turned to Penny.
 "Now Henri, I want you to give my friends a good price on their coats,"
 she was saying in a chirpy voice.
 
-"_Oui_" he agreed, bobbing his head up and down. "We say one hundred and
+"Oui" he agreed, bobbing his head up and down. "We say one hundred and
 ninety-two dollars for zis beautiful sealskin coat. I make you a special
 price only because you are friends of Mademoiselle Miller."
 
@@ -5690,12 +5608,8 @@ me in the office."
 Harvey Maxwell walked angrily toward Penny.
 
 "What was the big idea?" he began, only to stop short. "Oh, so it's
-_you_? My dear little girl, I am very much afraid, you have over-played
+you? My dear little girl, I am very much afraid, you have over-played
 your hand this time!"
-
-CHAPTER
-24
-_HENRI'S SALON_
 
 Penny sought to push past the two men, but Harvey Maxwell caught her
 roughly by the arm.
@@ -5744,7 +5658,7 @@ Peter Jasko himself overtook Fergus and brought him back.
 "I've got a score to settle with you," he muttered. "You ain't a good
 enough talker to get out of this."
 
-"Gentlemen--" It was Harvey Maxwell who spoke, and his tone was
+"Gentlemen—" It was Harvey Maxwell who spoke, and his tone was
 irritated. "What is the meaning of this intrusion?"
 
 "We've had a complaint," said the sheriff. "Jasko here says you kept him
@@ -5789,7 +5703,7 @@ have the machines."
 "In Room 27 you will find a storage vault for furs," Penny went on,
 thoroughly enjoying herself. "A panel revolves, opening the way to a
 secret stair which leads down into the basement of the hotel. I'm not
-certain about the rest--"
+certain about the rest—"
 
 "No?" demanded Maxwell ironically.
 
@@ -5958,10 +5872,6 @@ worst break yet! Francine will reach the telegraph office first and hold
 the wire so I can't use it. After all my work, her paper will get the big
 scoop!"
 
-CHAPTER
-25
-_SCOOP!_
-
 Penny knew that she had only one chance of getting her story through to
 Riverview, and that was by means of long distance telephone. At best,
 instead of achieving a scoop as she had hoped, she would have only an
@@ -5974,7 +5884,9 @@ facts to a rewrite man it would take him some time to get the article
 into shape.
 
 "Vic Henderson writes such colorless stories, too," she moaned to
-herself. "He'll be afraid some fact isn't accurate and he'll jerk it out.
+herself. "He'll be afraid some f
+
+sn't accurate and he'll jerk it out.
 This is the one yarn I want to write myself!"
 
 Penny ran full tilt into Sheriff Clausson. She brought up shortly,
@@ -6001,7 +5913,7 @@ be checked easily."
 
 "And if I know anything about leased wires," continued Penny with
 mounting excitement, "it would be possible to have the telephone company
-switch that wire right over to the _Riverview Star_ office. Then I'd have
+switch that wire right over to the Riverview Star office. Then I'd have
 a direct connection from here to the newspaper. Right?"
 
 "Right except for one minor detail," the man retorted sarcastically. "The
@@ -6009,7 +5921,7 @@ telephone company won't make a switch just to oblige a little girl."
 
 Penny's face fell. "I suppose they wouldn't do it," she admitted. "But
 what a whale of an idea! I could send my story directly to the newspaper,
-and get my scoop after all. As it is, the _Record_ is almost certain to
+and get my scoop after all. As it is, the Record is almost certain to
 beat me."
 
 "Listen!" said the sheriff. "Maybe the telephone company couldn't make
@@ -6037,7 +5949,7 @@ teletype machines. Sitting down at a chair in front of the direct
 keyboard, she found herself trembling from excitement. She had practiced
 only a few times and was afraid she might make mistakes. Every word she
 wrote would be transmitted in exactly that form to a similar machine
-stationed in the _Star_ office.
+stationed in the Star office.
 
 She could picture her father standing there, waiting, wondering what she
 would send. He had been warned that a big story was coming.
@@ -6046,7 +5958,7 @@ Penny consulted her envelope notes and began to tap the keys. Now and
 then she had moments of misgiving, wondering if her work was accurate,
 and if it were going through. She finished at last, and sat back with a
 weary sigh of relief. Her story was a good one. She knew that. But had it
-ever reached the _Star_ office?
+ever reached the Star office?
 
 A machine to her right began its rhythmical thumping. Startled, Penny
 sprang to her feet and rushed over to see the message which was slowly

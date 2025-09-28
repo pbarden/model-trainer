@@ -207,7 +207,7 @@ config = IterativeConfig(
 
 ```python
 config = IterativeConfig(
-    base_model="distilgpt2",
+    base_model="gpt2",
     batch_size=1,
     gradient_accumulation_steps=8,
     max_seq_length=512

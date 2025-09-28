@@ -1,0 +1,2602 @@
+{
+  "sample_novels": [
+    "outpost_on_io",
+    "cargo_to_callisto",
+    "armageddon_2419",
+    "sand_doom",
+    "equation_of_doom",
+    "dragon-queen_of_jupiter",
+    "death_walks_on_mars",
+    "citadel_of_the_green_death",
+    "robots_of_the_world",
+    "captain_chaos",
+    "planet_of_dread",
+    "wolfbane",
+    "tubemonkey",
+    "mars_confidential",
+    "brood_of_the_dark_moon",
+    "moon_maker",
+    "impersonator",
+    "ars\u00e8ne_lupin_intervenes",
+    "ars\u00e8ne_lupin",
+    "brood_of_the_witch-queen",
+    "death_ship",
+    "desert_and_the_stars",
+    "lost_on_venus",
+    "mystery_of_the_chinese_ring",
+    "worlds_of_the_imperium",
+    "metal_moon",
+    "danger_in_deep_space",
+    "red_dust",
+    "parasite",
+    "radio_planet",
+    "weapon_from_eternity",
+    "immortals"
+  ],
+  "analysis_results": [
+    {
+      "novel_name": "outpost_on_io",
+      "word_count": 6534,
+      "patterns": {
+        "religious_spiritual": {
+          "count": 10,
+          "normalized_score": 1.5304560759106214,
+          "present": true
+        },
+        "political_power": {
+          "count": 42,
+          "normalized_score": 6.4279155188246095,
+          "present": true
+        },
+        "medical_science": {
+          "count": 2,
+          "normalized_score": 0.3060912151821243,
+          "present": false
+        },
+        "nautical_maritime": {
+          "count": 27,
+          "normalized_score": 4.132231404958678,
+          "present": true
+        },
+        "western_frontier": {
+          "count": 2,
+          "normalized_score": 0.3060912151821243,
+          "present": false
+        },
+        "urban_city": {
+          "count": 2,
+          "normalized_score": 0.3060912151821243,
+          "present": false
+        },
+        "rural_pastoral": {
+          "count": 0,
+          "normalized_score": 0.0,
+          "present": false
+        },
+        "educational_academic": {
+          "count": 2,
+          "normalized_score": 0.3060912151821243,
+          "present": false
+        },
+        "legal_justice": {
+          "count": 1,
+          "normalized_score": 0.15304560759106214,
+          "present": false
+        },
+        "economic_trade": {
+          "count": 5,
+          "normalized_score": 0.7652280379553107,
+          "present": true
+        },
+        "psychological_mental": {
+          "count": 10,
+          "normalized_score": 1.5304560759106214,
+          "present": true
+        },
+        "artistic_creative": {
+          "count": 44,
+          "normalized_score": 6.734006734006734,
+          "present": true
+        },
+        "technological_mechanical": {
+          "count": 5,
+          "normalized_score": 0.7652280379553107,
+          "present": true
+        },
+        "class_social": {
+          "count": 2,
+          "normalized_score": 0.3060912151821243,
+          "present": false
+        }
+      },
+      "content_sample": "Title: Outpost on Io\n\nAuthor: Leigh Brackett\n\nMacVickers stopped at the brink of the dark round shaft.\n\nIt was cold, and he was stark naked except for the silver collar welded\naround his neck. But it was more than cold that made him shiver and\nclamp his long bony jaw.\n\nHe didn't know what the shaft was for, or where it led. But he had a\nsudden feeling that once he went down he was down for good.\n\nThe small, round metal platform rocked uneasily under his feet. Beyond\nthe railing, as far as MacVic..."
+    },
+    {
+      "novel_name": "cargo_to_callisto",
+      "word_count": 5058,
+      "patterns": {
+        "religious_spiritual": {
+          "count": 8,
+          "normalized_score": 1.5816528272044288,
+          "present": true
+        },
+        "political_power": {
+          "count": 16,
+          "normalized_score": 3.1633056544088576,
+          "present": true
+        },
+        "medical_science": {
+          "count": 0,
+          "normalized_score": 0.0,
+          "present": false
+        },
+        "nautical_maritime": {
+          "count": 17,
+          "normalized_score": 3.361012257809411,
+          "present": true
+        },
+        "western_frontier": {
+          "count": 0,
+          "normalized_score": 0.0,
+          "present": false
+        },
+        "urban_city": {
+          "count": 23,
+          "normalized_score": 4.547251878212732,
+          "present": true
+        },
+        "rural_pastoral": {
+          "count": 0,
+          "normalized_score": 0.0,
+          "present": false
+        },
+        "educational_academic": {
+          "count": 4,
+          "normalized_score": 0.7908264136022144,
+          "present": true
+        },
+        "legal_justice": {
+          "count": 4,
+          "normalized_score": 0.7908264136022144,
+          "present": true
+        },
+        "economic_trade": {
+          "count": 9,
+          "normalized_score": 1.7793594306049823,
+          "present": true
+        },
+        "psychological_mental": {
+          "count": 34,
+          "normalized_score": 6.722024515618822,
+          "present": true
+        },
+        "artistic_creative": {
+          "count": 15,
+          "normalized_score": 2.965599051008304,
+          "present": true
+        },
+        "technological_mechanical": {
+          "count": 1,
+          "normalized_score": 0.1977066034005536,
+          "present": false
+        },
+        "class_social": {
+          "count": 1,
+          "normalized_score": 0.1977066034005536,
+          "present": false
+        }
+      },
+      "content_sample": "Title: Cargo to Callisto\n\nAuthor: Jerome Bixby\n\nSarah emerged from the surface of the Great Canal as sleek and brown\nas a seal. Laughing and sputtering, she jerked her head once over each\nround shoulder, parting her soaked hair and revealing her face.\n\n\"Try that once again!\" she flung at Joe.\n\nJoe Caradac ducked her again, and Kent shouted something from the bank\nthat wasn't quite audible over the squeals and splashes.\n\n\"What?\" Joe held his wife's head firmly between his knees. \"What'd you\nsay, ..."
+    },
+    {
+      "novel_name": "armageddon_2419",
+      "word_count": 27442,
+      "patterns": {
+        "religious_spiritual": {
+          "count": 23,
+          "normalized_score": 0.8381313315356024,
+          "present": true
+        },
+        "political_power": {
+          "count": 89,
+          "normalized_score": 3.2432038481160266,
+          "present": true
+        },
+        "medical_science": {
+          "count": 13,
+          "normalized_score": 0.47372640478099265,
+          "present": false
+        },
+        "nautical_maritime": {
+          "count": 263,
+          "normalized_score": 9.583849573646235,
+          "present": true
+        },
+        "western_frontier": {
+          "count": 16,
+          "normalized_score": 0.5830478828073755,
+          "present": true
+        },
+        "urban_city": {
+          "count": 68,
+          "normalized_score": 2.477953501931346,
+          "present": true
+        },
+        "rural_pastoral": {
+          "count": 10,
+          "normalized_score": 0.3644049267546097,
+          "present": false
+        },
+        "educational_academic": {
+          "count": 31,
+          "normalized_score": 1.1296552729392901,
+          "present": true
+        },
+        "legal_justice": {
+          "count": 27,
+          "normalized_score": 0.9838933022374462,
+          "present": true
+        },
+        "economic_trade": {
+          "count": 25,
+          "normalized_score": 0.9110123168865243,
+          "present": true
+        },
+        "psychological_mental": {
+          "count": 37,
+          "normalized_score": 1.348298228992056,
+          "present": true
+        },
+        "artistic_creative": {
+          "count": 144,
+          "normalized_score": 5.24743094526638,
+          "present": true
+        },
+        "technological_mechanical": {
+          "count": 30,
+          "normalized_score": 1.0932147802638292,
+          "present": true
+        },
+        "class_social": {
+          "count": 13,
+          "normalized_score": 0.47372640478099265,
+          "present": false
+        }
+      },
+      "content_sample": "Title: Armageddon 2419 A.D.\n\nAuthor: Philip Francis Nowlan\n\nIllustrat\n_Here, once more, is a real scientifiction story plus. It is a story\nwhich will make the heart of many readers leap with joy._\n\n_We have rarely printed a story in this magazine that for scientific\ninterest, as well as suspense, could hold its own with this\nparticular story. We prophesy that this story will become more\nvaluable as the years go by. It certainly holds a number of\ninteresting prophecies, of which no doubt, many wi..."
+    },
+    {
+      "novel_name": "sand_doom",
+      "word_count": 16302,
+      "patterns": {
+        "religious_spiritual": {
+          "count": 1,
+          "normalized_score": 0.0613421666053245,
+          "present": false
+        },
+        "political_power": {
+          "count": 63,
+          "normalized_score": 3.8645564961354437,
+          "present": true
+        },
+        "medical_science": {
+          "count": 10,
+          "normalized_score": 0.613421666053245,
+          "present": true
+        },
+        "nautical_maritime": {
+          "count": 155,
+          "normalized_score": 9.508035823825297,
+          "present": true
+        },
+        "western_frontier": {
+          "count": 15,
+          "normalized_score": 0.9201324990798675,
+          "present": true
+        },
+        "urban_city": {
+          "count": 38,
+          "normalized_score": 2.331002331002331,
+          "present": true
+        },
+        "rural_pastoral": {
+          "count": 9,
+          "normalized_score": 0.5520794994479206,
+          "present": true
+        },
+        "educational_academic": {
+          "count": 13,
+          "normalized_score": 0.7974481658692185,
+          "present": true
+        },
+        "legal_justice": {
+          "count": 8,
+          "normalized_score": 0.490737332842596,
+          "present": false
+        },
+        "economic_trade": {
+          "count": 12,
+          "normalized_score": 0.736105999263894,
+          "present": true
+        },
+        "psychological_mental": {
+          "count": 21,
+          "normalized_score": 1.2881854987118144,
+          "present": true
+        },
+        "artistic_creative": {
+          "count": 57,
+          "normalized_score": 3.4965034965034967,
+          "present": true
+        },
+        "technological_mechanical": {
+          "count": 34,
+          "normalized_score": 2.085633664581033,
+          "present": true
+        },
+        "class_social": {
+          "count": 5,
+          "normalized_score": 0.3067108330266225,
+          "present": false
+        }
+      },
+      "content_sample": "Title: Sand Doom\n\nAuthor: Murray Leinster\n\nBordman knew there was something wrong when the throbbing, acutely\nuncomfortable vibration of rocket blasts shook the ship. Rockets were\nstrictly emergency devices, these days, so when they were used there was\nobviously an emergency.\n\nHe sat still. He had been reading, in the passenger lounge of the\n_Warlock_--a very small lounge indeed--but as a senior Colonial Survey\nofficer he was well-traveled enough to know when things did not go\nright. He looked u..."
+    },
+    {
+      "novel_name": "equation_of_doom",
+      "word_count": 13466,
+      "patterns": {
+        "religious_spiritual": {
+          "count": 9,
+          "normalized_score": 0.6683499183127878,
+          "present": true
+        },
+        "political_power": {
+          "count": 67,
+          "normalized_score": 4.975493836328531,
+          "present": true
+        },
+        "medical_science": {
+          "count": 8,
+          "normalized_score": 0.5940888162780336,
+          "present": true
+        },
+        "nautical_maritime": {
+          "count": 77,
+          "normalized_score": 5.7181048566760735,
+          "present": true
+        },
+        "western_frontier": {
+          "count": 1,
+          "normalized_score": 0.0742611020347542,
+          "present": false
+        },
+        "urban_city": {
+          "count": 25,
+          "normalized_score": 1.856527550868855,
+          "present": true
+        },
+        "rural_pastoral": {
+          "count": 3,
+          "normalized_score": 0.22278330610426259,
+          "present": false
+        },
+        "educational_academic": {
+          "count": 4,
+          "normalized_score": 0.2970444081390168,
+          "present": false
+        },
+        "legal_justice": {
+          "count": 2,
+          "normalized_score": 0.1485222040695084,
+          "present": false
+        },
+        "economic_trade": {
+          "count": 9,
+          "normalized_score": 0.6683499183127878,
+          "present": true
+        },
+        "psychological_mental": {
+          "count": 94,
+          "normalized_score": 6.980543591266895,
+          "present": true
+        },
+        "artistic_creative": {
+          "count": 107,
+          "normalized_score": 7.945937917718699,
+          "present": true
+        },
+        "technological_mechanical": {
+          "count": 5,
+          "normalized_score": 0.371305510173771,
+          "present": false
+        },
+        "class_social": {
+          "count": 3,
+          "normalized_score": 0.22278330610426259,
+          "present": false
+        }
+      },
+      "content_sample": "Title: Equation of Doom\n\nAuthor: Gerald Vance\n\nHis agony of soul at being unable to save Margot was\nfar greater than physical torture.]\n\n_They grounded Ramsey's ship on a hostile planet hoping he would\nstarve to death, so the first thing he did was give most of his\nmoney away and lose the rest gambling. Then he picked a fight\nwith the Chief of Police and joined forces with a half-naked\ndream-chick who was seemingly bent on self-destruction. The\nstakes were big--a planet or two--but it all added ..."
+    },
+    {
+      "novel_name": "dragon-queen_of_jupiter",
+      "word_count": 6978,
+      "patterns": {
+        "religious_spiritual": {
+          "count": 5,
+          "normalized_score": 0.7165376898824879,
+          "present": true
+        },
+        "political_power": {
+          "count": 21,
+          "normalized_score": 3.0094582975064488,
+          "present": true
+        },
+        "medical_science": {
+          "count": 2,
+          "normalized_score": 0.2866150759529951,
+          "present": false
+        },
+        "nautical_maritime": {
+          "count": 23,
+          "normalized_score": 3.296073373459444,
+          "present": true
+        },
+        "western_frontier": {
+          "count": 9,
+          "normalized_score": 1.2897678417884781,
+          "present": true
+        },
+        "urban_city": {
+          "count": 7,
+          "normalized_score": 1.003152765835483,
+          "present": true
+        },
+        "rural_pastoral": {
+          "count": 2,
+          "normalized_score": 0.2866150759529951,
+          "present": false
+        },
+        "educational_academic": {
+          "count": 2,
+          "normalized_score": 0.2866150759529951,
+          "present": false
+        },
+        "legal_justice": {
+          "count": 3,
+          "normalized_score": 0.4299226139294927,
+          "present": false
+        },
+        "economic_trade": {
+          "count": 2,
+          "normalized_score": 0.2866150759529951,
+          "present": false
+        },
+        "psychological_mental": {
+          "count": 14,
+          "normalized_score": 2.006305531670966,
+          "present": true
+        },
+        "artistic_creative": {
+          "count": 44,
+          "normalized_score": 6.305531670965893,
+          "present": true
+        },
+        "technological_mechanical": {
+          "count": 1,
+          "normalized_score": 0.14330753797649756,
+          "present": false
+        },
+        "class_social": {
+          "count": 2,
+          "normalized_score": 0.2866150759529951,
+          "present": false
+        }
+      },
+      "content_sample": "Title: The Dragon-Queen of Jupiter\n\nAuthor: Leigh Brackett\n\nTex stirred uneasily where he lay on the parapet, staring into the\nheavy, Jupiterian fog. The greasy moisture ran down the fort wall,\nlay rank on his lips. With a sigh for the hot, dry air of Texas, and\na curse for the adventure-thirst that made him leave it, he shifted\nhis short, steel-hard body and wrinkled his sandy-red brows in the\nnever-ending effort to see.\n\nA stifled cough turned his head. He whispered. \"Hi, Breska.\"\n\nThe Martian..."
+    },
+    {
+      "novel_name": "death_walks_on_mars",
+      "word_count": 3733,
+      "patterns": {
+        "religious_spiritual": {
+          "count": 3,
+          "normalized_score": 0.8036431824270024,
+          "present": true
+        },
+        "political_power": {
+          "count": 11,
+          "normalized_score": 2.9466916688990086,
+          "present": true
+        },
+        "medical_science": {
+          "count": 1,
+          "normalized_score": 0.2678810608090008,
+          "present": false
+        },
+        "nautical_maritime": {
+          "count": 9,
+          "normalized_score": 2.410929547281007,
+          "present": true
+        },
+        "western_frontier": {
+          "count": 12,
+          "normalized_score": 3.2145727297080096,
+          "present": true
+        },
+        "urban_city": {
+          "count": 0,
+          "normalized_score": 0.0,
+          "present": false
+        },
+        "rural_pastoral": {
+          "count": 0,
+          "normalized_score": 0.0,
+          "present": false
+        },
+        "educational_academic": {
+          "count": 0,
+          "normalized_score": 0.0,
+          "present": false
+        },
+        "legal_justice": {
+          "count": 0,
+          "normalized_score": 0.0,
+          "present": false
+        },
+        "economic_trade": {
+          "count": 1,
+          "normalized_score": 0.2678810608090008,
+          "present": false
+        },
+        "psychological_mental": {
+          "count": 10,
+          "normalized_score": 2.678810608090008,
+          "present": true
+        },
+        "artistic_creative": {
+          "count": 20,
+          "normalized_score": 5.357621216180016,
+          "present": true
+        },
+        "technological_mechanical": {
+          "count": 0,
+          "normalized_score": 0.0,
+          "present": false
+        },
+        "class_social": {
+          "count": 1,
+          "normalized_score": 0.2678810608090008,
+          "present": false
+        }
+      },
+      "content_sample": "Title: Death Walks on Mars\n\nAuthor: Alan J. Ramm\n\nThere was death above. The Martian Sand Vulture swooped and hissed and\ntwitched its barbed, poisonous tail in the thin air.\n\nThere was death below. The man lay cradled in the pebbly sand. Red sand\nthat matched the color of his hair and the color of the blood oozing\nslowly from the hole in his forehead and trickling greasily along the\ninside of his punctured head-bubble. The air whistled thinly through\nthe corresponding hole in the bubble as the o..."
+    },
+    {
+      "novel_name": "citadel_of_the_green_death",
+      "word_count": 24268,
+      "patterns": {
+        "religious_spiritual": {
+          "count": 26,
+          "normalized_score": 1.0713697049612658,
+          "present": true
+        },
+        "political_power": {
+          "count": 78,
+          "normalized_score": 3.2141091148837977,
+          "present": true
+        },
+        "medical_science": {
+          "count": 49,
+          "normalized_score": 2.019119828580847,
+          "present": true
+        },
+        "nautical_maritime": {
+          "count": 107,
+          "normalized_score": 4.409098401186748,
+          "present": true
+        },
+        "western_frontier": {
+          "count": 17,
+          "normalized_score": 0.7005109609362122,
+          "present": true
+        },
+        "urban_city": {
+          "count": 57,
+          "normalized_score": 2.348772045492006,
+          "present": true
+        },
+        "rural_pastoral": {
+          "count": 10,
+          "normalized_score": 0.4120652711389484,
+          "present": false
+        },
+        "educational_academic": {
+          "count": 24,
+          "normalized_score": 0.9889566507334762,
+          "present": true
+        },
+        "legal_justice": {
+          "count": 19,
+          "normalized_score": 0.782924015164002,
+          "present": true
+        },
+        "economic_trade": {
+          "count": 6,
+          "normalized_score": 0.24723916268336904,
+          "present": false
+        },
+        "psychological_mental": {
+          "count": 63,
+          "normalized_score": 2.596011208175375,
+          "present": true
+        },
+        "artistic_creative": {
+          "count": 96,
+          "normalized_score": 3.9558266029339046,
+          "present": true
+        },
+        "technological_mechanical": {
+          "count": 29,
+          "normalized_score": 1.1949892863029503,
+          "present": true
+        },
+        "class_social": {
+          "count": 19,
+          "normalized_score": 0.782924015164002,
+          "present": true
+        }
+      },
+      "content_sample": "Title: Citadel of the Green Death\n\nAuthor: Robert Emmett McDowell\n\nAt the coldly gleaming Experimental Station\nthey flung this choice in Outlaw Joel Hakkyt's\nteeth: \"Grinding, endless slavery on Asgard,\nthat Alpha Centauri hell--or a writhing, screaming\nguinea-pig's death here?\" He chose Asgard,\nnaturally. But what was natural--on Asgard?\n\nJoel Hakkyt stirred impatiently in the prisoner's chair. His features,\nhomely, strong-boned and intelligent, were inscrutable. But he didn't\nknow how much lon..."
+    },
+    {
+      "novel_name": "robots_of_the_world",
+      "word_count": 6580,
+      "patterns": {
+        "religious_spiritual": {
+          "count": 6,
+          "normalized_score": 0.9118541033434651,
+          "present": true
+        },
+        "political_power": {
+          "count": 31,
+          "normalized_score": 4.711246200607903,
+          "present": true
+        },
+        "medical_science": {
+          "count": 2,
+          "normalized_score": 0.303951367781155,
+          "present": false
+        },
+        "nautical_maritime": {
+          "count": 8,
+          "normalized_score": 1.21580547112462,
+          "present": true
+        },
+        "western_frontier": {
+          "count": 2,
+          "normalized_score": 0.303951367781155,
+          "present": false
+        },
+        "urban_city": {
+          "count": 53,
+          "normalized_score": 8.054711246200608,
+          "present": true
+        },
+        "rural_pastoral": {
+          "count": 8,
+          "normalized_score": 1.21580547112462,
+          "present": true
+        },
+        "educational_academic": {
+          "count": 6,
+          "normalized_score": 0.9118541033434651,
+          "present": true
+        },
+        "legal_justice": {
+          "count": 5,
+          "normalized_score": 0.7598784194528875,
+          "present": true
+        },
+        "economic_trade": {
+          "count": 8,
+          "normalized_score": 1.21580547112462,
+          "present": true
+        },
+        "psychological_mental": {
+          "count": 48,
+          "normalized_score": 7.2948328267477205,
+          "present": true
+        },
+        "artistic_creative": {
+          "count": 13,
+          "normalized_score": 1.9756838905775076,
+          "present": true
+        },
+        "technological_mechanical": {
+          "count": 16,
+          "normalized_score": 2.43161094224924,
+          "present": true
+        },
+        "class_social": {
+          "count": 6,
+          "normalized_score": 0.9118541033434651,
+          "present": true
+        }
+      },
+      "content_sample": "Title: Robots of the World! Arise!\n\nAuthor: Mari Wolf\n\n*       *       *       *       *\n\nThe telephone wouldn't stop ringing. Over and over it buzzed into my\nsleep-fogged brain, and I couldn't shut it out. Finally, in\nself-defense I woke up, my hand groping for the receiver.\n\n\"Hello. Who is it?\"\n\n\"It's me, Don. Jack Anderson, over at the factory. Can you come down\nright away?\"\n\nHis voice was breathless, as if he'd been running hard. \"What's the\nmatter now?\" Why, I wondered, couldn't the plant g..."
+    },
+    {
+      "novel_name": "captain_chaos",
+      "word_count": 7721,
+      "patterns": {
+        "religious_spiritual": {
+          "count": 9,
+          "normalized_score": 1.165652117601347,
+          "present": true
+        },
+        "political_power": {
+          "count": 19,
+          "normalized_score": 2.460821137158399,
+          "present": true
+        },
+        "medical_science": {
+          "count": 4,
+          "normalized_score": 0.5180676078228209,
+          "present": true
+        },
+        "nautical_maritime": {
+          "count": 87,
+          "normalized_score": 11.267970470146354,
+          "present": true
+        },
+        "western_frontier": {
+          "count": 2,
+          "normalized_score": 0.25903380391141045,
+          "present": false
+        },
+        "urban_city": {
+          "count": 12,
+          "normalized_score": 1.5542028234684626,
+          "present": true
+        },
+        "rural_pastoral": {
+          "count": 3,
+          "normalized_score": 0.38855070586711565,
+          "present": false
+        },
+        "educational_academic": {
+          "count": 14,
+          "normalized_score": 1.813236627379873,
+          "present": true
+        },
+        "legal_justice": {
+          "count": 0,
+          "normalized_score": 0.0,
+          "present": false
+        },
+        "economic_trade": {
+          "count": 5,
+          "normalized_score": 0.6475845097785261,
+          "present": true
+        },
+        "psychological_mental": {
+          "count": 11,
+          "normalized_score": 1.4246859215127574,
+          "present": true
+        },
+        "artistic_creative": {
+          "count": 33,
+          "normalized_score": 4.274057764538272,
+          "present": true
+        },
+        "technological_mechanical": {
+          "count": 4,
+          "normalized_score": 0.5180676078228209,
+          "present": true
+        },
+        "class_social": {
+          "count": 0,
+          "normalized_score": 0.0,
+          "present": false
+        }
+      },
+      "content_sample": "Title: Captain Chaos\n\nAuthor: Nelson S. Bond\n\nWe picked up our new cook on Phobos. Not Phoebus or Phoebe; I mean\nPhobos, Mars' inner moon. Our regular victual mangler came down with\nacute indigestion--tasted some of his own cooking, no doubt--when we\nwere just one blast of a jet-tube out of Sand City spaceport. But since\nwe were rocketing under sealed orders, we couldn't turn back.\n\nSo we laid the _Leo_ down on Phobos' tiny cradle-field and bundled\nour ailing grub-hurler off to a hospital, and t..."
+    },
+    {
+      "novel_name": "planet_of_dread",
+      "word_count": 18812,
+      "patterns": {
+        "religious_spiritual": {
+          "count": 2,
+          "normalized_score": 0.10631511800978098,
+          "present": false
+        },
+        "political_power": {
+          "count": 62,
+          "normalized_score": 3.2957686583032104,
+          "present": true
+        },
+        "medical_science": {
+          "count": 3,
+          "normalized_score": 0.15947267701467147,
+          "present": false
+        },
+        "nautical_maritime": {
+          "count": 122,
+          "normalized_score": 6.48522219859664,
+          "present": true
+        },
+        "western_frontier": {
+          "count": 2,
+          "normalized_score": 0.10631511800978098,
+          "present": false
+        },
+        "urban_city": {
+          "count": 12,
+          "normalized_score": 0.6378907080586859,
+          "present": true
+        },
+        "rural_pastoral": {
+          "count": 2,
+          "normalized_score": 0.10631511800978098,
+          "present": false
+        },
+        "educational_academic": {
+          "count": 3,
+          "normalized_score": 0.15947267701467147,
+          "present": false
+        },
+        "legal_justice": {
+          "count": 13,
+          "normalized_score": 0.6910482670635764,
+          "present": true
+        },
+        "economic_trade": {
+          "count": 25,
+          "normalized_score": 1.3289389751222622,
+          "present": true
+        },
+        "psychological_mental": {
+          "count": 13,
+          "normalized_score": 0.6910482670635764,
+          "present": true
+        },
+        "artistic_creative": {
+          "count": 67,
+          "normalized_score": 3.561556453327663,
+          "present": true
+        },
+        "technological_mechanical": {
+          "count": 17,
+          "normalized_score": 0.9036785030831384,
+          "present": true
+        },
+        "class_social": {
+          "count": 4,
+          "normalized_score": 0.21263023601956196,
+          "present": false
+        }
+      },
+      "content_sample": "Title: Planet of Dread\n\nAuthor: Murray Leinster\n\n_Moran cut apart the yard-long monstrosity with a slash of flame.\nThe thing presumably died, but it continued to writhe senselessly.\nHe turned to see other horrors crawling toward him. Then he knew he\nwas being marooned on a planet of endless terrors._\n\nI.\n\nMoran, naturally, did not mean to help in the carrying out of the plans\nwhich would mean his destruction one way or another. The plans were\nthrashed out very painstakingly, in formal conference..."
+    },
+    {
+      "novel_name": "wolfbane",
+      "word_count": 34839,
+      "patterns": {
+        "religious_spiritual": {
+          "count": 34,
+          "normalized_score": 0.9759177932776486,
+          "present": true
+        },
+        "political_power": {
+          "count": 104,
+          "normalized_score": 2.985160308849278,
+          "present": true
+        },
+        "medical_science": {
+          "count": 11,
+          "normalized_score": 0.3157381095898275,
+          "present": false
+        },
+        "nautical_maritime": {
+          "count": 79,
+          "normalized_score": 2.2675736961451247,
+          "present": true
+        },
+        "western_frontier": {
+          "count": 10,
+          "normalized_score": 0.2870346450816614,
+          "present": false
+        },
+        "urban_city": {
+          "count": 48,
+          "normalized_score": 1.3777662963919746,
+          "present": true
+        },
+        "rural_pastoral": {
+          "count": 31,
+          "normalized_score": 0.8898073997531503,
+          "present": true
+        },
+        "educational_academic": {
+          "count": 25,
+          "normalized_score": 0.7175866127041535,
+          "present": true
+        },
+        "legal_justice": {
+          "count": 15,
+          "normalized_score": 0.43055196762249204,
+          "present": false
+        },
+        "economic_trade": {
+          "count": 15,
+          "normalized_score": 0.43055196762249204,
+          "present": false
+        },
+        "psychological_mental": {
+          "count": 205,
+          "normalized_score": 5.884210224174058,
+          "present": true
+        },
+        "artistic_creative": {
+          "count": 188,
+          "normalized_score": 5.396251327535234,
+          "present": true
+        },
+        "technological_mechanical": {
+          "count": 46,
+          "normalized_score": 1.3203593673756422,
+          "present": true
+        },
+        "class_social": {
+          "count": 12,
+          "normalized_score": 0.34444157409799364,
+          "present": false
+        }
+      },
+      "content_sample": "Title: Wolfbane\n\nAuthor: Frederik Pohl\nC. M. Kornbluth\n\nAppallingly, the Earth and the Moon had been\nkidnapped from the Solar System--but who were\nthe kidnappers and what ransom did they want?\n\nI\n\nRoget Germyn, banker, of Wheeling, West Virginia, a Citizen, woke\ngently from a Citizen's dreamless sleep. It was the third-hour-rising\ntime, the time proper to a day of exceptional opportunity to appreciate.\n\nCitizen Germyn dressed himself in the clothes proper for the\nappreciation of great works--suc..."
+    },
+    {
+      "novel_name": "tubemonkey",
+      "word_count": 4284,
+      "patterns": {
+        "religious_spiritual": {
+          "count": 5,
+          "normalized_score": 1.1671335200746966,
+          "present": true
+        },
+        "political_power": {
+          "count": 12,
+          "normalized_score": 2.801120448179272,
+          "present": true
+        },
+        "medical_science": {
+          "count": 1,
+          "normalized_score": 0.2334267040149393,
+          "present": false
+        },
+        "nautical_maritime": {
+          "count": 21,
+          "normalized_score": 4.901960784313726,
+          "present": true
+        },
+        "western_frontier": {
+          "count": 0,
+          "normalized_score": 0.0,
+          "present": false
+        },
+        "urban_city": {
+          "count": 7,
+          "normalized_score": 1.6339869281045751,
+          "present": true
+        },
+        "rural_pastoral": {
+          "count": 4,
+          "normalized_score": 0.9337068160597572,
+          "present": true
+        },
+        "educational_academic": {
+          "count": 3,
+          "normalized_score": 0.700280112044818,
+          "present": true
+        },
+        "legal_justice": {
+          "count": 4,
+          "normalized_score": 0.9337068160597572,
+          "present": true
+        },
+        "economic_trade": {
+          "count": 3,
+          "normalized_score": 0.700280112044818,
+          "present": true
+        },
+        "psychological_mental": {
+          "count": 22,
+          "normalized_score": 5.135387488328665,
+          "present": true
+        },
+        "artistic_creative": {
+          "count": 13,
+          "normalized_score": 3.0345471521942113,
+          "present": true
+        },
+        "technological_mechanical": {
+          "count": 0,
+          "normalized_score": 0.0,
+          "present": false
+        },
+        "class_social": {
+          "count": 2,
+          "normalized_score": 0.4668534080298786,
+          "present": false
+        }
+      },
+      "content_sample": "Title: Tubemonkey\n\nAuthor: Jerome Bixby\n\nEchoed by the sloping, sun-drenched concrete walls, booming above the\nhigh, bony clatter of monorail cranes, shaming the entire fuming,\nmetallic hubbub of Boat Bed 52, the sound might have been the cavernous\nindignation of some giant beast being dragged zoo-ward from a\nBio-Institute boat. It was, however, a voice, singing:\n\nOh-h-h, the boats come in\nAn' the boats go out\nAn' we clean 'em an' screen 'em an' preen 'em.\nWe fix their fins\nAn' we polish their s..."
+    },
+    {
+      "novel_name": "mars_confidential",
+      "word_count": 5566,
+      "patterns": {
+        "religious_spiritual": {
+          "count": 5,
+          "normalized_score": 0.8983111749910169,
+          "present": true
+        },
+        "political_power": {
+          "count": 17,
+          "normalized_score": 3.0542579949694577,
+          "present": true
+        },
+        "medical_science": {
+          "count": 5,
+          "normalized_score": 0.8983111749910169,
+          "present": true
+        },
+        "nautical_maritime": {
+          "count": 33,
+          "normalized_score": 5.928853754940712,
+          "present": true
+        },
+        "western_frontier": {
+          "count": 5,
+          "normalized_score": 0.8983111749910169,
+          "present": true
+        },
+        "urban_city": {
+          "count": 10,
+          "normalized_score": 1.7966223499820337,
+          "present": true
+        },
+        "rural_pastoral": {
+          "count": 2,
+          "normalized_score": 0.35932446999640677,
+          "present": false
+        },
+        "educational_academic": {
+          "count": 9,
+          "normalized_score": 1.6169601149838304,
+          "present": true
+        },
+        "legal_justice": {
+          "count": 5,
+          "normalized_score": 0.8983111749910169,
+          "present": true
+        },
+        "economic_trade": {
+          "count": 19,
+          "normalized_score": 3.4135824649658644,
+          "present": true
+        },
+        "psychological_mental": {
+          "count": 10,
+          "normalized_score": 1.7966223499820337,
+          "present": true
+        },
+        "artistic_creative": {
+          "count": 96,
+          "normalized_score": 17.247574559827523,
+          "present": true
+        },
+        "technological_mechanical": {
+          "count": 5,
+          "normalized_score": 0.8983111749910169,
+          "present": true
+        },
+        "class_social": {
+          "count": 0,
+          "normalized_score": 0.0,
+          "present": false
+        }
+      },
+      "content_sample": "Title: Mars Confidential\n\nAuthor: Howard Browne\n\nP-s-s-s-s-t!\n\nHERE WE GO AGAIN--Confidential.\n\nWe turned New York inside out. We turned Chicago upside down. In\nWashington we turned the insiders out and the outsiders in. The howls\ncan still be heard since we dissected the U.S.A.\n\nBut Mars was our toughest task of spectroscoping. The cab drivers\nspoke a different language and the bell-hops couldn't read our\ncurrency. Yet, we think we have X-rayed the dizziest--and this may\namaze you--the dirtiest..."
+    },
+    {
+      "novel_name": "brood_of_the_dark_moon",
+      "word_count": 60636,
+      "patterns": {
+        "religious_spiritual": {
+          "count": 72,
+          "normalized_score": 1.1874134177716207,
+          "present": true
+        },
+        "political_power": {
+          "count": 168,
+          "normalized_score": 2.770631308133782,
+          "present": true
+        },
+        "medical_science": {
+          "count": 75,
+          "normalized_score": 1.2368889768454383,
+          "present": true
+        },
+        "nautical_maritime": {
+          "count": 358,
+          "normalized_score": 5.904083382808892,
+          "present": true
+        },
+        "western_frontier": {
+          "count": 17,
+          "normalized_score": 0.28036150141829935,
+          "present": false
+        },
+        "urban_city": {
+          "count": 34,
+          "normalized_score": 0.5607230028365987,
+          "present": true
+        },
+        "rural_pastoral": {
+          "count": 5,
+          "normalized_score": 0.08245926512302922,
+          "present": false
+        },
+        "educational_academic": {
+          "count": 41,
+          "normalized_score": 0.6761659740088396,
+          "present": true
+        },
+        "legal_justice": {
+          "count": 19,
+          "normalized_score": 0.31334520746751104,
+          "present": false
+        },
+        "economic_trade": {
+          "count": 12,
+          "normalized_score": 0.19790223629527012,
+          "present": false
+        },
+        "psychological_mental": {
+          "count": 252,
+          "normalized_score": 4.155946962200673,
+          "present": true
+        },
+        "artistic_creative": {
+          "count": 384,
+          "normalized_score": 6.332871561448644,
+          "present": true
+        },
+        "technological_mechanical": {
+          "count": 10,
+          "normalized_score": 0.16491853024605843,
+          "present": false
+        },
+        "class_social": {
+          "count": 36,
+          "normalized_score": 0.5937067088858103,
+          "present": true
+        }
+      },
+      "content_sample": "Title: Brood of the Dark Moon\n\nAuthor: Charles Willard Diffin\n\nCHAPTER I\n\n_The Message_\n\n[Sidenote: Once more Chet, Walt and Diane are united in a wild ride to\nthe Dark Moon--but this time they go as prisoners of their deadly enemy\nSchwartzmann.]\n\nIn a hospital in Vienna, in a room where sunlight flooded through\nultraviolet permeable crystal, the warm rays struck upon smooth walls\nthe color of which changed from hot reds to cool yellow or gray or to\nsoothing green, as the Directing Surgeon might..."
+    },
+    {
+      "novel_name": "moon_maker",
+      "word_count": 33561,
+      "patterns": {
+        "religious_spiritual": {
+          "count": 58,
+          "normalized_score": 1.7281964184619052,
+          "present": true
+        },
+        "political_power": {
+          "count": 86,
+          "normalized_score": 2.5624981377193765,
+          "present": true
+        },
+        "medical_science": {
+          "count": 27,
+          "normalized_score": 0.8045052292839904,
+          "present": true
+        },
+        "nautical_maritime": {
+          "count": 119,
+          "normalized_score": 3.5457823068442536,
+          "present": true
+        },
+        "western_frontier": {
+          "count": 10,
+          "normalized_score": 0.2979648997348112,
+          "present": false
+        },
+        "urban_city": {
+          "count": 71,
+          "normalized_score": 2.11555078811716,
+          "present": true
+        },
+        "rural_pastoral": {
+          "count": 28,
+          "normalized_score": 0.8343017192574714,
+          "present": true
+        },
+        "educational_academic": {
+          "count": 82,
+          "normalized_score": 2.4433121778254523,
+          "present": true
+        },
+        "legal_justice": {
+          "count": 17,
+          "normalized_score": 0.5065403295491792,
+          "present": true
+        },
+        "economic_trade": {
+          "count": 16,
+          "normalized_score": 0.476743839575698,
+          "present": false
+        },
+        "psychological_mental": {
+          "count": 56,
+          "normalized_score": 1.6686034385149429,
+          "present": true
+        },
+        "artistic_creative": {
+          "count": 288,
+          "normalized_score": 8.581389112362563,
+          "present": true
+        },
+        "technological_mechanical": {
+          "count": 74,
+          "normalized_score": 2.204940258037603,
+          "present": true
+        },
+        "class_social": {
+          "count": 9,
+          "normalized_score": 0.2681684097613301,
+          "present": false
+        }
+      },
+      "content_sample": "Title: The Moon Maker\n\nAuthor: Arthur Cheney Train\nRobert Williams Wood\n\nContents\n\nPART I: THE WANDERING ASTEROID\n\nPART II: THE FLYING RING\n\nPART III: THE FLIGHT OF THE RING\n\nPART IV: ON THE MOON\n\nPART V: THE ATTACK ON THE ASTEROID\n\nTHE MOON MAKER\n\nWhen the world-war was at its height, wireless messages signed\nwith the name \"Pax\" had been received at the Naval Observatory at\nWashington, in which the sender declared himself capable of controlling\nthe forces of nature. These mysterious messages we..."
+    },
+    {
+      "novel_name": "impersonator",
+      "word_count": 7442,
+      "patterns": {
+        "religious_spiritual": {
+          "count": 7,
+          "normalized_score": 0.9406073636119322,
+          "present": true
+        },
+        "political_power": {
+          "count": 39,
+          "normalized_score": 5.240526740123623,
+          "present": true
+        },
+        "medical_science": {
+          "count": 12,
+          "normalized_score": 1.6124697661918839,
+          "present": true
+        },
+        "nautical_maritime": {
+          "count": 34,
+          "normalized_score": 4.568664337543671,
+          "present": true
+        },
+        "western_frontier": {
+          "count": 0,
+          "normalized_score": 0.0,
+          "present": false
+        },
+        "urban_city": {
+          "count": 11,
+          "normalized_score": 1.4780972856758936,
+          "present": true
+        },
+        "rural_pastoral": {
+          "count": 11,
+          "normalized_score": 1.4780972856758936,
+          "present": true
+        },
+        "educational_academic": {
+          "count": 10,
+          "normalized_score": 1.3437248051599031,
+          "present": true
+        },
+        "legal_justice": {
+          "count": 0,
+          "normalized_score": 0.0,
+          "present": false
+        },
+        "economic_trade": {
+          "count": 4,
+          "normalized_score": 0.5374899220639613,
+          "present": true
+        },
+        "psychological_mental": {
+          "count": 26,
+          "normalized_score": 3.4936844934157483,
+          "present": true
+        },
+        "artistic_creative": {
+          "count": 111,
+          "normalized_score": 14.915345337274927,
+          "present": true
+        },
+        "technological_mechanical": {
+          "count": 5,
+          "normalized_score": 0.6718624025799516,
+          "present": true
+        },
+        "class_social": {
+          "count": 1,
+          "normalized_score": 0.13437248051599032,
+          "present": false
+        }
+      },
+      "content_sample": "Title: The Impersonator\n\nAuthor: Robert Wicks\n\nHe opened his eyes. He couldn't remember having ever seen humans\nbefore, but he recognized them instantly. Nor could he remember having\nseen anything before, yet he felt a warm familiarity with all that fell\ninto view--the light panels set flush with the ceiling, the gleaming\nlaboratory paraphernalia erected around the table on which he lay,\nelectronic scanners probing his mind with invisible beams--but, most of\nall, the two men in white lab coats b..."
+    },
+    {
+      "novel_name": "ars\u00e8ne_lupin_intervenes",
+      "word_count": 62207,
+      "patterns": {
+        "religious_spiritual": {
+          "count": 59,
+          "normalized_score": 0.9484463163309595,
+          "present": true
+        },
+        "political_power": {
+          "count": 190,
+          "normalized_score": 3.0543186458115645,
+          "present": true
+        },
+        "medical_science": {
+          "count": 41,
+          "normalized_score": 0.6590898130435482,
+          "present": true
+        },
+        "nautical_maritime": {
+          "count": 171,
+          "normalized_score": 2.748886781230408,
+          "present": true
+        },
+        "western_frontier": {
+          "count": 13,
+          "normalized_score": 0.208979696818686,
+          "present": false
+        },
+        "urban_city": {
+          "count": 74,
+          "normalized_score": 1.1895767357371356,
+          "present": true
+        },
+        "rural_pastoral": {
+          "count": 629,
+          "normalized_score": 10.111402253765654,
+          "present": true
+        },
+        "educational_academic": {
+          "count": 88,
+          "normalized_score": 1.4146317938495667,
+          "present": true
+        },
+        "legal_justice": {
+          "count": 114,
+          "normalized_score": 1.8325911874869387,
+          "present": true
+        },
+        "economic_trade": {
+          "count": 163,
+          "normalized_score": 2.6202838908804473,
+          "present": true
+        },
+        "psychological_mental": {
+          "count": 131,
+          "normalized_score": 2.105872329480605,
+          "present": true
+        },
+        "artistic_creative": {
+          "count": 197,
+          "normalized_score": 3.1668461748677803,
+          "present": true
+        },
+        "technological_mechanical": {
+          "count": 16,
+          "normalized_score": 0.2572057806999212,
+          "present": false
+        },
+        "class_social": {
+          "count": 49,
+          "normalized_score": 0.7876927033935087,
+          "present": true
+        }
+      },
+      "content_sample": "Title: Ars ne Lupin intervenes\n\nAuthor: Maurice Leblanc\n\nCONTENTS\n\nCHAPTER                                     PAGE\nI       FOREWORD                               9\nII       DROPS THAT TRICKLE AWAY              13\nIII     THE ROYAL LOVE LETTER                 38\nIV      A GAME OF BACCARAT                    61\nV       THE MAN WITH THE GOLD TEETH           85\nVI      TWELVE LITTLE NIGGER BOYS            108\nVII     THE BRIDGE THAT BROKE                137\nVIII    THE FATAL MIRACLE                ..."
+    },
+    {
+      "novel_name": "ars\u00e8ne_lupin",
+      "word_count": 71722,
+      "patterns": {
+        "religious_spiritual": {
+          "count": 41,
+          "normalized_score": 0.5716516550012549,
+          "present": true
+        },
+        "political_power": {
+          "count": 211,
+          "normalized_score": 2.9419146147625557,
+          "present": true
+        },
+        "medical_science": {
+          "count": 27,
+          "normalized_score": 0.3764535289032654,
+          "present": false
+        },
+        "nautical_maritime": {
+          "count": 122,
+          "normalized_score": 1.7010122417110511,
+          "present": true
+        },
+        "western_frontier": {
+          "count": 24,
+          "normalized_score": 0.3346253590251248,
+          "present": false
+        },
+        "urban_city": {
+          "count": 61,
+          "normalized_score": 0.8505061208555256,
+          "present": true
+        },
+        "rural_pastoral": {
+          "count": 8,
+          "normalized_score": 0.11154178634170828,
+          "present": false
+        },
+        "educational_academic": {
+          "count": 55,
+          "normalized_score": 0.7668497810992444,
+          "present": true
+        },
+        "legal_justice": {
+          "count": 27,
+          "normalized_score": 0.3764535289032654,
+          "present": false
+        },
+        "economic_trade": {
+          "count": 73,
+          "normalized_score": 1.017818800368088,
+          "present": true
+        },
+        "psychological_mental": {
+          "count": 135,
+          "normalized_score": 1.882267644516327,
+          "present": true
+        },
+        "artistic_creative": {
+          "count": 297,
+          "normalized_score": 4.14098881793592,
+          "present": true
+        },
+        "technological_mechanical": {
+          "count": 10,
+          "normalized_score": 0.13942723292713535,
+          "present": false
+        },
+        "class_social": {
+          "count": 62,
+          "normalized_score": 0.8644488441482391,
+          "present": true
+        }
+      },
+      "content_sample": "Title: Ars ne Lupin\n\nAuthor: Maurice Leblanc\n\nContents\n\nCHAPTER I THE MILLIONAIRE S DAUGHTER\nCHAPTER II THE COMING OF THE CHAROLAIS\nCHAPTER III LUPIN S WAY\nCHAPTER IV THE DUKE INTERVENES\nCHAPTER V A LETTER FROM LUPIN\nCHAPTER VI AGAIN THE CHAROLAIS\nCHAPTER VII THE THEFT OF THE MOTOR-CARS\nCHAPTER VIII THE DUKE ARRIVES\nCHAPTER IX M. FORMERY OPENS THE INQUIRY\nCHAPTER X GUERCHARD ASSISTS\nCHAPTER XI THE FAMILY ARRIVES\nCHAPTER XII THE THEFT OF THE PENDANT\nCHAPTER XIII LUPIN WIRES\nCHAPTER XIV GUERCHARD ..."
+    },
+    {
+      "novel_name": "brood_of_the_witch-queen",
+      "word_count": 64471,
+      "patterns": {
+        "religious_spiritual": {
+          "count": 240,
+          "normalized_score": 3.722603961471049,
+          "present": true
+        },
+        "political_power": {
+          "count": 242,
+          "normalized_score": 3.7536256611499743,
+          "present": true
+        },
+        "medical_science": {
+          "count": 99,
+          "normalized_score": 1.5355741341068077,
+          "present": true
+        },
+        "nautical_maritime": {
+          "count": 163,
+          "normalized_score": 2.5282685238324207,
+          "present": true
+        },
+        "western_frontier": {
+          "count": 33,
+          "normalized_score": 0.5118580447022693,
+          "present": true
+        },
+        "urban_city": {
+          "count": 120,
+          "normalized_score": 1.8613019807355244,
+          "present": true
+        },
+        "rural_pastoral": {
+          "count": 20,
+          "normalized_score": 0.3102169967892541,
+          "present": false
+        },
+        "educational_academic": {
+          "count": 134,
+          "normalized_score": 2.0784538784880024,
+          "present": true
+        },
+        "legal_justice": {
+          "count": 70,
+          "normalized_score": 1.0857594887623891,
+          "present": true
+        },
+        "economic_trade": {
+          "count": 29,
+          "normalized_score": 0.4498146453444184,
+          "present": false
+        },
+        "psychological_mental": {
+          "count": 263,
+          "normalized_score": 4.079353507778691,
+          "present": true
+        },
+        "artistic_creative": {
+          "count": 215,
+          "normalized_score": 3.334832715484481,
+          "present": true
+        },
+        "technological_mechanical": {
+          "count": 5,
+          "normalized_score": 0.07755424919731352,
+          "present": false
+        },
+        "class_social": {
+          "count": 30,
+          "normalized_score": 0.4653254951838811,
+          "present": false
+        }
+      },
+      "content_sample": "Title: Brood of the Witch-Queen\n\nAuthor: Sax Rohmer\nCONTENTS\n\nCHAPTER\n\nI.      ANTONY FERRARA\n\nII.     THE PHANTOM HANDS\n\nIII.    THE RING OF THOTH\n\nIV.     AT FERRARA'S CHAMBERS\n\nV.      THE RUSTLING SHADOWS\n\nVI.     THE BEETLES\n\nVII.    SIR ELWIN GROVES' PATIENT\n\nVIII.   THE SECRET OF DHOON\n\nIX.     THE POLISH JEWESS\n\nX.      THE LAUGHTER\n\nXI.     CAIRO\n\nXII.    THE MASK OF SET\n\nXIII.   THE SCORPION WIND\n\nXIV.    DR. CAIRN ARRIVES\n\nXV.     THE WITCH-QUEEN\n\nXVI.    LAIR OF THE SPIDERS\n\nXVII.   ..."
+    },
+    {
+      "novel_name": "death_ship",
+      "word_count": 42457,
+      "patterns": {
+        "religious_spiritual": {
+          "count": 125,
+          "normalized_score": 2.944155262971948,
+          "present": true
+        },
+        "political_power": {
+          "count": 161,
+          "normalized_score": 3.792071978707869,
+          "present": true
+        },
+        "medical_science": {
+          "count": 20,
+          "normalized_score": 0.4710648420755117,
+          "present": false
+        },
+        "nautical_maritime": {
+          "count": 882,
+          "normalized_score": 20.773959535530064,
+          "present": true
+        },
+        "western_frontier": {
+          "count": 3,
+          "normalized_score": 0.07065972631132675,
+          "present": false
+        },
+        "urban_city": {
+          "count": 12,
+          "normalized_score": 0.282638905245307,
+          "present": false
+        },
+        "rural_pastoral": {
+          "count": 2,
+          "normalized_score": 0.04710648420755117,
+          "present": false
+        },
+        "educational_academic": {
+          "count": 9,
+          "normalized_score": 0.21197917893398027,
+          "present": false
+        },
+        "legal_justice": {
+          "count": 25,
+          "normalized_score": 0.5888310525943896,
+          "present": true
+        },
+        "economic_trade": {
+          "count": 32,
+          "normalized_score": 0.7537037473208187,
+          "present": true
+        },
+        "psychological_mental": {
+          "count": 100,
+          "normalized_score": 2.3553242103775585,
+          "present": true
+        },
+        "artistic_creative": {
+          "count": 208,
+          "normalized_score": 4.899074357585322,
+          "present": true
+        },
+        "technological_mechanical": {
+          "count": 13,
+          "normalized_score": 0.3061921473490826,
+          "present": false
+        },
+        "class_social": {
+          "count": 13,
+          "normalized_score": 0.3061921473490826,
+          "present": false
+        }
+      },
+      "content_sample": "Title: The Death Ship: A Strange Story, Vol. 3 (of 3)\n\nAuthor: William Clark Russell\n\nCONTENTS\nOF\nTHE THIRD VOLUME.\n\nCHAPTER                                         PAGE\n\nI.--WE TELL OUR LOVE AGAIN                      1\nII.--WE SIGHT A SAIL                            10\nIII.--THE DEATH SHIP IS BOARDED BY A PIRATE      28\nIV.--MY LIFE IS AGAIN ATTEMPTED                 56\nV.--A TEMPEST BURSTS UPON US                   79\nVI.--WE SPRING A LEAK                          112\nVII.--IMOGENE FEARS FOR ..."
+    },
+    {
+      "novel_name": "desert_and_the_stars",
+      "word_count": 6898,
+      "patterns": {
+        "religious_spiritual": {
+          "count": 9,
+          "normalized_score": 1.304726007538417,
+          "present": true
+        },
+        "political_power": {
+          "count": 28,
+          "normalized_score": 4.059147579008409,
+          "present": true
+        },
+        "medical_science": {
+          "count": 1,
+          "normalized_score": 0.14496955639315745,
+          "present": false
+        },
+        "nautical_maritime": {
+          "count": 25,
+          "normalized_score": 3.6242389098289363,
+          "present": true
+        },
+        "western_frontier": {
+          "count": 10,
+          "normalized_score": 1.4496955639315745,
+          "present": true
+        },
+        "urban_city": {
+          "count": 3,
+          "normalized_score": 0.43490866917947235,
+          "present": false
+        },
+        "rural_pastoral": {
+          "count": 3,
+          "normalized_score": 0.43490866917947235,
+          "present": false
+        },
+        "educational_academic": {
+          "count": 5,
+          "normalized_score": 0.7248477819657873,
+          "present": true
+        },
+        "legal_justice": {
+          "count": 8,
+          "normalized_score": 1.1597564511452596,
+          "present": true
+        },
+        "economic_trade": {
+          "count": 4,
+          "normalized_score": 0.5798782255726298,
+          "present": true
+        },
+        "psychological_mental": {
+          "count": 18,
+          "normalized_score": 2.609452015076834,
+          "present": true
+        },
+        "artistic_creative": {
+          "count": 17,
+          "normalized_score": 2.4644824586836767,
+          "present": true
+        },
+        "technological_mechanical": {
+          "count": 1,
+          "normalized_score": 0.14496955639315745,
+          "present": false
+        },
+        "class_social": {
+          "count": 4,
+          "normalized_score": 0.5798782255726298,
+          "present": true
+        }
+      },
+      "content_sample": "Title: The Desert and the Stars\n\nAuthor: Keith Laumer\n\n\"I'm not at all sure,\" Under-Secretary Sternwheeler said, \"that I fully\nunderstand the necessity for your ... ah ... absenting yourself from\nyour post of duty, Mr. Retief. Surely this matter could have been dealt\nwith in the usual way--assuming any action is necessary.\"\n\n\"I had a sharp attack of writer's cramp, Mr. Secretary,\" Retief said.\n\"So I thought I'd better come along in person--just to be sure I was\npositive of making my point.\"\n\n\"Eh..."
+    },
+    {
+      "novel_name": "lost_on_venus",
+      "word_count": 67284,
+      "patterns": {
+        "religious_spiritual": {
+          "count": 22,
+          "normalized_score": 0.3269722370845966,
+          "present": false
+        },
+        "political_power": {
+          "count": 199,
+          "normalized_score": 2.957612508174306,
+          "present": true
+        },
+        "medical_science": {
+          "count": 27,
+          "normalized_score": 0.40128410914927765,
+          "present": false
+        },
+        "nautical_maritime": {
+          "count": 193,
+          "normalized_score": 2.8684382616966886,
+          "present": true
+        },
+        "western_frontier": {
+          "count": 28,
+          "normalized_score": 0.41614648356221384,
+          "present": false
+        },
+        "urban_city": {
+          "count": 220,
+          "normalized_score": 3.269722370845966,
+          "present": true
+        },
+        "rural_pastoral": {
+          "count": 14,
+          "normalized_score": 0.20807324178110692,
+          "present": false
+        },
+        "educational_academic": {
+          "count": 39,
+          "normalized_score": 0.5796326021045122,
+          "present": true
+        },
+        "legal_justice": {
+          "count": 70,
+          "normalized_score": 1.0403662089055346,
+          "present": true
+        },
+        "economic_trade": {
+          "count": 57,
+          "normalized_score": 0.8471553415373639,
+          "present": true
+        },
+        "psychological_mental": {
+          "count": 178,
+          "normalized_score": 2.645502645502645,
+          "present": true
+        },
+        "artistic_creative": {
+          "count": 209,
+          "normalized_score": 3.1062362523036677,
+          "present": true
+        },
+        "technological_mechanical": {
+          "count": 11,
+          "normalized_score": 0.1634861185422983,
+          "present": false
+        },
+        "class_social": {
+          "count": 19,
+          "normalized_score": 0.28238511384578796,
+          "present": false
+        }
+      },
+      "content_sample": "Title: Lost on Venus\n\nAuthor: Edgar Rice Burroughs\n\nTHE PERILS OF AMTOR\n\nWhen Carson Napier, Californian, pierced the mist-laden cloud\nblanket that shrouded the mysterious planet Venus, he embarked on\nan unparalleled adventure. For this planet was peopled by several\nantagonistic civilizations--none of whom believed his fantastic tale of\nthe far-distant Earth he had come from. To them he was just a spy from\nanother Venusan city--deserving only death.\n\nAnd so, Carson traveled over perilous mountai..."
+    },
+    {
+      "novel_name": "mystery_of_the_chinese_ring",
+      "word_count": 38396,
+      "patterns": {
+        "religious_spiritual": {
+          "count": 47,
+          "normalized_score": 1.224085842275237,
+          "present": true
+        },
+        "political_power": {
+          "count": 125,
+          "normalized_score": 3.255547452859673,
+          "present": true
+        },
+        "medical_science": {
+          "count": 5,
+          "normalized_score": 0.13022189811438692,
+          "present": false
+        },
+        "nautical_maritime": {
+          "count": 96,
+          "normalized_score": 2.5002604437962286,
+          "present": true
+        },
+        "western_frontier": {
+          "count": 1,
+          "normalized_score": 0.02604437962287738,
+          "present": false
+        },
+        "urban_city": {
+          "count": 57,
+          "normalized_score": 1.4845296385040108,
+          "present": true
+        },
+        "rural_pastoral": {
+          "count": 33,
+          "normalized_score": 0.8594645275549536,
+          "present": true
+        },
+        "educational_academic": {
+          "count": 15,
+          "normalized_score": 0.39066569434316073,
+          "present": false
+        },
+        "legal_justice": {
+          "count": 9,
+          "normalized_score": 0.23439941660589644,
+          "present": false
+        },
+        "economic_trade": {
+          "count": 58,
+          "normalized_score": 1.5105740181268883,
+          "present": true
+        },
+        "psychological_mental": {
+          "count": 92,
+          "normalized_score": 2.3960829253047193,
+          "present": true
+        },
+        "artistic_creative": {
+          "count": 141,
+          "normalized_score": 3.6722575268257107,
+          "present": true
+        },
+        "technological_mechanical": {
+          "count": 17,
+          "normalized_score": 0.4427544535889155,
+          "present": false
+        },
+        "class_social": {
+          "count": 22,
+          "normalized_score": 0.5729763517033024,
+          "present": true
+        }
+      },
+      "content_sample": "Title: Mystery of the Chinese Ring\n\nAuthor: Andy Adams\n\nCHAPTER 1\nA Mysterious Gift\n\nBiff Brewster was suddenly awake wide awake. The gray light of dawn\noutlined the window of his first-floor bedroom. Something or someone was\noutside. He felt sure of it. Something had prodded him out of his deep\nsleep with startling suddenness.\n\nFor a moment he lay still, eyes on the window, his ears sharply tuned\nfor the slightest sound. He knew, of course, that he might have been\nawakened by a stray dog, or a ..."
+    },
+    {
+      "novel_name": "worlds_of_the_imperium",
+      "word_count": 44434,
+      "patterns": {
+        "religious_spiritual": {
+          "count": 35,
+          "normalized_score": 0.78768510599991,
+          "present": true
+        },
+        "political_power": {
+          "count": 180,
+          "normalized_score": 4.050951973713823,
+          "present": true
+        },
+        "medical_science": {
+          "count": 27,
+          "normalized_score": 0.6076427960570735,
+          "present": true
+        },
+        "nautical_maritime": {
+          "count": 97,
+          "normalized_score": 2.1830130080568937,
+          "present": true
+        },
+        "western_frontier": {
+          "count": 6,
+          "normalized_score": 0.13503173245712743,
+          "present": false
+        },
+        "urban_city": {
+          "count": 116,
+          "normalized_score": 2.6106134941711305,
+          "present": true
+        },
+        "rural_pastoral": {
+          "count": 18,
+          "normalized_score": 0.4050951973713823,
+          "present": false
+        },
+        "educational_academic": {
+          "count": 31,
+          "normalized_score": 0.6976639510284918,
+          "present": true
+        },
+        "legal_justice": {
+          "count": 13,
+          "normalized_score": 0.29256875365710944,
+          "present": false
+        },
+        "economic_trade": {
+          "count": 51,
+          "normalized_score": 1.1477697258855832,
+          "present": true
+        },
+        "psychological_mental": {
+          "count": 171,
+          "normalized_score": 3.848404375028132,
+          "present": true
+        },
+        "artistic_creative": {
+          "count": 209,
+          "normalized_score": 4.703605347256605,
+          "present": true
+        },
+        "technological_mechanical": {
+          "count": 22,
+          "normalized_score": 0.4951163523428006,
+          "present": false
+        },
+        "class_social": {
+          "count": 13,
+          "normalized_score": 0.29256875365710944,
+          "present": false
+        }
+      },
+      "content_sample": "Title: Worlds of the Imperium\n\nAuthor: Keith Laumer\n\nDOUBLE TROUBLE FOR A DUPLICATE DICTATOR\n\nFor Brion Bayard, the discovery of an alternate world to Earth\nwhere history took a different turn in the road was not a pleasant\nexperience. His kidnapping brought him some startling revelations.\nHere was a world in which appeared identical doubles of famous\npersonages--including a dangerous and hated dictator named Brion Bayard!\n\nHis assignment seemed simple enough. Dressed as his double, Brion was\nto..."
+    },
+    {
+      "novel_name": "metal_moon",
+      "word_count": 13566,
+      "patterns": {
+        "religious_spiritual": {
+          "count": 10,
+          "normalized_score": 0.7371369600471768,
+          "present": true
+        },
+        "political_power": {
+          "count": 42,
+          "normalized_score": 3.095975232198142,
+          "present": true
+        },
+        "medical_science": {
+          "count": 16,
+          "normalized_score": 1.1794191360754827,
+          "present": true
+        },
+        "nautical_maritime": {
+          "count": 145,
+          "normalized_score": 10.688485920684062,
+          "present": true
+        },
+        "western_frontier": {
+          "count": 1,
+          "normalized_score": 0.07371369600471767,
+          "present": false
+        },
+        "urban_city": {
+          "count": 43,
+          "normalized_score": 3.1696889282028597,
+          "present": true
+        },
+        "rural_pastoral": {
+          "count": 3,
+          "normalized_score": 0.22114108801415303,
+          "present": false
+        },
+        "educational_academic": {
+          "count": 9,
+          "normalized_score": 0.6634232640424591,
+          "present": true
+        },
+        "legal_justice": {
+          "count": 7,
+          "normalized_score": 0.5159958720330237,
+          "present": true
+        },
+        "economic_trade": {
+          "count": 14,
+          "normalized_score": 1.0319917440660473,
+          "present": true
+        },
+        "psychological_mental": {
+          "count": 26,
+          "normalized_score": 1.9165560961226595,
+          "present": true
+        },
+        "artistic_creative": {
+          "count": 80,
+          "normalized_score": 5.897095680377414,
+          "present": true
+        },
+        "technological_mechanical": {
+          "count": 8,
+          "normalized_score": 0.5897095680377413,
+          "present": true
+        },
+        "class_social": {
+          "count": 18,
+          "normalized_score": 1.3268465280849182,
+          "present": true
+        }
+      },
+      "content_sample": "Title: The Metal Moon\n\nAuthor: Everett C. Smith\nRoman Frederick Starzl\n\n[Illustration: The ship was now coming close to the vast curve of the\ncrystal city. The earthmen became aware that the part below the city\nlevel was a dull ugly black.]\n\n*       *       *       *       *\n\n[Illustration: EVERETT C. SMITH]\n\n[Illustration: R. F. STARZL]\n\nIn this story, the joint product of two imaginative minds, we get a\nvery unusual picture of some of the possibilities of interplanetary\nexploration.\n\nWe know t..."
+    },
+    {
+      "novel_name": "danger_in_deep_space",
+      "word_count": 48931,
+      "patterns": {
+        "religious_spiritual": {
+          "count": 13,
+          "normalized_score": 0.26568024360834647,
+          "present": false
+        },
+        "political_power": {
+          "count": 231,
+          "normalized_score": 4.720933559502156,
+          "present": true
+        },
+        "medical_science": {
+          "count": 13,
+          "normalized_score": 0.26568024360834647,
+          "present": false
+        },
+        "nautical_maritime": {
+          "count": 577,
+          "normalized_score": 11.792115427847378,
+          "present": true
+        },
+        "western_frontier": {
+          "count": 21,
+          "normalized_score": 0.42917577813655966,
+          "present": false
+        },
+        "urban_city": {
+          "count": 144,
+          "normalized_score": 2.942919621507838,
+          "present": true
+        },
+        "rural_pastoral": {
+          "count": 4,
+          "normalized_score": 0.0817477672641066,
+          "present": false
+        },
+        "educational_academic": {
+          "count": 33,
+          "normalized_score": 0.6744190799288795,
+          "present": true
+        },
+        "legal_justice": {
+          "count": 26,
+          "normalized_score": 0.5313604872166929,
+          "present": true
+        },
+        "economic_trade": {
+          "count": 21,
+          "normalized_score": 0.42917577813655966,
+          "present": false
+        },
+        "psychological_mental": {
+          "count": 115,
+          "normalized_score": 2.350248308843065,
+          "present": true
+        },
+        "artistic_creative": {
+          "count": 234,
+          "normalized_score": 4.7822443849502365,
+          "present": true
+        },
+        "technological_mechanical": {
+          "count": 7,
+          "normalized_score": 0.14305859271218654,
+          "present": false
+        },
+        "class_social": {
+          "count": 9,
+          "normalized_score": 0.18393247634423987,
+          "present": false
+        }
+      },
+      "content_sample": "Title: Danger in Deep Space\n\nAuthor: Carey Rockwell\n\nILLUSTRATIONS\n\n_Frontispiece_\n\nThe three weary cadets assembled on the control deck               13\n\nThe junior spaceman maneuvered the great rocket ship\ntoward the air lock                                                36\n\nThe jet cab raced along the highway to Venusport                   54\n\nTom could see two space-suited figures floating effortlessly       76\n\nMason was frozen into a rigid statue, unable to move              133\n\n\"Remembe..."
+    },
+    {
+      "novel_name": "red_dust",
+      "word_count": 23067,
+      "patterns": {
+        "religious_spiritual": {
+          "count": 12,
+          "normalized_score": 0.5202236961893614,
+          "present": true
+        },
+        "political_power": {
+          "count": 81,
+          "normalized_score": 3.5115099492781896,
+          "present": true
+        },
+        "medical_science": {
+          "count": 14,
+          "normalized_score": 0.606927645554255,
+          "present": true
+        },
+        "nautical_maritime": {
+          "count": 36,
+          "normalized_score": 1.5606710885680843,
+          "present": true
+        },
+        "western_frontier": {
+          "count": 5,
+          "normalized_score": 0.21675987341223393,
+          "present": false
+        },
+        "urban_city": {
+          "count": 30,
+          "normalized_score": 1.3005592404734037,
+          "present": true
+        },
+        "rural_pastoral": {
+          "count": 4,
+          "normalized_score": 0.17340789872978715,
+          "present": false
+        },
+        "educational_academic": {
+          "count": 5,
+          "normalized_score": 0.21675987341223393,
+          "present": false
+        },
+        "legal_justice": {
+          "count": 10,
+          "normalized_score": 0.43351974682446787,
+          "present": false
+        },
+        "economic_trade": {
+          "count": 21,
+          "normalized_score": 0.9103914683313825,
+          "present": true
+        },
+        "psychological_mental": {
+          "count": 28,
+          "normalized_score": 1.21385529110851,
+          "present": true
+        },
+        "artistic_creative": {
+          "count": 116,
+          "normalized_score": 5.028829063163827,
+          "present": true
+        },
+        "technological_mechanical": {
+          "count": 9,
+          "normalized_score": 0.3901677721420211,
+          "present": false
+        },
+        "class_social": {
+          "count": 4,
+          "normalized_score": 0.17340789872978715,
+          "present": false
+        }
+      },
+      "content_sample": "Title: The Red Dust\n\nAuthor: Murray Leinster\n\n[Illustration: Burl raised his spear, and plunged down on the back of\nthe moving thing, thrusting his spear with all the force he could\ncommand. He had fallen upon the shining back of one of the huge,\nmeat-eating beetles, and his spear had slid across the horny armor and\nthen stuck fast, having pierced only the leathery tissue between the\ninsect's head and thorax.]\n\n_You who have read \"The Mad Planet\" by Murray Leinster, will welcome\nthe sequel to th..."
+    },
+    {
+      "novel_name": "parasite",
+      "word_count": 17775,
+      "patterns": {
+        "religious_spiritual": {
+          "count": 56,
+          "normalized_score": 3.1504922644163154,
+          "present": true
+        },
+        "political_power": {
+          "count": 63,
+          "normalized_score": 3.5443037974683547,
+          "present": true
+        },
+        "medical_science": {
+          "count": 35,
+          "normalized_score": 1.969057665260197,
+          "present": true
+        },
+        "nautical_maritime": {
+          "count": 31,
+          "normalized_score": 1.7440225035161745,
+          "present": true
+        },
+        "western_frontier": {
+          "count": 2,
+          "normalized_score": 0.11251758087201126,
+          "present": false
+        },
+        "urban_city": {
+          "count": 12,
+          "normalized_score": 0.6751054852320676,
+          "present": true
+        },
+        "rural_pastoral": {
+          "count": 1,
+          "normalized_score": 0.05625879043600563,
+          "present": false
+        },
+        "educational_academic": {
+          "count": 75,
+          "normalized_score": 4.219409282700422,
+          "present": true
+        },
+        "legal_justice": {
+          "count": 14,
+          "normalized_score": 0.7876230661040788,
+          "present": true
+        },
+        "economic_trade": {
+          "count": 10,
+          "normalized_score": 0.5625879043600563,
+          "present": true
+        },
+        "psychological_mental": {
+          "count": 83,
+          "normalized_score": 4.669479606188467,
+          "present": true
+        },
+        "artistic_creative": {
+          "count": 45,
+          "normalized_score": 2.5316455696202533,
+          "present": true
+        },
+        "technological_mechanical": {
+          "count": 2,
+          "normalized_score": 0.11251758087201126,
+          "present": false
+        },
+        "class_social": {
+          "count": 18,
+          "normalized_score": 1.0126582278481013,
+          "present": true
+        }
+      },
+      "content_sample": "Title: The Parasite: A Story\n\nAuthor: Arthur Conan Doyle\n\nTHE PARASITE\n\nI\n\nMarch 24.  The spring is fairly with us now.  Outside my laboratory\nwindow the great chestnut-tree is all covered with the big, glutinous,\ngummy buds, some of which have already begun to break into little green\nshuttlecocks.  As you walk down the lanes you are conscious of the\nrich, silent forces of nature working all around you.  The wet earth\nsmells fruitful and luscious.  Green shoots are peeping out everywhere.\nThe tw..."
+    },
+    {
+      "novel_name": "radio_planet",
+      "word_count": 73109,
+      "patterns": {
+        "religious_spiritual": {
+          "count": 101,
+          "normalized_score": 1.3814988578697562,
+          "present": true
+        },
+        "political_power": {
+          "count": 518,
+          "normalized_score": 7.085310974025086,
+          "present": true
+        },
+        "medical_science": {
+          "count": 77,
+          "normalized_score": 1.0532219015442696,
+          "present": true
+        },
+        "nautical_maritime": {
+          "count": 259,
+          "normalized_score": 3.542655487012543,
+          "present": true
+        },
+        "western_frontier": {
+          "count": 37,
+          "normalized_score": 0.5060936410017919,
+          "present": true
+        },
+        "urban_city": {
+          "count": 166,
+          "normalized_score": 2.2705822812512824,
+          "present": true
+        },
+        "rural_pastoral": {
+          "count": 56,
+          "normalized_score": 0.7659795647594688,
+          "present": true
+        },
+        "educational_academic": {
+          "count": 44,
+          "normalized_score": 0.6018410865967255,
+          "present": true
+        },
+        "legal_justice": {
+          "count": 49,
+          "normalized_score": 0.6702321191645352,
+          "present": true
+        },
+        "economic_trade": {
+          "count": 35,
+          "normalized_score": 0.478737227974668,
+          "present": false
+        },
+        "psychological_mental": {
+          "count": 119,
+          "normalized_score": 1.6277065751138713,
+          "present": true
+        },
+        "artistic_creative": {
+          "count": 557,
+          "normalized_score": 7.618761028054002,
+          "present": true
+        },
+        "technological_mechanical": {
+          "count": 39,
+          "normalized_score": 0.5334500540289158,
+          "present": true
+        },
+        "class_social": {
+          "count": 41,
+          "normalized_score": 0.5608064670560396,
+          "present": true
+        }
+      },
+      "content_sample": "Title: The Radio Planet\n\nAuthor: Ralph Milne Farley\nI\n\n It s too bad that Myles Cabot can t see this!  I exclaimed, as my eye\nfell on the following item:\n\n_SIGNALS FROM MARS FAIL TO REACH HARVARD_\n\n_Cambridge, Massachusetts, Wednesday. The Harvard College Radio\nStation has for several weeks been in receipt of fragmentary signals\nof extraordinarily long wave-length, Professor Hammond announced\nyesterday. So far as it has been possible to test the direction of the\nsource of these waves, it appears..."
+    },
+    {
+      "novel_name": "weapon_from_eternity",
+      "word_count": 33331,
+      "patterns": {
+        "religious_spiritual": {
+          "count": 27,
+          "normalized_score": 0.8100567039692778,
+          "present": true
+        },
+        "political_power": {
+          "count": 122,
+          "normalized_score": 3.660256217935255,
+          "present": true
+        },
+        "medical_science": {
+          "count": 4,
+          "normalized_score": 0.12000840058804116,
+          "present": false
+        },
+        "nautical_maritime": {
+          "count": 206,
+          "normalized_score": 6.18043263028412,
+          "present": true
+        },
+        "western_frontier": {
+          "count": 37,
+          "normalized_score": 1.1100777054393807,
+          "present": true
+        },
+        "urban_city": {
+          "count": 49,
+          "normalized_score": 1.4701029072035041,
+          "present": true
+        },
+        "rural_pastoral": {
+          "count": 1,
+          "normalized_score": 0.03000210014701029,
+          "present": false
+        },
+        "educational_academic": {
+          "count": 12,
+          "normalized_score": 0.36002520176412345,
+          "present": false
+        },
+        "legal_justice": {
+          "count": 42,
+          "normalized_score": 1.260088206174432,
+          "present": true
+        },
+        "economic_trade": {
+          "count": 7,
+          "normalized_score": 0.21001470102907202,
+          "present": false
+        },
+        "psychological_mental": {
+          "count": 114,
+          "normalized_score": 3.420239416759173,
+          "present": true
+        },
+        "artistic_creative": {
+          "count": 118,
+          "normalized_score": 3.540247817347214,
+          "present": true
+        },
+        "technological_mechanical": {
+          "count": 1,
+          "normalized_score": 0.03000210014701029,
+          "present": false
+        },
+        "class_social": {
+          "count": 9,
+          "normalized_score": 0.2700189013230926,
+          "present": false
+        }
+      },
+      "content_sample": "Title: The Weapon From Eternity\n\nAuthor: Dwight V. Swain\nCHAPTER I\n\nJarl Corvett selected the group--himself, Ungo, and five crewmen.\n\nThey left their great ship on the far side of Vesta; came down with the\nnight in a fast raider carrier.\n\nA hollow offered shelter. Like dust settling, they landed. Abandoning\nthe craft, they pressed on towards their target. The hills fell behind.\nThe final cordon was bypassed.\n\nThen, at last, bleakly, they stared down at the sprawling building that\nhad been Wassr..."
+    },
+    {
+      "novel_name": "immortals",
+      "word_count": 11366,
+      "patterns": {
+        "religious_spiritual": {
+          "count": 7,
+          "normalized_score": 0.6158718986450818,
+          "present": true
+        },
+        "political_power": {
+          "count": 35,
+          "normalized_score": 3.079359493225409,
+          "present": true
+        },
+        "medical_science": {
+          "count": 16,
+          "normalized_score": 1.4077071969030441,
+          "present": true
+        },
+        "nautical_maritime": {
+          "count": 24,
+          "normalized_score": 2.1115607953545665,
+          "present": true
+        },
+        "western_frontier": {
+          "count": 21,
+          "normalized_score": 1.8476156959352454,
+          "present": true
+        },
+        "urban_city": {
+          "count": 26,
+          "normalized_score": 2.287524194967447,
+          "present": true
+        },
+        "rural_pastoral": {
+          "count": 1,
+          "normalized_score": 0.08798169980644026,
+          "present": false
+        },
+        "educational_academic": {
+          "count": 30,
+          "normalized_score": 2.639450994193208,
+          "present": true
+        },
+        "legal_justice": {
+          "count": 6,
+          "normalized_score": 0.5278901988386416,
+          "present": true
+        },
+        "economic_trade": {
+          "count": 8,
+          "normalized_score": 0.7038535984515221,
+          "present": true
+        },
+        "psychological_mental": {
+          "count": 47,
+          "normalized_score": 4.135139890902693,
+          "present": true
+        },
+        "artistic_creative": {
+          "count": 48,
+          "normalized_score": 4.223121590709133,
+          "present": true
+        },
+        "technological_mechanical": {
+          "count": 17,
+          "normalized_score": 1.4956888967094846,
+          "present": true
+        },
+        "class_social": {
+          "count": 1,
+          "normalized_score": 0.08798169980644026,
+          "present": false
+        }
+      },
+      "content_sample": "Title: The Immortals\n\nAuthor: David Duncan\n\nI\n\nDr. Clarence Peccary was an objective man. His increasing irritation\nwas caused, he realized, by the fear that his conscience was going to\nintervene between him and the vast fortune that was definitely within\nhis grasp. Millions. Billions! But he wanted to enjoy it.\n\nHe didn't want to skulk through life avoiding the eyes of everyone he\nmet--particularly when his life might last for centuries. So he sat\nglowering at the rectangular screen that was lo..."
+    }
+  ],
+  "pattern_recommendations": [
+    {
+      "name": "artistic_creative",
+      "frequency": 32,
+      "avg_score": 5.3261876118386,
+      "max_score": 17.247574559827523,
+      "percentage": 100.0
+    },
+    {
+      "name": "nautical_maritime",
+      "frequency": 32,
+      "avg_score": 5.157914787508016,
+      "max_score": 20.773959535530064,
+      "percentage": 100.0
+    },
+    {
+      "name": "political_power",
+      "frequency": 32,
+      "avg_score": 3.6653001564677434,
+      "max_score": 7.085310974025086,
+      "percentage": 100.0
+    },
+    {
+      "name": "psychological_mental",
+      "frequency": 32,
+      "avg_score": 3.060973189640021,
+      "max_score": 7.2948328267477205,
+      "percentage": 100.0
+    },
+    {
+      "name": "urban_city",
+      "frequency": 28,
+      "avg_score": 1.880643227858542,
+      "max_score": 8.054711246200608,
+      "percentage": 87.5
+    },
+    {
+      "name": "religious_spiritual",
+      "frequency": 28,
+      "avg_score": 1.1145053417938007,
+      "max_score": 3.722603961471049,
+      "percentage": 87.5
+    },
+    {
+      "name": "educational_academic",
+      "frequency": 23,
+      "avg_score": 0.9756026203541919,
+      "max_score": 4.219409282700422,
+      "percentage": 71.875
+    },
+    {
+      "name": "economic_trade",
+      "frequency": 22,
+      "avg_score": 0.8707631662014975,
+      "max_score": 3.4135824649658644,
+      "percentage": 68.75
+    },
+    {
+      "name": "legal_justice",
+      "frequency": 19,
+      "avg_score": 0.6140840455018561,
+      "max_score": 1.8325911874869387,
+      "percentage": 59.375
+    },
+    {
+      "name": "medical_science",
+      "frequency": 16,
+      "avg_score": 0.6741280796421765,
+      "max_score": 2.019119828580847,
+      "percentage": 50.0
+    },
+    {
+      "name": "technological_mechanical",
+      "frequency": 14,
+      "avg_score": 0.6339510832102941,
+      "max_score": 2.43161094224924,
+      "percentage": 43.75
+    },
+    {
+      "name": "western_frontier",
+      "frequency": 11,
+      "avg_score": 0.5303234906155655,
+      "max_score": 3.2145727297080096,
+      "percentage": 34.375
+    },
+    {
+      "name": "class_social",
+      "frequency": 10,
+      "avg_score": 0.42323703966002324,
+      "max_score": 1.3268465280849182,
+      "percentage": 31.25
+    },
+    {
+      "name": "rural_pastoral",
+      "frequency": 9,
+      "avg_score": 0.688457637387938,
+      "max_score": 10.111402253765654,
+      "percentage": 28.125
+    }
+  ]
+}
