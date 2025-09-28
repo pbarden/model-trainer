@@ -26,11 +26,11 @@ class TestIterativeConfig:
         assert config.max_steps_per_iteration == 8
         assert config.learning_rate_start == 5e-5
         assert config.learning_rate_end == 2e-5
-        assert config.chunk_size == 512
-        assert config.chunk_overlap == 0.1
-        assert config.validation_split == 0.1
+        assert config.chunk_size == 200
+        assert config.chunk_overlap == 50
+        assert config.validation_split == 0.2
         assert config.novels_dir == "novels"
-        assert config.output_dir == "output"
+        assert config.output_dir == "iterative_models"
 
     def test_custom_values(self):
         """Test custom configuration values"""

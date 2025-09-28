@@ -240,11 +240,10 @@ class ModelServer:
             self._initialize_metrics_collection()
 
             self.logger.info(f"Server configuration:")
-            self.logger.info(f"  - Model: {self.model_server.config.model_name}")
-            self.logger.info(f"  - Version: {self.model_server.config.version}")
-            self.logger.info(f"  - Max batch size: {self.model_server.config.max_batch_size}")
-            self.logger.info(f"  - Timeout: {self.model_server.config.timeout_seconds}s")
-            self.logger.info(f"  - Memory optimization: {self.model_server.config.memory_optimization}")
+            self.logger.info(f"  - Model: {self.config.model_name}")
+            self.logger.info(f"  - Version: {self.config.version}")
+            self.logger.info(f"  - Max batch size: {self.config.max_batch_size}")
+            self.logger.info(f"  - Timeout: {self.config.timeout_seconds}s")
 
             self._start_background_monitoring()
 
@@ -274,8 +273,8 @@ class ModelServer:
             self.status = ServerStatus.STOPPED
             uptime = (datetime.now() - self.start_time).total_seconds()
             self.logger.info(f"Model server stopped gracefully after {uptime:.1f}s uptime")
-            self.logger.info(f"Total requests served: {self.model_server.request_count}")
-            self.logger.info(f"Total errors: {self.model_server.error_count}")
+            self.logger.info(f"Total requests served: {self.request_count}")
+            self.logger.info(f"Total errors: {self.error_count}")
 
         except Exception as e:
             self.status = ServerStatus.ERROR
@@ -382,8 +381,8 @@ class ModelServer:
 
     def _cleanup_resources(self):
         """Cleanup server resources."""
-        if hasattr(self.model_server, 'model') and hasattr(self.model_server.model, 'cpu'):
+        if hasattr(self, 'model') and hasattr(self.model, 'cpu'):
             try:
-                self.model_server.model.cpu()
+                self.model.cpu()
             except:
                 pass

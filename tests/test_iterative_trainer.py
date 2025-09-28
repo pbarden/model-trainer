@@ -56,8 +56,8 @@ class TestIterativeTrainer:
         novel_files = list(novels_dir.glob("*"))
         assert len(novel_files) > 0
 
-    @patch('iterative_novel_trainer.AutoTokenizer')
-    @patch('iterative_novel_trainer.AutoModelForCausalLM')
+    @patch('transformers.AutoTokenizer')
+    @patch('transformers.AutoModelForCausalLM')
     def test_trainer_components_mock(self, mock_model, mock_tokenizer):
         """Test trainer components can be mocked for unit testing"""
         mock_tokenizer.from_pretrained.return_value = MagicMock()
@@ -104,16 +104,16 @@ class TestIterativeTrainer:
         config = IterativeConfig()
         trainer = IterativeTrainer(config)
 
-        assert hasattr(trainer, '_generate_sample')
-        assert callable(getattr(trainer, '_generate_sample'))
+        assert hasattr(trainer, 'generate_sample')
+        assert callable(getattr(trainer, 'generate_sample'))
 
     def test_quality_evaluation_functionality(self):
         """Test that quality evaluation methods exist"""
         config = IterativeConfig()
         trainer = IterativeTrainer(config)
 
-        assert hasattr(trainer, 'evaluate_generation_quality')
-        assert callable(getattr(trainer, 'evaluate_generation_quality'))
+        assert hasattr(trainer, 'test_generation_quality')
+        assert callable(getattr(trainer, 'test_generation_quality'))
 
     def test_perplexity_calculation_functionality(self):
         """Test that perplexity calculation methods exist"""
@@ -155,7 +155,7 @@ class TestIterativeTrainerIntegration:
             test_novel = novels[0].lower().replace(" ", "_").replace("-", "_")
 
             try:
-                with patch('iterative_novel_trainer.Trainer') as mock_trainer:
+                with patch('transformers.Trainer') as mock_trainer:
                     mock_trainer_instance = MagicMock()
                     mock_trainer.return_value = mock_trainer_instance
                     mock_trainer_instance.train.return_value = None

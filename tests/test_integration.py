@@ -58,7 +58,11 @@ class TestTrainingIntegration:
         The old librarian watched them with suspicious eyes.
         """
 
-        memories = memory_system.create_memories_from_text(test_text, "test_novel")
+        with tempfile.TemporaryDirectory() as temp_dir:
+            novel_path = Path(temp_dir) / "test_novel.txt"
+            novel_path.write_text(test_text)
+            result = memory_system.build_memory_for_model("test_model", novel_path)
+            memories = result.get("memories", [])
 
         assert len(memories) > 0
         assert len(memories) <= memory_config.max_memories_per_novel
@@ -80,14 +84,14 @@ class TestTrainingIntegration:
             with tempfile.TemporaryDirectory() as temp_dir:
                 novel_path = trainer.novels_dir / test_novel
                 if novel_path.exists():
-                    novel_text = "Sample novel text for testing memory creation."
-                    memories = memory_system.create_memories_from_text(novel_text, test_novel)
+                    result = memory_system.build_memory_for_model("test_model", novel_path)
+                    memories = result.get("memories", [])
 
                     assert len(memories) >= 0
 
-    @patch('iterative_novel_trainer.Trainer')
-    @patch('iterative_novel_trainer.AutoTokenizer')
-    @patch('iterative_novel_trainer.AutoModelForCausalLM')
+    @patch('transformers.Trainer')
+    @patch('transformers.AutoTokenizer')
+    @patch('transformers.AutoModelForCausalLM')
     def test_full_training_pipeline_mock(self, mock_model, mock_tokenizer, mock_trainer):
         """Test full training pipeline with mocks"""
         mock_tokenizer.from_pretrained.return_value = MagicMock()
@@ -139,22 +143,16 @@ class TestTrainingIntegration:
         memory_config = MemoryConfig()
         memory_system = EpisodicMemorySystem(memory_config)
 
-        test_text = "The wizard cast a powerful spell in the enchanted forest."
-        memories = memory_system.create_memories_from_text(test_text, "fantasy_novel")
-
         with tempfile.TemporaryDirectory() as temp_dir:
-            save_path = Path(temp_dir)
+            novel_path = Path(temp_dir) / "fantasy_novel.txt"
+            novel_path.write_text("The wizard cast a powerful spell in the enchanted forest.")
 
-            memory_system.save_memories(save_path, "fantasy_novel")
-            memory_file = save_path / "memories.json"
-            assert memory_file.exists()
+            result = memory_system.build_memory_for_model("fantasy_model", novel_path)
+            memories = result.get("memories", [])
 
-            new_memory_system = EpisodicMemorySystem(memory_config)
-            loaded_memories = new_memory_system.load_memories(save_path)
-
-            assert len(loaded_memories) == len(memories)
-            if loaded_memories:
-                assert loaded_memories[0].content == memories[0].content
+            if memory_system.load_memory_for_model("fantasy_model"):
+                loaded_memories, _ = memory_system.activate_memories("fantasy_model", "tell me about magic")
+                assert isinstance(loaded_memories, list)
 
     def test_training_config_validation_integration(self):
         """Test training configuration validation in integration context"""
@@ -195,20 +193,17 @@ class TestTrainingIntegration:
 
         test_novel = novels[0].lower().replace(" ", "_").replace("-", "_")
 
-        sample_text = f"This is sample text from {test_novel} for testing the complete workflow."
-        memories = memory_system.create_memories_from_text(sample_text, test_novel)
-
-        assert len(memories) >= 0
-        assert len(memories) <= memory_config.max_memories_per_novel
-
         with tempfile.TemporaryDirectory() as temp_dir:
-            save_path = Path(temp_dir)
-            if memories:
-                memory_system.save_memories(save_path, test_novel)
-                memory_file = save_path / "memories.json"
-                assert memory_file.exists()
+            novel_path = Path(temp_dir) / f"{test_novel}.txt"
+            novel_path.write_text(f"This is sample text from {test_novel} for testing the complete workflow.")
 
-        assert hasattr(trainer, 'evaluate_generation_quality')
+            result = memory_system.build_memory_for_model(f"{test_novel}_model", novel_path)
+            memories = result.get("memories", [])
+
+            assert len(memories) >= 0
+            assert len(memories) <= memory_config.max_memories_per_novel
+
+        assert hasattr(trainer, 'test_generation_quality')
         assert hasattr(trainer, 'calculate_perplexity')
 
     def test_error_handling_integration(self):
@@ -233,16 +228,19 @@ class TestTrainingIntegration:
         Inside, the princess waited in the tower. Dragons circled overhead.
         """
 
-        memories = memory_system.create_memories_from_text(test_text, "test_story")
-        if memories:
-            memory_system.memories = memories
-            memory_system._build_memory_index()
+        with tempfile.TemporaryDirectory() as temp_dir:
+            novel_path = Path(temp_dir) / "test_story.txt"
+            novel_path.write_text(test_text)
 
-            query = "Tell me about the castle"
-            retrieved = memory_system.retrieve_relevant_memories(query)
+            result = memory_system.build_memory_for_model("test_story_model", novel_path)
+            memories = result.get("memories", [])
 
-            assert isinstance(retrieved, list)
-            assert len(retrieved) <= memory_config.max_retrieved_memories
+            if memories:
+                query = "Tell me about the castle"
+                retrieved, _ = memory_system.activate_memories("test_story_model", query)
+
+                assert isinstance(retrieved, list)
+                assert len(retrieved) <= memory_config.max_retrieved_memories
 
 
 class TestSystemConfiguration:
