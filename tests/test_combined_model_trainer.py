@@ -9,7 +9,7 @@ import json
 from pathlib import Path
 from unittest.mock import Mock, patch, MagicMock
 
-from combined_model_trainer import CombinedModelTrainer, CombinedModelConfig
+from model_tea.core.training.combined_model_trainer import CombinedModelTrainer, CombinedModelConfig
 
 
 class TestCombinedModelConfig:

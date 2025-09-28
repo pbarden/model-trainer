@@ -2,10 +2,6 @@
 """
 Model Tea - Quality Validator Module
 Copyright © ChaiQ LLC
-
-Extracted quality validation logic from the main trainer to reduce complexity
-and improve maintainability. Handles perplexity monitoring, generation quality
-assessment, and early stopping decisions.
 """
 
 import re
@@ -14,7 +10,6 @@ import logging
 import numpy as np
 from typing import List, Dict, Any, Optional
 from dataclasses import dataclass
-from model_tea_utils import QualityMetrics, ModelTeaConfig
 
 logger = logging.getLogger(__name__)
 
@@ -55,8 +50,7 @@ class QualityValidator:
 
             # Generate and assess quality
             sample_text = self._generate_sample(model, tokenizer)
-            quality_metrics = QualityMetrics.assess_text_quality(sample_text)
-            quality_score = quality_metrics["quality_score"]
+            quality_score = self._assess_text_quality(sample_text)
 
             validation_result["quality_score"] = quality_score
             validation_result["sample_text"] = sample_text[:200] + "..." if len(sample_text) > 200 else sample_text
@@ -153,6 +147,43 @@ class QualityValidator:
         except Exception as e:
             logger.warning(f"Sample generation failed: {e}")
             return "Sample generation failed."
+
+    def _assess_text_quality(self, text: str) -> float:
+        """Assess the quality of generated text"""
+        if not text or len(text.strip()) < 10:
+            return 0.0
+
+        quality_score = 0.0
+
+        # Check for basic coherence
+        sentences = text.split('.')
+        if len(sentences) > 1:
+            quality_score += 0.2
+
+        # Check for vocabulary diversity
+        words = text.lower().split()
+        unique_words = set(words)
+        if len(words) > 0:
+            diversity = len(unique_words) / len(words)
+            quality_score += min(diversity * 0.4, 0.4)
+
+        # Check for repetition issues
+        if len(words) > 5:
+            repetition_penalty = 0.0
+            for i in range(len(words) - 2):
+                if words[i] == words[i + 1] == words[i + 2]:
+                    repetition_penalty += 0.1
+            quality_score -= min(repetition_penalty, 0.3)
+
+        # Check for reasonable length
+        if 20 <= len(words) <= 200:
+            quality_score += 0.2
+
+        # Check for grammatical structure (basic)
+        if any(word in text.lower() for word in ['the', 'and', 'of', 'to', 'a']):
+            quality_score += 0.2
+
+        return max(0.0, min(1.0, quality_score))
 
     def _analyze_convergence(self, iteration: int) -> Dict[str, Any]:
         """Analyze convergence patterns"""

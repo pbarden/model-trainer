@@ -1,6 +1,6 @@
 # Contributing to Model Tea
 
-Thank you for your interest in contributing to Model Tea! This document provides guidelines for contributing to this CPU-optimized novel training system.
+Thank you for your interest in contributing to Model Tea! This document provides guidelines for contributing to this machine learning framework.
 
 ## Getting Started
 
@@ -134,23 +134,23 @@ For new features, please provide:
 
 ## Architecture Guidelines
 
-### CPU Optimization
+### Performance Considerations
 
-Model Tea focuses on CPU-optimized training. When contributing:
+When contributing to Model Tea:
 
-- Consider memory usage and CPU efficiency
-- Avoid GPU-specific optimizations unless configurable
+- Consider memory usage and computational efficiency
 - Profile performance-critical code changes
 - Document any performance implications
+- Ensure scalability for production workloads
 
-### Memory System
+### Architecture Components
 
-The episodic memory system is a core feature:
+Key system components include:
 
-- Understand the memory types and retrieval mechanisms
-- Test memory functionality thoroughly
-- Consider backward compatibility with existing memories
-- Document memory-related changes clearly
+- Model lifecycle management and versioning
+- Training pipeline orchestration
+- Deployment strategies and monitoring
+- Test frameworks and quality validation
 
 ### Configuration Management
 

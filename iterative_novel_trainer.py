@@ -22,18 +22,14 @@ import numpy as np
 from datasets import Dataset
 import random
 
-# Suppress warnings for cleaner output
 warnings.filterwarnings("ignore", category=UserWarning)
 warnings.filterwarnings("ignore", category=FutureWarning)
-
-# Import Model Tea utilities and modules
 from model_tea_utils import (
     ModelTeaConfig, FileSystemUtils, TextProcessingUtils, TrainingUtils,
     QualityMetrics, MemorySystemUtils, ErrorHandling, validate_system_setup
 )
 from quality_validator import QualityValidator, ValidationConfig
 
-# Import episodic memory system (proper scope)
 try:
     from episodic_memory_system import EpisodicMemorySystem, MemoryConfig
     MEMORY_SYSTEM_AVAILABLE = True
@@ -42,7 +38,6 @@ except ImportError:
     MemoryConfig = None
     MEMORY_SYSTEM_AVAILABLE = False
 
-# Configure logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
@@ -50,37 +45,30 @@ logger = logging.getLogger(__name__)
 class IterativeConfig:
     """Configuration for iterative novel training"""
 
-    # Model selection (CPU-optimized)
-    base_model: str = "distilgpt2"  # Fast, lightweight model
-    max_seq_length: int = 256      # Reduced for speed
+    base_model: str = "gpt2"
+    max_seq_length: int = 1024
 
-    # Training progression (enhanced for smoother output)
-    iterations_per_novel: int = 12  # More iterations for refined quality
-    max_steps_per_iteration: int = 8   # Reduced from 20 to prevent overfitting
+    iterations_per_novel: int = 12
+    max_steps_per_iteration: int = 8
     learning_rate_start: float = 5e-5
-    learning_rate_end: float = 2e-5   # Less aggressive decay to prevent underfitting
+    learning_rate_end: float = 2e-5
 
-    # Data management
-    chunk_size: int = 200          # Smaller chunks
-    chunk_overlap: int = 50        # Overlap for context
-    validation_split: float = 0.2  # Hold out for validation
+    chunk_size: int = 200
+    chunk_overlap: int = 50
+    validation_split: float = 0.2
 
-    # Training optimization
     batch_size: int = 1
     gradient_accumulation_steps: int = 4
     warmup_ratio: float = 0.1
 
-    # Quality control
     max_repetition_penalty: float = 1.2
-    temperature_range: tuple = (0.7, 1.0)  # For validation generation
-    perplexity_threshold: float = 50.0      # Stop if model gets too confused
+    temperature_range: tuple = (0.7, 1.0)
+    perplexity_threshold: float = 50.0
 
-    # Infrastructure
     novels_dir: str = "novels"
     output_dir: str = "iterative_models"
     save_checkpoints: bool = True
 
-# Add alias for unified config access
 UnifiedConfig = ModelTeaConfig
 
 class NovelProcessor:
@@ -394,7 +382,10 @@ class IterativeTrainer:
             train_dataset = self._prepare_dataset(train_chunks, tokenizer)
 
             # Calculate learning rate for this iteration
-            lr_progress = iteration / (self.config.iterations_per_novel - 1)
+            if self.config.iterations_per_novel > 1:
+                lr_progress = iteration / (self.config.iterations_per_novel - 1)
+            else:
+                lr_progress = 0
             current_lr = self.config.learning_rate_start * (1 - lr_progress) + \
                         self.config.learning_rate_end * lr_progress
 
@@ -469,7 +460,7 @@ class IterativeTrainer:
             logger.info(f"  Chunks: {len(train_chunks)} ({int(iteration_result['chunk_size_avg'])} avg words)")
             logger.info(f"  Status: {training_analysis['convergence_status']}")
             if training_analysis['overfitting_risk']:
-                logger.warning(f"  ⚠️ High perplexity detected (continuing for full analysis)")
+                logger.warning(f"  High perplexity detected (continuing for full analysis)")
             sample_text = validation_result.get('sample_text', '')
             logger.info(f"  Sample: {sample_text[:100]}...")
 
@@ -537,11 +528,18 @@ class IterativeTrainer:
 
         # Build episodic memory system (experimental feature)
         logger.info(f"\nBuilding episodic memory system...")
-        memory_analysis = self._build_episodic_memory(novel_name, novel_path.parent)
+        memory_analysis = self._build_episodic_memory(novel_name, novel_path)
         if memory_analysis:
             results["episodic_memory"] = memory_analysis
             logger.info(f"  Memories created: {memory_analysis.get('total_memories', 0)}")
             logger.info(f"  Memory density: {memory_analysis.get('memory_density', 0):.2f} per 1000 words")
+
+        # Run comprehensive post-training tests
+        logger.info(f"\nRunning post-training test suite...")
+        test_results = self._run_post_training_tests(novel_name, novel_path, results)
+        if test_results:
+            results["post_training_tests"] = test_results
+            logger.info(f"  Test suite completed: {test_results.get('overall_assessment', {}).get('overall_rating', 'unknown').upper()}")
 
         return results
 
@@ -608,7 +606,10 @@ class IterativeTrainer:
             train_dataset = self._prepare_dataset(train_chunks, tokenizer)
 
             # Calculate learning rate for this iteration
-            lr_progress = iteration / (self.config.iterations_per_novel - 1)
+            if self.config.iterations_per_novel > 1:
+                lr_progress = iteration / (self.config.iterations_per_novel - 1)
+            else:
+                lr_progress = 0
             current_lr = self.config.learning_rate_start * (1 - lr_progress) + \
                         self.config.learning_rate_end * lr_progress
 
@@ -965,6 +966,44 @@ class IterativeTrainer:
                 "error": str(e),
                 "total_memories": 0
             }
+
+    def _run_post_training_tests(self, novel_name: str, novel_path: Path, training_results: Dict[str, Any]) -> Optional[Dict[str, Any]]:
+        """Run comprehensive post-training test suite"""
+        try:
+            from post_training_tester import PostTrainingTester, TestConfig
+
+            # Create test configuration
+            test_config = TestConfig(
+                test_prompts_per_category=2,  # Reduced for speed
+                generation_length=100,        # Shorter for faster testing
+                temperature=0.8,
+                min_quality_threshold=0.7
+            )
+
+            # Initialize tester
+            tester = PostTrainingTester(test_config)
+
+            # Determine model path from training results
+            model_path = self.config.base_model  # Use base model for now
+            if training_results.get("model_saved_to"):
+                model_path = training_results["model_saved_to"]
+
+            # Run comprehensive tests
+            test_results = tester.run_comprehensive_tests(
+                model_path=model_path,
+                novel_name=novel_name,
+                novel_path=novel_path,
+                baseline_model_name=self.config.base_model
+            )
+
+            return test_results
+
+        except ImportError:
+            logger.warning("Post-training test suite not available - install missing dependencies")
+            return None
+        except Exception as e:
+            logger.error(f"Post-training tests failed: {e}")
+            return {"error": str(e), "status": "failed"}
 
     def _calculate_learning_rate(self, iteration: int) -> float:
         """Calculate learning rate for given iteration"""

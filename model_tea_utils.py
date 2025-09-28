@@ -26,8 +26,8 @@ logger = logging.getLogger(__name__)
 class ModelTeaConfig:
     """Unified configuration for Model Tea system"""
     # Model settings
-    base_model: str = "distilgpt2"
-    max_seq_length: int = 256
+    base_model: str = "gpt2"
+    max_seq_length: int = 1024
 
     # Training parameters
     learning_rate_start: float = 5e-5

@@ -1,0 +1,33 @@
+{
+  "total_memories": 129,
+  "novel_word_count": 11945,
+  "memory_density": 10.799497697781499,
+  "memory_types": {
+    "description": 46,
+    "character": 30,
+    "dialogue": 4,
+    "location": 37,
+    "emotion": 5,
+    "theme": 7
+  },
+  "emotional_distribution": {
+    "neutral": 77,
+    "negative": 44,
+    "positive": 3,
+    "excited": 3,
+    "sad": 1,
+    "anxious": 1
+  },
+  "average_importance": 0.6763798449612403,
+  "position_coverage": {
+    "min": 0.002012072434607646,
+    "max": 0.9839034205231388,
+    "mean": 0.4917411445416686
+  },
+  "memory_system_config": {
+    "max_memories": 250,
+    "chunk_size": 35,
+    "retrieval_limit": 5,
+    "randomness_factor": 0.15
+  }
+}

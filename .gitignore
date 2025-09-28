@@ -13,6 +13,7 @@ iterative_models/
 experiments/
 multi_model_experiments/
 temp_training*/
+backup_original_files/
 
 # Generated data files
 novels__uncleaned/

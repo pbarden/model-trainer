@@ -3,7 +3,7 @@ Model Tea - CPU-Optimized Novel Training System
 Copyright © ChaiQ LLC
 
 A modular, CPU-optimized system for training language models on literary works
-with progressive learning, episodic memory, and relational mapping capabilities.
+with progressive learning and episodic memory capabilities.
 """
 
 __version__ = "1.0.0"

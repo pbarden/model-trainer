@@ -10,7 +10,7 @@ import subprocess
 from pathlib import Path
 from unittest.mock import Mock, patch, MagicMock
 
-from master_training_pipeline import MasterTrainingPipeline, PipelineConfig, PipelineStage
+from model_tea.core.training.master_pipeline import MasterTrainingPipeline, PipelineConfig, PipelineStage
 
 
 class TestPipelineConfig:
