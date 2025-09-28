@@ -23,7 +23,6 @@ from dataclasses import dataclass
 import random
 import time
 from collections import defaultdict
-import pickle
 
 @dataclass
 class MemoryConfig:
@@ -47,8 +46,8 @@ class MemoryConfig:
     randomness_factor: float = 0.15  # Reduced randomness for consistency
 
     # CPU optimization
-    use_simple_similarity: bool = True  # Use basic keyword matching vs embeddings
-    memory_cache_size: int = 100       # Cache frequently accessed memories
+    use_simple_similarity: bool = True
+    memory_cache_size: int = 100
 
 class MemoryType:
     """Types of memories that can be extracted"""
@@ -65,10 +64,10 @@ class Memory:
     content: str
     memory_type: str
     keywords: List[str]
-    context: str  # Surrounding context
+    context: str
     emotional_tone: str
     importance_score: float
-    chapter_position: float  # Where in novel (0.0 to 1.0)
+    chapter_position: float
 
 class MemoryExtractor:
     """Extracts different types of memories from novel text"""
@@ -141,7 +140,7 @@ class MemoryExtractor:
 
         for i in range(0, len(words), step_size):
             chunk_words = words[i:i + self.config.memory_chunk_size]
-            if len(chunk_words) >= 20:  # Minimum chunk size
+            if len(chunk_words) >= 20:
                 chunks.append(' '.join(chunk_words))
 
         return chunks
@@ -590,10 +589,23 @@ class EpisodicMemorySystem:
         # Create analysis
         analysis = self._analyze_memory_system(memories, novel_text)
 
-        # Save to both locations for compatibility
+        # Save to both locations for compatibility (using secure JSON serialization)
         for memory_dir in [primary_memory_dir, secondary_memory_dir]:
-            with open(memory_dir / "memories.pkl", 'wb') as f:
-                pickle.dump(memories, f)
+            # Convert memories to serializable format
+            serializable_memories = []
+            for memory in memories:
+                serializable_memories.append({
+                    'content': memory.content,
+                    'memory_type': memory.memory_type,
+                    'keywords': memory.keywords,
+                    'context': memory.context,
+                    'emotional_tone': memory.emotional_tone,
+                    'importance_score': memory.importance_score,
+                    'chapter_position': memory.chapter_position
+                })
+
+            with open(memory_dir / "memories.json", 'w', encoding='utf-8') as f:
+                json.dump(serializable_memories, f, indent=2, ensure_ascii=False)
 
             with open(memory_dir / "memory_analysis.json", 'w') as f:
                 json.dump(analysis, f, indent=2, default=str)
@@ -605,12 +617,32 @@ class EpisodicMemorySystem:
 
     def load_memory_for_model(self, model_name: str) -> bool:
         """Load pre-built memory for a model"""
-        memory_path = Path("episodic_memories") / model_name / "memories.pkl"
+        memory_path = Path("episodic_memories") / model_name / "memories.json"
 
         if memory_path.exists():
-            with open(memory_path, 'rb') as f:
-                self.model_memories[model_name] = pickle.load(f)
-            return True
+            try:
+                with open(memory_path, 'r', encoding='utf-8') as f:
+                    serialized_memories = json.load(f)
+
+                # Convert back to Memory objects
+                memories = []
+                for mem_data in serialized_memories:
+                    memory = Memory(
+                        content=mem_data['content'],
+                        memory_type=mem_data['memory_type'],
+                        keywords=mem_data['keywords'],
+                        context=mem_data['context'],
+                        emotional_tone=mem_data['emotional_tone'],
+                        importance_score=mem_data['importance_score'],
+                        chapter_position=mem_data['chapter_position']
+                    )
+                    memories.append(memory)
+
+                self.model_memories[model_name] = memories
+                return True
+            except (json.JSONDecodeError, KeyError) as e:
+                logger.warning(f"Failed to load memories for {model_name}: {e}")
+                return False
         return False
 
     def activate_memories(self, model_name: str, prompt: str) -> Tuple[List[Memory], Dict[str, Any]]:

@@ -22,8 +22,9 @@ import numpy as np
 from datasets import Dataset
 import random
 
-warnings.filterwarnings("ignore", category=UserWarning)
-warnings.filterwarnings("ignore", category=FutureWarning)
+# Targeted warning suppression for known issues only
+warnings.filterwarnings("ignore", message=".*Using the model-agnostic default.*", category=UserWarning)
+warnings.filterwarnings("ignore", message=".*resume_download is deprecated.*", category=FutureWarning)
 from model_tea_utils import (
     ModelTeaConfig, FileSystemUtils, TextProcessingUtils, TrainingUtils,
     QualityMetrics, MemorySystemUtils, ErrorHandling, validate_system_setup
@@ -105,7 +106,7 @@ class NovelProcessor:
         """Create chunks with progressive difficulty"""
         # Start with easier (shorter) chunks, progress to longer ones
         base_size = self.config.chunk_size
-        progression_factor = 1 + (iteration * 0.2)  # 20% increase per iteration
+        progression_factor = 1 + (iteration * 0.2)
         current_chunk_size = int(base_size * progression_factor)
 
         # Split into sentences for better boundaries
@@ -177,7 +178,7 @@ class _LegacyQualityValidator:
         total_tokens = 0
 
         with torch.no_grad():
-            for text in val_texts[:5]:  # Sample for speed
+            for text in val_texts[:5]:
                 inputs = tokenizer(text, return_tensors="pt", truncation=True,
                                  max_length=self.config.max_seq_length)
 
@@ -245,7 +246,7 @@ class _LegacyQualityValidator:
         # Check for reasonable sentence structure
         sentences = text.split('.')
         avg_sentence_length = np.mean([len(s.split()) for s in sentences if s.strip()])
-        sentence_score = min(avg_sentence_length / 15, 1.0)  # Prefer 10-20 word sentences
+        sentence_score = min(avg_sentence_length / 15, 1.0)
 
         # Combine scores
         quality_score = (repetition_ratio * 0.6) + (sentence_score * 0.4)
@@ -253,7 +254,6 @@ class _LegacyQualityValidator:
 
     def should_continue_training(self, current_iteration: int) -> bool:
         """Decide if training should continue - now always completes all 5 iterations for consistency"""
-        # Always complete all iterations for comprehensive analysis
         return True
 
     def get_training_analysis(self, current_iteration: int) -> Dict[str, Any]:
@@ -268,14 +268,12 @@ class _LegacyQualityValidator:
             "convergence_status": "continuing"
         }
 
-        # Analyze trends
         if len(self.perplexity_history) >= 2:
             analysis["perplexity_trend"] = "increasing" if self.perplexity_history[-1] > self.perplexity_history[-2] else "decreasing"
 
         if len(self.generation_quality_history) >= 2:
             analysis["quality_trend"] = "improving" if self.generation_quality_history[-1] > self.generation_quality_history[-2] else "declining"
 
-        # Check for potential issues (for documentation, not stopping)
         if self.perplexity_history and self.perplexity_history[-1] > self.config.perplexity_threshold:
             analysis["overfitting_risk"] = True
             analysis["convergence_status"] = "high_perplexity_warning"
@@ -294,21 +292,18 @@ class IterativeTrainer:
         self.config = config
         self.processor = NovelProcessor(config)
 
-        # Use extracted QualityValidator with compatible config
         validation_config = ValidationConfig(
             perplexity_threshold=config.perplexity_threshold,
-            quality_threshold=0.8,  # Default from legacy
+            quality_threshold=0.8,
             max_repetition_penalty=config.max_repetition_penalty,
             temperature_range=config.temperature_range
         )
         self.validator = QualityValidator(validation_config)
 
-        # Setup directories
         self.novels_dir = Path(config.novels_dir)
         self.output_dir = Path(config.output_dir)
         self.output_dir.mkdir(exist_ok=True)
 
-        # Configure CPU optimization
         torch.set_num_threads(os.cpu_count())
 
         logger.info("Iterative Novel Trainer initialized")
@@ -327,7 +322,6 @@ class IterativeTrainer:
         novel_data = self.processor.load_novel(novel_path)
         logger.info(f"Loaded: {novel_data['title']} ({novel_data['word_count']:,} words)")
 
-        # Import training libraries
         try:
             from transformers import (
                 AutoTokenizer, AutoModelForCausalLM,
@@ -378,10 +372,8 @@ class IterativeTrainer:
                 logger.warning("No training data available")
                 break
 
-            # Prepare dataset
             train_dataset = self._prepare_dataset(train_chunks, tokenizer)
 
-            # Calculate learning rate for this iteration
             if self.config.iterations_per_novel > 1:
                 lr_progress = iteration / (self.config.iterations_per_novel - 1)
             else:
@@ -406,17 +398,15 @@ class IterativeTrainer:
                 save_total_limit=1,
                 report_to="none",
                 use_cpu=True,
-                dataloader_num_workers=0,  # Avoid multiprocessing issues on Windows
+                dataloader_num_workers=0,
                 prediction_loss_only=True
             )
 
-            # Data collator
             data_collator = DataCollatorForLanguageModeling(
                 tokenizer=tokenizer,
                 mlm=False
             )
 
-            # Create trainer
             trainer = Trainer(
                 model=model,
                 args=training_args,
@@ -500,7 +490,7 @@ class IterativeTrainer:
                 "words_per_second": novel_data['word_count'] / total_time if total_time > 0 else 0,
                 "chunks_processed_total": sum(iter_data["chunk_count"] for iter_data in results["iterations"]),
                 "training_steps_total": sum(iter_data.get("training_steps", 0) for iter_data in results["iterations"]),
-                "model_parameters": 82_000_000,  # DistilGPT-2 parameters
+                "model_parameters": 82_000_000,
                 "memory_efficiency_score": self._calculate_memory_efficiency(novel_data['word_count'], total_time)
             },
             "curriculum_learning_analysis": {
@@ -548,7 +538,6 @@ class IterativeTrainer:
         logger.info(f"Starting iterative training with content for: {model_name}")
         logger.info(f"Content length: {len(content):,} characters, {len(content.split()):,} words")
 
-        # Import training libraries
         try:
             from transformers import (
                 AutoTokenizer, AutoModelForCausalLM,
@@ -602,10 +591,8 @@ class IterativeTrainer:
                 logger.warning("No training data available")
                 break
 
-            # Prepare dataset
             train_dataset = self._prepare_dataset(train_chunks, tokenizer)
 
-            # Calculate learning rate for this iteration
             if self.config.iterations_per_novel > 1:
                 lr_progress = iteration / (self.config.iterations_per_novel - 1)
             else:
@@ -634,13 +621,11 @@ class IterativeTrainer:
                 prediction_loss_only=True
             )
 
-            # Data collator
             data_collator = DataCollatorForLanguageModeling(
                 tokenizer=tokenizer,
                 mlm=False
             )
 
-            # Create trainer
             trainer = Trainer(
                 model=model,
                 args=training_args,
@@ -813,15 +798,12 @@ class IterativeTrainer:
         quality_scores = [iter_data["quality_score"] for iter_data in iterations]
         perplexities = [iter_data["perplexity"] for iter_data in iterations]
 
-        # Early learning (first 2 iterations)
         early_quality_improvement = quality_scores[1] - quality_scores[0] if len(quality_scores) > 1 else 0
         early_perplexity_improvement = perplexities[0] - perplexities[1] if len(perplexities) > 1 else 0
 
-        # Mid-training (iterations 2-4)
         mid_quality_variance = np.var(quality_scores[1:4]) if len(quality_scores) > 3 else 0
         mid_perplexity_variance = np.var(perplexities[1:4]) if len(perplexities) > 3 else 0
 
-        # Overall trend
         quality_trend = "improving" if quality_scores[-1] > quality_scores[0] else "declining"
         perplexity_trend = "improving" if perplexities[-1] < perplexities[0] else "declining"
 
@@ -851,32 +833,27 @@ class IterativeTrainer:
         quality_scores = [iter_data["quality_score"] for iter_data in iterations]
         perplexities = [iter_data["perplexity"] for iter_data in iterations]
 
-        # Calculate stability metrics
         quality_variance = np.var(quality_scores)
         perplexity_variance = np.var(perplexities)
         quality_range = max(quality_scores) - min(quality_scores)
         perplexity_range = max(perplexities) - min(perplexities)
 
-        # Detect oscillations (consecutive opposite direction changes)
         quality_oscillations = 0
         perplexity_oscillations = 0
 
         for i in range(2, len(iterations)):
-            # Quality oscillation detection
             if len(quality_scores) > i:
                 prev_change = quality_scores[i-1] - quality_scores[i-2]
                 curr_change = quality_scores[i] - quality_scores[i-1]
-                if prev_change * curr_change < 0 and abs(prev_change) > 0.01:  # Opposite directions
+                if prev_change * curr_change < 0 and abs(prev_change) > 0.01:
                     quality_oscillations += 1
 
-            # Perplexity oscillation detection
             if len(perplexities) > i:
                 prev_change = perplexities[i-1] - perplexities[i-2]
                 curr_change = perplexities[i] - perplexities[i-1]
-                if prev_change * curr_change < 0 and abs(prev_change) > 1.0:  # Opposite directions
+                if prev_change * curr_change < 0 and abs(prev_change) > 1.0:
                     perplexity_oscillations += 1
 
-        # Stability assessment
         is_stable = (quality_variance < 0.01 and perplexity_variance < 25.0 and
                     quality_oscillations <= 1 and perplexity_oscillations <= 1)
 
@@ -904,13 +881,10 @@ class IterativeTrainer:
         if training_time <= 0:
             return 0.0
 
-        # Baseline: 2GB RAM usage (typical for CPU training)
         estimated_ram_gb = 2.0
 
-        # Words processed per second per GB of RAM
         efficiency = (word_count / training_time) / estimated_ram_gb
 
-        # Normalize to 0-1 scale (1000 words/sec/GB is excellent)
         normalized_efficiency = min(1.0, efficiency / 1000.0)
 
         return float(normalized_efficiency)
@@ -922,7 +896,6 @@ class IterativeTrainer:
             return MemorySystemUtils.create_memory_fallback()
 
         try:
-            # Initialize memory system with properly scoped imports
             memory_config = MemoryConfig(
                 max_memories_per_novel=250,  # Increased for richer context
                 memory_chunk_size=35,        # Slightly smaller for more granular memories
@@ -932,10 +905,8 @@ class IterativeTrainer:
 
             memory_system = EpisodicMemorySystem(memory_config)
 
-            # Build memories for this model
             memory_analysis = memory_system.build_memory_for_model(novel_name, novel_path)
 
-            # Test memory activation with sample prompts
             test_prompts = [
                 "Tell me about the main character",
                 "What was the setting like?",
@@ -953,7 +924,6 @@ class IterativeTrainer:
                     "activation_analysis": activation
                 })
 
-            # Add test results to analysis
             memory_analysis["memory_activation_tests"] = memory_tests
             memory_analysis["system_status"] = "active"
 
@@ -972,7 +942,6 @@ class IterativeTrainer:
         try:
             from post_training_tester import PostTrainingTester, TestConfig
 
-            # Create test configuration
             test_config = TestConfig(
                 test_prompts_per_category=2,  # Reduced for speed
                 generation_length=100,        # Shorter for faster testing
@@ -980,15 +949,12 @@ class IterativeTrainer:
                 min_quality_threshold=0.7
             )
 
-            # Initialize tester
             tester = PostTrainingTester(test_config)
 
-            # Determine model path from training results
-            model_path = self.config.base_model  # Use base model for now
+            model_path = self.config.base_model
             if training_results.get("model_saved_to"):
                 model_path = training_results["model_saved_to"]
 
-            # Run comprehensive tests
             test_results = tester.run_comprehensive_tests(
                 model_path=model_path,
                 novel_name=novel_name,
@@ -1012,17 +978,12 @@ class IterativeTrainer:
 
     def _calculate_chunk_size(self, iteration: int) -> int:
         """Calculate chunk size for given iteration with smoother progression"""
-        # More gradual progression for 12 iterations: 200 -> 500 words
-        # Early iterations focus on smaller chunks, later iterations on larger context
         base_size = self.config.chunk_size
         if iteration < 4:
-            # Iterations 1-4: Small chunks (200-260 words)
             return int(base_size + (iteration * base_size * 0.075))
         elif iteration < 8:
-            # Iterations 5-8: Medium chunks (260-340 words)
             return int(base_size + ((iteration - 4) * base_size * 0.1) + (base_size * 0.3))
         else:
-            # Iterations 9-12: Large chunks (340-500 words)
             return int(base_size + ((iteration - 8) * base_size * 0.1) + (base_size * 0.7))
 
     def list_available_novels(self) -> List[str]:

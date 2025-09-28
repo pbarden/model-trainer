@@ -6,7 +6,7 @@ A modular, CPU-optimized system for training language models on literary works
 with progressive learning and episodic memory capabilities.
 """
 
-__version__ = "1.0.0"
+__version__ = "2.0.0"
 __author__ = "ChaiQ LLC"
-__email__ = "info@chaiq.com"
+__email__ = "paul@chaiq.com"
 __license__ = "MIT"

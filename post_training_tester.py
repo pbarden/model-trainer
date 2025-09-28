@@ -69,22 +69,18 @@ class PostTrainingTester:
         }
 
         try:
-            # Load trained model
             print("Loading trained model...")
             trained_model, trained_tokenizer = self._load_model(model_path)
 
-            # Load baseline model for comparison
             print("Loading baseline model...")
             baseline_model, baseline_tokenizer = self._load_model(baseline_model_name)
 
-            # Test 1: Generation Quality Tests
             print("\n--- GENERATION QUALITY TESTS ---")
             generation_results = self._test_generation_quality(
                 trained_model, trained_tokenizer, novel_name
             )
             test_results["generation_quality"] = generation_results
 
-            # Test 2: Baseline Comparison Tests
             print("\n--- BASELINE COMPARISON TESTS ---")
             comparison_results = self._compare_with_baseline(
                 trained_model, trained_tokenizer,
@@ -93,32 +89,27 @@ class PostTrainingTester:
             )
             test_results["baseline_comparison"] = comparison_results
 
-            # Test 3: Memory System Tests
             print("\n--- MEMORY SYSTEM TESTS ---")
             memory_results = self._test_memory_system(
                 trained_model, trained_tokenizer, novel_name, novel_path
             )
             test_results["memory_system"] = memory_results
 
-            # Test 4: Performance Benchmarks
             print("\n--- PERFORMANCE BENCHMARKS ---")
             performance_results = self._test_performance(
                 trained_model, trained_tokenizer, novel_name, novel_path
             )
             test_results["performance"] = performance_results
 
-            # Test 5: Novel-Specific Tests
             print("\n--- NOVEL-SPECIFIC TESTS ---")
             novel_specific_results = self._test_novel_specific_features(
                 trained_model, trained_tokenizer, novel_name
             )
             test_results["novel_specific"] = novel_specific_results
 
-            # Generate Overall Assessment
             overall_assessment = self._generate_overall_assessment(test_results)
             test_results["overall_assessment"] = overall_assessment
 
-            # Print Summary
             self._print_test_summary(test_results)
 
             return test_results
@@ -142,7 +133,6 @@ class PostTrainingTester:
     def _test_generation_quality(self, model, tokenizer, novel_name: str) -> Dict[str, Any]:
         """Test generation quality with various prompts"""
 
-        # Define test prompt categories
         test_prompts = {
             "narrative_start": [
                 "It was a dark and stormy night when",
@@ -181,15 +171,12 @@ class PostTrainingTester:
             category_samples = []
 
             for prompt in prompts:
-                # Generate text
                 generated_text = self._generate_text(model, tokenizer, prompt)
 
-                # Score quality
                 quality_score = self.quality_validator._assess_text_quality(generated_text)
                 category_scores.append(quality_score)
                 all_scores.append(quality_score)
 
-                # Categorize quality
                 if quality_score >= 0.9:
                     results["quality_distribution"]["excellent"] += 1
                 elif quality_score >= 0.8:
@@ -237,11 +224,9 @@ class PostTrainingTester:
         improvements = []
 
         for prompt in comparison_prompts:
-            # Generate from both models
             trained_text = self._generate_text(trained_model, trained_tokenizer, prompt)
             baseline_text = self._generate_text(baseline_model, baseline_tokenizer, prompt)
 
-            # Score both
             trained_score = self.quality_validator._assess_text_quality(trained_text)
             baseline_score = self.quality_validator._assess_text_quality(baseline_text)
 
@@ -271,7 +256,6 @@ class PostTrainingTester:
         """Test episodic memory system integration"""
 
         try:
-            # Initialize memory system
             from episodic_memory_system import MemoryConfig
             memory_config = MemoryConfig(
                 max_memories_per_novel=250,
@@ -282,7 +266,6 @@ class PostTrainingTester:
             memory_system = EpisodicMemorySystem(memory_config)
             memory_analysis = memory_system.build_memory_for_model(novel_name, novel_path)
 
-            # Test memory activation
             test_prompts = [
                 "Tell me about the main character",
                 "Describe the setting",
@@ -330,12 +313,10 @@ class PostTrainingTester:
     def _test_performance(self, model, tokenizer, novel_name: str, novel_path: Path) -> Dict[str, Any]:
         """Test performance benchmarks"""
 
-        # Test generation speed
         start_time = time.time()
         test_text = self._generate_text(model, tokenizer, "Performance test prompt")
         generation_time = time.time() - start_time
 
-        # Test memory retrieval speed (if available)
         memory_time = 0.0
         try:
             from episodic_memory_system import EpisodicMemorySystem, MemoryConfig
@@ -355,7 +336,6 @@ class PostTrainingTester:
             "performance_summary": {}
         }
 
-        # Performance ratings
         if generation_time < self.config.max_generation_time:
             results["performance_summary"]["generation"] = "PASS"
         else:
@@ -376,7 +356,6 @@ class PostTrainingTester:
     def _test_novel_specific_features(self, model, tokenizer, novel_name: str) -> Dict[str, Any]:
         """Test novel-specific features based on the novel type"""
 
-        # Customize tests based on novel
         if "cthulhu" in novel_name.lower():
             return self._test_lovecraftian_features(model, tokenizer)
         else:
@@ -400,7 +379,6 @@ class PostTrainingTester:
         for prompt in lovecraftian_prompts:
             generated = self._generate_text(model, tokenizer, prompt)
 
-            # Score for Lovecraftian elements
             lovecraft_score = self._score_lovecraftian_elements(generated)
 
             results["tests"].append({
@@ -460,16 +438,13 @@ class PostTrainingTester:
         text_lower = text.lower()
         score = 0.0
 
-        # Check for keyword presence
         for keyword in lovecraft_keywords:
             if keyword in text_lower:
                 score += 0.05
 
-        # Check for atmospheric elements
         if any(word in text_lower for word in ["darkness", "shadow", "whisper"]):
             score += 0.1
 
-        # Check for complexity of language
         if len(text.split()) > 20:
             score += 0.1
 
@@ -502,7 +477,6 @@ class PostTrainingTester:
             "recommendations": []
         }
 
-        # Analyze generation quality
         if "generation_quality" in test_results:
             avg_quality = test_results["generation_quality"]["average_quality"]
             if avg_quality >= 0.9:
@@ -518,7 +492,6 @@ class PostTrainingTester:
                 assessment["weaknesses"].append("Poor generation quality")
                 assessment["overall_rating"] = "poor"
 
-        # Analyze baseline comparison
         if "baseline_comparison" in test_results:
             improvement = test_results["baseline_comparison"]["average_improvement"]
             if improvement > 0.1:
@@ -529,7 +502,6 @@ class PostTrainingTester:
                 assessment["weaknesses"].append("No improvement over baseline")
                 assessment["recommendations"].append("Consider adjusting training parameters")
 
-        # Analyze memory system
         if "memory_system" in test_results and "error" not in test_results["memory_system"]:
             avg_activated = test_results["memory_system"]["average_memories_activated"]
             if avg_activated >= 3:
@@ -539,7 +511,6 @@ class PostTrainingTester:
             else:
                 assessment["weaknesses"].append("Weak memory activation")
 
-        # Performance analysis
         if "performance" in test_results:
             perf = test_results["performance"]["performance_summary"]
             if perf.get("generation") == "PASS":
@@ -556,7 +527,6 @@ class PostTrainingTester:
         print("TEST SUMMARY")
         print(f"{'='*60}")
 
-        # Overall Assessment
         if "overall_assessment" in test_results:
             assessment = test_results["overall_assessment"]
             print(f"Overall Rating: {assessment['overall_rating'].upper()}")
@@ -576,7 +546,6 @@ class PostTrainingTester:
                 for rec in assessment["recommendations"]:
                     print(f"  * {rec}")
 
-        # Key Metrics
         print(f"\nKey Metrics:")
         if "generation_quality" in test_results:
             print(f"  Average Generation Quality: {test_results['generation_quality']['average_quality']:.3f}")
@@ -600,13 +569,6 @@ def main():
     print("Post-Training Test Suite")
     print("=" * 40)
 
-    # This would be called after training completes
-    # tester = PostTrainingTester()
-    # results = tester.run_comprehensive_tests(
-    #     model_path="iterative_models/call_of_cthulhu/final/",
-    #     novel_name="call_of_cthulhu",
-    #     novel_path=Path("novels/call_of_cthulhu")
-    # )
 
     print("Post-training test suite ready for integration")
 

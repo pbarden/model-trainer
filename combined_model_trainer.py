@@ -22,18 +22,16 @@ import torch
 import numpy as np
 from datasets import Dataset
 
-# Suppress warnings for cleaner output
-warnings.filterwarnings("ignore", category=UserWarning)
-warnings.filterwarnings("ignore", category=FutureWarning)
+# Targeted warning suppression for known issues only
+warnings.filterwarnings("ignore", message=".*Using the model-agnostic default.*", category=UserWarning)
+warnings.filterwarnings("ignore", message=".*resume_download is deprecated.*", category=FutureWarning)
 
-# Import Model Tea utilities
 from model_tea_utils import (
     ModelTeaConfig, FileSystemUtils, TextProcessingUtils, TrainingUtils,
     QualityMetrics, MemorySystemUtils, ErrorHandling, validate_system_setup
 )
 from quality_validator import QualityValidator, ValidationConfig
 
-# Import episodic memory system
 try:
     from episodic_memory_system import EpisodicMemorySystem, MemoryConfig
     MEMORY_SYSTEM_AVAILABLE = True
@@ -42,29 +40,25 @@ except ImportError:
     MemoryConfig = None
     MEMORY_SYSTEM_AVAILABLE = False
 
-# Configure logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
 @dataclass
 class CombinedModelConfig:
     """Configuration for combined model training"""
-    # Inherit from ModelTeaConfig for consistency
     base_config: ModelTeaConfig = None
 
-    # Combined model specific settings
-    combine_novels_method: str = "concatenate"  # or "interleave"
+    combine_novels_method: str = "concatenate"
+    combine_novels_method: str = "concatenate"
     novel_separator: str = "\n\n=== NEW NOVEL ===\n\n"
     min_novels_required: int = 2
     max_combined_size: int = 2000000  # 2M words max
 
-    # Training settings (same as individual novels)
     max_iterations: int = 12
     learning_rate_start: float = 5e-5
     learning_rate_end: float = 5e-6
 
-    # Memory settings (enhanced for combined models)
-    combined_memories_count: int = 350  # More memories for combined models
+    combined_memories_count: int = 350
     cross_novel_memories: bool = True
 
     def __post_init__(self):
@@ -82,11 +76,9 @@ class CombinedModelTrainer:
         self.model_mapping = self._load_model_mapping()
         self.quality_validator = QualityValidator(ValidationConfig())
 
-        # Setup directories
         self.novels_dir = Path("novels")
         self.models_dir = Path("iterative_models")
 
-        # Validate system setup
         validate_system_setup()
 
     def _load_model_mapping(self) -> Dict[str, Any]:
@@ -137,7 +129,6 @@ class CombinedModelTrainer:
         if not novel_path.exists():
             raise FileNotFoundError(f"Novel directory not found: {novel_path}")
 
-        # Look for content files (try multiple formats)
         content_files = ["content.txt", f"{directory_name}.txt", "novel.txt"]
         content = ""
 
@@ -177,17 +168,14 @@ class CombinedModelTrainer:
                 logger.info(f"  {i+1}/{len(novels)}: {original_name} ({word_count:,} words)")
 
                 if method == "concatenate":
-                    # Add novel separator and content
-                    if combined_content:  # Not the first novel
+                    if combined_content:
                         combined_content.append(self.config.novel_separator)
                     combined_content.append(f"=== {original_name} ===\n\n")
                     combined_content.append(content)
 
                 elif method == "interleave":
-                    # For future implementation - alternate chapters/sections
                     combined_content.append(content)
 
-                # Check size limits
                 if total_words > self.config.max_combined_size:
                     logger.warning(f"Combined content ({total_words:,} words) exceeds limit ({self.config.max_combined_size:,})")
                     break
@@ -210,37 +198,29 @@ class CombinedModelTrainer:
         if len(novels) < self.config.min_novels_required:
             raise ValueError(f"Model '{model_key}' has only {len(novels)} novels. Minimum required: {self.config.min_novels_required}")
 
-        # Check if individual novels are trained (informational)
         training_status = self.check_individual_novels_trained(novels)
         untrained_count = sum(1 for trained in training_status.values() if not trained)
         if untrained_count > 0:
             logger.warning(f"{untrained_count} individual novels are not yet trained. This is optional but recommended.")
 
-        # Combine novel contents
         start_time = time.time()
         combined_content = self.combine_novel_contents(novels, self.config.combine_novels_method)
 
-        # Create output directory
         model_output_dir = self.models_dir / model_key
         FileSystemUtils.ensure_directory(model_output_dir)
 
-        # Use same training approach as individual novels
         from iterative_novel_trainer import IterativeTrainer, IterativeConfig
 
-        # Create training config
         training_config = IterativeConfig()
         training_config.max_iterations = self.config.max_iterations
         training_config.learning_rate_start = self.config.learning_rate_start
         training_config.learning_rate_end = self.config.learning_rate_end
 
-        # Initialize trainer
         trainer = IterativeTrainer(training_config)
 
-        # Train using combined content
         logger.info(f"Training combined model '{model_key}' with {len(novels)} novels...")
         training_results = trainer._train_with_content(combined_content, model_key)
 
-        # Add combined model metadata
         training_results.update({
             "model_type": "combined",
             "model_key": model_key,
@@ -250,11 +230,9 @@ class CombinedModelTrainer:
             "combination_method": self.config.combine_novels_method
         })
 
-        # Create enhanced memory system for combined model
         if MEMORY_SYSTEM_AVAILABLE:
             self._create_combined_memories(model_key, combined_content, novels, training_results)
 
-        # Save training results
         results_file = model_output_dir / "training_results.json"
         try:
             with open(results_file, 'w', encoding='utf-8') as f:
@@ -275,7 +253,6 @@ class CombinedModelTrainer:
         try:
             logger.info(f"Creating enhanced memory system for combined model: {model_key}")
 
-            # Enhanced memory configuration for combined models
             memory_config = MemoryConfig(
                 max_memories_per_novel=self.config.combined_memories_count,
                 memory_chunk_size=35,
@@ -287,43 +264,32 @@ class CombinedModelTrainer:
                 extract_descriptions=True
             )
 
-            # Create memory system
             memory_system = EpisodicMemorySystem(memory_config)
 
-            # Create temporary novel path for combined content
             temp_novel_path = self.models_dir / model_key / "temp_combined.txt"
             temp_novel_path.parent.mkdir(parents=True, exist_ok=True)
 
-            # Write combined content to temporary file
             with open(temp_novel_path, 'w', encoding='utf-8') as f:
                 f.write(content)
 
-            # Build memories for the combined model
             memory_analysis = memory_system.build_memory_for_model(model_key, temp_novel_path.parent)
 
-            # Clean up temporary file
             if temp_novel_path.exists():
                 temp_novel_path.unlink()
 
-            # Store memory analysis in training results
             training_results["combined_memory_analysis"] = memory_analysis
 
             logger.info(f"Enhanced memory system created with {memory_analysis.get('total_memories', 0)} memories")
 
         except Exception as e:
             logger.error(f"Failed to create enhanced memory system: {e}")
-            # Don't fail the entire training if memory creation fails
 
     def _create_cross_novel_memories(self, novels: List[Dict], content: str) -> List[Dict]:
         """Create cross-novel relationship memories"""
-        # Placeholder for future relational memory implementation
-        # This will be implemented in relational_memory_mapper.py
         cross_memories = []
 
-        # Basic implementation: identify common themes/patterns
         for i, novel1 in enumerate(novels):
             for novel2 in novels[i+1:]:
-                # Create cross-reference memory
                 cross_memory = {
                     "type": "cross_novel_reference",
                     "novel1": novel1["original_name"],
@@ -356,14 +322,12 @@ class CombinedModelTrainer:
             logger.info(f"\n=== Training Model {i+1}/{len(available_models)}: {model_key} ===")
 
             try:
-                # Check if already trained
                 model_path = self.models_dir / model_key / "final"
                 if model_path.exists():
                     logger.info(f"Model '{model_key}' already trained. Skipping.")
                     results[model_key] = {"status": "already_trained", "path": str(model_path)}
                     continue
 
-                # Train the model
                 training_result = self.train_combined_model(model_key)
                 results[model_key] = {"status": "success", "results": training_result}
 
@@ -407,7 +371,6 @@ def main():
             print("Training all combined models...")
             results = trainer.train_all_combined_models()
 
-            # Summary
             success_count = sum(1 for r in results.values() if r["status"] == "success")
             already_trained_count = sum(1 for r in results.values() if r["status"] == "already_trained")
             failed_count = sum(1 for r in results.values() if r["status"] == "failed")
@@ -418,7 +381,6 @@ def main():
             print(f"Failed: {failed_count}")
 
         elif args.model:
-            # Check if already trained
             model_path = trainer.models_dir / args.model / "final"
             if model_path.exists() and not args.force:
                 print(f"Model '{args.model}' is already trained. Use --force to retrain.")
@@ -429,10 +391,8 @@ def main():
             print(f"Training completed successfully for {args.model}")
 
         else:
-            # No specific arguments - show help
             parser.print_help()
 
-            # Show available models
             models = trainer.get_available_models()
             print(f"\nAvailable models: {', '.join(models)}")
             print(f"\nExample usage:")

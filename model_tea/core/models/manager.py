@@ -35,10 +35,14 @@ class ModelManager:
         version_dir = self.storage_path / model_id / version
         version_dir.mkdir(exist_ok=True, parents=True)
 
-        model_path = str(version_dir / "model.pkl")
-        with open(model_path, 'wb') as f:
-            import pickle
-            pickle.dump(model, f)
+        model_path = str(version_dir / "model.joblib")
+        try:
+            import joblib
+            joblib.dump(model, model_path)
+        except ImportError:
+            import torch
+            model_path = str(version_dir / "model.pt")
+            torch.save(model.state_dict(), model_path)
 
         checksum = self.registry._calculate_checksum(model_path)
         model_size_mb = Path(model_path).stat().st_size / (1024 * 1024)
@@ -78,9 +82,15 @@ class ModelManager:
             return None
 
         try:
-            with open(model_version.model_path, 'rb') as f:
-                import pickle
-                model = pickle.load(f)
+            if model_version.model_path.endswith('.joblib'):
+                import joblib
+                model = joblib.load(model_version.model_path)
+            elif model_version.model_path.endswith('.pt'):
+                import torch
+                from transformers import AutoModelForCausalLM
+                model = AutoModelForCausalLM.from_pretrained(model_version.model_path.replace('/model.pt', ''))
+            else:
+                raise ValueError(f"Unsupported model format: {model_version.model_path}")
             return model
         except Exception as e:
             logger.error(f"Failed to load model {model_id}:{version}: {e}")

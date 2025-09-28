@@ -28,8 +28,9 @@ import threading
 
 sys.path.insert(0, str(Path(__file__).parent))
 
-warnings.filterwarnings("ignore", category=UserWarning)
-warnings.filterwarnings("ignore", category=FutureWarning)
+# Targeted warning suppression for known issues only
+warnings.filterwarnings("ignore", message=".*Using the model-agnostic default.*", category=UserWarning)
+warnings.filterwarnings("ignore", message=".*resume_download is deprecated.*", category=FutureWarning)
 
 from model_tea.core.models import ModelRegistry, ModelManager
 from model_tea_utils import ModelTeaConfig, FileSystemUtils, ErrorHandling, validate_system_setup
@@ -206,7 +207,6 @@ class CompletePipelineOrchestrator:
                         "training_completed": True
                     }
 
-                    # Save to Model Tea registry
                     saved_model = self.manager.save_model(
                         model=novel_model,
                         model_id=f"novel_{novel_name}",
@@ -339,7 +339,6 @@ class CompletePipelineOrchestrator:
                         "training_completed": True
                     }
 
-                    # Save to Model Tea registry
                     saved_model = self.manager.save_model(
                         model=combined_model,
                         model_id=model_key,

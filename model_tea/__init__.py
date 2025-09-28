@@ -21,7 +21,7 @@ from .deployment.strategies import (
 from .deployment.serving import ModelServer, ServingConfig
 from .deployment.monitoring import DeploymentMonitor
 
-__version__ = "1.0.0"
+__version__ = "2.0.0"
 
 __all__ = [
     # Core

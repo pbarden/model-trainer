@@ -93,12 +93,8 @@ all = [
     "dash>=2.0.0",
 ]
 
-[project.scripts]
-model-tea = "model_tea.core.training.master_pipeline:main"
-model-tea-chat = "model_tea.apps.chat.novel_chat:main"
-model-tea-analyze = "model_tea.analysis.memory.analysis_suite:main"
-model-tea-eval = "model_tea.analysis.metrics.nlg_evaluation:main"
-model-tea-demo = "enhanced_system_demo:main"
+# CLI scripts will be implemented in future versions
+# [project.scripts]
 
 [project.urls]
 Homepage = "https://github.com/chaiq-llc/model-trainer"

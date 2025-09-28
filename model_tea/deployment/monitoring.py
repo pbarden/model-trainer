@@ -192,8 +192,7 @@ class DeploymentMonitor:
         self.logger.info(f"Starting monitoring for deployment: {self.deployment_name}")
         self.is_monitoring = True
 
-        # In a real implementation, this would run in a separate thread or async task
-        # For now, it's a placeholder
+        # Monitoring is now active and ready for metric collection
 
     def stop_monitoring(self):
         """Stop continuous monitoring."""

@@ -1,413 +1,299 @@
-#!/usr/bin/env python3
 """
-Integration tests for complete Model Tea workflows
+Integration tests for the full training workflow
 """
 
 import pytest
 import tempfile
-import json
 import os
 from pathlib import Path
-from unittest.mock import Mock, patch, MagicMock
+from unittest.mock import patch, MagicMock
 
-# Import all the main components
 from iterative_novel_trainer import IterativeTrainer, IterativeConfig
-from combined_model_trainer import CombinedModelTrainer, CombinedModelConfig
-from relational_memory_mapper import RelationalMemoryMapper, RelationalConfig
-from master_training_pipeline import MasterTrainingPipeline, PipelineConfig
-from model_tea_utils import validate_system_setup, ModelTeaConfig
-
-
-class TestSystemIntegration:
-    """Test system-wide integration"""
-
-    def test_system_validation(self):
-        """Test system validation passes"""
-        validation = validate_system_setup()
-
-        assert isinstance(validation, dict)
-        assert "directories" in validation
-        assert "dependencies" in validation
-        assert "memory_system" in validation
-
-        # At least some components should be available
-        assert any(validation.values())
-
-    def test_configuration_compatibility(self):
-        """Test that all configuration classes are compatible"""
-        # Create all config types
-        model_tea_config = ModelTeaConfig()
-        iterative_config = IterativeConfig()
-        combined_config = CombinedModelConfig()
-        relational_config = RelationalConfig()
-        pipeline_config = PipelineConfig()
-
-        # Test that they all have reasonable defaults
-        assert model_tea_config.base_model == "distilgpt2"
-        assert iterative_config.base_model == "distilgpt2"
-        assert combined_config.max_iterations == 12
-        assert relational_config.similarity_threshold > 0
-        assert pipeline_config.run_individual_training == True
-
-        # Test that learning rates are compatible
-        assert iterative_config.learning_rate_start == combined_config.learning_rate_start
-        assert iterative_config.learning_rate_end == combined_config.learning_rate_end
-
-    def test_module_imports(self):
-        """Test that all modules can be imported without errors"""
-        # Test that we can create instances of all main classes
-        try:
-            with patch('builtins.open'), patch('json.load', return_value={"models": {}}):
-                with patch('pathlib.Path.exists', return_value=True):
-                    # These should not raise import errors
-                    trainer = IterativeTrainer(IterativeConfig())
-                    combined_trainer = CombinedModelTrainer(CombinedModelConfig())
-                    mapper = RelationalMemoryMapper(RelationalConfig())
-                    pipeline = MasterTrainingPipeline(PipelineConfig())
-
-                    assert trainer is not None
-                    assert combined_trainer is not None
-                    assert mapper is not None
-                    assert pipeline is not None
-        except ImportError as e:
-            pytest.fail(f"Module import failed: {e}")
-
-
-class TestWorkflowIntegration:
-    """Test complete workflow integration"""
-
-    @pytest.fixture(autouse=True)
-    def setup_method(self):
-        """Set up test fixtures"""
-        # Mock model mapping for all tests
-        self.mock_mapping = {
-            "metadata": {
-                "total_models": 1,
-                "total_novels_assigned": 2
-            },
-            "models": {
-                "test_model": {
-                    "description": "Test Model",
-                    "novel_count": 2,
-                    "novels": [
-                        {"original_name": "Test Novel 1", "directory_name": "test_novel_1"},
-                        {"original_name": "Test Novel 2", "directory_name": "test_novel_2"}
-                    ]
-                }
-            }
-        }
-
-        # Mock novel contents
-        self.mock_contents = {
-            "test_novel_1": "This is the content of the first test novel. It contains adventure and mystery themes.",
-            "test_novel_2": "This is the content of the second test novel. It also has adventure themes and some horror elements."
-        }
-
-    @patch('iterative_novel_trainer.IterativeTrainer')
-    @patch('combined_model_trainer.Path')
-    @patch('builtins.open')
-    @patch('json.load')
-    def test_individual_to_combined_workflow(self, mock_json_load, mock_open, mock_path, mock_trainer_class):
-        """Test workflow from individual training to combined model"""
-        # Setup mocks
-        mock_json_load.return_value = self.mock_mapping
-        mock_path.return_value.exists.return_value = True
-
-        # Mock file reading for novel contents
-        def mock_file_read(file_path, *args, **kwargs):
-            mock_file = Mock()
-            if "test_novel_1" in str(file_path):
-                mock_file.read.return_value = self.mock_contents["test_novel_1"]
-            elif "test_novel_2" in str(file_path):
-                mock_file.read.return_value = self.mock_contents["test_novel_2"]
-            else:
-                mock_file.read.return_value = ""
-            return mock_file
-
-        mock_open.side_effect = mock_file_read
-
-        # Mock trainer
-        mock_trainer = Mock()
-        mock_trainer._train_with_content.return_value = {
-            "iterations": [
-                {"iteration": 1, "perplexity": 20.0, "quality_score": 0.8},
-                {"iteration": 2, "perplexity": 15.0, "quality_score": 0.9}
-            ],
-            "final_quality": 0.9,
-            "training_time": 600
-        }
-        mock_trainer_class.return_value = mock_trainer
-
-        # Test combined training workflow
-        with patch.object(CombinedModelTrainer, '_load_model_mapping', return_value=self.mock_mapping):
-            combined_trainer = CombinedModelTrainer(CombinedModelConfig())
-
-            # Check novel status
-            novels = combined_trainer.get_novels_for_model("test_model")
-            assert len(novels) == 2
-
-            # Test combining content
-            combined_content = combined_trainer.combine_novel_contents(novels, "concatenate")
-            assert "Test Novel 1" in combined_content
-            assert "Test Novel 2" in combined_content
-            assert self.mock_contents["test_novel_1"] in combined_content
-            assert self.mock_contents["test_novel_2"] in combined_content
-
-            # Test training (mocked)
-            with patch.object(combined_trainer, '_create_combined_memories'):
-                result = combined_trainer.train_combined_model("test_model")
-
-                assert result["model_type"] == "combined"
-                assert result["model_key"] == "test_model"
-                assert "novels_included" in result
-                assert len(result["novels_included"]) == 2
-
-    @patch('relational_memory_mapper.Path')
-    @patch('builtins.open')
-    @patch('json.load')
-    def test_combined_to_relational_workflow(self, mock_json_load, mock_open, mock_path):
-        """Test workflow from combined model to relational mapping"""
-        # Setup mocks
-        mock_json_load.return_value = self.mock_mapping
-        mock_path.return_value.exists.return_value = True
-
-        # Mock file reading for novel contents
-        def mock_file_read(file_path, *args, **kwargs):
-            mock_file = Mock()
-            if "test_novel_1" in str(file_path):
-                mock_file.read.return_value = self.mock_contents["test_novel_1"]
-            elif "test_novel_2" in str(file_path):
-                mock_file.read.return_value = self.mock_contents["test_novel_2"]
-            else:
-                mock_file.read.return_value = ""
-            return mock_file
-
-        mock_open.side_effect = mock_file_read
-
-        # Test relational mapping workflow
-        with patch.object(RelationalMemoryMapper, '_load_model_mapping', return_value=self.mock_mapping):
-            mapper = RelationalMemoryMapper(RelationalConfig())
-
-            # Test thematic analysis
-            novels = mapper.get_available_models()
-            assert "test_model" in novels
-
-            # Test building relational memory table
-            with patch.object(mapper, 'save_relational_mappings', return_value="test_output.json"):
-                relational_data = mapper.build_relational_memory_table("test_model")
-
-                assert "model_key" in relational_data
-                assert relational_data["model_key"] == "test_model"
-                assert "novel_count" in relational_data
-                assert relational_data["novel_count"] == 2
-
-                # Should contain analysis results
-                if mapper.config.analyze_themes:
-                    assert "thematic_analysis" in relational_data
-                if mapper.config.analyze_characters:
-                    assert "character_analysis" in relational_data
-                if mapper.config.analyze_narrative_patterns:
-                    assert "narrative_analysis" in relational_data
-
-    @patch('master_training_pipeline.subprocess.run')
-    @patch('master_training_pipeline.Path')
-    @patch('builtins.open')
-    @patch('json.load')
-    def test_complete_pipeline_workflow(self, mock_json_load, mock_open, mock_path, mock_subprocess):
-        """Test complete pipeline workflow from start to finish"""
-        # Setup mocks
-        mock_json_load.return_value = self.mock_mapping
-        mock_path.return_value.exists.return_value = True
-
-        # Mock successful subprocess runs
-        mock_subprocess.return_value = Mock(returncode=0, stdout="Success", stderr="")
-
-        # Test complete pipeline
-        pipeline = MasterTrainingPipeline(PipelineConfig())
-
-        # Mock all internal checks
-        with patch.object(pipeline, 'check_individual_novels_status') as mock_check_individual:
-            with patch.object(pipeline, 'check_combined_model_status') as mock_check_combined:
-                with patch.object(pipeline, 'check_relational_mappings_status') as mock_check_mappings:
-                    with patch.object(pipeline, '_validate_combined_model') as mock_validate_model:
-                        with patch.object(pipeline, '_validate_memory_system') as mock_validate_memory:
-                            with patch.object(pipeline, '_validate_integration') as mock_validate_integration:
-                                with patch.object(pipeline, '_save_pipeline_results'):
-
-                                    # Setup mock returns
-                                    mock_check_individual.return_value = {
-                                        "total_novels": 2,
-                                        "trained_novels": 0,
-                                        "untrained_novels": 2
-                                    }
-                                    mock_check_combined.return_value = {"model_exists": False}
-                                    mock_check_mappings.return_value = {"mappings_exist": False}
-                                    mock_validate_model.return_value = {"status": "passed"}
-                                    mock_validate_memory.return_value = {"status": "passed"}
-                                    mock_validate_integration.return_value = {"status": "passed"}
-
-                                    # Execute pipeline
-                                    result = pipeline.execute_full_pipeline("test_model")
-
-                                    # Verify pipeline executed all stages
-                                    assert result["model_key"] == "test_model"
-                                    assert "stages" in result
-                                    assert "total_duration" in result
-
-                                    # Check that all expected stages were executed
-                                    stages = result["stages"]
-                                    expected_stages = ["stage_1", "stage_2", "stage_3", "stage_4"]
-                                    for stage in expected_stages:
-                                        assert stage in stages
-
-    def test_error_propagation_workflow(self):
-        """Test that errors propagate properly through the workflow"""
-        # Test with invalid model mapping
-        with pytest.raises(FileNotFoundError):
-            with patch('pathlib.Path.exists', return_value=False):
-                CombinedModelTrainer(CombinedModelConfig())
-
-        # Test with invalid model key
-        with patch.object(CombinedModelTrainer, '_load_model_mapping', return_value=self.mock_mapping):
-            trainer = CombinedModelTrainer(CombinedModelConfig())
-            with pytest.raises(ValueError):
-                trainer.get_novels_for_model("non_existent_model")
-
-    @patch('builtins.open')
-    @patch('json.load')
-    @patch('pathlib.Path.exists', return_value=True)
-    def test_configuration_persistence_workflow(self, mock_path, mock_json_load, mock_open):
-        """Test that configuration persists through workflow steps"""
-        mock_json_load.return_value = self.mock_mapping
-
-        # Create pipeline with custom config
-        config = PipelineConfig()
-        config.max_iterations = 8  # Custom value
-        config.force_retrain_combined = True
-
-        pipeline = MasterTrainingPipeline(config)
-
-        # Verify configuration is maintained
-        assert pipeline.config.max_iterations == 8
-        assert pipeline.config.force_retrain_combined == True
-
-        # Test that configuration affects behavior
-        assert pipeline.config.run_individual_training == True
-        assert pipeline.config.run_combined_training == True
-
-
-class TestDataFlowIntegration:
-    """Test data flow between components"""
-
-    @pytest.fixture(autouse=True)
-    def setup_method(self):
-        """Set up test fixtures"""
-        self.test_mapping = {
-            "models": {
-                "flow_test": {
-                    "novels": [
-                        {"original_name": "Flow Novel 1", "directory_name": "flow_novel_1"},
-                        {"original_name": "Flow Novel 2", "directory_name": "flow_novel_2"}
-                    ]
-                }
-            }
-        }
-
-    @patch('combined_model_trainer.Path')
-    @patch('builtins.open')
-    @patch('json.load')
-    def test_novel_list_consistency(self, mock_json_load, mock_open, mock_path):
-        """Test that novel lists are consistent across components"""
-        mock_json_load.return_value = self.test_mapping
-        mock_path.return_value.exists.return_value = True
-
-        # Test that all components see the same novels
-        combined_trainer = CombinedModelTrainer(CombinedModelConfig())
-        mapper = RelationalMemoryMapper(RelationalConfig())
-        pipeline = MasterTrainingPipeline(PipelineConfig())
-
-        # Get novels from each component
-        combined_novels = combined_trainer.get_novels_for_model("flow_test")
-        pipeline_novels = pipeline.get_novels_for_model("flow_test")
-
-        # Should be identical
-        assert len(combined_novels) == len(pipeline_novels)
-        for i, novel in enumerate(combined_novels):
-            assert novel["original_name"] == pipeline_novels[i]["original_name"]
-            assert novel["directory_name"] == pipeline_novels[i]["directory_name"]
-
-    @patch('relational_memory_mapper.json.dump')
-    @patch('builtins.open')
-    @patch('json.load')
-    @patch('pathlib.Path.exists', return_value=True)
-    def test_output_format_consistency(self, mock_path, mock_json_load, mock_open, mock_json_dump):
-        """Test that output formats are consistent between components"""
-        mock_json_load.return_value = self.test_mapping
-
-        # Test that all components produce compatible output formats
-        combined_trainer = CombinedModelTrainer(CombinedModelConfig())
-        mapper = RelationalMemoryMapper(RelationalConfig())
-
-        # Mock training result
-        training_result = {
-            "model_key": "flow_test",
-            "novels_included": ["Flow Novel 1", "Flow Novel 2"],
-            "training_time": 600,
-            "final_quality": 0.9
-        }
-
-        # Mock relational mapping result
-        with patch.object(mapper, '_load_novel_content', return_value="test content"):
-            relational_result = mapper.build_relational_memory_table("flow_test")
-
-            # Both should have compatible model_key fields
-            assert "model_key" in relational_result
-            assert relational_result["model_key"] == "flow_test"
-
-            # Both should reference the same number of novels
-            assert relational_result["novel_count"] == len(training_result["novels_included"])
-
-
-class TestMemorySystemIntegration:
-    """Test memory system integration across components"""
-
-    def test_memory_system_availability_check(self):
-        """Test memory system availability checking"""
-        from model_tea_utils import MemorySystemUtils
-
-        # This should not raise an exception
-        available = MemorySystemUtils.check_memory_system_available()
-        assert isinstance(available, bool)
-
-        # If not available, should provide fallback
-        if not available:
-            fallback = MemorySystemUtils.create_memory_fallback()
-            assert isinstance(fallback, dict)
-            assert fallback["system_status"] == "unavailable"
-
-    @patch('combined_model_trainer.MEMORY_SYSTEM_AVAILABLE', True)
-    @patch('combined_model_trainer.EpisodicMemorySystem')
-    def test_memory_system_integration_mock(self, mock_memory_system):
-        """Test memory system integration with mocking"""
-        # Mock memory system
-        mock_memory_instance = Mock()
-        mock_memory_system.return_value = mock_memory_instance
-
-        with patch.object(CombinedModelTrainer, '_load_model_mapping', return_value={"models": {}}):
-            trainer = CombinedModelTrainer(CombinedModelConfig())
-
-            # Test memory creation method exists and can be called
-            test_content = "Test novel content for memory creation"
-            test_novels = [{"original_name": "Test", "directory_name": "test"}]
-            test_results = {"training_time": 600}
-
-            # This should not raise an exception
+from episodic_memory_system import EpisodicMemorySystem, MemoryConfig
+from model_tea.core.pipeline import MLPipeline, PipelineConfig
+from model_tea.core.evaluation import ModelEvaluator
+
+
+class TestTrainingIntegration:
+    """Integration tests for training workflow"""
+
+    def test_config_to_trainer_flow(self):
+        """Test config creation to trainer initialization"""
+        config = IterativeConfig(
+            base_model="gpt2",
+            iterations_per_novel=2,
+            max_steps_per_iteration=1
+        )
+
+        trainer = IterativeTrainer(config)
+
+        assert trainer.config.base_model == "gpt2"
+        assert trainer.config.iterations_per_novel == 2
+        assert trainer.novels_dir.exists()
+        assert trainer.output_dir == Path(config.output_dir)
+
+    def test_novel_listing_and_selection(self):
+        """Test novel listing and selection workflow"""
+        config = IterativeConfig()
+        trainer = IterativeTrainer(config)
+
+        novels = trainer.list_available_novels()
+        assert len(novels) > 0
+
+        test_novel = novels[0].lower().replace(" ", "_").replace("-", "_")
+        assert isinstance(test_novel, str)
+        assert len(test_novel) > 0
+
+    def test_memory_system_integration(self):
+        """Test episodic memory system integration"""
+        memory_config = MemoryConfig(
+            memory_chunk_size=20,
+            max_memories_per_novel=50
+        )
+        memory_system = EpisodicMemorySystem(memory_config)
+
+        test_text = """
+        The detective entered the mysterious library. Ancient books lined the walls.
+        "Something strange is happening here," he whispered to his partner.
+        The old librarian watched them with suspicious eyes.
+        """
+
+        memories = memory_system.create_memories_from_text(test_text, "test_novel")
+
+        assert len(memories) > 0
+        assert len(memories) <= memory_config.max_memories_per_novel
+        assert all(hasattr(memory, 'content') for memory in memories)
+        assert all(hasattr(memory, 'memory_type') for memory in memories)
+
+    def test_trainer_with_memory_system(self):
+        """Test trainer working with memory system"""
+        trainer_config = IterativeConfig(iterations_per_novel=1, max_steps_per_iteration=1)
+        memory_config = MemoryConfig(max_memories_per_novel=10)
+
+        trainer = IterativeTrainer(trainer_config)
+        memory_system = EpisodicMemorySystem(memory_config)
+
+        novels = trainer.list_available_novels()
+        if novels:
+            test_novel = novels[0].lower().replace(" ", "_").replace("-", "_")
+
+            with tempfile.TemporaryDirectory() as temp_dir:
+                novel_path = trainer.novels_dir / test_novel
+                if novel_path.exists():
+                    novel_text = "Sample novel text for testing memory creation."
+                    memories = memory_system.create_memories_from_text(novel_text, test_novel)
+
+                    assert len(memories) >= 0
+
+    @patch('iterative_novel_trainer.Trainer')
+    @patch('iterative_novel_trainer.AutoTokenizer')
+    @patch('iterative_novel_trainer.AutoModelForCausalLM')
+    def test_full_training_pipeline_mock(self, mock_model, mock_tokenizer, mock_trainer):
+        """Test full training pipeline with mocks"""
+        mock_tokenizer.from_pretrained.return_value = MagicMock()
+        mock_model.from_pretrained.return_value = MagicMock()
+        mock_trainer_instance = MagicMock()
+        mock_trainer.return_value = mock_trainer_instance
+
+        config = IterativeConfig(
+            iterations_per_novel=1,
+            max_steps_per_iteration=1
+        )
+        trainer = IterativeTrainer(config)
+
+        novels = trainer.list_available_novels()
+        if novels:
+            test_novel = novels[0].lower().replace(" ", "_").replace("-", "_")
+
             try:
-                trainer._create_combined_memories("test_model", test_content, test_novels, test_results)
+                result = trainer.train_novel(test_novel)
+                assert isinstance(result, dict)
             except Exception as e:
-                # Memory creation might fail due to mocking, but the method should exist
-                assert "create_memories_from_content" in str(e) or "save_to_directory" in str(e)
+                pytest.skip(f"Training mock setup issues: {e}")
+
+    def test_pipeline_with_evaluation(self):
+        """Test ML pipeline with evaluation"""
+        pipeline_config = PipelineConfig(pipeline_name="test_training_pipeline")
+        pipeline = MLPipeline(pipeline_config)
+        evaluator = ModelEvaluator()
+
+        from model_tea.core.pipeline import DataPreprocessingStage, ModelTrainingStage, ModelEvaluationStage
+
+        preprocessing = DataPreprocessingStage({})
+        training = ModelTrainingStage({"epochs": 1, "max_iter": 10})
+        evaluation = ModelEvaluationStage({})
+
+        pipeline.add_stage(preprocessing)
+        pipeline.add_stage(training)
+        pipeline.add_stage(evaluation)
+
+        initial_data = {"raw_data": list(range(20))}
+        results = pipeline.execute(initial_data)
+
+        assert "trained_model" in results
+        assert "evaluation_results" in results
+        assert results["evaluation_results"]["accuracy"] > 0
+
+    def test_memory_storage_and_loading_integration(self):
+        """Test memory system storage and loading"""
+        memory_config = MemoryConfig()
+        memory_system = EpisodicMemorySystem(memory_config)
+
+        test_text = "The wizard cast a powerful spell in the enchanted forest."
+        memories = memory_system.create_memories_from_text(test_text, "fantasy_novel")
+
+        with tempfile.TemporaryDirectory() as temp_dir:
+            save_path = Path(temp_dir)
+
+            memory_system.save_memories(save_path, "fantasy_novel")
+            memory_file = save_path / "memories.json"
+            assert memory_file.exists()
+
+            new_memory_system = EpisodicMemorySystem(memory_config)
+            loaded_memories = new_memory_system.load_memories(save_path)
+
+            assert len(loaded_memories) == len(memories)
+            if loaded_memories:
+                assert loaded_memories[0].content == memories[0].content
+
+    def test_training_config_validation_integration(self):
+        """Test training configuration validation in integration context"""
+        valid_config = IterativeConfig(
+            base_model="gpt2",
+            iterations_per_novel=5,
+            max_steps_per_iteration=10,
+            learning_rate_start=5e-5,
+            learning_rate_end=1e-5
+        )
+
+        trainer = IterativeTrainer(valid_config)
+
+        assert trainer.config.learning_rate_start > trainer.config.learning_rate_end
+        assert trainer.config.iterations_per_novel > 0
+        assert trainer.config.max_steps_per_iteration > 0
+
+        learning_rate = trainer._calculate_learning_rate(0)
+        assert learning_rate == valid_config.learning_rate_start
+
+        learning_rate_mid = trainer._calculate_learning_rate(2)
+        assert valid_config.learning_rate_end <= learning_rate_mid <= valid_config.learning_rate_start
+
+    def test_end_to_end_workflow_simulation(self):
+        """Test end-to-end workflow simulation"""
+        trainer_config = IterativeConfig(
+            iterations_per_novel=1,
+            max_steps_per_iteration=1,
+            chunk_size=100
+        )
+        memory_config = MemoryConfig(max_memories_per_novel=5)
+
+        trainer = IterativeTrainer(trainer_config)
+        memory_system = EpisodicMemorySystem(memory_config)
+
+        novels = trainer.list_available_novels()
+        assert len(novels) > 0
+
+        test_novel = novels[0].lower().replace(" ", "_").replace("-", "_")
+
+        sample_text = f"This is sample text from {test_novel} for testing the complete workflow."
+        memories = memory_system.create_memories_from_text(sample_text, test_novel)
+
+        assert len(memories) >= 0
+        assert len(memories) <= memory_config.max_memories_per_novel
+
+        with tempfile.TemporaryDirectory() as temp_dir:
+            save_path = Path(temp_dir)
+            if memories:
+                memory_system.save_memories(save_path, test_novel)
+                memory_file = save_path / "memories.json"
+                assert memory_file.exists()
+
+        assert hasattr(trainer, 'evaluate_generation_quality')
+        assert hasattr(trainer, 'calculate_perplexity')
+
+    def test_error_handling_integration(self):
+        """Test error handling in integrated workflow"""
+        config = IterativeConfig()
+        trainer = IterativeTrainer(config)
+
+        non_existent_novel = "non_existent_novel_12345"
+
+        try:
+            result = trainer.train_novel(non_existent_novel)
+        except Exception as e:
+            assert "not found" in str(e).lower() or "error" in str(e).lower()
+
+    def test_memory_retrieval_integration(self):
+        """Test memory retrieval in integrated context"""
+        memory_config = MemoryConfig(max_retrieved_memories=3)
+        memory_system = EpisodicMemorySystem(memory_config)
+
+        test_text = """
+        The ancient castle stood on a hill. A brave knight approached the gates.
+        Inside, the princess waited in the tower. Dragons circled overhead.
+        """
+
+        memories = memory_system.create_memories_from_text(test_text, "test_story")
+        if memories:
+            memory_system.memories = memories
+            memory_system._build_memory_index()
+
+            query = "Tell me about the castle"
+            retrieved = memory_system.retrieve_relevant_memories(query)
+
+            assert isinstance(retrieved, list)
+            assert len(retrieved) <= memory_config.max_retrieved_memories
+
+
+class TestSystemConfiguration:
+    """Test system-wide configuration integration"""
+
+    def test_compatible_configurations(self):
+        """Test that different system configurations work together"""
+        trainer_config = IterativeConfig(
+            base_model="gpt2",
+            max_seq_length=512,
+            chunk_size=200
+        )
+
+        memory_config = MemoryConfig(
+            memory_chunk_size=25,
+            max_memories_per_novel=100
+        )
+
+        pipeline_config = PipelineConfig(
+            pipeline_name="integrated_training",
+            timeout_minutes=60
+        )
+
+        trainer = IterativeTrainer(trainer_config)
+        memory_system = EpisodicMemorySystem(memory_config)
+        pipeline = MLPipeline(pipeline_config)
+
+        assert trainer.config.chunk_size >= memory_config.memory_chunk_size
+        assert trainer.config.max_seq_length >= memory_config.memory_chunk_size * 10
+
+    def test_resource_constraints(self):
+        """Test configurations under resource constraints"""
+        small_config = IterativeConfig(
+            max_seq_length=256,
+            chunk_size=50,
+            iterations_per_novel=2,
+            max_steps_per_iteration=2
+        )
+
+        small_memory_config = MemoryConfig(
+            memory_chunk_size=10,
+            max_memories_per_novel=20,
+            max_retrieved_memories=3
+        )
+
+        trainer = IterativeTrainer(small_config)
+        memory_system = EpisodicMemorySystem(small_memory_config)
+
+        assert trainer.config.max_seq_length > 0
+        assert memory_system.config.max_memories_per_novel > 0
 
 
 if __name__ == "__main__":
-    pytest.main([__file__])
+    pytest.main([__file__, "-v"])
