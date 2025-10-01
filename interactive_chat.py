@@ -17,12 +17,24 @@ import json
 class InteractiveChat:
     """Interactive console chat with trained models"""
 
-    def __init__(self, models_dir: str = "iterative_models"):
+    def __init__(self, models_dir: str = "iterative_models",
+                 max_length: int = 250,
+                 temperature: float = 0.5,
+                 top_p: float = 0.85,
+                 top_k: int = 30,
+                 repetition_penalty: float = 1.4):
         self.models_dir = Path(models_dir)
         self.model = None
         self.tokenizer = None
         self.model_name = None
         self.device = "cuda" if torch.cuda.is_available() else "cpu"
+
+        # Default generation settings
+        self.default_max_length = max_length
+        self.default_temperature = temperature
+        self.default_top_p = top_p
+        self.default_top_k = top_k
+        self.default_repetition_penalty = repetition_penalty
 
         # Command registry
         self.commands = {
@@ -347,13 +359,13 @@ class InteractiveChat:
         print("\nType '/help' or '/h' for available commands")
         print("=" * 60 + "\n")
 
-        # Generation settings - optimized for coherent, focused output
+        # Generation settings - use defaults from initialization
         settings = {
-            "max_length": 250,
-            "temperature": 0.5,
-            "top_p": 0.85,
-            "top_k": 30,
-            "repetition_penalty": 1.4
+            "max_length": self.default_max_length,
+            "temperature": self.default_temperature,
+            "top_p": self.default_top_p,
+            "top_k": self.default_top_k,
+            "repetition_penalty": self.default_repetition_penalty
         }
 
         conversation_history = ""
@@ -612,10 +624,22 @@ Commands available in chat:
         default='iterative_models',
         help='Directory containing trained models (default: iterative_models)'
     )
+    parser.add_argument('--max-length', type=int, default=250, help='Maximum generation length in tokens')
+    parser.add_argument('--temperature', type=float, default=0.5, help='Temperature for generation (0.1-2.0)')
+    parser.add_argument('--top-p', type=float, default=0.85, help='Top-p for nucleus sampling (0.1-1.0)')
+    parser.add_argument('--top-k', type=int, default=30, help='Top-k for sampling (10-200)')
+    parser.add_argument('--repetition-penalty', type=float, default=1.4, help='Repetition penalty (1.0-2.0)')
 
     args = parser.parse_args()
 
-    chat = InteractiveChat(models_dir=args.models_dir)
+    chat = InteractiveChat(
+        models_dir=args.models_dir,
+        max_length=args.max_length,
+        temperature=args.temperature,
+        top_p=args.top_p,
+        top_k=args.top_k,
+        repetition_penalty=args.repetition_penalty
+    )
     chat.run()
 
 

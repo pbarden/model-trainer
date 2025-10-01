@@ -211,10 +211,11 @@ class CombinedModelTrainer:
 
         from iterative_novel_trainer import IterativeTrainer, IterativeConfig
 
-        training_config = IterativeConfig()
-        training_config.max_iterations = self.config.max_iterations
-        training_config.learning_rate_start = self.config.learning_rate_start
-        training_config.learning_rate_end = self.config.learning_rate_end
+        training_config = IterativeConfig(
+            iterations_per_novel=self.config.max_iterations,
+            learning_rate_start=self.config.learning_rate_start,
+            learning_rate_end=self.config.learning_rate_end
+        )
 
         trainer = IterativeTrainer(training_config)
 
