@@ -1,8 +1,8 @@
 {
   "metadata": {
     "total_models": 18,
-    "total_novels_assigned": 443,
-    "total_word_count": 17272202,
+    "total_novels_assigned": 445,
+    "total_word_count": 17327504,
     "created_by": "Model Tea Cleanup Script",
     "description": "Model Tea - Clean model categorization with dessert-themed names",
     "copyright": "ChaiQ LLC"
@@ -2920,9 +2920,9 @@
     },
     "lovecraft_mythos": {
       "description": "H.P. Lovecraft Cosmic Horror Collection",
-      "novel_count": 6,
-      "total_word_count": 120000,
-      "avg_words_per_novel": 20000,
+      "novel_count": 8,
+      "total_word_count": 175302,
+      "avg_words_per_novel": 21913,
       "novels": [
         {
           "original_name": "At the Mountains of Madness",
@@ -2935,6 +2935,12 @@
           "directory_name": "call_of_cthulhu",
           "word_count": 11945,
           "sentence_count": 484
+        },
+        {
+          "original_name": "The Case of Charles Dexter Ward",
+          "directory_name": "case_of_charles_dexter_ward",
+          "word_count": 44554,
+          "sentence_count": 1784
         },
         {
           "original_name": "Dunwich Horror",
@@ -2953,6 +2959,12 @@
           "directory_name": "shadow_over_innsmouth",
           "word_count": 22000,
           "sentence_count": 831
+        },
+        {
+          "original_name": "The Shunned House",
+          "directory_name": "shunned_house",
+          "word_count": 10748,
+          "sentence_count": 345
         },
         {
           "original_name": "Through the Gates of the Silver Key",
