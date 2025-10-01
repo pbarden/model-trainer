@@ -211,11 +211,31 @@ class CombinedModelTrainer:
 
         from iterative_novel_trainer import IterativeTrainer, IterativeConfig
 
-        training_config = IterativeConfig(
-            iterations_per_novel=self.config.max_iterations,
-            learning_rate_start=self.config.learning_rate_start,
-            learning_rate_end=self.config.learning_rate_end
-        )
+        # Get model-specific training parameters from model_mapping.json
+        model_info = self.model_mapping["models"][model_key]
+        training_params = model_info.get("training_parameters", {})
+
+        # Use adaptive parameters if available, otherwise use defaults
+        if training_params:
+            logger.info(f"Using adaptive training parameters for {model_key}:")
+            logger.info(f"  Iterations: {training_params.get('max_iterations', self.config.max_iterations)}")
+            logger.info(f"  Steps/iter: {training_params.get('max_steps_per_iteration', 16)}")
+            logger.info(f"  LR: {training_params.get('learning_rate_start', self.config.learning_rate_start):.2e} -> {training_params.get('learning_rate_end', self.config.learning_rate_end):.2e}")
+            logger.info(f"  Size category: {training_params.get('size_category', 'default')}")
+
+            training_config = IterativeConfig(
+                iterations_per_novel=training_params.get('max_iterations', self.config.max_iterations),
+                max_steps_per_iteration=training_params.get('max_steps_per_iteration', 16),
+                learning_rate_start=training_params.get('learning_rate_start', self.config.learning_rate_start),
+                learning_rate_end=training_params.get('learning_rate_end', self.config.learning_rate_end)
+            )
+        else:
+            logger.info(f"Using default training parameters for {model_key}")
+            training_config = IterativeConfig(
+                iterations_per_novel=self.config.max_iterations,
+                learning_rate_start=self.config.learning_rate_start,
+                learning_rate_end=self.config.learning_rate_end
+            )
 
         trainer = IterativeTrainer(training_config)
 

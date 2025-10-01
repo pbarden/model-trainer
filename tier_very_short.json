@@ -1,0 +1,464 @@
+[
+  {
+    "directory_name": "scarlet_plague",
+    "file_name": "scarlet_plague.txt",
+    "words": 20061,
+    "file_path": "novels\\scarlet_plague\\scarlet_plague.txt"
+  },
+  {
+    "directory_name": "minions_of_the_crystal_sphere",
+    "file_name": "minions_of_the_crystal_sphere.txt",
+    "words": 20415,
+    "file_path": "novels\\minions_of_the_crystal_sphere\\minions_of_the_crystal_sphere.txt"
+  },
+  {
+    "directory_name": "warlock_of_sharrador",
+    "file_name": "warlock_of_sharrador.txt",
+    "words": 20481,
+    "file_path": "novels\\warlock_of_sharrador\\warlock_of_sharrador.txt"
+  },
+  {
+    "directory_name": "witch_of_the_demon_seas",
+    "file_name": "witch_of_the_demon_seas.txt",
+    "words": 20569,
+    "file_path": "novels\\witch_of_the_demon_seas\\witch_of_the_demon_seas.txt"
+  },
+  {
+    "directory_name": "engine_of_the_clouds",
+    "file_name": "engine_of_the_clouds.txt",
+    "words": 20642,
+    "file_path": "novels\\engine_of_the_clouds\\engine_of_the_clouds.txt"
+  },
+  {
+    "directory_name": "court",
+    "file_name": "court.txt",
+    "words": 21172,
+    "file_path": "novels\\court\\court.txt"
+  },
+  {
+    "directory_name": "mercenary",
+    "file_name": "mercenary.txt",
+    "words": 21180,
+    "file_path": "novels\\mercenary\\mercenary.txt"
+  },
+  {
+    "directory_name": "twelve_times_zero",
+    "file_name": "twelve_times_zero.txt",
+    "words": 21678,
+    "file_path": "novels\\twelve_times_zero\\twelve_times_zero.txt"
+  },
+  {
+    "directory_name": "queen_of_the_martian_catacombs",
+    "file_name": "queen_of_the_martian_catacombs.txt",
+    "words": 21765,
+    "file_path": "novels\\queen_of_the_martian_catacombs\\queen_of_the_martian_catacombs.txt"
+  },
+  {
+    "directory_name": "cosmic_junkman",
+    "file_name": "cosmic_junkman.txt",
+    "words": 22014,
+    "file_path": "novels\\cosmic_junkman\\cosmic_junkman.txt"
+  },
+  {
+    "directory_name": "lorelei_of_the_red_mist",
+    "file_name": "lorelei_of_the_red_mist.txt",
+    "words": 22323,
+    "file_path": "novels\\lorelei_of_the_red_mist\\lorelei_of_the_red_mist.txt"
+  },
+  {
+    "directory_name": "red_dust",
+    "file_name": "red_dust.txt",
+    "words": 23019,
+    "file_path": "novels\\red_dust\\red_dust.txt"
+  },
+  {
+    "directory_name": "citadel_of_the_green_death",
+    "file_name": "citadel_of_the_green_death.txt",
+    "words": 24109,
+    "file_path": "novels\\citadel_of_the_green_death\\citadel_of_the_green_death.txt"
+  },
+  {
+    "directory_name": "slaves_to_the_metal_horde",
+    "file_name": "slaves_to_the_metal_horde.txt",
+    "words": 24211,
+    "file_path": "novels\\slaves_to_the_metal_horde\\slaves_to_the_metal_horde.txt"
+  },
+  {
+    "directory_name": "moon_metal",
+    "file_name": "moon_metal.txt",
+    "words": 24537,
+    "file_path": "novels\\moon_metal\\moon_metal.txt"
+  },
+  {
+    "directory_name": "falcons_of_narabedla",
+    "file_name": "falcons_of_narabedla.txt",
+    "words": 26257,
+    "file_path": "novels\\falcons_of_narabedla\\falcons_of_narabedla.txt"
+  },
+  {
+    "directory_name": "agony_column",
+    "file_name": "agony_column.txt",
+    "words": 26464,
+    "file_path": "novels\\agony_column\\agony_column.txt"
+  },
+  {
+    "directory_name": "armageddon_2419",
+    "file_name": "armageddon_2419.txt",
+    "words": 27338,
+    "file_path": "novels\\armageddon_2419\\armageddon_2419.txt"
+  },
+  {
+    "directory_name": "lone_star_planet",
+    "file_name": "lone_star_planet.txt",
+    "words": 30053,
+    "file_path": "novels\\lone_star_planet\\lone_star_planet.txt"
+  },
+  {
+    "directory_name": "ultimate_weapon",
+    "file_name": "ultimate_weapon.txt",
+    "words": 30276,
+    "file_path": "novels\\ultimate_weapon\\ultimate_weapon.txt"
+  },
+  {
+    "directory_name": "people_of_the_black_circle",
+    "file_name": "people_of_the_black_circle.txt",
+    "words": 30990,
+    "file_path": "novels\\people_of_the_black_circle\\people_of_the_black_circle.txt"
+  },
+  {
+    "directory_name": "recruit_for_andromeda",
+    "file_name": "recruit_for_andromeda.txt",
+    "words": 32702,
+    "file_path": "novels\\recruit_for_andromeda\\recruit_for_andromeda.txt"
+  },
+  {
+    "directory_name": "weapon_from_eternity",
+    "file_name": "weapon_from_eternity.txt",
+    "words": 32897,
+    "file_path": "novels\\weapon_from_eternity\\weapon_from_eternity.txt"
+  },
+  {
+    "directory_name": "moon_maker",
+    "file_name": "moon_maker.txt",
+    "words": 33520,
+    "file_path": "novels\\moon_maker\\moon_maker.txt"
+  },
+  {
+    "directory_name": "wolfbane",
+    "file_name": "wolfbane.txt",
+    "words": 34517,
+    "file_path": "novels\\wolfbane\\wolfbane.txt"
+  },
+  {
+    "directory_name": "spacemen_lost",
+    "file_name": "spacemen_lost.txt",
+    "words": 34589,
+    "file_path": "novels\\spacemen_lost\\spacemen_lost.txt"
+  },
+  {
+    "directory_name": "into_the_fourth_dimension",
+    "file_name": "into_the_fourth_dimension.txt",
+    "words": 35613,
+    "file_path": "novels\\into_the_fourth_dimension\\into_the_fourth_dimension.txt"
+  },
+  {
+    "directory_name": "radio_planet_part1",
+    "file_name": "radio_planet_part1.txt",
+    "words": 35623,
+    "file_path": "novels\\radio_planet_part1\\radio_planet_part1.txt"
+  },
+  {
+    "directory_name": "lost_world_part1",
+    "file_name": "lost_world_part1.txt",
+    "words": 35725,
+    "file_path": "novels\\lost_world_part1\\lost_world_part1.txt"
+  },
+  {
+    "directory_name": "hour_of_the_dragon_part1",
+    "file_name": "hour_of_the_dragon_part1.txt",
+    "words": 35808,
+    "file_path": "novels\\hour_of_the_dragon_part1\\hour_of_the_dragon_part1.txt"
+  },
+  {
+    "directory_name": "metropolis_part2",
+    "file_name": "metropolis_part2.txt",
+    "words": 35850,
+    "file_path": "novels\\metropolis_part2\\metropolis_part2.txt"
+  },
+  {
+    "directory_name": "jade_god_part1",
+    "file_name": "jade_god_part1.txt",
+    "words": 36739,
+    "file_path": "novels\\jade_god_part1\\jade_god_part1.txt"
+  },
+  {
+    "directory_name": "metropolis_part1",
+    "file_name": "metropolis_part1.txt",
+    "words": 36790,
+    "file_path": "novels\\metropolis_part1\\metropolis_part1.txt"
+  },
+  {
+    "directory_name": "hour_of_the_dragon_part2",
+    "file_name": "hour_of_the_dragon_part2.txt",
+    "words": 36806,
+    "file_path": "novels\\hour_of_the_dragon_part2\\hour_of_the_dragon_part2.txt"
+  },
+  {
+    "directory_name": "tales_of_secret_egypt_part1",
+    "file_name": "tales_of_secret_egypt_part1.txt",
+    "words": 37351,
+    "file_path": "novels\\tales_of_secret_egypt_part1\\tales_of_secret_egypt_part1.txt"
+  },
+  {
+    "directory_name": "tales_of_terror_and_mystery_part2",
+    "file_name": "tales_of_terror_and_mystery_part2.txt",
+    "words": 37376,
+    "file_path": "novels\\tales_of_terror_and_mystery_part2\\tales_of_terror_and_mystery_part2.txt"
+  },
+  {
+    "directory_name": "crimson_flash",
+    "file_name": "crimson_flash.txt",
+    "words": 37384,
+    "file_path": "novels\\crimson_flash\\crimson_flash.txt"
+  },
+  {
+    "directory_name": "radio_planet_part2",
+    "file_name": "radio_planet_part2.txt",
+    "words": 37478,
+    "file_path": "novels\\radio_planet_part2\\radio_planet_part2.txt"
+  },
+  {
+    "directory_name": "file_113_part4",
+    "file_name": "file_113_part4.txt",
+    "words": 37536,
+    "file_path": "novels\\file_113_part4\\file_113_part4.txt"
+  },
+  {
+    "directory_name": "tales_of_terror_and_mystery_part1",
+    "file_name": "tales_of_terror_and_mystery_part1.txt",
+    "words": 37684,
+    "file_path": "novels\\tales_of_terror_and_mystery_part1\\tales_of_terror_and_mystery_part1.txt"
+  },
+  {
+    "directory_name": "tracked_by_a_tattoo_part1",
+    "file_name": "tracked_by_a_tattoo_part1.txt",
+    "words": 37955,
+    "file_path": "novels\\tracked_by_a_tattoo_part1\\tracked_by_a_tattoo_part1.txt"
+  },
+  {
+    "directory_name": "mystery_of_the_chinese_ring",
+    "file_name": "mystery_of_the_chinese_ring.txt",
+    "words": 38240,
+    "file_path": "novels\\mystery_of_the_chinese_ring\\mystery_of_the_chinese_ring.txt"
+  },
+  {
+    "directory_name": "jade_god_part2",
+    "file_name": "jade_god_part2.txt",
+    "words": 38743,
+    "file_path": "novels\\jade_god_part2\\jade_god_part2.txt"
+  },
+  {
+    "directory_name": "king_of_diamonds_part2",
+    "file_name": "king_of_diamonds_part2.txt",
+    "words": 38904,
+    "file_path": "novels\\king_of_diamonds_part2\\king_of_diamonds_part2.txt"
+  },
+  {
+    "directory_name": "nomad_part2",
+    "file_name": "nomad_part2.txt",
+    "words": 39084,
+    "file_path": "novels\\nomad_part2\\nomad_part2.txt"
+  },
+  {
+    "directory_name": "gray_phantom_s_return_part2",
+    "file_name": "gray_phantom_s_return_part2.txt",
+    "words": 39123,
+    "file_path": "novels\\gray_phantom_s_return_part2\\gray_phantom_s_return_part2.txt"
+  },
+  {
+    "directory_name": "law_of_hemlock_mountain_part1",
+    "file_name": "law_of_hemlock_mountain_part1.txt",
+    "words": 39138,
+    "file_path": "novels\\law_of_hemlock_mountain_part1\\law_of_hemlock_mountain_part1.txt"
+  },
+  {
+    "directory_name": "tales_of_secret_egypt_part2",
+    "file_name": "tales_of_secret_egypt_part2.txt",
+    "words": 39184,
+    "file_path": "novels\\tales_of_secret_egypt_part2\\tales_of_secret_egypt_part2.txt"
+  },
+  {
+    "directory_name": "law_of_hemlock_mountain_part2",
+    "file_name": "law_of_hemlock_mountain_part2.txt",
+    "words": 39314,
+    "file_path": "novels\\law_of_hemlock_mountain_part2\\law_of_hemlock_mountain_part2.txt"
+  },
+  {
+    "directory_name": "at_the_mountains_of_madness",
+    "file_name": "at_the_mountains_of_madness.txt",
+    "words": 39673,
+    "file_path": "novels\\at_the_mountains_of_madness\\at_the_mountains_of_madness.txt"
+  },
+  {
+    "directory_name": "lost_world_part2",
+    "file_name": "lost_world_part2.txt",
+    "words": 39806,
+    "file_path": "novels\\lost_world_part2\\lost_world_part2.txt"
+  },
+  {
+    "directory_name": "revenge_part1",
+    "file_name": "revenge_part1.txt",
+    "words": 39904,
+    "file_path": "novels\\revenge_part1\\revenge_part1.txt"
+  },
+  {
+    "directory_name": "death-dealers_of_london_part2",
+    "file_name": "death-dealers_of_london_part2.txt",
+    "words": 40008,
+    "file_path": "novels\\death-dealers_of_london_part2\\death-dealers_of_london_part2.txt"
+  },
+  {
+    "directory_name": "gray_phantom_s_return_part1",
+    "file_name": "gray_phantom_s_return_part1.txt",
+    "words": 40481,
+    "file_path": "novels\\gray_phantom_s_return_part1\\gray_phantom_s_return_part1.txt"
+  },
+  {
+    "directory_name": "mummy_part4",
+    "file_name": "mummy_part4.txt",
+    "words": 40595,
+    "file_path": "novels\\mummy_part4\\mummy_part4.txt"
+  },
+  {
+    "directory_name": "nomad_part1",
+    "file_name": "nomad_part1.txt",
+    "words": 40742,
+    "file_path": "novels\\nomad_part1\\nomad_part1.txt"
+  },
+  {
+    "directory_name": "revenge_part2",
+    "file_name": "revenge_part2.txt",
+    "words": 41244,
+    "file_path": "novels\\revenge_part2\\revenge_part2.txt"
+  },
+  {
+    "directory_name": "japanese_fairy_world",
+    "file_name": "japanese_fairy_world.txt",
+    "words": 41412,
+    "file_path": "novels\\japanese_fairy_world\\japanese_fairy_world.txt"
+  },
+  {
+    "directory_name": "man_without_a_conscience",
+    "file_name": "man_without_a_conscience.txt",
+    "words": 41430,
+    "file_path": "novels\\man_without_a_conscience\\man_without_a_conscience.txt"
+  },
+  {
+    "directory_name": "death-dealers_of_london_part1",
+    "file_name": "death-dealers_of_london_part1.txt",
+    "words": 41525,
+    "file_path": "novels\\death-dealers_of_london_part1\\death-dealers_of_london_part1.txt"
+  },
+  {
+    "directory_name": "haunted_island",
+    "file_name": "haunted_island.txt",
+    "words": 41788,
+    "file_path": "novels\\haunted_island\\haunted_island.txt"
+  },
+  {
+    "directory_name": "king_of_diamonds_part1",
+    "file_name": "king_of_diamonds_part1.txt",
+    "words": 42016,
+    "file_path": "novels\\king_of_diamonds_part1\\king_of_diamonds_part1.txt"
+  },
+  {
+    "directory_name": "tracked_by_a_tattoo_part2",
+    "file_name": "tracked_by_a_tattoo_part2.txt",
+    "words": 42220,
+    "file_path": "novels\\tracked_by_a_tattoo_part2\\tracked_by_a_tattoo_part2.txt"
+  },
+  {
+    "directory_name": "journey_to_the_centre_of_the_earth_part2",
+    "file_name": "journey_to_the_centre_of_the_earth_part2.txt",
+    "words": 42319,
+    "file_path": "novels\\journey_to_the_centre_of_the_earth_part2\\journey_to_the_centre_of_the_earth_part2.txt"
+  },
+  {
+    "directory_name": "city_of_endless_night_part2",
+    "file_name": "city_of_endless_night_part2.txt",
+    "words": 42423,
+    "file_path": "novels\\city_of_endless_night_part2\\city_of_endless_night_part2.txt"
+  },
+  {
+    "directory_name": "death_ship",
+    "file_name": "death_ship.txt",
+    "words": 42423,
+    "file_path": "novels\\death_ship\\death_ship.txt"
+  },
+  {
+    "directory_name": "opal_serpent_part2",
+    "file_name": "opal_serpent_part2.txt",
+    "words": 42426,
+    "file_path": "novels\\opal_serpent_part2\\opal_serpent_part2.txt"
+  },
+  {
+    "directory_name": "treasure_hunt_of_the_s-18",
+    "file_name": "treasure_hunt_of_the_s-18.txt",
+    "words": 42670,
+    "file_path": "novels\\treasure_hunt_of_the_s-18\\treasure_hunt_of_the_s-18.txt"
+  },
+  {
+    "directory_name": "behind_the_green_door",
+    "file_name": "behind_the_green_door.txt",
+    "words": 42674,
+    "file_path": "novels\\behind_the_green_door\\behind_the_green_door.txt"
+  },
+  {
+    "directory_name": "havoc_part2",
+    "file_name": "havoc_part2.txt",
+    "words": 42702,
+    "file_path": "novels\\havoc_part2\\havoc_part2.txt"
+  },
+  {
+    "directory_name": "city_of_endless_night_part1",
+    "file_name": "city_of_endless_night_part1.txt",
+    "words": 42753,
+    "file_path": "novels\\city_of_endless_night_part1\\city_of_endless_night_part1.txt"
+  },
+  {
+    "directory_name": "journey_to_the_centre_of_the_earth_part1",
+    "file_name": "journey_to_the_centre_of_the_earth_part1.txt",
+    "words": 42983,
+    "file_path": "novels\\journey_to_the_centre_of_the_earth_part1\\journey_to_the_centre_of_the_earth_part1.txt"
+  },
+  {
+    "directory_name": "golden_triangle_part2",
+    "file_name": "golden_triangle_part2.txt",
+    "words": 43002,
+    "file_path": "novels\\golden_triangle_part2\\golden_triangle_part2.txt"
+  },
+  {
+    "directory_name": "havoc_part1",
+    "file_name": "havoc_part1.txt",
+    "words": 43143,
+    "file_path": "novels\\havoc_part1\\havoc_part1.txt"
+  },
+  {
+    "directory_name": "gray_shadow",
+    "file_name": "gray_shadow.txt",
+    "words": 43771,
+    "file_path": "novels\\gray_shadow\\gray_shadow.txt"
+  },
+  {
+    "directory_name": "weird_tales_volume_1_number_3_part1",
+    "file_name": "weird_tales_volume_1_number_3_part1.txt",
+    "words": 43852,
+    "file_path": "novels\\weird_tales_volume_1_number_3_part1\\weird_tales_volume_1_number_3_part1.txt"
+  },
+  {
+    "directory_name": "clockwork_man",
+    "file_name": "clockwork_man.txt",
+    "words": 43940,
+    "file_path": "novels\\clockwork_man\\clockwork_man.txt"
+  }
+]
