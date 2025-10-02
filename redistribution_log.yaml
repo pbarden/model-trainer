@@ -1,0 +1,2067 @@
+metadata:
+  study_name: Existing Model Redistribution
+  date: '2025-10-01T17:59:55.762205'
+  version: '1.0'
+  purpose: Break down large models into optimal 4-novel groups
+original_models:
+  bc_sprinkles:
+    prefix: bc
+    novel_count: 26
+    description: Sprinkles
+  cb_bananasplit:
+    prefix: cb
+    novel_count: 27
+    description: Banana Split
+  es_cherryfloat:
+    prefix: es
+    novel_count: 28
+    description: Cherry Float
+  f7_cupcake:
+    prefix: f7
+    novel_count: 25
+    description: Cupcake
+  f8_cheesecake:
+    prefix: f8
+    novel_count: 24
+    description: Cheesecake
+  ft_marshmallow:
+    prefix: ft
+    novel_count: 23
+    description: Marshmallow
+  fx_keylimepie:
+    prefix: fx
+    novel_count: 24
+    description: Keylime Pie
+  hl_tiramisu:
+    prefix: hl
+    novel_count: 22
+    description: Tiramisu
+  mg_limesoda:
+    prefix: mg
+    novel_count: 25
+    description: Lime Soda
+  mt_sorbet:
+    prefix: mt
+    novel_count: 23
+    description: Sorbet
+  pe_peachcobbler:
+    prefix: pe
+    novel_count: 24
+    description: Peach Cobbler
+  sf_parfait:
+    prefix: sf
+    novel_count: 25
+    description: Parfait
+  so_smores:
+    prefix: so
+    novel_count: 23
+    description: Smores
+  tg_sugarcookie:
+    prefix: tg
+    novel_count: 21
+    description: Sugar Cookie
+  tr_creamsoda:
+    prefix: tr
+    novel_count: 25
+    description: Cream Soda
+  vs_mintchip:
+    prefix: vs
+    novel_count: 26
+    description: Mint Chip
+  xg_rootbeer:
+    prefix: xg
+    novel_count: 23
+    description: Rootbeer
+  xo_chocolateshake:
+    prefix: xo
+    novel_count: 29
+    description: Chocolate Pudding
+  lovecraft_mythos:
+    prefix: lovecraft
+    novel_count: 8
+    description: H.P. Lovecraft Cosmic Horror Collection
+redistribution_decisions:
+- original_model: bc_sprinkles
+  new_model: bc_rainbowsprinkles
+  description: Rainbow Sprinkles
+  variation: rainbow
+  group_number: 1
+  novels:
+  - metropolis
+  - tales_of_terror_and_mystery
+  - law_of_hemlock_mountain
+  - tracked_by_a_tattoo
+  total_words: 306327
+  tier_distribution:
+    long: 4
+  training_parameters:
+    iterations: 18
+    steps_per_iteration: 20
+    learning_rate_start: 1.0e-05
+    learning_rate_end: 3.0e-06
+    category: xlarge
+    rationale: Very large corpus, maximum iterations
+- original_model: bc_sprinkles
+  new_model: bc_chocolatesprinkles
+  description: Chocolate Sprinkles
+  variation: chocolate
+  group_number: 2
+  novels:
+  - king_of_diamonds
+  - death-dealers_of_london
+  - island_of_doctor_moreau
+  - red_seal
+  total_words: 261595
+  tier_distribution:
+    long: 2
+    short: 2
+  training_parameters:
+    iterations: 18
+    steps_per_iteration: 20
+    learning_rate_start: 1.0e-05
+    learning_rate_end: 3.0e-06
+    category: xlarge
+    rationale: Very large corpus, maximum iterations
+- original_model: bc_sprinkles
+  new_model: bc_vanillasprinkles
+  description: Vanilla Sprinkles
+  variation: vanilla
+  group_number: 3
+  novels:
+  - international_spy
+  - empty_house_and_other_ghost_stories
+  - wellsprings_of_space
+  - chain_reaction
+  total_words: 136167
+  tier_distribution:
+    short: 2
+    tiny: 2
+  training_parameters:
+    iterations: 14
+    steps_per_iteration: 16
+    learning_rate_start: 2.0e-05
+    learning_rate_end: 5.0e-06
+    category: medium
+    rationale: Optimal corpus size, quality focus
+- original_model: bc_sprinkles
+  new_model: bc_strawberrysprinkles
+  description: Strawberry Sprinkles
+  variation: strawberry
+  group_number: 4
+  novels:
+  - raider
+  - impersonator
+  - captain_chaos
+  - ambition
+  total_words: 28462
+  tier_distribution:
+    tiny: 4
+  training_parameters:
+    iterations: 10
+    steps_per_iteration: 12
+    learning_rate_start: 3.0e-05
+    learning_rate_end: 8.0e-06
+    category: tiny
+    rationale: Small corpus, quick convergence expected
+- original_model: bc_sprinkles
+  new_model: bc_confettisprinkles
+  description: Confetti Sprinkles
+  variation: confetti
+  group_number: 5
+  novels:
+  - trap
+  - hellhounds_of_the_cosmos
+  - ties_that_bind
+  - hail_to_the_chief
+  total_words: 40728
+  tier_distribution:
+    tiny: 4
+  training_parameters:
+    iterations: 10
+    steps_per_iteration: 12
+    learning_rate_start: 3.0e-05
+    learning_rate_end: 8.0e-06
+    category: tiny
+    rationale: Small corpus, quick convergence expected
+- original_model: bc_sprinkles
+  new_model: bc_jimmiessprinkles
+  description: Jimmies Sprinkles
+  variation: jimmies
+  group_number: 6
+  novels:
+  - human_error
+  - machine_that_saved_the_world
+  - weapon_from_eternity
+  - at_the_mountains_of_madness
+  total_words: 99380
+  tier_distribution:
+    tiny: 2
+    very_short: 2
+  training_parameters:
+    iterations: 12
+    steps_per_iteration: 14
+    learning_rate_start: 2.5e-05
+    learning_rate_end: 6.0e-06
+    category: small
+    rationale: Small corpus, balanced training
+- original_model: cb_bananasplit
+  new_model: cb_classicbananasplit
+  description: Classic Banana Split
+  variation: classic
+  group_number: 1
+  novels:
+  - tales_of_secret_egypt
+  - gray_phantom_s_return
+  - tracked_by_a_tattoo
+  - revenge
+  total_words: 317462
+  tier_distribution:
+    long: 4
+  training_parameters:
+    iterations: 18
+    steps_per_iteration: 20
+    learning_rate_start: 1.0e-05
+    learning_rate_end: 3.0e-06
+    category: xlarge
+    rationale: Very large corpus, maximum iterations
+- original_model: cb_bananasplit
+  new_model: cb_supremebananasplit
+  description: Supreme Banana Split
+  variation: supreme
+  group_number: 2
+  novels:
+  - golden_triangle
+  - wailing_octopus
+  - danger_in_deep_space
+  - people_minus_x
+  total_words: 235791
+  tier_distribution:
+    long: 1
+    short: 3
+  training_parameters:
+    iterations: 16
+    steps_per_iteration: 18
+    learning_rate_start: 1.5e-05
+    learning_rate_end: 4.0e-06
+    category: large
+    rationale: Large corpus, extended learning needed
+- original_model: cb_bananasplit
+  new_model: cb_deluxebananasplit
+  description: Deluxe Banana Split
+  variation: deluxe
+  group_number: 3
+  novels:
+  - patrol
+  - asteroid_h277_plus
+  - chain_reaction
+  - cargo_to_callisto
+  total_words: 17343
+  tier_distribution:
+    tiny: 4
+  training_parameters:
+    iterations: 10
+    steps_per_iteration: 12
+    learning_rate_start: 3.0e-05
+    learning_rate_end: 8.0e-06
+    category: tiny
+    rationale: Small corpus, quick convergence expected
+- original_model: cb_bananasplit
+  new_model: cb_royalebananasplit
+  description: Royale Banana Split
+  variation: royale
+  group_number: 4
+  novels:
+  - elegy
+  - repairman
+  - raider
+  - outpost_on_io
+  total_words: 23016
+  tier_distribution:
+    tiny: 4
+  training_parameters:
+    iterations: 10
+    steps_per_iteration: 12
+    learning_rate_start: 3.0e-05
+    learning_rate_end: 8.0e-06
+    category: tiny
+    rationale: Small corpus, quick convergence expected
+- original_model: cb_bananasplit
+  new_model: cb_tropicalbananasplit
+  description: Tropical Banana Split
+  variation: tropical
+  group_number: 5
+  novels:
+  - dragon-queen_of_jupiter
+  - impersonator
+  - it_takes_a_thief
+  - transfer_point
+  total_words: 29420
+  tier_distribution:
+    tiny: 4
+  training_parameters:
+    iterations: 10
+    steps_per_iteration: 12
+    learning_rate_start: 3.0e-05
+    learning_rate_end: 8.0e-06
+    category: tiny
+    rationale: Small corpus, quick convergence expected
+- original_model: cb_bananasplit
+  new_model: cb_caramelbananasplit
+  description: Caramel Banana Split
+  variation: caramel
+  group_number: 6
+  novels:
+  - enter_the_nebula
+  - mercenary
+  - cosmic_junkman
+  - spacemen_lost
+  total_words: 87640
+  tier_distribution:
+    tiny: 1
+    very_short: 3
+  training_parameters:
+    iterations: 12
+    steps_per_iteration: 14
+    learning_rate_start: 2.5e-05
+    learning_rate_end: 6.0e-06
+    category: small
+    rationale: Small corpus, balanced training
+- original_model: es_cherryfloat
+  new_model: es_classiccherryfloat
+  description: Classic Cherry Float
+  variation: classic
+  group_number: 1
+  novels:
+  - the_swap_man
+  - secret_of_the_ninth_planet
+  - search_the_sky
+  - brood_of_the_dark_moon
+  total_words: 227761
+  tier_distribution:
+    long: 1
+    short: 3
+  training_parameters:
+    iterations: 16
+    steps_per_iteration: 18
+    learning_rate_start: 1.5e-05
+    learning_rate_end: 4.0e-06
+    category: large
+    rationale: Large corpus, extended learning needed
+- original_model: es_cherryfloat
+  new_model: es_cherrycherryfloat
+  description: Cherry Cherry Float
+  variation: cherry
+  group_number: 2
+  novels:
+  - black_star
+  - no_shield_from_the_dead
+  - beyond_the_ultra-violet
+  - world_of_mockery
+  total_words: 75052
+  tier_distribution:
+    short: 1
+    tiny: 3
+  training_parameters:
+    iterations: 10
+    steps_per_iteration: 12
+    learning_rate_start: 3.0e-05
+    learning_rate_end: 8.0e-06
+    category: tiny
+    rationale: Small corpus, quick convergence expected
+- original_model: es_cherryfloat
+  new_model: es_vanillacherryfloat
+  description: Vanilla Cherry Float
+  variation: vanilla
+  group_number: 3
+  novels:
+  - kill_me_if_you_can
+  - one_man_s_poison
+  - beasts_in_the_void
+  - jack_of_no_trades
+  total_words: 21915
+  tier_distribution:
+    tiny: 4
+  training_parameters:
+    iterations: 10
+    steps_per_iteration: 12
+    learning_rate_start: 3.0e-05
+    learning_rate_end: 8.0e-06
+    category: tiny
+    rationale: Small corpus, quick convergence expected
+- original_model: es_cherryfloat
+  new_model: es_chocolatecherryfloat
+  description: Chocolate Cherry Float
+  variation: chocolate
+  group_number: 4
+  novels:
+  - star_pirate
+  - celestial_blueprint
+  - horror_at_red_hook
+  - corsairs_of_the_cosmos
+  total_words: 32703
+  tier_distribution:
+    tiny: 4
+  training_parameters:
+    iterations: 10
+    steps_per_iteration: 12
+    learning_rate_start: 3.0e-05
+    learning_rate_end: 8.0e-06
+    category: tiny
+    rationale: Small corpus, quick convergence expected
+- original_model: es_cherryfloat
+  new_model: es_creamycherryfloat
+  description: Creamy Cherry Float
+  variation: creamy
+  group_number: 5
+  novels:
+  - hex
+  - fox_that_wanted_nine_golden_tails
+  - dragon_moon
+  - spacerogue
+  total_words: 49229
+  tier_distribution:
+    tiny: 4
+  training_parameters:
+    iterations: 10
+    steps_per_iteration: 12
+    learning_rate_start: 3.0e-05
+    learning_rate_end: 8.0e-06
+    category: tiny
+    rationale: Small corpus, quick convergence expected
+- original_model: es_cherryfloat
+  new_model: es_fizzycherryfloat
+  description: Fizzy Cherry Float
+  variation: fizzy
+  group_number: 6
+  novels:
+  - category_phoenix
+  - colossus_of_chaos
+  - wendigo
+  - people_of_the_black_circle
+  total_words: 81234
+  tier_distribution:
+    tiny: 3
+    very_short: 1
+  training_parameters:
+    iterations: 12
+    steps_per_iteration: 14
+    learning_rate_start: 2.5e-05
+    learning_rate_end: 6.0e-06
+    category: small
+    rationale: Small corpus, balanced training
+- original_model: f7_cupcake
+  new_model: f7_vanillacupcake
+  description: Vanilla Cupcake
+  variation: vanilla
+  group_number: 1
+  novels:
+  - man_who_ended_war
+  - metropolis
+  - city_of_endless_night
+  - journey_to_the_centre_of_the_earth
+  total_words: 312579
+  tier_distribution:
+    long: 4
+  training_parameters:
+    iterations: 18
+    steps_per_iteration: 20
+    learning_rate_start: 1.0e-05
+    learning_rate_end: 3.0e-06
+    category: xlarge
+    rationale: Very large corpus, maximum iterations
+- original_model: f7_cupcake
+  new_model: f7_chocolatecupcake
+  description: Chocolate Cupcake
+  variation: chocolate
+  group_number: 2
+  novels:
+  - island_of_doctor_moreau
+  - recalled_to_life
+  - case_of_charles_dexter_ward
+  - house_on_the_borderland
+  total_words: 183114
+  tier_distribution:
+    short: 4
+  training_parameters:
+    iterations: 16
+    steps_per_iteration: 18
+    learning_rate_start: 1.5e-05
+    learning_rate_end: 4.0e-06
+    category: large
+    rationale: Large corpus, extended learning needed
+- original_model: f7_cupcake
+  new_model: f7_red_velvetcupcake
+  description: Red Velvet Cupcake
+  variation: red_velvet
+  group_number: 3
+  novels:
+  - people_minus_x
+  - children_of_odin
+  - standardized_man
+  - wellsprings_of_space
+  total_words: 125003
+  tier_distribution:
+    short: 2
+    tiny: 2
+  training_parameters:
+    iterations: 14
+    steps_per_iteration: 16
+    learning_rate_start: 2.0e-05
+    learning_rate_end: 5.0e-06
+    category: medium
+    rationale: Optimal corpus size, quality focus
+- original_model: f7_cupcake
+  new_model: f7_lemoncupcake
+  description: Lemon Cupcake
+  variation: lemon
+  group_number: 4
+  novels:
+  - other_now
+  - metamorphosis
+  - when_the_moon_fell
+  - call_of_cthulhu
+  total_words: 30340
+  tier_distribution:
+    tiny: 4
+  training_parameters:
+    iterations: 10
+    steps_per_iteration: 12
+    learning_rate_start: 3.0e-05
+    learning_rate_end: 8.0e-06
+    category: tiny
+    rationale: Small corpus, quick convergence expected
+- original_model: f7_cupcake
+  new_model: f7_strawberrycupcake
+  description: Strawberry Cupcake
+  variation: strawberry
+  group_number: 5
+  novels:
+  - machine_that_saved_the_world
+  - people_of_the_crater
+  - shadow_over_innsmouth
+  - mercenary
+  total_words: 67203
+  tier_distribution:
+    tiny: 3
+    very_short: 1
+  training_parameters:
+    iterations: 10
+    steps_per_iteration: 12
+    learning_rate_start: 3.0e-05
+    learning_rate_end: 8.0e-06
+    category: tiny
+    rationale: Small corpus, quick convergence expected
+- original_model: f8_cheesecake
+  new_model: f8_classiccheesecake
+  description: Classic Cheesecake
+  variation: classic
+  group_number: 1
+  novels:
+  - metropolis
+  - galactic_patrol
+  - recalled_to_life
+  - cities_in_the_air
+  total_words: 252197
+  tier_distribution:
+    long: 2
+    short: 2
+  training_parameters:
+    iterations: 16
+    steps_per_iteration: 18
+    learning_rate_start: 1.5e-05
+    learning_rate_end: 4.0e-06
+    category: large
+    rationale: Large corpus, extended learning needed
+- original_model: f8_cheesecake
+  new_model: f8_strawberrycheesecake
+  description: Strawberry Cheesecake
+  variation: strawberry
+  group_number: 2
+  novels:
+  - time-raider
+  - space_prison
+  - international_spy
+  - brood_of_the_witch-queen
+  total_words: 229492
+  tier_distribution:
+    short: 4
+  training_parameters:
+    iterations: 16
+    steps_per_iteration: 18
+    learning_rate_start: 1.5e-05
+    learning_rate_end: 4.0e-06
+    category: large
+    rationale: Large corpus, extended learning needed
+- original_model: f8_cheesecake
+  new_model: f8_blueberrycheesecake
+  description: Blueberry Cheesecake
+  variation: blueberry
+  group_number: 3
+  novels:
+  - shock_troop
+  - patrol
+  - perchance_to_dream
+  - lunar_station
+  total_words: 16375
+  tier_distribution:
+    tiny: 4
+  training_parameters:
+    iterations: 10
+    steps_per_iteration: 12
+    learning_rate_start: 3.0e-05
+    learning_rate_end: 8.0e-06
+    category: tiny
+    rationale: Small corpus, quick convergence expected
+- original_model: f8_cheesecake
+  new_model: f8_chocolatecheesecake
+  description: Chocolate Cheesecake
+  variation: chocolate
+  group_number: 4
+  novels:
+  - reluctant_heroes
+  - all_in_the_mind
+  - ambition
+  - transfer_point
+  total_words: 29206
+  tier_distribution:
+    tiny: 4
+  training_parameters:
+    iterations: 10
+    steps_per_iteration: 12
+    learning_rate_start: 3.0e-05
+    learning_rate_end: 8.0e-06
+    category: tiny
+    rationale: Small corpus, quick convergence expected
+- original_model: f8_cheesecake
+  new_model: f8_caramelcheesecake
+  description: Caramel Cheesecake
+  variation: caramel
+  group_number: 5
+  novels:
+  - spawn_of_the_comet
+  - ties_that_bind
+  - shunned_house
+  - hail_to_the_chief
+  total_words: 41968
+  tier_distribution:
+    tiny: 4
+  training_parameters:
+    iterations: 10
+    steps_per_iteration: 12
+    learning_rate_start: 3.0e-05
+    learning_rate_end: 8.0e-06
+    category: tiny
+    rationale: Small corpus, quick convergence expected
+- original_model: ft_marshmallow
+  new_model: ft_vanillamarshmallow
+  description: Vanilla Marshmallow
+  variation: vanilla
+  group_number: 1
+  novels:
+  - hour_of_the_dragon
+  - lost_world
+  - havoc
+  - house_on_the_borderland
+  total_words: 284419
+  tier_distribution:
+    long: 3
+    short: 1
+  training_parameters:
+    iterations: 18
+    steps_per_iteration: 20
+    learning_rate_start: 1.0e-05
+    learning_rate_end: 3.0e-06
+    category: xlarge
+    rationale: Very large corpus, maximum iterations
+- original_model: ft_marshmallow
+  new_model: ft_toastedmarshmallow
+  description: Toasted Marshmallow
+  variation: toasted
+  group_number: 2
+  novels:
+  - watcher_and_other_weird_stories
+  - man_with_the_black_feather
+  - patrol
+  - raider
+  total_words: 132786
+  tier_distribution:
+    short: 2
+    tiny: 2
+  training_parameters:
+    iterations: 14
+    steps_per_iteration: 16
+    learning_rate_start: 2.0e-05
+    learning_rate_end: 5.0e-06
+    category: medium
+    rationale: Optimal corpus size, quality focus
+- original_model: ft_marshmallow
+  new_model: ft_chocolatemarshmallow
+  description: Chocolate Marshmallow
+  variation: chocolate
+  group_number: 3
+  novels:
+  - reluctant_heroes
+  - lex
+  - ambition
+  - warlock_of_sharrador
+  total_words: 42629
+  tier_distribution:
+    tiny: 3
+    very_short: 1
+  training_parameters:
+    iterations: 10
+    steps_per_iteration: 12
+    learning_rate_start: 3.0e-05
+    learning_rate_end: 8.0e-06
+    category: tiny
+    rationale: Small corpus, quick convergence expected
+- original_model: ft_marshmallow
+  new_model: ft_strawberrymarshmallow
+  description: Strawberry Marshmallow
+  variation: strawberry
+  group_number: 4
+  novels:
+  - witch_of_the_demon_seas
+  - court
+  - mercenary
+  - citadel_of_the_green_death
+  total_words: 87030
+  tier_distribution:
+    very_short: 4
+  training_parameters:
+    iterations: 12
+    steps_per_iteration: 14
+    learning_rate_start: 2.5e-05
+    learning_rate_end: 6.0e-06
+    category: small
+    rationale: Small corpus, balanced training
+- original_model: fx_keylimepie
+  new_model: fx_classickeylimepie
+  description: Classic Keylime Pie
+  variation: classic
+  group_number: 1
+  novels:
+  - secret_tomb
+  - nomad
+  - havoc
+  - cities_in_the_air
+  total_words: 282664
+  tier_distribution:
+    long: 3
+    short: 1
+  training_parameters:
+    iterations: 18
+    steps_per_iteration: 20
+    learning_rate_start: 1.0e-05
+    learning_rate_end: 3.0e-06
+    category: xlarge
+    rationale: Very large corpus, maximum iterations
+- original_model: fx_keylimepie
+  new_model: fx_zestykeylimepie
+  description: Zesty Keylime Pie
+  variation: zesty
+  group_number: 2
+  novels:
+  - polaris_of_the_snows
+  - on_the_trail_of_the_space_pirates
+  - watcher_and_other_weird_stories
+  - crystal_age
+  total_words: 220462
+  tier_distribution:
+    short: 4
+  training_parameters:
+    iterations: 16
+    steps_per_iteration: 18
+    learning_rate_start: 1.5e-05
+    learning_rate_end: 4.0e-06
+    category: large
+    rationale: Large corpus, extended learning needed
+- original_model: fx_keylimepie
+  new_model: fx_tangykeylimepie
+  description: Tangy Keylime Pie
+  variation: tangy
+  group_number: 3
+  novels:
+  - air_pirate
+  - crystal_claw
+  - cardinal_moth
+  - nobles_are_coming
+  total_words: 193161
+  tier_distribution:
+    short: 3
+    tiny: 1
+  training_parameters:
+    iterations: 16
+    steps_per_iteration: 18
+    learning_rate_start: 1.5e-05
+    learning_rate_end: 4.0e-06
+    category: large
+    rationale: Large corpus, extended learning needed
+- original_model: fx_keylimepie
+  new_model: fx_creamykeylimepie
+  description: Creamy Keylime Pie
+  variation: creamy
+  group_number: 4
+  novels:
+  - raider
+  - desert_and_the_stars
+  - crystal_crypt
+  - ambition
+  total_words: 27574
+  tier_distribution:
+    tiny: 4
+  training_parameters:
+    iterations: 10
+    steps_per_iteration: 12
+    learning_rate_start: 3.0e-05
+    learning_rate_end: 8.0e-06
+    category: tiny
+    rationale: Small corpus, quick convergence expected
+- original_model: fx_keylimepie
+  new_model: fx_tropicalkeylimepie
+  description: Tropical Keylime Pie
+  variation: tropical
+  group_number: 5
+  novels:
+  - door_into_infinity
+  - minions_of_the_crystal_sphere
+  - engine_of_the_clouds
+  - falcons_of_narabedla
+  total_words: 80195
+  tier_distribution:
+    tiny: 1
+    very_short: 3
+  training_parameters:
+    iterations: 12
+    steps_per_iteration: 14
+    learning_rate_start: 2.5e-05
+    learning_rate_end: 6.0e-06
+    category: small
+    rationale: Small corpus, balanced training
+- original_model: hl_tiramisu
+  new_model: hl_classictiramisu
+  description: Classic Tiramisu
+  variation: classic
+  group_number: 1
+  novels:
+  - death-dealers_of_london
+  - alchemist
+  - auriol
+  - watcher_and_other_weird_stories
+  total_words: 243965
+  tier_distribution:
+    long: 1
+    short: 3
+  training_parameters:
+    iterations: 16
+    steps_per_iteration: 18
+    learning_rate_start: 1.5e-05
+    learning_rate_end: 4.0e-06
+    category: large
+    rationale: Large corpus, extended learning needed
+- original_model: hl_tiramisu
+  new_model: hl_espressotiramisu
+  description: Espresso Tiramisu
+  variation: espresso
+  group_number: 2
+  novels:
+  - international_spy
+  - three_eyes
+  - haunted_hotel
+  - man_with_the_black_feather
+  total_words: 251384
+  tier_distribution:
+    short: 4
+  training_parameters:
+    iterations: 16
+    steps_per_iteration: 18
+    learning_rate_start: 1.5e-05
+    learning_rate_end: 4.0e-06
+    category: large
+    rationale: Large corpus, extended learning needed
+- original_model: hl_tiramisu
+  new_model: hl_chocolatetiramisu
+  description: Chocolate Tiramisu
+  variation: chocolate
+  group_number: 3
+  novels:
+  - service_with_a_smile
+  - gourmet
+  - metamorphosis
+  - perchance_to_dream
+  total_words: 16094
+  tier_distribution:
+    tiny: 4
+  training_parameters:
+    iterations: 10
+    steps_per_iteration: 12
+    learning_rate_start: 3.0e-05
+    learning_rate_end: 8.0e-06
+    category: tiny
+    rationale: Small corpus, quick convergence expected
+- original_model: hl_tiramisu
+  new_model: hl_mochatiramisu
+  description: Mocha Tiramisu
+  variation: mocha
+  group_number: 4
+  novels:
+  - all_in_the_mind
+  - shunned_house
+  - call_of_cthulhu
+  - shadow_over_innsmouth
+  total_words: 46442
+  tier_distribution:
+    tiny: 4
+  training_parameters:
+    iterations: 10
+    steps_per_iteration: 12
+    learning_rate_start: 3.0e-05
+    learning_rate_end: 8.0e-06
+    category: tiny
+    rationale: Small corpus, quick convergence expected
+- original_model: mg_limesoda
+  new_model: mg_classiclimesoda
+  description: Classic Lime Soda
+  variation: classic
+  group_number: 1
+  novels:
+  - man_who_ended_war
+  - revenge
+  - havoc
+  - people_minus_x
+  total_words: 288955
+  tier_distribution:
+    long: 3
+    short: 1
+  training_parameters:
+    iterations: 18
+    steps_per_iteration: 20
+    learning_rate_start: 1.0e-05
+    learning_rate_end: 3.0e-06
+    category: xlarge
+    rationale: Very large corpus, maximum iterations
+- original_model: mg_limesoda
+  new_model: mg_fizzylimesoda
+  description: Fizzy Lime Soda
+  variation: fizzy
+  group_number: 2
+  novels:
+  - international_spy
+  - patrol
+  - standardized_man
+  - chain_reaction
+  total_words: 73077
+  tier_distribution:
+    short: 1
+    tiny: 3
+  training_parameters:
+    iterations: 10
+    steps_per_iteration: 12
+    learning_rate_start: 3.0e-05
+    learning_rate_end: 8.0e-06
+    category: tiny
+    rationale: Small corpus, quick convergence expected
+- original_model: mg_limesoda
+  new_model: mg_sparklinglimesoda
+  description: Sparkling Lime Soda
+  variation: sparkling
+  group_number: 3
+  novels:
+  - cool_war
+  - raider
+  - pandemic
+  - all_in_the_mind
+  total_words: 24419
+  tier_distribution:
+    tiny: 4
+  training_parameters:
+    iterations: 10
+    steps_per_iteration: 12
+    learning_rate_start: 3.0e-05
+    learning_rate_end: 8.0e-06
+    category: tiny
+    rationale: Small corpus, quick convergence expected
+- original_model: mg_limesoda
+  new_model: mg_zestylimesoda
+  description: Zesty Lime Soda
+  variation: zesty
+  group_number: 4
+  novels:
+  - it_takes_a_thief
+  - lord_of_the_silent_death
+  - i_the_unspeakable
+  - ice_planet
+  total_words: 40683
+  tier_distribution:
+    tiny: 4
+  training_parameters:
+    iterations: 10
+    steps_per_iteration: 12
+    learning_rate_start: 3.0e-05
+    learning_rate_end: 8.0e-06
+    category: tiny
+    rationale: Small corpus, quick convergence expected
+- original_model: mg_limesoda
+  new_model: mg_citruslimesoda
+  description: Citrus Lime Soda
+  variation: citrus
+  group_number: 5
+  novels:
+  - hail_to_the_chief
+  - equation_of_doom
+  - machine_that_saved_the_world
+  - through_the_gates_of_the_silver_key
+  total_words: 53850
+  tier_distribution:
+    tiny: 4
+  training_parameters:
+    iterations: 10
+    steps_per_iteration: 12
+    learning_rate_start: 3.0e-05
+    learning_rate_end: 8.0e-06
+    category: tiny
+    rationale: Small corpus, quick convergence expected
+- original_model: mg_limesoda
+  new_model: mg_refreshinglimesoda
+  description: Refreshing Lime Soda
+  variation: refreshing
+  group_number: 6
+  novels:
+  - mercenary
+  - citadel_of_the_green_death
+  - ultimate_weapon
+  - weapon_from_eternity
+  total_words: 108462
+  tier_distribution:
+    very_short: 4
+  training_parameters:
+    iterations: 12
+    steps_per_iteration: 14
+    learning_rate_start: 2.5e-05
+    learning_rate_end: 6.0e-06
+    category: small
+    rationale: Small corpus, balanced training
+- original_model: mt_sorbet
+  new_model: mt_lemonsorbet
+  description: Lemon Sorbet
+  variation: lemon
+  group_number: 1
+  novels:
+  - hour_of_the_dragon
+  - metropolis
+  - city_of_endless_night
+  - havoc
+  total_words: 316275
+  tier_distribution:
+    long: 4
+  training_parameters:
+    iterations: 18
+    steps_per_iteration: 20
+    learning_rate_start: 1.0e-05
+    learning_rate_end: 3.0e-06
+    category: xlarge
+    rationale: Very large corpus, maximum iterations
+- original_model: mt_sorbet
+  new_model: mt_mangosorbet
+  description: Mango Sorbet
+  variation: mango
+  group_number: 2
+  novels:
+  - house_on_the_borderland
+  - people_minus_x
+  - forgotten_planet
+  - planet_mappers
+  total_words: 218484
+  tier_distribution:
+    short: 4
+  training_parameters:
+    iterations: 16
+    steps_per_iteration: 18
+    learning_rate_start: 1.5e-05
+    learning_rate_end: 4.0e-06
+    category: large
+    rationale: Large corpus, extended learning needed
+- original_model: mt_sorbet
+  new_model: mt_raspberrysorbet
+  description: Raspberry Sorbet
+  variation: raspberry
+  group_number: 3
+  novels:
+  - brood_of_the_witch-queen
+  - death_star
+  - metamorphosis
+  - crystal_crypt
+  total_words: 79955
+  tier_distribution:
+    short: 1
+    tiny: 3
+  training_parameters:
+    iterations: 10
+    steps_per_iteration: 12
+    learning_rate_start: 3.0e-05
+    learning_rate_end: 8.0e-06
+    category: tiny
+    rationale: Small corpus, quick convergence expected
+- original_model: mt_sorbet
+  new_model: mt_limesorbet
+  description: Lime Sorbet
+  variation: lime
+  group_number: 4
+  novels:
+  - when_the_moon_fell
+  - five_hells_of_orion
+  - door_into_infinity
+  - through_the_gates_of_the_silver_key
+  total_words: 47673
+  tier_distribution:
+    tiny: 4
+  training_parameters:
+    iterations: 10
+    steps_per_iteration: 12
+    learning_rate_start: 3.0e-05
+    learning_rate_end: 8.0e-06
+    category: tiny
+    rationale: Small corpus, quick convergence expected
+- original_model: mt_sorbet
+  new_model: mt_orangesorbet
+  description: Orange Sorbet
+  variation: orange
+  group_number: 5
+  novels:
+  - parasite
+  - planet_of_dread
+  - warlock_of_sharrador
+  - witch_of_the_demon_seas
+  total_words: 77406
+  tier_distribution:
+    tiny: 2
+    very_short: 2
+  training_parameters:
+    iterations: 10
+    steps_per_iteration: 12
+    learning_rate_start: 3.0e-05
+    learning_rate_end: 8.0e-06
+    category: tiny
+    rationale: Small corpus, quick convergence expected
+- original_model: pe_peachcobbler
+  new_model: pe_classicpeachcobbler
+  description: Classic Peach Cobbler
+  variation: classic
+  group_number: 1
+  novels:
+  - tales_of_terror_and_mystery
+  - lost_world
+  - recalled_to_life
+  - case_of_charles_dexter_ward
+  total_words: 239216
+  tier_distribution:
+    long: 2
+    short: 2
+  training_parameters:
+    iterations: 16
+    steps_per_iteration: 18
+    learning_rate_start: 1.5e-05
+    learning_rate_end: 4.0e-06
+    category: large
+    rationale: Large corpus, extended learning needed
+- original_model: pe_peachcobbler
+  new_model: pe_southernpeachcobbler
+  description: Southern Peach Cobbler
+  variation: southern
+  group_number: 2
+  novels:
+  - wailing_octopus
+  - diagnosis
+  - other_now
+  - pandemic
+  total_words: 61015
+  tier_distribution:
+    short: 1
+    tiny: 3
+  training_parameters:
+    iterations: 10
+    steps_per_iteration: 12
+    learning_rate_start: 3.0e-05
+    learning_rate_end: 8.0e-06
+    category: tiny
+    rationale: Small corpus, quick convergence expected
+- original_model: pe_peachcobbler
+  new_model: pe_spicedpeachcobbler
+  description: Spiced Peach Cobbler
+  variation: spiced
+  group_number: 3
+  novels:
+  - all_in_the_mind
+  - trap
+  - slow_burn
+  - stellar_showboat
+  total_words: 33947
+  tier_distribution:
+    tiny: 4
+  training_parameters:
+    iterations: 10
+    steps_per_iteration: 12
+    learning_rate_start: 3.0e-05
+    learning_rate_end: 8.0e-06
+    category: tiny
+    rationale: Small corpus, quick convergence expected
+- original_model: pe_peachcobbler
+  new_model: pe_cinnamonpeachcobbler
+  description: Cinnamon Peach Cobbler
+  variation: cinnamon
+  group_number: 4
+  novels:
+  - ties_that_bind
+  - shunned_house
+  - contagion
+  - i_the_unspeakable
+  total_words: 43273
+  tier_distribution:
+    tiny: 4
+  training_parameters:
+    iterations: 10
+    steps_per_iteration: 12
+    learning_rate_start: 3.0e-05
+    learning_rate_end: 8.0e-06
+    category: tiny
+    rationale: Small corpus, quick convergence expected
+- original_model: pe_peachcobbler
+  new_model: pe_butterypeachcobbler
+  description: Buttery Peach Cobbler
+  variation: buttery
+  group_number: 5
+  novels:
+  - shadows_in_the_moonlight
+  - deirdre_of_the_sorrows
+  - dunwich_horror
+  - parasite
+  total_words: 63263
+  tier_distribution:
+    tiny: 4
+  training_parameters:
+    iterations: 10
+    steps_per_iteration: 12
+    learning_rate_start: 3.0e-05
+    learning_rate_end: 8.0e-06
+    category: tiny
+    rationale: Small corpus, quick convergence expected
+- original_model: sf_parfait
+  new_model: sf_berryparfait
+  description: Berry Parfait
+  variation: berry
+  group_number: 1
+  novels:
+  - secret_tomb
+  - revenge
+  - changeling
+  - recalled_to_life
+  total_words: 289489
+  tier_distribution:
+    long: 3
+    short: 1
+  training_parameters:
+    iterations: 18
+    steps_per_iteration: 20
+    learning_rate_start: 1.0e-05
+    learning_rate_end: 3.0e-06
+    category: xlarge
+    rationale: Very large corpus, maximum iterations
+- original_model: sf_parfait
+  new_model: sf_granolaparfait
+  description: Granola Parfait
+  variation: granola
+  group_number: 2
+  novels:
+  - space_station_1
+  - operation_interstellar
+  - eva_s_adventures_in_shadow-land
+  - space_prison
+  total_words: 205284
+  tier_distribution:
+    short: 4
+  training_parameters:
+    iterations: 16
+    steps_per_iteration: 18
+    learning_rate_start: 1.5e-05
+    learning_rate_end: 4.0e-06
+    category: large
+    rationale: Large corpus, extended learning needed
+- original_model: sf_parfait
+  new_model: sf_yogurtparfait
+  description: Yogurt Parfait
+  variation: yogurt
+  group_number: 3
+  novels:
+  - auriol
+  - make_me_an_offer
+  - elegy
+  - repairman
+  total_words: 68388
+  tier_distribution:
+    short: 1
+    tiny: 3
+  training_parameters:
+    iterations: 10
+    steps_per_iteration: 12
+    learning_rate_start: 3.0e-05
+    learning_rate_end: 8.0e-06
+    category: tiny
+    rationale: Small corpus, quick convergence expected
+- original_model: sf_parfait
+  new_model: sf_chocolateparfait
+  description: Chocolate Parfait
+  variation: chocolate
+  group_number: 4
+  novels:
+  - perchance_to_dream
+  - robots_of_the_world
+  - reluctant_heroes
+  - stellar_showboat
+  total_words: 28638
+  tier_distribution:
+    tiny: 4
+  training_parameters:
+    iterations: 10
+    steps_per_iteration: 12
+    learning_rate_start: 3.0e-05
+    learning_rate_end: 8.0e-06
+    category: tiny
+    rationale: Small corpus, quick convergence expected
+- original_model: sf_parfait
+  new_model: sf_fruitparfait
+  description: Fruit Parfait
+  variation: fruit
+  group_number: 5
+  novels:
+  - shadows_in_the_moonlight
+  - door_into_infinity
+  - magic
+  - prey_of_the_space_falcon
+  total_words: 57828
+  tier_distribution:
+    tiny: 4
+  training_parameters:
+    iterations: 10
+    steps_per_iteration: 12
+    learning_rate_start: 3.0e-05
+    learning_rate_end: 8.0e-06
+    category: tiny
+    rationale: Small corpus, quick convergence expected
+- original_model: so_smores
+  new_model: so_classicsmores
+  description: Classic Smores
+  variation: classic
+  group_number: 1
+  novels:
+  - journey_to_the_centre_of_the_earth
+  - recalled_to_life
+  - worlds_of_the_imperium
+  - children_of_odin
+  total_words: 239091
+  tier_distribution:
+    long: 1
+    short: 3
+  training_parameters:
+    iterations: 16
+    steps_per_iteration: 18
+    learning_rate_start: 1.5e-05
+    learning_rate_end: 4.0e-06
+    category: large
+    rationale: Large corpus, extended learning needed
+- original_model: so_smores
+  new_model: so_campfiresmores
+  description: Campfire Smores
+  variation: campfire
+  group_number: 2
+  novels:
+  - standardized_man
+  - we_re_civilized
+  - crystal_crypt
+  - transfer_point
+  total_words: 22524
+  tier_distribution:
+    tiny: 4
+  training_parameters:
+    iterations: 10
+    steps_per_iteration: 12
+    learning_rate_start: 3.0e-05
+    learning_rate_end: 8.0e-06
+    category: tiny
+    rationale: Small corpus, quick convergence expected
+- original_model: so_smores
+  new_model: so_chocolatesmores
+  description: Chocolate Smores
+  variation: chocolate
+  group_number: 3
+  novels:
+  - death_from_orion
+  - third_planet
+  - hellhounds_of_the_cosmos
+  - thunder_in_the_void
+  total_words: 38130
+  tier_distribution:
+    tiny: 4
+  training_parameters:
+    iterations: 10
+    steps_per_iteration: 12
+    learning_rate_start: 3.0e-05
+    learning_rate_end: 8.0e-06
+    category: tiny
+    rationale: Small corpus, quick convergence expected
+- original_model: so_smores
+  new_model: so_toastedsmores
+  description: Toasted Smores
+  variation: toasted
+  group_number: 4
+  novels:
+  - space-trap_at_banya_tor
+  - human_error
+  - machine_that_saved_the_world
+  - magic
+  total_words: 50861
+  tier_distribution:
+    tiny: 4
+  training_parameters:
+    iterations: 10
+    steps_per_iteration: 12
+    learning_rate_start: 3.0e-05
+    learning_rate_end: 8.0e-06
+    category: tiny
+    rationale: Small corpus, quick convergence expected
+- original_model: so_smores
+  new_model: so_grahamsmores
+  description: Graham Smores
+  variation: graham
+  group_number: 5
+  novels:
+  - through_the_gates_of_the_silver_key
+  - moon_metal
+  - weapon_from_eternity
+  - moon_maker
+  total_words: 105129
+  tier_distribution:
+    tiny: 1
+    very_short: 3
+  training_parameters:
+    iterations: 12
+    steps_per_iteration: 14
+    learning_rate_start: 2.5e-05
+    learning_rate_end: 6.0e-06
+    category: small
+    rationale: Small corpus, balanced training
+- original_model: tg_sugarcookie
+  new_model: tg_vanillasugarcookie
+  description: Vanilla Sugar Cookie
+  variation: vanilla
+  group_number: 1
+  novels:
+  - nomad
+  - tracked_by_a_tattoo
+  - havoc
+  - island_of_doctor_moreau
+  total_words: 289906
+  tier_distribution:
+    long: 3
+    short: 1
+  training_parameters:
+    iterations: 18
+    steps_per_iteration: 20
+    learning_rate_start: 1.0e-05
+    learning_rate_end: 3.0e-06
+    category: xlarge
+    rationale: Very large corpus, maximum iterations
+- original_model: tg_sugarcookie
+  new_model: tg_chocolate_chipsugarcookie
+  description: Chocolate Chip Sugar Cookie
+  variation: chocolate_chip
+  group_number: 2
+  novels:
+  - on_the_trail_of_the_space_pirates
+  - forgotten_planet
+  - avenger
+  - service_with_a_smile
+  total_words: 174357
+  tier_distribution:
+    short: 3
+    tiny: 1
+  training_parameters:
+    iterations: 14
+    steps_per_iteration: 16
+    learning_rate_start: 2.0e-05
+    learning_rate_end: 5.0e-06
+    category: medium
+    rationale: Optimal corpus size, quality focus
+- original_model: tg_sugarcookie
+  new_model: tg_snickerdoodlesugarcookie
+  description: Snickerdoodle Sugar Cookie
+  variation: snickerdoodle
+  group_number: 3
+  novels:
+  - wellsprings_of_space
+  - we_re_civilized
+  - raider
+  - desert_and_the_stars
+  total_words: 20355
+  tier_distribution:
+    tiny: 4
+  training_parameters:
+    iterations: 10
+    steps_per_iteration: 12
+    learning_rate_start: 3.0e-05
+    learning_rate_end: 8.0e-06
+    category: tiny
+    rationale: Small corpus, quick convergence expected
+- original_model: tg_sugarcookie
+  new_model: tg_frostedsugarcookie
+  description: Frosted Sugar Cookie
+  variation: frosted
+  group_number: 4
+  novels:
+  - when_the_moon_fell
+  - thunder_in_the_void
+  - shadows_in_the_moonlight
+  - machine_that_saved_the_world
+  total_words: 44847
+  tier_distribution:
+    tiny: 4
+  training_parameters:
+    iterations: 10
+    steps_per_iteration: 12
+    learning_rate_start: 3.0e-05
+    learning_rate_end: 8.0e-06
+    category: tiny
+    rationale: Small corpus, quick convergence expected
+- original_model: tr_creamsoda
+  new_model: tr_vanillacreamsoda
+  description: Vanilla Cream Soda
+  variation: vanilla
+  group_number: 1
+  novels:
+  - "ars\xE8ne_lupin"
+  - secret_tomb
+  - "ars\xE8ne_lupin_super-sleuth"
+  - jade_god
+  total_words: 290710
+  tier_distribution:
+    long: 4
+  training_parameters:
+    iterations: 18
+    steps_per_iteration: 20
+    learning_rate_start: 1.0e-05
+    learning_rate_end: 3.0e-06
+    category: xlarge
+    rationale: Very large corpus, maximum iterations
+- original_model: tr_creamsoda
+  new_model: tr_classiccreamsoda
+  description: Classic Cream Soda
+  variation: classic
+  group_number: 2
+  novels:
+  - lost_world
+  - law_of_hemlock_mountain
+  - journey_to_the_centre_of_the_earth
+  - opal_serpent
+  total_words: 327923
+  tier_distribution:
+    long: 4
+  training_parameters:
+    iterations: 18
+    steps_per_iteration: 20
+    learning_rate_start: 1.0e-05
+    learning_rate_end: 3.0e-06
+    category: xlarge
+    rationale: Very large corpus, maximum iterations
+- original_model: tr_creamsoda
+  new_model: tr_fizzycreamsoda
+  description: Fizzy Cream Soda
+  variation: fizzy
+  group_number: 3
+  novels:
+  - wailing_octopus
+  - five_thousand_miles_underground
+  - polaris_of_the_snows
+  - international_spy
+  total_words: 206339
+  tier_distribution:
+    short: 4
+  training_parameters:
+    iterations: 16
+    steps_per_iteration: 18
+    learning_rate_start: 1.5e-05
+    learning_rate_end: 4.0e-06
+    category: large
+    rationale: Large corpus, extended learning needed
+- original_model: tr_creamsoda
+  new_model: tr_smoothcreamsoda
+  description: Smooth Cream Soda
+  variation: smooth
+  group_number: 4
+  novels:
+  - "ars\xE8ne_lupin_intervenes"
+  - empty_house_and_other_ghost_stories
+  - make_me_an_offer
+  - raider
+  total_words: 136663
+  tier_distribution:
+    short: 2
+    tiny: 2
+  training_parameters:
+    iterations: 14
+    steps_per_iteration: 16
+    learning_rate_start: 2.0e-05
+    learning_rate_end: 5.0e-06
+    category: medium
+    rationale: Optimal corpus size, quality focus
+- original_model: tr_creamsoda
+  new_model: tr_old_fashionedcreamsoda
+  description: Old Fashioned Cream Soda
+  variation: old_fashioned
+  group_number: 5
+  novels:
+  - it_takes_a_thief
+  - trap
+  - ice_planet
+  - people_of_the_crater
+  total_words: 43408
+  tier_distribution:
+    tiny: 4
+  training_parameters:
+    iterations: 10
+    steps_per_iteration: 12
+    learning_rate_start: 3.0e-05
+    learning_rate_end: 8.0e-06
+    category: tiny
+    rationale: Small corpus, quick convergence expected
+- original_model: vs_mintchip
+  new_model: vs_peppermintmintchip
+  description: Peppermint Mint Chip
+  variation: peppermint
+  group_number: 1
+  novels:
+  - secret_tomb
+  - living_mummy
+  - opal_serpent
+  - alchemist
+  total_words: 280602
+  tier_distribution:
+    long: 3
+    short: 1
+  training_parameters:
+    iterations: 18
+    steps_per_iteration: 20
+    learning_rate_start: 1.0e-05
+    learning_rate_end: 3.0e-06
+    category: xlarge
+    rationale: Very large corpus, maximum iterations
+- original_model: vs_mintchip
+  new_model: vs_chocolatemintchip
+  description: Chocolate Mint Chip
+  variation: chocolate
+  group_number: 2
+  novels:
+  - house_on_the_borderland
+  - watcher_and_other_weird_stories
+  - brood_of_the_witch-queen
+  - man_with_the_black_feather
+  total_words: 238416
+  tier_distribution:
+    short: 4
+  training_parameters:
+    iterations: 16
+    steps_per_iteration: 18
+    learning_rate_start: 1.5e-05
+    learning_rate_end: 4.0e-06
+    category: large
+    rationale: Large corpus, extended learning needed
+- original_model: vs_mintchip
+  new_model: vs_doublemintchip
+  description: Double Mint Chip
+  variation: double
+  group_number: 3
+  novels:
+  - game_of_rat_and_dragon
+  - ozymandias
+  - impersonator
+  - it_takes_a_thief
+  total_words: 26223
+  tier_distribution:
+    tiny: 4
+  training_parameters:
+    iterations: 10
+    steps_per_iteration: 12
+    learning_rate_start: 3.0e-05
+    learning_rate_end: 8.0e-06
+    category: tiny
+    rationale: Small corpus, quick convergence expected
+- original_model: vs_mintchip
+  new_model: vs_swirlmintchip
+  description: Swirl Mint Chip
+  variation: swirl
+  group_number: 4
+  novels:
+  - shunned_house
+  - i_the_unspeakable
+  - dunwich_horror
+  - parasite
+  total_words: 57354
+  tier_distribution:
+    tiny: 4
+  training_parameters:
+    iterations: 10
+    steps_per_iteration: 12
+    learning_rate_start: 3.0e-05
+    learning_rate_end: 8.0e-06
+    category: tiny
+    rationale: Small corpus, quick convergence expected
+- original_model: vs_mintchip
+  new_model: vs_freshmintchip
+  description: Fresh Mint Chip
+  variation: fresh
+  group_number: 5
+  novels:
+  - hate_disease
+  - warlock_of_sharrador
+  - haunted_island
+  - gray_shadow
+  total_words: 123976
+  tier_distribution:
+    tiny: 1
+    very_short: 3
+  training_parameters:
+    iterations: 14
+    steps_per_iteration: 16
+    learning_rate_start: 2.0e-05
+    learning_rate_end: 5.0e-06
+    category: medium
+    rationale: Optimal corpus size, quality focus
+- original_model: xg_rootbeer
+  new_model: xg_classicrootbeer
+  description: Classic Rootbeer
+  variation: classic
+  group_number: 1
+  novels:
+  - metropolis
+  - city_of_endless_night
+  - recalled_to_life
+  - cities_in_the_air
+  total_words: 247312
+  tier_distribution:
+    long: 2
+    short: 2
+  training_parameters:
+    iterations: 16
+    steps_per_iteration: 18
+    learning_rate_start: 1.5e-05
+    learning_rate_end: 4.0e-06
+    category: large
+    rationale: Large corpus, extended learning needed
+- original_model: xg_rootbeer
+  new_model: xg_sassafrasrootbeer
+  description: Sassafras Rootbeer
+  variation: sassafras
+  group_number: 2
+  novels:
+  - people_minus_x
+  - forgotten_planet
+  - crystal_age
+  - air_pirate
+  total_words: 229150
+  tier_distribution:
+    short: 4
+  training_parameters:
+    iterations: 16
+    steps_per_iteration: 18
+    learning_rate_start: 1.5e-05
+    learning_rate_end: 4.0e-06
+    category: large
+    rationale: Large corpus, extended learning needed
+- original_model: xg_rootbeer
+  new_model: xg_floatrootbeer
+  description: Float Rootbeer
+  variation: float
+  group_number: 3
+  novels:
+  - standardized_man
+  - other_now
+  - metamorphosis
+  - robots_of_the_world
+  total_words: 19415
+  tier_distribution:
+    tiny: 4
+  training_parameters:
+    iterations: 10
+    steps_per_iteration: 12
+    learning_rate_start: 3.0e-05
+    learning_rate_end: 8.0e-06
+    category: tiny
+    rationale: Small corpus, quick convergence expected
+- original_model: xg_rootbeer
+  new_model: xg_old_fashionedrootbeer
+  description: Old Fashioned Rootbeer
+  variation: old_fashioned
+  group_number: 4
+  novels:
+  - all_in_the_mind
+  - when_the_moon_fell
+  - immortals
+  - machine_that_saved_the_world
+  total_words: 41006
+  tier_distribution:
+    tiny: 4
+  training_parameters:
+    iterations: 10
+    steps_per_iteration: 12
+    learning_rate_start: 3.0e-05
+    learning_rate_end: 8.0e-06
+    category: tiny
+    rationale: Small corpus, quick convergence expected
+- original_model: xg_rootbeer
+  new_model: xg_barrelrootbeer
+  description: Barrel Rootbeer
+  variation: barrel
+  group_number: 5
+  novels:
+  - planet_of_sand
+  - weapon_from_eternity
+  - at_the_mountains_of_madness
+  - death_ship
+  total_words: 132189
+  tier_distribution:
+    tiny: 1
+    very_short: 3
+  training_parameters:
+    iterations: 14
+    steps_per_iteration: 16
+    learning_rate_start: 2.0e-05
+    learning_rate_end: 5.0e-06
+    category: medium
+    rationale: Optimal corpus size, quality focus
+- original_model: xo_chocolateshake
+  new_model: xo_classicchocolateshake
+  description: Classic Chocolate Pudding
+  variation: classic
+  group_number: 1
+  novels:
+  - radio_planet
+  - lost_on_venus
+  - death_walks_on_mars
+  - hermit_of_mars
+  total_words: 148512
+  tier_distribution:
+    long: 1
+    short: 1
+    tiny: 2
+  training_parameters:
+    iterations: 14
+    steps_per_iteration: 16
+    learning_rate_start: 2.0e-05
+    learning_rate_end: 5.0e-06
+    category: medium
+    rationale: Optimal corpus size, quality focus
+- original_model: xo_chocolateshake
+  new_model: xo_thickchocolateshake
+  description: Thick Chocolate Pudding
+  variation: thick
+  group_number: 2
+  novels:
+  - beautiful_people
+  - mars_confidential
+  - horror_in_the_burying-ground
+  - vibration_wasps
+  total_words: 23464
+  tier_distribution:
+    tiny: 4
+  training_parameters:
+    iterations: 10
+    steps_per_iteration: 12
+    learning_rate_start: 3.0e-05
+    learning_rate_end: 8.0e-06
+    category: tiny
+    rationale: Small corpus, quick convergence expected
+- original_model: xo_chocolateshake
+  new_model: xo_creamychocolateshake
+  description: Creamy Chocolate Pudding
+  variation: creamy
+  group_number: 3
+  novels:
+  - midnight_fantasy
+  - tedric
+  - hot_planet
+  - sargasso_of_space
+  total_words: 31879
+  tier_distribution:
+    tiny: 4
+  training_parameters:
+    iterations: 10
+    steps_per_iteration: 12
+    learning_rate_start: 3.0e-05
+    learning_rate_end: 8.0e-06
+    category: tiny
+    rationale: Small corpus, quick convergence expected
+- original_model: xo_chocolateshake
+  new_model: xo_fudgechocolateshake
+  description: Fudge Chocolate Pudding
+  variation: fudge
+  group_number: 4
+  novels:
+  - martian_odyssey
+  - memories_of_mars
+  - metal_moon
+  - earth_is_missing
+  total_words: 52018
+  tier_distribution:
+    tiny: 4
+  training_parameters:
+    iterations: 10
+    steps_per_iteration: 12
+    learning_rate_start: 3.0e-05
+    learning_rate_end: 8.0e-06
+    category: tiny
+    rationale: Small corpus, quick convergence expected
+- original_model: xo_chocolateshake
+  new_model: xo_maltchocolateshake
+  description: Malt Chocolate Pudding
+  variation: malt
+  group_number: 5
+  novels:
+  - juggernaut_of_space
+  - star_guardsman
+  - scarlet_plague
+  - queen_of_the_martian_catacombs
+  total_words: 77444
+  tier_distribution:
+    tiny: 2
+    very_short: 2
+  training_parameters:
+    iterations: 10
+    steps_per_iteration: 12
+    learning_rate_start: 3.0e-05
+    learning_rate_end: 8.0e-06
+    category: tiny
+    rationale: Small corpus, quick convergence expected
+- original_model: xo_chocolateshake
+  new_model: xo_doublechocolateshake
+  description: Double Chocolate Pudding
+  variation: double
+  group_number: 6
+  novels:
+  - red_dust
+  - slaves_to_the_metal_horde
+  - agony_column
+  - lone_star_planet
+  total_words: 103747
+  tier_distribution:
+    very_short: 4
+  training_parameters:
+    iterations: 12
+    steps_per_iteration: 14
+    learning_rate_start: 2.5e-05
+    learning_rate_end: 6.0e-06
+    category: small
+    rationale: Small corpus, balanced training
+- original_model: lovecraft_mythos
+  new_model: lovecraft_1mythos
+  description: 1 H.P. Lovecraft Cosmic Horror Collection
+  variation: '1'
+  group_number: 1
+  novels:
+  - case_of_charles_dexter_ward
+  - horror_at_red_hook
+  - shunned_house
+  - call_of_cthulhu
+  total_words: 75464
+  tier_distribution:
+    short: 1
+    tiny: 3
+  training_parameters:
+    iterations: 10
+    steps_per_iteration: 12
+    learning_rate_start: 3.0e-05
+    learning_rate_end: 8.0e-06
+    category: tiny
+    rationale: Small corpus, quick convergence expected
+- original_model: lovecraft_mythos
+  new_model: lovecraft_2mythos
+  description: 2 H.P. Lovecraft Cosmic Horror Collection
+  variation: '2'
+  group_number: 2
+  novels:
+  - through_the_gates_of_the_silver_key
+  - shadow_over_innsmouth
+  - dunwich_horror
+  - at_the_mountains_of_madness
+  total_words: 88045
+  tier_distribution:
+    tiny: 3
+    very_short: 1
+  training_parameters:
+    iterations: 12
+    steps_per_iteration: 14
+    learning_rate_start: 2.5e-05
+    learning_rate_end: 6.0e-06
+    category: small
+    rationale: Small corpus, balanced training
+statistics:
+  original_model_count: 19
+  new_model_count: 94
+  models_per_original:
+    bc_sprinkles: 6
+    cb_bananasplit: 6
+    es_cherryfloat: 6
+    f7_cupcake: 5
+    f8_cheesecake: 5
+    ft_marshmallow: 4
+    fx_keylimepie: 5
+    hl_tiramisu: 4
+    mg_limesoda: 6
+    mt_sorbet: 5
+    pe_peachcobbler: 5
+    sf_parfait: 5
+    so_smores: 5
+    tg_sugarcookie: 4
+    tr_creamsoda: 5
+    vs_mintchip: 5
+    xg_rootbeer: 5
+    xo_chocolateshake: 6
+    lovecraft_mythos: 2
+  word_count_distribution:
+    min: 16094
+    max: 327923
+    mean: 124186
+  training_parameters:
+    iterations: !!python/object/apply:collections.defaultdict
+      args:
+      - &id001 !!python/name:builtins.int ''
+      dictitems:
+        18: 13
+        14: 8
+        10: 47
+        12: 9
+        16: 17
+    size_categories: !!python/object/apply:collections.defaultdict
+      args:
+      - *id001
+      dictitems:
+        xlarge: 13
+        medium: 8
+        tiny: 47
+        small: 9
+        large: 17
+  tier_distributions: !!python/object/apply:collections.defaultdict
+    args:
+    - *id001
+    dictitems:
+      long:4: 6
+      long:2, short:2: 4
+      short:2, tiny:2: 4
+      tiny:4: 37
+      tiny:2, very_short:2: 3
+      long:1, short:3: 4
+      tiny:1, very_short:3: 5
+      short:1, tiny:3: 6
+      tiny:3, very_short:1: 4
+      short:4: 9
+      long:3, short:1: 6
+      very_short:4: 3
+      short:3, tiny:1: 2
+      long:1, short:1, tiny:2: 1

@@ -45,18 +45,18 @@ class AdaptiveTrainingParameters:
         if total_words < 80000:
             # TINY: Quick training, fewer iterations
             return {
-                'iterations': 10,
-                'steps_per_iteration': 12,
+                'iterations': 8,
+                'steps_per_iteration': 100,
                 'learning_rate_start': 3e-5,
                 'learning_rate_end': 8e-6,
                 'category': 'tiny',
-                'rationale': 'Small corpus, quick convergence expected'
+                'rationale': 'Small corpus, fewer iterations but sufficient steps'
             }
         elif total_words < 120000:
             # SMALL: Standard short training
             return {
-                'iterations': 12,
-                'steps_per_iteration': 14,
+                'iterations': 10,
+                'steps_per_iteration': 150,
                 'learning_rate_start': 2.5e-5,
                 'learning_rate_end': 6e-6,
                 'category': 'small',
@@ -65,8 +65,8 @@ class AdaptiveTrainingParameters:
         elif total_words < 180000:
             # MEDIUM: Optimal range
             return {
-                'iterations': 14,
-                'steps_per_iteration': 16,
+                'iterations': 12,
+                'steps_per_iteration': 200,
                 'learning_rate_start': 2e-5,
                 'learning_rate_end': 5e-6,
                 'category': 'medium',
@@ -75,8 +75,8 @@ class AdaptiveTrainingParameters:
         elif total_words < 260000:
             # LARGE: Extended training
             return {
-                'iterations': 16,
-                'steps_per_iteration': 18,
+                'iterations': 14,
+                'steps_per_iteration': 250,
                 'learning_rate_start': 1.5e-5,
                 'learning_rate_end': 4e-6,
                 'category': 'large',
@@ -85,12 +85,12 @@ class AdaptiveTrainingParameters:
         else:
             # XLARGE: Maximum training
             return {
-                'iterations': 18,
-                'steps_per_iteration': 20,
+                'iterations': 16,
+                'steps_per_iteration': 300,
                 'learning_rate_start': 1e-5,
                 'learning_rate_end': 3e-6,
                 'category': 'xlarge',
-                'rationale': 'Very large corpus, maximum iterations'
+                'rationale': 'Very large corpus, maximum iterations and steps'
             }
 
 

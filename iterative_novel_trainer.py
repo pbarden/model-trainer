@@ -634,7 +634,20 @@ class IterativeTrainer:
             validation_result = self.validator.validate_iteration(model, tokenizer, val_chunks, iteration)
 
             # Get detailed training analysis
-            training_analysis = self.validator.get_training_analysis(iteration)
+            try:
+                training_analysis = self.validator.get_training_analysis(iteration)
+            except Exception as e:
+                logger.error(f"Failed to get training analysis: {e}")
+                training_analysis = {
+                    "iteration": iteration + 1,
+                    "current_perplexity": validation_result.get("perplexity", 0),
+                    "current_quality": validation_result.get("quality_score", 0),
+                    "perplexity_trend": "unknown",
+                    "quality_trend": "unknown",
+                    "convergence_status": "unknown",
+                    "overfitting_risk": False,
+                    "training_stability": "unknown"
+                }
 
             iteration_result = {
                 "iteration": iteration + 1,
@@ -946,7 +959,7 @@ class IterativeTrainer:
             "iteration": best_iter["iteration"],
             "quality_score": best_iter["quality_score"],
             "perplexity": best_iter["perplexity"],
-            "convergence_status": best_iter["training_analysis"]["convergence_status"]
+            "convergence_status": best_iter.get("training_analysis", {}).get("convergence_status", "unknown")
         }
 
     def _analyze_convergence(self, iterations: List[Dict]) -> Dict[str, Any]:
@@ -972,7 +985,7 @@ class IterativeTrainer:
 
         # Check for overfitting indicators
         overfitting_detected = any(
-            iter_data["training_analysis"]["overfitting_risk"]
+            iter_data.get("training_analysis", {}).get("overfitting_risk", False)
             for iter_data in iterations
         )
 

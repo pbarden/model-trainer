@@ -1,0 +1,2984 @@
+{
+  "metadata": {
+    "total_models": 18,
+    "total_novels_assigned": 445,
+    "total_word_count": 17327504,
+    "created_by": "Model Tea Cleanup Script",
+    "description": "Model Tea - Clean model categorization with dessert-themed names",
+    "copyright": "ChaiQ LLC"
+  },
+  "models": {
+    "bc_sprinkles": {
+      "description": "Sprinkles",
+      "novel_count": 26,
+      "total_word_count": 961082,
+      "avg_words_per_novel": 36964,
+      "novels": [
+        {
+          "original_name": "Ambition",
+          "directory_name": "ambition",
+          "word_count": 7775,
+          "sentence_count": 413
+        },
+        {
+          "original_name": "At the mountains of madness",
+          "directory_name": "at_the_mountains_of_madness",
+          "word_count": 40020,
+          "sentence_count": 706
+        },
+        {
+          "original_name": "Captain Chaos",
+          "directory_name": "captain_chaos",
+          "word_count": 7721,
+          "sentence_count": 441
+        },
+        {
+          "original_name": "Chain Reaction",
+          "directory_name": "chain_reaction",
+          "word_count": 4743,
+          "sentence_count": 271
+        },
+        {
+          "original_name": "Death-Dealers of London",
+          "directory_name": "death-dealers_of_london",
+          "word_count": 81625,
+          "sentence_count": 3640
+        },
+        {
+          "original_name": "Empty House and Other Ghost Stories",
+          "directory_name": "empty_house_and_other_ghost_stories",
+          "word_count": 66209,
+          "sentence_count": 2070
+        },
+        {
+          "original_name": "Gray Shadow",
+          "directory_name": "gray_shadow",
+          "word_count": 43900,
+          "sentence_count": 3162
+        },
+        {
+          "original_name": "Hail to the Chief",
+          "directory_name": "hail_to_the_chief",
+          "word_count": 12708,
+          "sentence_count": 615
+        },
+        {
+          "original_name": "Hellhounds of the Cosmos",
+          "directory_name": "hellhounds_of_the_cosmos",
+          "word_count": 9911,
+          "sentence_count": 441
+        },
+        {
+          "original_name": "Human Error",
+          "directory_name": "human_error",
+          "word_count": 13092,
+          "sentence_count": 589
+        },
+        {
+          "original_name": "Impersonator",
+          "directory_name": "impersonator",
+          "word_count": 7442,
+          "sentence_count": 296
+        },
+        {
+          "original_name": "International Spy",
+          "directory_name": "international_spy",
+          "word_count": 61800,
+          "sentence_count": 1582
+        },
+        {
+          "original_name": "King of Diamonds",
+          "directory_name": "king_of_diamonds",
+          "word_count": 81015,
+          "sentence_count": 3596
+        },
+        {
+          "original_name": "Law of Hemlock Mountain",
+          "directory_name": "law_of_hemlock_mountain",
+          "word_count": 78526,
+          "sentence_count": 2081
+        },
+        {
+          "original_name": "Machine That Saved The World",
+          "directory_name": "machine_that_saved_the_world",
+          "word_count": 14000,
+          "sentence_count": 788
+        },
+        {
+          "original_name": "Man Without a Conscience",
+          "directory_name": "man_without_a_conscience",
+          "word_count": 41505,
+          "sentence_count": 2185
+        },
+        {
+          "original_name": "Metropolis",
+          "directory_name": "metropolis",
+          "word_count": 73035,
+          "sentence_count": 4790
+        },
+        {
+          "original_name": "Raider",
+          "directory_name": "raider",
+          "word_count": 5802,
+          "sentence_count": 303
+        },
+        {
+          "original_name": "Red Seal",
+          "directory_name": "red_seal",
+          "word_count": 55213,
+          "sentence_count": 3551
+        },
+        {
+          "original_name": "Tales of Terror and Mystery",
+          "directory_name": "tales_of_terror_and_mystery",
+          "word_count": 75056,
+          "sentence_count": 2787
+        },
+        {
+          "original_name": "Ties That Bind",
+          "directory_name": "ties_that_bind",
+          "word_count": 10035,
+          "sentence_count": 447
+        },
+        {
+          "original_name": "Tracked by a Tattoo",
+          "directory_name": "tracked_by_a_tattoo",
+          "word_count": 80304,
+          "sentence_count": 3836
+        },
+        {
+          "original_name": "Weapon From Eternity",
+          "directory_name": "weapon_from_eternity",
+          "word_count": 33331,
+          "sentence_count": 1786
+        },
+        {
+          "original_name": "island of Doctor Moreau",
+          "directory_name": "island_of_doctor_moreau",
+          "word_count": 44081,
+          "sentence_count": 2307
+        },
+        {
+          "original_name": "trap",
+          "directory_name": "trap",
+          "word_count": 8490,
+          "sentence_count": 218
+        },
+        {
+          "original_name": "wellsprings of space",
+          "directory_name": "wellsprings_of_space",
+          "word_count": 3743,
+          "sentence_count": 178
+        }
+      ],
+      "chunking_strategy": {
+        "chunk_size": 800,
+        "overlap": 80,
+        "max_chunks_per_novel": 30,
+        "strategy": "large_dataset"
+      }
+    },
+    "cb_bananasplit": {
+      "description": "Banana Split",
+      "novel_count": 27,
+      "total_word_count": 902724,
+      "avg_words_per_novel": 33434,
+      "novels": [
+        {
+          "original_name": "Asteroid H277\u2014Plus",
+          "directory_name": "asteroid_h277_plus",
+          "word_count": 4430,
+          "sentence_count": 234
+        },
+        {
+          "original_name": "Cargo to Callisto",
+          "directory_name": "cargo_to_callisto",
+          "word_count": 5058,
+          "sentence_count": 241
+        },
+        {
+          "original_name": "Chain Reaction",
+          "directory_name": "chain_reaction",
+          "word_count": 4743,
+          "sentence_count": 271
+        },
+        {
+          "original_name": "Cosmic Junkman",
+          "directory_name": "cosmic_junkman",
+          "word_count": 22211,
+          "sentence_count": 1374
+        },
+        {
+          "original_name": "Danger in Deep Space",
+          "directory_name": "danger_in_deep_space",
+          "word_count": 48931,
+          "sentence_count": 2331
+        },
+        {
+          "original_name": "Dragon-Queen of Jupiter",
+          "directory_name": "dragon-queen_of_jupiter",
+          "word_count": 6978,
+          "sentence_count": 378
+        },
+        {
+          "original_name": "Elegy",
+          "directory_name": "elegy",
+          "word_count": 5378,
+          "sentence_count": 304
+        },
+        {
+          "original_name": "Enter the Nebula",
+          "directory_name": "enter_the_nebula",
+          "word_count": 9924,
+          "sentence_count": 523
+        },
+        {
+          "original_name": "Golden Triangle",
+          "directory_name": "golden_triangle",
+          "word_count": 90808,
+          "sentence_count": 6330
+        },
+        {
+          "original_name": "Gray Phantom's Return",
+          "directory_name": "gray_phantom_s_return",
+          "word_count": 79749,
+          "sentence_count": 3387
+        },
+        {
+          "original_name": "Gray Shadow",
+          "directory_name": "gray_shadow",
+          "word_count": 43900,
+          "sentence_count": 3162
+        },
+        {
+          "original_name": "Impersonator",
+          "directory_name": "impersonator",
+          "word_count": 7442,
+          "sentence_count": 296
+        },
+        {
+          "original_name": "It Takes a Thief",
+          "directory_name": "it_takes_a_thief",
+          "word_count": 7486,
+          "sentence_count": 412
+        },
+        {
+          "original_name": "Mercenary",
+          "directory_name": "mercenary",
+          "word_count": 21290,
+          "sentence_count": 1089
+        },
+        {
+          "original_name": "Outpost on Io",
+          "directory_name": "outpost_on_io",
+          "word_count": 6534,
+          "sentence_count": 435
+        },
+        {
+          "original_name": "Patrol",
+          "directory_name": "patrol",
+          "word_count": 3338,
+          "sentence_count": 187
+        },
+        {
+          "original_name": "People Minus X",
+          "directory_name": "people_minus_x",
+          "word_count": 52599,
+          "sentence_count": 3200
+        },
+        {
+          "original_name": "Raider",
+          "directory_name": "raider",
+          "word_count": 5802,
+          "sentence_count": 303
+        },
+        {
+          "original_name": "Repairman",
+          "directory_name": "repairman",
+          "word_count": 5493,
+          "sentence_count": 234
+        },
+        {
+          "original_name": "Revenge",
+          "directory_name": "revenge",
+          "word_count": 81246,
+          "sentence_count": 2953
+        },
+        {
+          "original_name": "Spacemen lost",
+          "directory_name": "spacemen_lost",
+          "word_count": 34831,
+          "sentence_count": 1605
+        },
+        {
+          "original_name": "Tales of Secret Egypt",
+          "directory_name": "tales_of_secret_egypt",
+          "word_count": 76655,
+          "sentence_count": 1824
+        },
+        {
+          "original_name": "Tracked by a Tattoo",
+          "directory_name": "tracked_by_a_tattoo",
+          "word_count": 80304,
+          "sentence_count": 3836
+        },
+        {
+          "original_name": "Transfer Point",
+          "directory_name": "transfer_point",
+          "word_count": 7834,
+          "sentence_count": 379
+        },
+        {
+          "original_name": "Treasure Hunt of the S-18",
+          "directory_name": "treasure_hunt_of_the_s-18",
+          "word_count": 42781,
+          "sentence_count": 1500
+        },
+        {
+          "original_name": "Wailing Octopus",
+          "directory_name": "wailing_octopus",
+          "word_count": 45941,
+          "sentence_count": 2538
+        },
+        {
+          "original_name": "silver blade",
+          "directory_name": "silver_blade",
+          "word_count": 101038,
+          "sentence_count": 3360
+        }
+      ],
+      "chunking_strategy": {
+        "chunk_size": 800,
+        "overlap": 80,
+        "max_chunks_per_novel": 30,
+        "strategy": "large_dataset"
+      }
+    },
+    "es_cherryfloat": {
+      "description": "Cherry Float",
+      "novel_count": 28,
+      "total_word_count": 908711,
+      "avg_words_per_novel": 32453,
+      "novels": [
+        {
+          "original_name": "Beasts in the Void",
+          "directory_name": "beasts_in_the_void",
+          "word_count": 6442,
+          "sentence_count": 526
+        },
+        {
+          "original_name": "Behind the Green Door",
+          "directory_name": "behind_the_green_door",
+          "word_count": 42774,
+          "sentence_count": 2049
+        },
+        {
+          "original_name": "Beyond the Ultra-Violet",
+          "directory_name": "beyond_the_ultra-violet",
+          "word_count": 2452,
+          "sentence_count": 117
+        },
+        {
+          "original_name": "Black Star",
+          "directory_name": "black_star",
+          "word_count": 67209,
+          "sentence_count": 3907
+        },
+        {
+          "original_name": "Brood of the Dark Moon",
+          "directory_name": "brood_of_the_dark_moon",
+          "word_count": 60636,
+          "sentence_count": 2205
+        },
+        {
+          "original_name": "Category Phoenix",
+          "directory_name": "category_phoenix",
+          "word_count": 15690,
+          "sentence_count": 851
+        },
+        {
+          "original_name": "Colossus of Chaos",
+          "directory_name": "colossus_of_chaos",
+          "word_count": 16486,
+          "sentence_count": 1207
+        },
+        {
+          "original_name": "Corsairs of the cosmos",
+          "directory_name": "corsairs_of_the_cosmos",
+          "word_count": 9164,
+          "sentence_count": 276
+        },
+        {
+          "original_name": "Dragon moon",
+          "directory_name": "dragon_moon",
+          "word_count": 13213,
+          "sentence_count": 833
+        },
+        {
+          "original_name": "Fant\u00f4mas",
+          "directory_name": "fant\u00f4mas",
+          "word_count": 101889,
+          "sentence_count": 3285
+        },
+        {
+          "original_name": "Fox That Wanted Nine Golden Tails",
+          "directory_name": "fox_that_wanted_nine_golden_tails",
+          "word_count": 12431,
+          "sentence_count": 402
+        },
+        {
+          "original_name": "Hand in the Dark",
+          "directory_name": "hand_in_the_dark",
+          "word_count": 106552,
+          "sentence_count": 3968
+        },
+        {
+          "original_name": "Hex",
+          "directory_name": "hex",
+          "word_count": 9976,
+          "sentence_count": 694
+        },
+        {
+          "original_name": "Jack of No Trades",
+          "directory_name": "jack_of_no_trades",
+          "word_count": 6958,
+          "sentence_count": 297
+        },
+        {
+          "original_name": "Kill Me if You Can",
+          "directory_name": "kill_me_if_you_can",
+          "word_count": 4247,
+          "sentence_count": 245
+        },
+        {
+          "original_name": "Mummy",
+          "directory_name": "mummy",
+          "word_count": 166743,
+          "sentence_count": 4301
+        },
+        {
+          "original_name": "No Shield from the Dead",
+          "directory_name": "no_shield_from_the_dead",
+          "word_count": 2306,
+          "sentence_count": 169
+        },
+        {
+          "original_name": "One Man's Poison",
+          "directory_name": "one_man_s_poison",
+          "word_count": 4505,
+          "sentence_count": 208
+        },
+        {
+          "original_name": "People of the Black Circle",
+          "directory_name": "people_of_the_black_circle",
+          "word_count": 30991,
+          "sentence_count": 1240
+        },
+        {
+          "original_name": "Search the Sky",
+          "directory_name": "search_the_sky",
+          "word_count": 54670,
+          "sentence_count": 3969
+        },
+        {
+          "original_name": "Secret of the Ninth Planet",
+          "directory_name": "secret_of_the_ninth_planet",
+          "word_count": 45984,
+          "sentence_count": 2125
+        },
+        {
+          "original_name": "Spacerogue",
+          "directory_name": "spacerogue",
+          "word_count": 13898,
+          "sentence_count": 667
+        },
+        {
+          "original_name": "Star Pirate",
+          "directory_name": "star_pirate",
+          "word_count": 7640,
+          "sentence_count": 458
+        },
+        {
+          "original_name": "The Swap Man",
+          "directory_name": "the_swap_man",
+          "word_count": 67658,
+          "sentence_count": 3527
+        },
+        {
+          "original_name": "Wendigo",
+          "directory_name": "wendigo",
+          "word_count": 18520,
+          "sentence_count": 591
+        },
+        {
+          "original_name": "World of Mockery",
+          "directory_name": "world_of_mockery",
+          "word_count": 3598,
+          "sentence_count": 186
+        },
+        {
+          "original_name": "celestial blueprint",
+          "directory_name": "celestial_blueprint",
+          "word_count": 7789,
+          "sentence_count": 315
+        },
+        {
+          "original_name": "horror at Red Hook",
+          "directory_name": "horror_at_red_hook",
+          "word_count": 8290,
+          "sentence_count": 217
+        }
+      ],
+      "chunking_strategy": {
+        "chunk_size": 800,
+        "overlap": 80,
+        "max_chunks_per_novel": 30,
+        "strategy": "large_dataset"
+      }
+    },
+    "f7_cupcake": {
+      "description": "Cupcake",
+      "novel_count": 25,
+      "total_word_count": 1066555,
+      "avg_words_per_novel": 42662,
+      "novels": [
+        {
+          "original_name": "At the mountains of madness",
+          "directory_name": "at_the_mountains_of_madness",
+          "word_count": 40020,
+          "sentence_count": 706
+        },
+        {
+          "original_name": "Children of Odin",
+          "directory_name": "children_of_odin",
+          "word_count": 65390,
+          "sentence_count": 2528
+        },
+        {
+          "original_name": "City of Endless Night",
+          "directory_name": "city_of_endless_night",
+          "word_count": 85152,
+          "sentence_count": 2557
+        },
+        {
+          "original_name": "House of the White Shadows",
+          "directory_name": "house_of_the_white_shadows",
+          "word_count": 131864,
+          "sentence_count": 4998
+        },
+        {
+          "original_name": "House on the Borderland",
+          "directory_name": "house_on_the_borderland",
+          "word_count": 50402,
+          "sentence_count": 2045
+        },
+        {
+          "original_name": "Journey to the Centre of the Earth",
+          "directory_name": "journey_to_the_centre_of_the_earth",
+          "word_count": 85469,
+          "sentence_count": 2720
+        },
+        {
+          "original_name": "Machine That Saved The World",
+          "directory_name": "machine_that_saved_the_world",
+          "word_count": 14000,
+          "sentence_count": 788
+        },
+        {
+          "original_name": "Man Who Ended War",
+          "directory_name": "man_who_ended_war",
+          "word_count": 69536,
+          "sentence_count": 4208
+        },
+        {
+          "original_name": "Man of the Forty Faces",
+          "directory_name": "man_of_the_forty_faces",
+          "word_count": 110686,
+          "sentence_count": 4350
+        },
+        {
+          "original_name": "Mercenary",
+          "directory_name": "mercenary",
+          "word_count": 21290,
+          "sentence_count": 1089
+        },
+        {
+          "original_name": "Metamorphosis",
+          "directory_name": "metamorphosis",
+          "word_count": 4792,
+          "sentence_count": 212
+        },
+        {
+          "original_name": "Metropolis",
+          "directory_name": "metropolis",
+          "word_count": 73035,
+          "sentence_count": 4790
+        },
+        {
+          "original_name": "Other Now",
+          "directory_name": "other_now",
+          "word_count": 4750,
+          "sentence_count": 330
+        },
+        {
+          "original_name": "People Minus X",
+          "directory_name": "people_minus_x",
+          "word_count": 52599,
+          "sentence_count": 3200
+        },
+        {
+          "original_name": "People of the Crater",
+          "directory_name": "people_of_the_crater",
+          "word_count": 15420,
+          "sentence_count": 725
+        },
+        {
+          "original_name": "Recalled to life",
+          "directory_name": "recalled_to_life",
+          "word_count": 44239,
+          "sentence_count": 2256
+        },
+        {
+          "original_name": "Standardized Man",
+          "directory_name": "standardized_man",
+          "word_count": 3504,
+          "sentence_count": 101
+        },
+        {
+          "original_name": "Ultimate Weapon",
+          "directory_name": "ultimate_weapon",
+          "word_count": 30403,
+          "sentence_count": 1577
+        },
+        {
+          "original_name": "Weapon From Eternity",
+          "directory_name": "weapon_from_eternity",
+          "word_count": 33331,
+          "sentence_count": 1786
+        },
+        {
+          "original_name": "When the moon fell",
+          "directory_name": "when_the_moon_fell",
+          "word_count": 9146,
+          "sentence_count": 341
+        },
+        {
+          "original_name": "call of Cthulhu",
+          "directory_name": "call_of_cthulhu",
+          "word_count": 11945,
+          "sentence_count": 327
+        },
+        {
+          "original_name": "case of Charles Dexter Ward",
+          "directory_name": "case_of_charles_dexter_ward",
+          "word_count": 44840,
+          "sentence_count": 1379
+        },
+        {
+          "original_name": "island of Doctor Moreau",
+          "directory_name": "island_of_doctor_moreau",
+          "word_count": 44081,
+          "sentence_count": 2307
+        },
+        {
+          "original_name": "shadow over Innsmouth",
+          "directory_name": "shadow_over_innsmouth",
+          "word_count": 16918,
+          "sentence_count": 520
+        },
+        {
+          "original_name": "wellsprings of space",
+          "directory_name": "wellsprings_of_space",
+          "word_count": 3743,
+          "sentence_count": 178
+        }
+      ],
+      "chunking_strategy": {
+        "chunk_size": 800,
+        "overlap": 80,
+        "max_chunks_per_novel": 30,
+        "strategy": "large_dataset"
+      }
+    },
+    "f8_cheesecake": {
+      "description": "Cheesecake",
+      "novel_count": 24,
+      "total_word_count": 743417,
+      "avg_words_per_novel": 30975,
+      "novels": [
+        {
+          "original_name": "All In The Mind",
+          "directory_name": "all_in_the_mind",
+          "word_count": 6984,
+          "sentence_count": 306
+        },
+        {
+          "original_name": "Ambition",
+          "directory_name": "ambition",
+          "word_count": 7775,
+          "sentence_count": 413
+        },
+        {
+          "original_name": "Brood of the Witch-Queen",
+          "directory_name": "brood_of_the_witch-queen",
+          "word_count": 64471,
+          "sentence_count": 2544
+        },
+        {
+          "original_name": "Cities in the air",
+          "directory_name": "cities_in_the_air",
+          "word_count": 45511,
+          "sentence_count": 1021
+        },
+        {
+          "original_name": "Deirdre of the Sorrows",
+          "directory_name": "deirdre_of_the_sorrows",
+          "word_count": 16286,
+          "sentence_count": 535
+        },
+        {
+          "original_name": "Evil Genius",
+          "directory_name": "evil_genius",
+          "word_count": 111389,
+          "sentence_count": 7521
+        },
+        {
+          "original_name": "Galactic Patrol",
+          "directory_name": "galactic_patrol",
+          "word_count": 90949,
+          "sentence_count": 3587
+        },
+        {
+          "original_name": "Hail to the Chief",
+          "directory_name": "hail_to_the_chief",
+          "word_count": 12708,
+          "sentence_count": 615
+        },
+        {
+          "original_name": "International Spy",
+          "directory_name": "international_spy",
+          "word_count": 61800,
+          "sentence_count": 1582
+        },
+        {
+          "original_name": "Lunar Station",
+          "directory_name": "lunar_station",
+          "word_count": 5908,
+          "sentence_count": 388
+        },
+        {
+          "original_name": "Mercenary",
+          "directory_name": "mercenary",
+          "word_count": 21290,
+          "sentence_count": 1089
+        },
+        {
+          "original_name": "Metropolis",
+          "directory_name": "metropolis",
+          "word_count": 73035,
+          "sentence_count": 4790
+        },
+        {
+          "original_name": "Patrol",
+          "directory_name": "patrol",
+          "word_count": 3338,
+          "sentence_count": 187
+        },
+        {
+          "original_name": "Perchance to Dream",
+          "directory_name": "perchance_to_dream",
+          "word_count": 5855,
+          "sentence_count": 343
+        },
+        {
+          "original_name": "Recalled to life",
+          "directory_name": "recalled_to_life",
+          "word_count": 44239,
+          "sentence_count": 2256
+        },
+        {
+          "original_name": "Reluctant Heroes",
+          "directory_name": "reluctant_heroes",
+          "word_count": 6957,
+          "sentence_count": 364
+        },
+        {
+          "original_name": "Shock Troop",
+          "directory_name": "shock_troop",
+          "word_count": 1453,
+          "sentence_count": 50
+        },
+        {
+          "original_name": "Shunned House",
+          "directory_name": "shunned_house",
+          "word_count": 10809,
+          "sentence_count": 252
+        },
+        {
+          "original_name": "Space Prison",
+          "directory_name": "space_prison",
+          "word_count": 54275,
+          "sentence_count": 1687
+        },
+        {
+          "original_name": "Spawn of the Comet",
+          "directory_name": "spawn_of_the_comet",
+          "word_count": 8767,
+          "sentence_count": 281
+        },
+        {
+          "original_name": "Ties That Bind",
+          "directory_name": "ties_that_bind",
+          "word_count": 10035,
+          "sentence_count": 447
+        },
+        {
+          "original_name": "Transfer Point",
+          "directory_name": "transfer_point",
+          "word_count": 7834,
+          "sentence_count": 379
+        },
+        {
+          "original_name": "Twelve Times Zero",
+          "directory_name": "twelve_times_zero",
+          "word_count": 21890,
+          "sentence_count": 1126
+        },
+        {
+          "original_name": "time-raider",
+          "directory_name": "time-raider",
+          "word_count": 49859,
+          "sentence_count": 1491
+        }
+      ],
+      "chunking_strategy": {
+        "chunk_size": 800,
+        "overlap": 80,
+        "max_chunks_per_novel": 30,
+        "strategy": "large_dataset"
+      }
+    },
+    "ft_marshmallow": {
+      "description": "Marshmallow",
+      "novel_count": 23,
+      "total_word_count": 1370386,
+      "avg_words_per_novel": 59582,
+      "novels": [
+        {
+          "original_name": "Ambition",
+          "directory_name": "ambition",
+          "word_count": 7775,
+          "sentence_count": 413
+        },
+        {
+          "original_name": "Citadel of the Green Death",
+          "directory_name": "citadel_of_the_green_death",
+          "word_count": 24268,
+          "sentence_count": 1559
+        },
+        {
+          "original_name": "Court",
+          "directory_name": "court",
+          "word_count": 21195,
+          "sentence_count": 1208
+        },
+        {
+          "original_name": "Eye of Osiris",
+          "directory_name": "eye_of_osiris",
+          "word_count": 94513,
+          "sentence_count": 3382
+        },
+        {
+          "original_name": "Havoc",
+          "directory_name": "havoc",
+          "word_count": 86144,
+          "sentence_count": 6114
+        },
+        {
+          "original_name": "Hour of the Dragon",
+          "directory_name": "hour_of_the_dragon",
+          "word_count": 72653,
+          "sentence_count": 2928
+        },
+        {
+          "original_name": "House of the Arrow",
+          "directory_name": "house_of_the_arrow",
+          "word_count": 96003,
+          "sentence_count": 4528
+        },
+        {
+          "original_name": "House of the White Shadows",
+          "directory_name": "house_of_the_white_shadows",
+          "word_count": 131864,
+          "sentence_count": 4998
+        },
+        {
+          "original_name": "House on the Borderland",
+          "directory_name": "house_on_the_borderland",
+          "word_count": 50402,
+          "sentence_count": 2045
+        },
+        {
+          "original_name": "In a Glass Darkly",
+          "directory_name": "in_a_glass_darkly",
+          "word_count": 113196,
+          "sentence_count": 3594
+        },
+        {
+          "original_name": "Lex",
+          "directory_name": "lex",
+          "word_count": 7654,
+          "sentence_count": 326
+        },
+        {
+          "original_name": "Lost World",
+          "directory_name": "lost_world",
+          "word_count": 75554,
+          "sentence_count": 2823
+        },
+        {
+          "original_name": "Man of the Forty Faces",
+          "directory_name": "man_of_the_forty_faces",
+          "word_count": 110686,
+          "sentence_count": 4350
+        },
+        {
+          "original_name": "Man with the Black Feather",
+          "directory_name": "man_with_the_black_feather",
+          "word_count": 64820,
+          "sentence_count": 2544
+        },
+        {
+          "original_name": "Mercenary",
+          "directory_name": "mercenary",
+          "word_count": 21290,
+          "sentence_count": 1089
+        },
+        {
+          "original_name": "Patrol",
+          "directory_name": "patrol",
+          "word_count": 3338,
+          "sentence_count": 187
+        },
+        {
+          "original_name": "Raider",
+          "directory_name": "raider",
+          "word_count": 5802,
+          "sentence_count": 303
+        },
+        {
+          "original_name": "Reluctant Heroes",
+          "directory_name": "reluctant_heroes",
+          "word_count": 6957,
+          "sentence_count": 364
+        },
+        {
+          "original_name": "Warlock of Sharrador",
+          "directory_name": "warlock_of_sharrador",
+          "word_count": 20564,
+          "sentence_count": 965
+        },
+        {
+          "original_name": "Watcher, and other weird stories",
+          "directory_name": "watcher_and_other_weird_stories",
+          "word_count": 59270,
+          "sentence_count": 1083
+        },
+        {
+          "original_name": "Witch of the Demon Seas",
+          "directory_name": "witch_of_the_demon_seas",
+          "word_count": 20663,
+          "sentence_count": 1003
+        },
+        {
+          "original_name": "Wyvern mystery",
+          "directory_name": "wyvern_mystery",
+          "word_count": 129539,
+          "sentence_count": 5245
+        },
+        {
+          "original_name": "file 113",
+          "directory_name": "file_113",
+          "word_count": 146236,
+          "sentence_count": 7284
+        }
+      ],
+      "chunking_strategy": {
+        "chunk_size": 800,
+        "overlap": 80,
+        "max_chunks_per_novel": 30,
+        "strategy": "large_dataset"
+      }
+    },
+    "fx_keylimepie": {
+      "description": "Keylime Pie",
+      "novel_count": 24,
+      "total_word_count": 1032835,
+      "avg_words_per_novel": 43034,
+      "novels": [
+        {
+          "original_name": "Air Pirate",
+          "directory_name": "air_pirate",
+          "word_count": 61133,
+          "sentence_count": 2743
+        },
+        {
+          "original_name": "Ambition",
+          "directory_name": "ambition",
+          "word_count": 7775,
+          "sentence_count": 413
+        },
+        {
+          "original_name": "Cardinal Moth",
+          "directory_name": "cardinal_moth",
+          "word_count": 66044,
+          "sentence_count": 3594
+        },
+        {
+          "original_name": "Cities in the air",
+          "directory_name": "cities_in_the_air",
+          "word_count": 45511,
+          "sentence_count": 1021
+        },
+        {
+          "original_name": "Crystal Age",
+          "directory_name": "crystal_age",
+          "word_count": 59501,
+          "sentence_count": 1293
+        },
+        {
+          "original_name": "Crystal Crypt",
+          "directory_name": "crystal_crypt",
+          "word_count": 7349,
+          "sentence_count": 532
+        },
+        {
+          "original_name": "Desert and the Stars",
+          "directory_name": "desert_and_the_stars",
+          "word_count": 6898,
+          "sentence_count": 395
+        },
+        {
+          "original_name": "Door into Infinity",
+          "directory_name": "door_into_infinity",
+          "word_count": 12948,
+          "sentence_count": 461
+        },
+        {
+          "original_name": "Engine of the Clouds",
+          "directory_name": "engine_of_the_clouds",
+          "word_count": 20785,
+          "sentence_count": 973
+        },
+        {
+          "original_name": "Evil Genius",
+          "directory_name": "evil_genius",
+          "word_count": 111389,
+          "sentence_count": 7521
+        },
+        {
+          "original_name": "Falcons of Narabedla",
+          "directory_name": "falcons_of_narabedla",
+          "word_count": 26304,
+          "sentence_count": 1572
+        },
+        {
+          "original_name": "Havoc",
+          "directory_name": "havoc",
+          "word_count": 86144,
+          "sentence_count": 6114
+        },
+        {
+          "original_name": "Minions of the Crystal Sphere",
+          "directory_name": "minions_of_the_crystal_sphere",
+          "word_count": 20618,
+          "sentence_count": 713
+        },
+        {
+          "original_name": "Mystery of the Chinese Ring",
+          "directory_name": "mystery_of_the_chinese_ring",
+          "word_count": 38396,
+          "sentence_count": 3366
+        },
+        {
+          "original_name": "Nomad",
+          "directory_name": "nomad",
+          "word_count": 80363,
+          "sentence_count": 3790
+        },
+        {
+          "original_name": "On the Trail of the Space Pirates",
+          "directory_name": "on_the_trail_of_the_space_pirates",
+          "word_count": 52359,
+          "sentence_count": 2316
+        },
+        {
+          "original_name": "Polaris of the Snows",
+          "directory_name": "polaris_of_the_snows",
+          "word_count": 50003,
+          "sentence_count": 1736
+        },
+        {
+          "original_name": "Raider",
+          "directory_name": "raider",
+          "word_count": 5802,
+          "sentence_count": 303
+        },
+        {
+          "original_name": "Secret Tomb",
+          "directory_name": "secret_tomb",
+          "word_count": 71884,
+          "sentence_count": 3463
+        },
+        {
+          "original_name": "Treasure Hunt of the S-18",
+          "directory_name": "treasure_hunt_of_the_s-18",
+          "word_count": 42781,
+          "sentence_count": 1500
+        },
+        {
+          "original_name": "Watcher, and other weird stories",
+          "directory_name": "watcher_and_other_weird_stories",
+          "word_count": 59270,
+          "sentence_count": 1083
+        },
+        {
+          "original_name": "Weapon From Eternity",
+          "directory_name": "weapon_from_eternity",
+          "word_count": 33331,
+          "sentence_count": 1786
+        },
+        {
+          "original_name": "crystal claw",
+          "directory_name": "crystal_claw",
+          "word_count": 64702,
+          "sentence_count": 3794
+        },
+        {
+          "original_name": "nobles are coming",
+          "directory_name": "nobles_are_coming",
+          "word_count": 1545,
+          "sentence_count": 65
+        }
+      ],
+      "chunking_strategy": {
+        "chunk_size": 800,
+        "overlap": 80,
+        "max_chunks_per_novel": 30,
+        "strategy": "large_dataset"
+      }
+    },
+    "hl_tiramisu": {
+      "description": "Tiramisu",
+      "novel_count": 22,
+      "total_word_count": 996528,
+      "avg_words_per_novel": 45296,
+      "novels": [
+        {
+          "original_name": "Alchemist",
+          "directory_name": "alchemist",
+          "word_count": 48243,
+          "sentence_count": 2465
+        },
+        {
+          "original_name": "All In The Mind",
+          "directory_name": "all_in_the_mind",
+          "word_count": 6984,
+          "sentence_count": 306
+        },
+        {
+          "original_name": "Auriol",
+          "directory_name": "auriol",
+          "word_count": 55110,
+          "sentence_count": 1996
+        },
+        {
+          "original_name": "Court",
+          "directory_name": "court",
+          "word_count": 21195,
+          "sentence_count": 1208
+        },
+        {
+          "original_name": "Death-Dealers of London",
+          "directory_name": "death-dealers_of_london",
+          "word_count": 81625,
+          "sentence_count": 3640
+        },
+        {
+          "original_name": "Eye of Osiris",
+          "directory_name": "eye_of_osiris",
+          "word_count": 94513,
+          "sentence_count": 3382
+        },
+        {
+          "original_name": "Gourmet",
+          "directory_name": "gourmet",
+          "word_count": 4479,
+          "sentence_count": 215
+        },
+        {
+          "original_name": "Gray Shadow",
+          "directory_name": "gray_shadow",
+          "word_count": 43900,
+          "sentence_count": 3162
+        },
+        {
+          "original_name": "Haunted Hotel",
+          "directory_name": "haunted_hotel",
+          "word_count": 63259,
+          "sentence_count": 3752
+        },
+        {
+          "original_name": "House of the Arrow",
+          "directory_name": "house_of_the_arrow",
+          "word_count": 96003,
+          "sentence_count": 4528
+        },
+        {
+          "original_name": "International Spy",
+          "directory_name": "international_spy",
+          "word_count": 61800,
+          "sentence_count": 1582
+        },
+        {
+          "original_name": "Man with the Black Feather",
+          "directory_name": "man_with_the_black_feather",
+          "word_count": 64820,
+          "sentence_count": 2544
+        },
+        {
+          "original_name": "Metamorphosis",
+          "directory_name": "metamorphosis",
+          "word_count": 4792,
+          "sentence_count": 212
+        },
+        {
+          "original_name": "Perchance to Dream",
+          "directory_name": "perchance_to_dream",
+          "word_count": 5855,
+          "sentence_count": 343
+        },
+        {
+          "original_name": "Service with a Smile",
+          "directory_name": "service_with_a_smile",
+          "word_count": 1127,
+          "sentence_count": 41
+        },
+        {
+          "original_name": "Shunned House",
+          "directory_name": "shunned_house",
+          "word_count": 10809,
+          "sentence_count": 252
+        },
+        {
+          "original_name": "Three Eyes",
+          "directory_name": "three_eyes",
+          "word_count": 62806,
+          "sentence_count": 3148
+        },
+        {
+          "original_name": "Watcher, and other weird stories",
+          "directory_name": "watcher_and_other_weird_stories",
+          "word_count": 59270,
+          "sentence_count": 1083
+        },
+        {
+          "original_name": "Wolfbane",
+          "directory_name": "wolfbane",
+          "word_count": 34839,
+          "sentence_count": 1673
+        },
+        {
+          "original_name": "call of Cthulhu",
+          "directory_name": "call_of_cthulhu",
+          "word_count": 11945,
+          "sentence_count": 327
+        },
+        {
+          "original_name": "file 113",
+          "directory_name": "file_113",
+          "word_count": 146236,
+          "sentence_count": 7284
+        },
+        {
+          "original_name": "shadow over Innsmouth",
+          "directory_name": "shadow_over_innsmouth",
+          "word_count": 16918,
+          "sentence_count": 520
+        }
+      ],
+      "chunking_strategy": {
+        "chunk_size": 800,
+        "overlap": 80,
+        "max_chunks_per_novel": 30,
+        "strategy": "large_dataset"
+      }
+    },
+    "mg_limesoda": {
+      "description": "Lime Soda",
+      "novel_count": 25,
+      "total_word_count": 636136,
+      "avg_words_per_novel": 25445,
+      "novels": [
+        {
+          "original_name": "All In The Mind",
+          "directory_name": "all_in_the_mind",
+          "word_count": 6984,
+          "sentence_count": 306
+        },
+        {
+          "original_name": "Chain Reaction",
+          "directory_name": "chain_reaction",
+          "word_count": 4743,
+          "sentence_count": 271
+        },
+        {
+          "original_name": "Citadel of the Green Death",
+          "directory_name": "citadel_of_the_green_death",
+          "word_count": 24268,
+          "sentence_count": 1559
+        },
+        {
+          "original_name": "Cool War",
+          "directory_name": "cool_war",
+          "word_count": 5231,
+          "sentence_count": 299
+        },
+        {
+          "original_name": "Equation of Doom",
+          "directory_name": "equation_of_doom",
+          "word_count": 13466,
+          "sentence_count": 788
+        },
+        {
+          "original_name": "Gray Shadow",
+          "directory_name": "gray_shadow",
+          "word_count": 43900,
+          "sentence_count": 3162
+        },
+        {
+          "original_name": "Hail to the Chief",
+          "directory_name": "hail_to_the_chief",
+          "word_count": 12708,
+          "sentence_count": 615
+        },
+        {
+          "original_name": "Havoc",
+          "directory_name": "havoc",
+          "word_count": 86144,
+          "sentence_count": 6114
+        },
+        {
+          "original_name": "I, the Unspeakable",
+          "directory_name": "i_the_unspeakable",
+          "word_count": 11655,
+          "sentence_count": 733
+        },
+        {
+          "original_name": "Ice Planet",
+          "directory_name": "ice_planet",
+          "word_count": 12348,
+          "sentence_count": 739
+        },
+        {
+          "original_name": "International Spy",
+          "directory_name": "international_spy",
+          "word_count": 61800,
+          "sentence_count": 1582
+        },
+        {
+          "original_name": "It Takes a Thief",
+          "directory_name": "it_takes_a_thief",
+          "word_count": 7486,
+          "sentence_count": 412
+        },
+        {
+          "original_name": "Lord of the Silent Death",
+          "directory_name": "lord_of_the_silent_death",
+          "word_count": 9493,
+          "sentence_count": 620
+        },
+        {
+          "original_name": "Machine That Saved The World",
+          "directory_name": "machine_that_saved_the_world",
+          "word_count": 14000,
+          "sentence_count": 788
+        },
+        {
+          "original_name": "Man Who Ended War",
+          "directory_name": "man_who_ended_war",
+          "word_count": 69536,
+          "sentence_count": 4208
+        },
+        {
+          "original_name": "Mercenary",
+          "directory_name": "mercenary",
+          "word_count": 21290,
+          "sentence_count": 1089
+        },
+        {
+          "original_name": "Pandemic",
+          "directory_name": "pandemic",
+          "word_count": 6603,
+          "sentence_count": 439
+        },
+        {
+          "original_name": "Patrol",
+          "directory_name": "patrol",
+          "word_count": 3338,
+          "sentence_count": 187
+        },
+        {
+          "original_name": "People Minus X",
+          "directory_name": "people_minus_x",
+          "word_count": 52599,
+          "sentence_count": 3200
+        },
+        {
+          "original_name": "Raider",
+          "directory_name": "raider",
+          "word_count": 5802,
+          "sentence_count": 303
+        },
+        {
+          "original_name": "Revenge",
+          "directory_name": "revenge",
+          "word_count": 81246,
+          "sentence_count": 2953
+        },
+        {
+          "original_name": "Standardized Man",
+          "directory_name": "standardized_man",
+          "word_count": 3504,
+          "sentence_count": 101
+        },
+        {
+          "original_name": "Through the gates of the silver key",
+          "directory_name": "through_the_gates_of_the_silver_key",
+          "word_count": 14258,
+          "sentence_count": 432
+        },
+        {
+          "original_name": "Ultimate Weapon",
+          "directory_name": "ultimate_weapon",
+          "word_count": 30403,
+          "sentence_count": 1577
+        },
+        {
+          "original_name": "Weapon From Eternity",
+          "directory_name": "weapon_from_eternity",
+          "word_count": 33331,
+          "sentence_count": 1786
+        }
+      ],
+      "chunking_strategy": {
+        "chunk_size": 800,
+        "overlap": 80,
+        "max_chunks_per_novel": 30,
+        "strategy": "large_dataset"
+      }
+    },
+    "mt_sorbet": {
+      "description": "Sorbet",
+      "novel_count": 23,
+      "total_word_count": 843694,
+      "avg_words_per_novel": 36682,
+      "novels": [
+        {
+          "original_name": "Brood of the Witch-Queen",
+          "directory_name": "brood_of_the_witch-queen",
+          "word_count": 64471,
+          "sentence_count": 2544
+        },
+        {
+          "original_name": "Citadel of the Green Death",
+          "directory_name": "citadel_of_the_green_death",
+          "word_count": 24268,
+          "sentence_count": 1559
+        },
+        {
+          "original_name": "City of Endless Night",
+          "directory_name": "city_of_endless_night",
+          "word_count": 85152,
+          "sentence_count": 2557
+        },
+        {
+          "original_name": "Clockwork Man",
+          "directory_name": "clockwork_man",
+          "word_count": 43989,
+          "sentence_count": 1942
+        },
+        {
+          "original_name": "Crystal Crypt",
+          "directory_name": "crystal_crypt",
+          "word_count": 7349,
+          "sentence_count": 532
+        },
+        {
+          "original_name": "Death Star",
+          "directory_name": "death_star",
+          "word_count": 3694,
+          "sentence_count": 177
+        },
+        {
+          "original_name": "Door into Infinity",
+          "directory_name": "door_into_infinity",
+          "word_count": 12948,
+          "sentence_count": 461
+        },
+        {
+          "original_name": "Five Hells of Orion",
+          "directory_name": "five_hells_of_orion",
+          "word_count": 11684,
+          "sentence_count": 509
+        },
+        {
+          "original_name": "Forgotten Planet",
+          "directory_name": "forgotten_planet",
+          "word_count": 56089,
+          "sentence_count": 3035
+        },
+        {
+          "original_name": "Havoc",
+          "directory_name": "havoc",
+          "word_count": 86144,
+          "sentence_count": 6114
+        },
+        {
+          "original_name": "Hour of the Dragon",
+          "directory_name": "hour_of_the_dragon",
+          "word_count": 72653,
+          "sentence_count": 2928
+        },
+        {
+          "original_name": "House on the Borderland",
+          "directory_name": "house_on_the_borderland",
+          "word_count": 50402,
+          "sentence_count": 2045
+        },
+        {
+          "original_name": "Metamorphosis",
+          "directory_name": "metamorphosis",
+          "word_count": 4792,
+          "sentence_count": 212
+        },
+        {
+          "original_name": "Metropolis",
+          "directory_name": "metropolis",
+          "word_count": 73035,
+          "sentence_count": 4790
+        },
+        {
+          "original_name": "Moon Maker",
+          "directory_name": "moon_maker",
+          "word_count": 33561,
+          "sentence_count": 1221
+        },
+        {
+          "original_name": "Parasite",
+          "directory_name": "parasite",
+          "word_count": 17775,
+          "sentence_count": 966
+        },
+        {
+          "original_name": "People Minus X",
+          "directory_name": "people_minus_x",
+          "word_count": 52599,
+          "sentence_count": 3200
+        },
+        {
+          "original_name": "Planet Mappers",
+          "directory_name": "planet_mappers",
+          "word_count": 59646,
+          "sentence_count": 2241
+        },
+        {
+          "original_name": "Planet of Dread",
+          "directory_name": "planet_of_dread",
+          "word_count": 18812,
+          "sentence_count": 1231
+        },
+        {
+          "original_name": "Through the gates of the silver key",
+          "directory_name": "through_the_gates_of_the_silver_key",
+          "word_count": 14258,
+          "sentence_count": 432
+        },
+        {
+          "original_name": "Warlock of Sharrador",
+          "directory_name": "warlock_of_sharrador",
+          "word_count": 20564,
+          "sentence_count": 965
+        },
+        {
+          "original_name": "When the moon fell",
+          "directory_name": "when_the_moon_fell",
+          "word_count": 9146,
+          "sentence_count": 341
+        },
+        {
+          "original_name": "Witch of the Demon Seas",
+          "directory_name": "witch_of_the_demon_seas",
+          "word_count": 20663,
+          "sentence_count": 1003
+        }
+      ],
+      "chunking_strategy": {
+        "chunk_size": 800,
+        "overlap": 80,
+        "max_chunks_per_novel": 30,
+        "strategy": "large_dataset"
+      }
+    },
+    "pe_peachcobbler": {
+      "description": "Peach Cobbler",
+      "novel_count": 24,
+      "total_word_count": 801563,
+      "avg_words_per_novel": 33398,
+      "novels": [
+        {
+          "original_name": "All In The Mind",
+          "directory_name": "all_in_the_mind",
+          "word_count": 6984,
+          "sentence_count": 306
+        },
+        {
+          "original_name": "Contagion",
+          "directory_name": "contagion",
+          "word_count": 11140,
+          "sentence_count": 558
+        },
+        {
+          "original_name": "Deirdre of the Sorrows",
+          "directory_name": "deirdre_of_the_sorrows",
+          "word_count": 16286,
+          "sentence_count": 535
+        },
+        {
+          "original_name": "Diagnosis",
+          "directory_name": "diagnosis",
+          "word_count": 4007,
+          "sentence_count": 219
+        },
+        {
+          "original_name": "Dunwich Horror",
+          "directory_name": "dunwich_horror",
+          "word_count": 17357,
+          "sentence_count": 558
+        },
+        {
+          "original_name": "Eye of Osiris",
+          "directory_name": "eye_of_osiris",
+          "word_count": 94513,
+          "sentence_count": 3382
+        },
+        {
+          "original_name": "House of the Arrow",
+          "directory_name": "house_of_the_arrow",
+          "word_count": 96003,
+          "sentence_count": 4528
+        },
+        {
+          "original_name": "I, the Unspeakable",
+          "directory_name": "i_the_unspeakable",
+          "word_count": 11655,
+          "sentence_count": 733
+        },
+        {
+          "original_name": "Lorelei of the Red Mist",
+          "directory_name": "lorelei_of_the_red_mist",
+          "word_count": 22457,
+          "sentence_count": 1529
+        },
+        {
+          "original_name": "Lost World",
+          "directory_name": "lost_world",
+          "word_count": 75554,
+          "sentence_count": 2823
+        },
+        {
+          "original_name": "Other Now",
+          "directory_name": "other_now",
+          "word_count": 4750,
+          "sentence_count": 330
+        },
+        {
+          "original_name": "Pandemic",
+          "directory_name": "pandemic",
+          "word_count": 6603,
+          "sentence_count": 439
+        },
+        {
+          "original_name": "Parasite",
+          "directory_name": "parasite",
+          "word_count": 17775,
+          "sentence_count": 966
+        },
+        {
+          "original_name": "Recalled to life",
+          "directory_name": "recalled_to_life",
+          "word_count": 44239,
+          "sentence_count": 2256
+        },
+        {
+          "original_name": "Shadows in the Moonlight",
+          "directory_name": "shadows_in_the_moonlight",
+          "word_count": 12092,
+          "sentence_count": 526
+        },
+        {
+          "original_name": "Shunned House",
+          "directory_name": "shunned_house",
+          "word_count": 10809,
+          "sentence_count": 252
+        },
+        {
+          "original_name": "Slow Burn",
+          "directory_name": "slow_burn",
+          "word_count": 9246,
+          "sentence_count": 403
+        },
+        {
+          "original_name": "Stellar Showboat",
+          "directory_name": "stellar_showboat",
+          "word_count": 9495,
+          "sentence_count": 474
+        },
+        {
+          "original_name": "Tales of Terror and Mystery",
+          "directory_name": "tales_of_terror_and_mystery",
+          "word_count": 75056,
+          "sentence_count": 2787
+        },
+        {
+          "original_name": "Ties That Bind",
+          "directory_name": "ties_that_bind",
+          "word_count": 10035,
+          "sentence_count": 447
+        },
+        {
+          "original_name": "Wailing Octopus",
+          "directory_name": "wailing_octopus",
+          "word_count": 45941,
+          "sentence_count": 2538
+        },
+        {
+          "original_name": "case of Charles Dexter Ward",
+          "directory_name": "case_of_charles_dexter_ward",
+          "word_count": 44840,
+          "sentence_count": 1379
+        },
+        {
+          "original_name": "file 113",
+          "directory_name": "file_113",
+          "word_count": 146236,
+          "sentence_count": 7284
+        },
+        {
+          "original_name": "trap",
+          "directory_name": "trap",
+          "word_count": 8490,
+          "sentence_count": 218
+        }
+      ],
+      "chunking_strategy": {
+        "chunk_size": 800,
+        "overlap": 80,
+        "max_chunks_per_novel": 30,
+        "strategy": "large_dataset"
+      }
+    },
+    "sf_parfait": {
+      "description": "Parfait",
+      "novel_count": 25,
+      "total_word_count": 1051017,
+      "avg_words_per_novel": 42040,
+      "novels": [
+        {
+          "original_name": "Auriol",
+          "directory_name": "auriol",
+          "word_count": 55110,
+          "sentence_count": 1996
+        },
+        {
+          "original_name": "Changeling",
+          "directory_name": "changeling",
+          "word_count": 92673,
+          "sentence_count": 4277
+        },
+        {
+          "original_name": "Cosmic Junkman",
+          "directory_name": "cosmic_junkman",
+          "word_count": 22211,
+          "sentence_count": 1374
+        },
+        {
+          "original_name": "Door into Infinity",
+          "directory_name": "door_into_infinity",
+          "word_count": 12948,
+          "sentence_count": 461
+        },
+        {
+          "original_name": "Elegy",
+          "directory_name": "elegy",
+          "word_count": 5378,
+          "sentence_count": 304
+        },
+        {
+          "original_name": "Eva's Adventures in Shadow-Land",
+          "directory_name": "eva_s_adventures_in_shadow-land",
+          "word_count": 51432,
+          "sentence_count": 1872
+        },
+        {
+          "original_name": "In a Glass Darkly",
+          "directory_name": "in_a_glass_darkly",
+          "word_count": 113196,
+          "sentence_count": 3594
+        },
+        {
+          "original_name": "Magic",
+          "directory_name": "magic",
+          "word_count": 13828,
+          "sentence_count": 1222
+        },
+        {
+          "original_name": "Make me an offer",
+          "directory_name": "make_me_an_offer",
+          "word_count": 2664,
+          "sentence_count": 84
+        },
+        {
+          "original_name": "Operation Interstellar",
+          "directory_name": "operation_interstellar",
+          "word_count": 50439,
+          "sentence_count": 2128
+        },
+        {
+          "original_name": "Perchance to Dream",
+          "directory_name": "perchance_to_dream",
+          "word_count": 5855,
+          "sentence_count": 343
+        },
+        {
+          "original_name": "Prey of the Space Falcon",
+          "directory_name": "prey_of_the_space_falcon",
+          "word_count": 19162,
+          "sentence_count": 749
+        },
+        {
+          "original_name": "Recalled to life",
+          "directory_name": "recalled_to_life",
+          "word_count": 44239,
+          "sentence_count": 2256
+        },
+        {
+          "original_name": "Reluctant Heroes",
+          "directory_name": "reluctant_heroes",
+          "word_count": 6957,
+          "sentence_count": 364
+        },
+        {
+          "original_name": "Repairman",
+          "directory_name": "repairman",
+          "word_count": 5493,
+          "sentence_count": 234
+        },
+        {
+          "original_name": "Revenge",
+          "directory_name": "revenge",
+          "word_count": 81246,
+          "sentence_count": 2953
+        },
+        {
+          "original_name": "Robots of the World",
+          "directory_name": "robots_of_the_world",
+          "word_count": 6580,
+          "sentence_count": 441
+        },
+        {
+          "original_name": "Secret Tomb",
+          "directory_name": "secret_tomb",
+          "word_count": 71884,
+          "sentence_count": 3463
+        },
+        {
+          "original_name": "Shadows in the Moonlight",
+          "directory_name": "shadows_in_the_moonlight",
+          "word_count": 12092,
+          "sentence_count": 526
+        },
+        {
+          "original_name": "Space Prison",
+          "directory_name": "space_prison",
+          "word_count": 54275,
+          "sentence_count": 1687
+        },
+        {
+          "original_name": "Space Station 1",
+          "directory_name": "space_station_1",
+          "word_count": 49952,
+          "sentence_count": 2327
+        },
+        {
+          "original_name": "Stellar Showboat",
+          "directory_name": "stellar_showboat",
+          "word_count": 9495,
+          "sentence_count": 474
+        },
+        {
+          "original_name": "Weapon From Eternity",
+          "directory_name": "weapon_from_eternity",
+          "word_count": 33331,
+          "sentence_count": 1786
+        },
+        {
+          "original_name": "Wyvern mystery",
+          "directory_name": "wyvern_mystery",
+          "word_count": 129539,
+          "sentence_count": 5245
+        },
+        {
+          "original_name": "silver blade",
+          "directory_name": "silver_blade",
+          "word_count": 101038,
+          "sentence_count": 3360
+        }
+      ],
+      "chunking_strategy": {
+        "chunk_size": 800,
+        "overlap": 80,
+        "max_chunks_per_novel": 30,
+        "strategy": "large_dataset"
+      }
+    },
+    "so_smores": {
+      "description": "Smores",
+      "novel_count": 23,
+      "total_word_count": 691241,
+      "avg_words_per_novel": 30053,
+      "novels": [
+        {
+          "original_name": "Children of Odin",
+          "directory_name": "children_of_odin",
+          "word_count": 65390,
+          "sentence_count": 2528
+        },
+        {
+          "original_name": "Crystal Crypt",
+          "directory_name": "crystal_crypt",
+          "word_count": 7349,
+          "sentence_count": 532
+        },
+        {
+          "original_name": "Daredevil",
+          "directory_name": "daredevil",
+          "word_count": 96598,
+          "sentence_count": 3926
+        },
+        {
+          "original_name": "Death From Orion",
+          "directory_name": "death_from_orion",
+          "word_count": 9103,
+          "sentence_count": 449
+        },
+        {
+          "original_name": "Hellhounds of the Cosmos",
+          "directory_name": "hellhounds_of_the_cosmos",
+          "word_count": 9911,
+          "sentence_count": 441
+        },
+        {
+          "original_name": "Human Error",
+          "directory_name": "human_error",
+          "word_count": 13092,
+          "sentence_count": 589
+        },
+        {
+          "original_name": "Into the fourth dimension",
+          "directory_name": "into_the_fourth_dimension",
+          "word_count": 35880,
+          "sentence_count": 2290
+        },
+        {
+          "original_name": "Journey to the Centre of the Earth",
+          "directory_name": "journey_to_the_centre_of_the_earth",
+          "word_count": 85469,
+          "sentence_count": 2720
+        },
+        {
+          "original_name": "Machine That Saved The World",
+          "directory_name": "machine_that_saved_the_world",
+          "word_count": 14000,
+          "sentence_count": 788
+        },
+        {
+          "original_name": "Magic",
+          "directory_name": "magic",
+          "word_count": 13828,
+          "sentence_count": 1222
+        },
+        {
+          "original_name": "Moon Maker",
+          "directory_name": "moon_maker",
+          "word_count": 33561,
+          "sentence_count": 1221
+        },
+        {
+          "original_name": "Moon Metal",
+          "directory_name": "moon_metal",
+          "word_count": 24548,
+          "sentence_count": 818
+        },
+        {
+          "original_name": "Recalled to life",
+          "directory_name": "recalled_to_life",
+          "word_count": 44239,
+          "sentence_count": 2256
+        },
+        {
+          "original_name": "Space-Trap at Banya Tor",
+          "directory_name": "space-trap_at_banya_tor",
+          "word_count": 10332,
+          "sentence_count": 518
+        },
+        {
+          "original_name": "Standardized Man",
+          "directory_name": "standardized_man",
+          "word_count": 3504,
+          "sentence_count": 101
+        },
+        {
+          "original_name": "Third Planet",
+          "directory_name": "third_planet",
+          "word_count": 9465,
+          "sentence_count": 627
+        },
+        {
+          "original_name": "Through the gates of the silver key",
+          "directory_name": "through_the_gates_of_the_silver_key",
+          "word_count": 14258,
+          "sentence_count": 432
+        },
+        {
+          "original_name": "Thunder in the void",
+          "directory_name": "thunder_in_the_void",
+          "word_count": 10006,
+          "sentence_count": 808
+        },
+        {
+          "original_name": "Transfer Point",
+          "directory_name": "transfer_point",
+          "word_count": 7834,
+          "sentence_count": 379
+        },
+        {
+          "original_name": "We're Civilized",
+          "directory_name": "we_re_civilized",
+          "word_count": 4071,
+          "sentence_count": 198
+        },
+        {
+          "original_name": "Weapon From Eternity",
+          "directory_name": "weapon_from_eternity",
+          "word_count": 33331,
+          "sentence_count": 1786
+        },
+        {
+          "original_name": "Worlds of the Imperium",
+          "directory_name": "worlds_of_the_imperium",
+          "word_count": 44434,
+          "sentence_count": 2481
+        },
+        {
+          "original_name": "silver blade",
+          "directory_name": "silver_blade",
+          "word_count": 101038,
+          "sentence_count": 3360
+        }
+      ],
+      "chunking_strategy": {
+        "chunk_size": 800,
+        "overlap": 80,
+        "max_chunks_per_novel": 30,
+        "strategy": "large_dataset"
+      }
+    },
+    "tg_sugarcookie": {
+      "description": "Sugar Cookie",
+      "novel_count": 21,
+      "total_word_count": 828211,
+      "avg_words_per_novel": 39438,
+      "novels": [
+        {
+          "original_name": "Daredevil",
+          "directory_name": "daredevil",
+          "word_count": 96598,
+          "sentence_count": 3926
+        },
+        {
+          "original_name": "Death in the dusk",
+          "directory_name": "death_in_the_dusk",
+          "word_count": 122724,
+          "sentence_count": 7416
+        },
+        {
+          "original_name": "Desert and the Stars",
+          "directory_name": "desert_and_the_stars",
+          "word_count": 6898,
+          "sentence_count": 395
+        },
+        {
+          "original_name": "Forgotten Planet",
+          "directory_name": "forgotten_planet",
+          "word_count": 56089,
+          "sentence_count": 3035
+        },
+        {
+          "original_name": "Gray Shadow",
+          "directory_name": "gray_shadow",
+          "word_count": 43900,
+          "sentence_count": 3162
+        },
+        {
+          "original_name": "Havoc",
+          "directory_name": "havoc",
+          "word_count": 86144,
+          "sentence_count": 6114
+        },
+        {
+          "original_name": "Machine That Saved The World",
+          "directory_name": "machine_that_saved_the_world",
+          "word_count": 14000,
+          "sentence_count": 788
+        },
+        {
+          "original_name": "Nomad",
+          "directory_name": "nomad",
+          "word_count": 80363,
+          "sentence_count": 3790
+        },
+        {
+          "original_name": "On the Trail of the Space Pirates",
+          "directory_name": "on_the_trail_of_the_space_pirates",
+          "word_count": 52359,
+          "sentence_count": 2316
+        },
+        {
+          "original_name": "Planet of Sand",
+          "directory_name": "planet_of_sand",
+          "word_count": 17258,
+          "sentence_count": 1026
+        },
+        {
+          "original_name": "Raider",
+          "directory_name": "raider",
+          "word_count": 5802,
+          "sentence_count": 303
+        },
+        {
+          "original_name": "Sand Doom",
+          "directory_name": "sand_doom",
+          "word_count": 16302,
+          "sentence_count": 1039
+        },
+        {
+          "original_name": "Service with a Smile",
+          "directory_name": "service_with_a_smile",
+          "word_count": 1127,
+          "sentence_count": 41
+        },
+        {
+          "original_name": "Shadows in the Moonlight",
+          "directory_name": "shadows_in_the_moonlight",
+          "word_count": 12092,
+          "sentence_count": 526
+        },
+        {
+          "original_name": "Thunder in the void",
+          "directory_name": "thunder_in_the_void",
+          "word_count": 10006,
+          "sentence_count": 808
+        },
+        {
+          "original_name": "Tracked by a Tattoo",
+          "directory_name": "tracked_by_a_tattoo",
+          "word_count": 80304,
+          "sentence_count": 3836
+        },
+        {
+          "original_name": "We're Civilized",
+          "directory_name": "we_re_civilized",
+          "word_count": 4071,
+          "sentence_count": 198
+        },
+        {
+          "original_name": "When the moon fell",
+          "directory_name": "when_the_moon_fell",
+          "word_count": 9146,
+          "sentence_count": 341
+        },
+        {
+          "original_name": "avenger",
+          "directory_name": "avenger",
+          "word_count": 65204,
+          "sentence_count": 3690
+        },
+        {
+          "original_name": "island of Doctor Moreau",
+          "directory_name": "island_of_doctor_moreau",
+          "word_count": 44081,
+          "sentence_count": 2307
+        },
+        {
+          "original_name": "wellsprings of space",
+          "directory_name": "wellsprings_of_space",
+          "word_count": 3743,
+          "sentence_count": 178
+        }
+      ],
+      "chunking_strategy": {
+        "chunk_size": 800,
+        "overlap": 80,
+        "max_chunks_per_novel": 30,
+        "strategy": "large_dataset"
+      }
+    },
+    "tr_creamsoda": {
+      "description": "Cream Soda",
+      "novel_count": 25,
+      "total_word_count": 1361547,
+      "avg_words_per_novel": 54461,
+      "novels": [
+        {
+          "original_name": "Ars\u00e8ne Lupin",
+          "directory_name": "ars\u00e8ne_lupin",
+          "word_count": 71722,
+          "sentence_count": 5211
+        },
+        {
+          "original_name": "Ars\u00e8ne Lupin intervenes",
+          "directory_name": "ars\u00e8ne_lupin_intervenes",
+          "word_count": 62207,
+          "sentence_count": 3969
+        },
+        {
+          "original_name": "Ars\u00e8ne Lupin, super-sleuth",
+          "directory_name": "ars\u00e8ne_lupin_super-sleuth",
+          "word_count": 72404,
+          "sentence_count": 4283
+        },
+        {
+          "original_name": "Empty House and Other Ghost Stories",
+          "directory_name": "empty_house_and_other_ghost_stories",
+          "word_count": 66209,
+          "sentence_count": 2070
+        },
+        {
+          "original_name": "Five Thousand Miles Underground",
+          "directory_name": "five_thousand_miles_underground",
+          "word_count": 49308,
+          "sentence_count": 1865
+        },
+        {
+          "original_name": "House of the Arrow",
+          "directory_name": "house_of_the_arrow",
+          "word_count": 96003,
+          "sentence_count": 4528
+        },
+        {
+          "original_name": "House of the White Shadows",
+          "directory_name": "house_of_the_white_shadows",
+          "word_count": 131864,
+          "sentence_count": 4998
+        },
+        {
+          "original_name": "Ice Planet",
+          "directory_name": "ice_planet",
+          "word_count": 12348,
+          "sentence_count": 739
+        },
+        {
+          "original_name": "International Spy",
+          "directory_name": "international_spy",
+          "word_count": 61800,
+          "sentence_count": 1582
+        },
+        {
+          "original_name": "It Takes a Thief",
+          "directory_name": "it_takes_a_thief",
+          "word_count": 7486,
+          "sentence_count": 412
+        },
+        {
+          "original_name": "Jade God",
+          "directory_name": "jade_god",
+          "word_count": 75537,
+          "sentence_count": 5128
+        },
+        {
+          "original_name": "Journey to the Centre of the Earth",
+          "directory_name": "journey_to_the_centre_of_the_earth",
+          "word_count": 85469,
+          "sentence_count": 2720
+        },
+        {
+          "original_name": "Law of Hemlock Mountain",
+          "directory_name": "law_of_hemlock_mountain",
+          "word_count": 78526,
+          "sentence_count": 2081
+        },
+        {
+          "original_name": "Lost World",
+          "directory_name": "lost_world",
+          "word_count": 75554,
+          "sentence_count": 2823
+        },
+        {
+          "original_name": "Make me an offer",
+          "directory_name": "make_me_an_offer",
+          "word_count": 2664,
+          "sentence_count": 84
+        },
+        {
+          "original_name": "Man Without a Conscience",
+          "directory_name": "man_without_a_conscience",
+          "word_count": 41505,
+          "sentence_count": 2185
+        },
+        {
+          "original_name": "Opal Serpent",
+          "directory_name": "opal_serpent",
+          "word_count": 88711,
+          "sentence_count": 4339
+        },
+        {
+          "original_name": "People of the Crater",
+          "directory_name": "people_of_the_crater",
+          "word_count": 15420,
+          "sentence_count": 725
+        },
+        {
+          "original_name": "Polaris of the Snows",
+          "directory_name": "polaris_of_the_snows",
+          "word_count": 50003,
+          "sentence_count": 1736
+        },
+        {
+          "original_name": "Raider",
+          "directory_name": "raider",
+          "word_count": 5802,
+          "sentence_count": 303
+        },
+        {
+          "original_name": "Secret Tomb",
+          "directory_name": "secret_tomb",
+          "word_count": 71884,
+          "sentence_count": 3463
+        },
+        {
+          "original_name": "Treasure Hunt of the S-18",
+          "directory_name": "treasure_hunt_of_the_s-18",
+          "word_count": 42781,
+          "sentence_count": 1500
+        },
+        {
+          "original_name": "Wailing Octopus",
+          "directory_name": "wailing_octopus",
+          "word_count": 45941,
+          "sentence_count": 2538
+        },
+        {
+          "original_name": "haunted island",
+          "directory_name": "haunted_island",
+          "word_count": 41909,
+          "sentence_count": 1927
+        },
+        {
+          "original_name": "trap",
+          "directory_name": "trap",
+          "word_count": 8490,
+          "sentence_count": 218
+        }
+      ],
+      "chunking_strategy": {
+        "chunk_size": 800,
+        "overlap": 80,
+        "max_chunks_per_novel": 30,
+        "strategy": "large_dataset"
+      }
+    },
+    "vs_mintchip": {
+      "description": "Mint Chip",
+      "novel_count": 26,
+      "total_word_count": 1406520,
+      "avg_words_per_novel": 54096,
+      "novels": [
+        {
+          "original_name": "Alchemist",
+          "directory_name": "alchemist",
+          "word_count": 48243,
+          "sentence_count": 2465
+        },
+        {
+          "original_name": "Brood of the Witch-Queen",
+          "directory_name": "brood_of_the_witch-queen",
+          "word_count": 64471,
+          "sentence_count": 2544
+        },
+        {
+          "original_name": "Dunwich Horror",
+          "directory_name": "dunwich_horror",
+          "word_count": 17357,
+          "sentence_count": 558
+        },
+        {
+          "original_name": "Eye of Osiris",
+          "directory_name": "eye_of_osiris",
+          "word_count": 94513,
+          "sentence_count": 3382
+        },
+        {
+          "original_name": "Game of Rat and Dragon",
+          "directory_name": "game_of_rat_and_dragon",
+          "word_count": 5539,
+          "sentence_count": 192
+        },
+        {
+          "original_name": "Gray Shadow",
+          "directory_name": "gray_shadow",
+          "word_count": 43900,
+          "sentence_count": 3162
+        },
+        {
+          "original_name": "House of the Arrow",
+          "directory_name": "house_of_the_arrow",
+          "word_count": 96003,
+          "sentence_count": 4528
+        },
+        {
+          "original_name": "House on the Borderland",
+          "directory_name": "house_on_the_borderland",
+          "word_count": 50402,
+          "sentence_count": 2045
+        },
+        {
+          "original_name": "I, the Unspeakable",
+          "directory_name": "i_the_unspeakable",
+          "word_count": 11655,
+          "sentence_count": 733
+        },
+        {
+          "original_name": "Impersonator",
+          "directory_name": "impersonator",
+          "word_count": 7442,
+          "sentence_count": 296
+        },
+        {
+          "original_name": "It Takes a Thief",
+          "directory_name": "it_takes_a_thief",
+          "word_count": 7486,
+          "sentence_count": 412
+        },
+        {
+          "original_name": "Living Mummy",
+          "directory_name": "living_mummy",
+          "word_count": 72130,
+          "sentence_count": 4535
+        },
+        {
+          "original_name": "Man of the Forty Faces",
+          "directory_name": "man_of_the_forty_faces",
+          "word_count": 110686,
+          "sentence_count": 4350
+        },
+        {
+          "original_name": "Man with the Black Feather",
+          "directory_name": "man_with_the_black_feather",
+          "word_count": 64820,
+          "sentence_count": 2544
+        },
+        {
+          "original_name": "Opal Serpent",
+          "directory_name": "opal_serpent",
+          "word_count": 88711,
+          "sentence_count": 4339
+        },
+        {
+          "original_name": "Ozymandias",
+          "directory_name": "ozymandias",
+          "word_count": 6003,
+          "sentence_count": 275
+        },
+        {
+          "original_name": "Parasite",
+          "directory_name": "parasite",
+          "word_count": 17775,
+          "sentence_count": 966
+        },
+        {
+          "original_name": "Secret Tomb",
+          "directory_name": "secret_tomb",
+          "word_count": 71884,
+          "sentence_count": 3463
+        },
+        {
+          "original_name": "Shunned House",
+          "directory_name": "shunned_house",
+          "word_count": 10809,
+          "sentence_count": 252
+        },
+        {
+          "original_name": "Warlock of Sharrador",
+          "directory_name": "warlock_of_sharrador",
+          "word_count": 20564,
+          "sentence_count": 965
+        },
+        {
+          "original_name": "Watcher, and other weird stories",
+          "directory_name": "watcher_and_other_weird_stories",
+          "word_count": 59270,
+          "sentence_count": 1083
+        },
+        {
+          "original_name": "Wyvern mystery",
+          "directory_name": "wyvern_mystery",
+          "word_count": 129539,
+          "sentence_count": 5245
+        },
+        {
+          "original_name": "file 113",
+          "directory_name": "file_113",
+          "word_count": 146236,
+          "sentence_count": 7284
+        },
+        {
+          "original_name": "hate disease",
+          "directory_name": "hate_disease",
+          "word_count": 18135,
+          "sentence_count": 1303
+        },
+        {
+          "original_name": "haunted island",
+          "directory_name": "haunted_island",
+          "word_count": 41909,
+          "sentence_count": 1927
+        },
+        {
+          "original_name": "silver blade",
+          "directory_name": "silver_blade",
+          "word_count": 101038,
+          "sentence_count": 3360
+        }
+      ],
+      "chunking_strategy": {
+        "chunk_size": 800,
+        "overlap": 80,
+        "max_chunks_per_novel": 30,
+        "strategy": "large_dataset"
+      }
+    },
+    "xg_rootbeer": {
+      "description": "Rootbeer",
+      "novel_count": 23,
+      "total_word_count": 852730,
+      "avg_words_per_novel": 37075,
+      "novels": [
+        {
+          "original_name": "Air Pirate",
+          "directory_name": "air_pirate",
+          "word_count": 61133,
+          "sentence_count": 2743
+        },
+        {
+          "original_name": "All In The Mind",
+          "directory_name": "all_in_the_mind",
+          "word_count": 6984,
+          "sentence_count": 306
+        },
+        {
+          "original_name": "At the mountains of madness",
+          "directory_name": "at_the_mountains_of_madness",
+          "word_count": 40020,
+          "sentence_count": 706
+        },
+        {
+          "original_name": "Cities in the air",
+          "directory_name": "cities_in_the_air",
+          "word_count": 45511,
+          "sentence_count": 1021
+        },
+        {
+          "original_name": "City of Endless Night",
+          "directory_name": "city_of_endless_night",
+          "word_count": 85152,
+          "sentence_count": 2557
+        },
+        {
+          "original_name": "Clockwork Man",
+          "directory_name": "clockwork_man",
+          "word_count": 43989,
+          "sentence_count": 1942
+        },
+        {
+          "original_name": "Crystal Age",
+          "directory_name": "crystal_age",
+          "word_count": 59501,
+          "sentence_count": 1293
+        },
+        {
+          "original_name": "Death Ship",
+          "directory_name": "death_ship",
+          "word_count": 42457,
+          "sentence_count": 965
+        },
+        {
+          "original_name": "Eye of Osiris",
+          "directory_name": "eye_of_osiris",
+          "word_count": 94513,
+          "sentence_count": 3382
+        },
+        {
+          "original_name": "Forgotten Planet",
+          "directory_name": "forgotten_planet",
+          "word_count": 56089,
+          "sentence_count": 3035
+        },
+        {
+          "original_name": "Immortals",
+          "directory_name": "immortals",
+          "word_count": 11366,
+          "sentence_count": 660
+        },
+        {
+          "original_name": "Machine That Saved The World",
+          "directory_name": "machine_that_saved_the_world",
+          "word_count": 14000,
+          "sentence_count": 788
+        },
+        {
+          "original_name": "Metamorphosis",
+          "directory_name": "metamorphosis",
+          "word_count": 4792,
+          "sentence_count": 212
+        },
+        {
+          "original_name": "Metropolis",
+          "directory_name": "metropolis",
+          "word_count": 73035,
+          "sentence_count": 4790
+        },
+        {
+          "original_name": "Other Now",
+          "directory_name": "other_now",
+          "word_count": 4750,
+          "sentence_count": 330
+        },
+        {
+          "original_name": "People Minus X",
+          "directory_name": "people_minus_x",
+          "word_count": 52599,
+          "sentence_count": 3200
+        },
+        {
+          "original_name": "Planet of Sand",
+          "directory_name": "planet_of_sand",
+          "word_count": 17258,
+          "sentence_count": 1026
+        },
+        {
+          "original_name": "Recalled to life",
+          "directory_name": "recalled_to_life",
+          "word_count": 44239,
+          "sentence_count": 2256
+        },
+        {
+          "original_name": "Robots of the World",
+          "directory_name": "robots_of_the_world",
+          "word_count": 6580,
+          "sentence_count": 441
+        },
+        {
+          "original_name": "Standardized Man",
+          "directory_name": "standardized_man",
+          "word_count": 3504,
+          "sentence_count": 101
+        },
+        {
+          "original_name": "Treasure Hunt of the S-18",
+          "directory_name": "treasure_hunt_of_the_s-18",
+          "word_count": 42781,
+          "sentence_count": 1500
+        },
+        {
+          "original_name": "Weapon From Eternity",
+          "directory_name": "weapon_from_eternity",
+          "word_count": 33331,
+          "sentence_count": 1786
+        },
+        {
+          "original_name": "When the moon fell",
+          "directory_name": "when_the_moon_fell",
+          "word_count": 9146,
+          "sentence_count": 341
+        }
+      ],
+      "chunking_strategy": {
+        "chunk_size": 800,
+        "overlap": 80,
+        "max_chunks_per_novel": 30,
+        "strategy": "large_dataset"
+      }
+    },
+    "xo_chocolateshake": {
+      "description": "Chocolate Pudding",
+      "novel_count": 29,
+      "total_word_count": 817305,
+      "avg_words_per_novel": 28182,
+      "novels": [
+        {
+          "original_name": "Agony Column",
+          "directory_name": "agony_column",
+          "word_count": 26484,
+          "sentence_count": 755
+        },
+        {
+          "original_name": "Beautiful People",
+          "directory_name": "beautiful_people",
+          "word_count": 5542,
+          "sentence_count": 403
+        },
+        {
+          "original_name": "Beetle",
+          "directory_name": "beetle",
+          "word_count": 112170,
+          "sentence_count": 5883
+        },
+        {
+          "original_name": "Crimson Flash",
+          "directory_name": "crimson_flash",
+          "word_count": 37451,
+          "sentence_count": 1866
+        },
+        {
+          "original_name": "Death Walks on Mars",
+          "directory_name": "death_walks_on_mars",
+          "word_count": 3733,
+          "sentence_count": 239
+        },
+        {
+          "original_name": "Earth Is Missing",
+          "directory_name": "earth_is_missing",
+          "word_count": 16072,
+          "sentence_count": 917
+        },
+        {
+          "original_name": "Gray Lensman",
+          "directory_name": "gray_lensman",
+          "word_count": 97257,
+          "sentence_count": 4048
+        },
+        {
+          "original_name": "Hermit of Mars",
+          "directory_name": "hermit_of_mars",
+          "word_count": 4890,
+          "sentence_count": 235
+        },
+        {
+          "original_name": "Hot Planet",
+          "directory_name": "hot_planet",
+          "word_count": 8702,
+          "sentence_count": 398
+        },
+        {
+          "original_name": "Juggernaut of Space",
+          "directory_name": "juggernaut_of_space",
+          "word_count": 16662,
+          "sentence_count": 1067
+        },
+        {
+          "original_name": "Lone Star Planet",
+          "directory_name": "lone_star_planet",
+          "word_count": 30112,
+          "sentence_count": 1244
+        },
+        {
+          "original_name": "Lost on Venus",
+          "directory_name": "lost_on_venus",
+          "word_count": 67284,
+          "sentence_count": 2213
+        },
+        {
+          "original_name": "Mars Confidential",
+          "directory_name": "mars_confidential",
+          "word_count": 5566,
+          "sentence_count": 155
+        },
+        {
+          "original_name": "Martian Odyssey",
+          "directory_name": "martian_odyssey",
+          "word_count": 10126,
+          "sentence_count": 506
+        },
+        {
+          "original_name": "Memories of Mars",
+          "directory_name": "memories_of_mars",
+          "word_count": 12436,
+          "sentence_count": 749
+        },
+        {
+          "original_name": "Metal Moon",
+          "directory_name": "metal_moon",
+          "word_count": 13566,
+          "sentence_count": 666
+        },
+        {
+          "original_name": "Midnight Fantasy",
+          "directory_name": "midnight_fantasy",
+          "word_count": 6877,
+          "sentence_count": 236
+        },
+        {
+          "original_name": "Queen of the Martian Catacombs",
+          "directory_name": "queen_of_the_martian_catacombs",
+          "word_count": 21879,
+          "sentence_count": 1002
+        },
+        {
+          "original_name": "Radio Planet",
+          "directory_name": "radio_planet",
+          "word_count": 73109,
+          "sentence_count": 3026
+        },
+        {
+          "original_name": "Recruit for Andromeda",
+          "directory_name": "recruit_for_andromeda",
+          "word_count": 32519,
+          "sentence_count": 1983
+        },
+        {
+          "original_name": "Red Dust",
+          "directory_name": "red_dust",
+          "word_count": 23067,
+          "sentence_count": 621
+        },
+        {
+          "original_name": "Sargasso of Space",
+          "directory_name": "sargasso_of_space",
+          "word_count": 8824,
+          "sentence_count": 333
+        },
+        {
+          "original_name": "Scarlet Plague",
+          "directory_name": "scarlet_plague",
+          "word_count": 20280,
+          "sentence_count": 1091
+        },
+        {
+          "original_name": "Slaves to the Metal Horde",
+          "directory_name": "slaves_to_the_metal_horde",
+          "word_count": 24449,
+          "sentence_count": 1344
+        },
+        {
+          "original_name": "Star Guardsman",
+          "directory_name": "star_guardsman",
+          "word_count": 19297,
+          "sentence_count": 721
+        },
+        {
+          "original_name": "Tedric",
+          "directory_name": "tedric",
+          "word_count": 7607,
+          "sentence_count": 366
+        },
+        {
+          "original_name": "Vibration Wasps",
+          "directory_name": "vibration_wasps",
+          "word_count": 6589,
+          "sentence_count": 298
+        },
+        {
+          "original_name": "horror in the burying-ground",
+          "directory_name": "horror_in_the_burying-ground",
+          "word_count": 5895,
+          "sentence_count": 209
+        },
+        {
+          "original_name": "spider",
+          "directory_name": "spider",
+          "word_count": 98860,
+          "sentence_count": 4282
+        }
+      ],
+      "chunking_strategy": {
+        "chunk_size": 800,
+        "overlap": 80,
+        "max_chunks_per_novel": 30,
+        "strategy": "large_dataset"
+      }
+    },
+    "lovecraft_mythos": {
+      "description": "H.P. Lovecraft Cosmic Horror Collection",
+      "novel_count": 8,
+      "total_word_count": 175302,
+      "avg_words_per_novel": 21913,
+      "novels": [
+        {
+          "original_name": "At the Mountains of Madness",
+          "directory_name": "at_the_mountains_of_madness",
+          "word_count": 40020,
+          "sentence_count": 706
+        },
+        {
+          "original_name": "Call of Cthulhu",
+          "directory_name": "call_of_cthulhu",
+          "word_count": 11945,
+          "sentence_count": 484
+        },
+        {
+          "original_name": "The Case of Charles Dexter Ward",
+          "directory_name": "case_of_charles_dexter_ward",
+          "word_count": 44554,
+          "sentence_count": 1784
+        },
+        {
+          "original_name": "Dunwich Horror",
+          "directory_name": "dunwich_horror",
+          "word_count": 17357,
+          "sentence_count": 558
+        },
+        {
+          "original_name": "Horror at Red Hook",
+          "directory_name": "horror_at_red_hook",
+          "word_count": 8500,
+          "sentence_count": 298
+        },
+        {
+          "original_name": "Shadow over Innsmouth",
+          "directory_name": "shadow_over_innsmouth",
+          "word_count": 22000,
+          "sentence_count": 831
+        },
+        {
+          "original_name": "The Shunned House",
+          "directory_name": "shunned_house",
+          "word_count": 10748,
+          "sentence_count": 345
+        },
+        {
+          "original_name": "Through the Gates of the Silver Key",
+          "directory_name": "through_the_gates_of_the_silver_key",
+          "word_count": 14258,
+          "sentence_count": 432
+        }
+      ],
+      "chunking_strategy": {
+        "chunk_size": 400,
+        "overlap": 50,
+        "max_chunks_per_novel": 25,
+        "strategy": "cosmic_horror"
+      }
+    }
+  }
+}
