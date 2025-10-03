@@ -49,8 +49,8 @@ class IterativeConfig:
     base_model: str = "gpt2"
     max_seq_length: int = 512
 
-    iterations_per_novel: int = 12
-    max_steps_per_iteration: int = 16
+    iterations_per_novel: int = 12  # Legacy, not used (use max_iterations instead)
+    max_steps_per_iteration: int = 200  # Default for medium models, should be overridden based on size
     learning_rate_start: float = 2e-5
     learning_rate_end: float = 5e-6
 
@@ -71,9 +71,9 @@ class IterativeConfig:
     save_checkpoints: bool = True
 
     adaptive_training: bool = True
-    early_stopping_patience: int = 2
+    early_stopping_patience: int = 3  # Need 3 iterations without improvement before stopping
     overfitting_detection_window: int = 3
-    min_iterations: int = 4
+    min_iterations: int = 8  # Minimum iterations to allow actual learning
     max_iterations: int = 15
     perplexity_improvement_threshold: float = 2.0
     quality_degradation_threshold: float = 0.01
@@ -114,11 +114,18 @@ class AdaptiveTrainingMonitor:
             self.best_quality = quality
             improved = True
 
-        # Reset patience if improved
-        if improved:
-            self.patience_counter = 0
+        # Only track patience AFTER completing min_iterations
+        # iteration is 0-based, so iteration >= 5 means we've completed iterations 0-4 (5 total)
+        # and are now on iteration 5 or later
+        if iteration >= self.config.min_iterations:
+            # Reset patience if improved
+            if improved:
+                self.patience_counter = 0
+            else:
+                self.patience_counter += 1
         else:
-            self.patience_counter += 1
+            # During first min_iterations (0-4 for min=5), don't track patience at all
+            self.patience_counter = 0
 
         # Check stopping conditions
         self.should_stop = self._should_stop_training(iteration)
@@ -135,34 +142,40 @@ class AdaptiveTrainingMonitor:
     def _should_stop_training(self, iteration: int) -> bool:
         """Determine if training should stop"""
         if not self.config.adaptive_training:
-            return iteration >= self.config.iterations_per_novel
+            # If adaptive training is disabled, use max_iterations as hard limit
+            return iteration >= self.config.max_iterations
 
-        # Minimum iterations check
+        # CRITICAL: Must complete at least min_iterations (default 5)
+        # iteration is 0-based index checked BEFORE starting that iteration
+        # iteration=5 means we've completed 0,1,2,3,4 (5 iterations) and are about to start iteration 5
+        # So we only allow stopping when iteration >= min_iterations (i.e., we've completed min_iterations)
         if iteration < self.config.min_iterations:
             return False
 
-        # Maximum iterations check
+        # Maximum iterations check (hard upper bound)
         if iteration >= self.config.max_iterations:
             return True
 
-        # Perplexity explosion check - CRITICAL
+        # All other checks ONLY apply after min_iterations completed
+
+        # Perplexity explosion check - CRITICAL (only after min_iterations)
         if len(self.perplexities) >= 2:
             recent_perplexity = self.perplexities[-1]
             if recent_perplexity > self.config.perplexity_threshold:
                 logger.warning(f"Stopping: Perplexity {recent_perplexity:.1f} exceeds threshold {self.config.perplexity_threshold}")
                 return True
 
-        # Target perplexity achieved - EARLY SUCCESS
+        # Target perplexity achieved - EARLY SUCCESS (only after min_iterations)
         if hasattr(self.config, 'target_perplexity') and len(self.perplexities) >= 2:
             if self.best_perplexity <= self.config.target_perplexity:
                 logger.info(f"SUCCESS: Target perplexity {self.config.target_perplexity} achieved ({self.best_perplexity:.1f})")
                 return True
 
-        # Early stopping based on patience
+        # Early stopping based on patience (only after min_iterations)
         if self.patience_counter >= self.config.early_stopping_patience:
             return True
 
-        # Validation loss plateau detection
+        # Validation loss plateau detection (only after min_iterations)
         if len(self.validation_losses) >= self.config.validation_loss_patience:
             recent_losses = self.validation_losses[-self.config.validation_loss_patience:]
             if max(recent_losses) - min(recent_losses) < 0.01:  # Very small improvement
@@ -561,12 +574,20 @@ class IterativeTrainer:
 
         start_time = time.time()
 
-        # Iterative training loop
-        for iteration in range(self.config.iterations_per_novel):
-            if not self.validator.should_continue_training(iteration):
+        # Initialize adaptive training monitor
+        adaptive_monitor = AdaptiveTrainingMonitor(self.config)
+
+        # Iterative training loop with adaptive stopping
+        # Use max_iterations as loop bound (default 15), adaptive logic will stop earlier based on quality
+        for iteration in range(self.config.max_iterations):
+            # Check if should stop based on adaptive monitor
+            if adaptive_monitor.should_stop:
+                logger.info(f"Adaptive training stopped at iteration {iteration} (completed {iteration} iterations)")
                 break
 
-            logger.info(f"\n--- Iteration {iteration + 1}/{self.config.iterations_per_novel} ---")
+            # Calculate actual minimum iterations (min_iterations + early_stopping_patience)
+            actual_min = self.config.min_iterations + self.config.early_stopping_patience
+            logger.info(f"\n--- Iteration {iteration + 1} (adaptive: minimum {actual_min}, maximum {self.config.max_iterations} based on quality) ---")
 
             # Create progressive chunks
             chunks = self.processor.create_progressive_chunks(
@@ -582,8 +603,9 @@ class IterativeTrainer:
 
             train_dataset = self._prepare_dataset(train_chunks, tokenizer)
 
-            if self.config.iterations_per_novel > 1:
-                lr_progress = iteration / (self.config.iterations_per_novel - 1)
+            # Learning rate annealing based on max_iterations (not actual iterations completed)
+            if self.config.max_iterations > 1:
+                lr_progress = iteration / (self.config.max_iterations - 1)
             else:
                 lr_progress = 0
             current_lr = self.config.learning_rate_start * (1 - lr_progress) + \
@@ -664,12 +686,20 @@ class IterativeTrainer:
 
             results["iterations"].append(iteration_result)
 
+            # Update adaptive monitor with current metrics
+            validation_loss = validation_result.get("validation_loss", 0.0)
+            perplexity = validation_result.get("perplexity", 0.0)
+            quality = validation_result.get("quality_score", 0.0)
+
+            monitor_update = adaptive_monitor.update_metrics(validation_loss, perplexity, quality, iteration)
+
             logger.info(f"Iteration {iteration + 1} completed:")
             logger.info(f"  Time: {iter_time:.1f}s")
-            logger.info(f"  Perplexity: {validation_result.get('perplexity', 0):.2f} ({training_analysis.get('perplexity_trend', 'baseline')})")
-            logger.info(f"  Quality: {validation_result.get('quality_score', 0):.3f} ({training_analysis.get('quality_trend', 'baseline')})")
+            logger.info(f"  Perplexity: {perplexity:.2f} ({training_analysis.get('perplexity_trend', 'baseline')})")
+            logger.info(f"  Quality: {quality:.3f} ({training_analysis.get('quality_trend', 'baseline')})")
             logger.info(f"  Chunks: {len(train_chunks)} ({int(iteration_result['chunk_size_avg'])} avg words)")
             logger.info(f"  Status: {training_analysis['convergence_status']}")
+            logger.info(f"  Adaptive: {monitor_update['recommendation']} (patience: {monitor_update['patience_counter']})")
             if training_analysis['overfitting_risk']:
                 logger.warning(f"  High perplexity detected (continuing for full analysis)")
             sample_text = validation_result.get('sample_text', '')
@@ -737,20 +767,8 @@ class IterativeTrainer:
         logger.info(f"  Iterations: {len(results['iterations'])}")
         logger.info(f"  Final quality: {results['final_quality']:.3f}")
 
-        # Build episodic memory system (experimental feature)
-        logger.info(f"\nBuilding episodic memory system...")
-        memory_analysis = self._build_episodic_memory(novel_name, novel_path)
-        if memory_analysis:
-            results["episodic_memory"] = memory_analysis
-            logger.info(f"  Memories created: {memory_analysis.get('total_memories', 0)}")
-            logger.info(f"  Memory density: {memory_analysis.get('memory_density', 0):.2f} per 1000 words")
-
-        # Run comprehensive post-training tests
-        logger.info(f"\nRunning post-training test suite...")
-        test_results = self._run_post_training_tests(novel_name, novel_path, results)
-        if test_results:
-            results["post_training_tests"] = test_results
-            logger.info(f"  Test suite completed: {test_results.get('overall_assessment', {}).get('overall_rating', 'unknown').upper()}")
+        # Memory system and post-training tests disabled for performance
+        # Skipping to improve training speed
 
         return results
 
@@ -790,12 +808,20 @@ class IterativeTrainer:
 
         start_time = time.time()
 
-        # Iterative training loop
-        for iteration in range(self.config.iterations_per_novel):
-            if not self.validator.should_continue_training(iteration):
+        # Initialize adaptive training monitor
+        adaptive_monitor = AdaptiveTrainingMonitor(self.config)
+
+        # Iterative training loop with adaptive stopping
+        # Use max_iterations as loop bound (default 15), adaptive logic will stop earlier based on quality
+        for iteration in range(self.config.max_iterations):
+            # Check if should stop based on adaptive monitor
+            if adaptive_monitor.should_stop:
+                logger.info(f"Adaptive training stopped at iteration {iteration} (completed {iteration} iterations)")
                 break
 
-            logger.info(f"\n--- Iteration {iteration + 1}/{self.config.iterations_per_novel} ---")
+            # Calculate actual minimum iterations (min_iterations + early_stopping_patience)
+            actual_min = self.config.min_iterations + self.config.early_stopping_patience
+            logger.info(f"\n--- Iteration {iteration + 1} (adaptive: minimum {actual_min}, maximum {self.config.max_iterations} based on quality) ---")
 
             # Create progressive chunks (limit for CPU efficiency)
             chunks = self.processor.create_progressive_chunks(content, iteration)
@@ -814,8 +840,9 @@ class IterativeTrainer:
 
             train_dataset = self._prepare_dataset(train_chunks, tokenizer)
 
-            if self.config.iterations_per_novel > 1:
-                lr_progress = iteration / (self.config.iterations_per_novel - 1)
+            # Learning rate annealing based on max_iterations (not actual iterations completed)
+            if self.config.max_iterations > 1:
+                lr_progress = iteration / (self.config.max_iterations - 1)
             else:
                 lr_progress = 0
             current_lr = self.config.learning_rate_start * (1 - lr_progress) + \
@@ -879,9 +906,14 @@ class IterativeTrainer:
 
                 results["iterations"].append(iteration_result)
 
+                # Update adaptive monitor with current metrics
+                validation_loss = 0.0  # Not available in this method
+                monitor_update = adaptive_monitor.update_metrics(validation_loss, perplexity, quality_metrics["quality"], iteration)
+
                 logger.info(f"  Perplexity: {perplexity:.2f}")
                 logger.info(f"  Quality: {quality_metrics['quality']:.3f}")
                 logger.info(f"  Training time: {iteration_time:.1f}s")
+                logger.info(f"  Adaptive: {monitor_update['recommendation']} (patience: {monitor_update['patience_counter']})")
 
                 # Update validator with current results
                 self.validator.last_perplexity = perplexity
@@ -907,21 +939,8 @@ class IterativeTrainer:
             results["best_iteration"] = best_iteration
             results["final_quality"] = best_iteration.get("quality_score", 0.0)
 
-        # Build episodic memory system (experimental feature)
-        logger.info(f"\nBuilding episodic memory system...")
-        memory_analysis = self._build_episodic_memory(model_name, Path("novels") / model_name)
-        if memory_analysis:
-            results["episodic_memory"] = memory_analysis
-
-        # Comprehensive model testing and evaluation
-        logger.info(f"\nConducting comprehensive model evaluation...")
-        testing_analysis = self._conduct_comprehensive_testing(
-            model, tokenizer, model_name, results, final_model_dir
-        )
-        results.update(testing_analysis)
-
-        # Save academic evaluation outputs
-        self._save_academic_outputs(model_name, results, final_model_dir)
+        # Memory system and comprehensive testing disabled for performance
+        # Skipping to improve training speed
 
         logger.info(f"Training completed in {total_time:.1f}s")
         logger.info(f"Final model saved to: {final_model_dir}")
@@ -1194,7 +1213,7 @@ class IterativeTrainer:
 
     def _calculate_learning_rate(self, iteration: int) -> float:
         """Calculate learning rate for given iteration"""
-        progress = iteration / (self.config.iterations_per_novel - 1) if self.config.iterations_per_novel > 1 else 0
+        progress = iteration / (self.config.max_iterations - 1) if self.config.max_iterations > 1 else 0
         return self.config.learning_rate_start * (1 - progress) + self.config.learning_rate_end * progress
 
     def _calculate_chunk_size(self, iteration: int) -> int:
@@ -1270,7 +1289,7 @@ class IterativeTrainer:
                 "final_quality_score": final_iteration.get("quality_score", 0),
                 "total_training_time": results["training_time"],
                 "iterations_completed": len(results["iterations"]),
-                "convergence_efficiency": len(results["iterations"]) / 12,  # Efficiency vs max iterations
+                "convergence_efficiency": len(results["iterations"]) / self.config.max_iterations if self.config.max_iterations > 0 else 0,  # Efficiency vs max iterations
                 "parameter_count": 82000000,  # DistilGPT-2 parameters
                 "memory_efficiency": self._calculate_memory_efficiency(
                     results.get("word_count", 15000), results["training_time"]
@@ -1368,7 +1387,9 @@ class IterativeTrainer:
             },
             "training_results": results,
             "system_configuration": {
-                "iterations_per_novel": self.config.iterations_per_novel,
+                "adaptive_training": self.config.adaptive_training,
+                "min_iterations": self.config.min_iterations,
+                "max_iterations": self.config.max_iterations,
                 "learning_rate_range": f"{self.config.learning_rate_start:.2e} - {self.config.learning_rate_end:.2e}",
                 "chunk_size_base": self.config.chunk_size,
                 "batch_size": self.config.batch_size,

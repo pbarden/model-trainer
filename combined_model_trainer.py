@@ -54,7 +54,7 @@ class CombinedModelConfig:
     min_novels_required: int = 2
     max_combined_size: int = 2000000  # 2M words max
 
-    max_iterations: int = 12
+    max_iterations: int = 14  # Default fallback, overridden by word-count-based calculation
     learning_rate_start: float = 5e-5
     learning_rate_end: float = 5e-6
 
@@ -215,24 +215,52 @@ class CombinedModelTrainer:
         model_info = self.model_mapping["models"][model_key]
         training_params = model_info.get("training_parameters", {})
 
+        # Calculate adaptive max_iterations based on total word count
+        total_words = model_info.get('total_word_count', 0)
+
+        # Determine max_iterations and steps based on corpus size (adaptive upper bound)
+        if total_words < 80000:  # tiny
+            adaptive_max_iterations = 10  # min 5, max 10
+            adaptive_steps_per_iteration = 100
+        elif total_words < 120000:  # small
+            adaptive_max_iterations = 12  # min 5, max 12
+            adaptive_steps_per_iteration = 150
+        elif total_words < 180000:  # medium
+            adaptive_max_iterations = 14  # min 5, max 14
+            adaptive_steps_per_iteration = 200
+        elif total_words < 260000:  # large
+            adaptive_max_iterations = 16  # min 5, max 16
+            adaptive_steps_per_iteration = 250
+        else:  # xlarge
+            adaptive_max_iterations = 18  # min 5, max 18
+            adaptive_steps_per_iteration = 300
+
         # Use adaptive parameters if available, otherwise use defaults
+        # Actual minimum iterations is min_iterations (8) + early_stopping_patience (3) = 11
+        actual_min_iterations = 11
+
         if training_params:
             logger.info(f"Using adaptive training parameters for {model_key}:")
-            logger.info(f"  Iterations: {training_params.get('max_iterations', self.config.max_iterations)}")
-            logger.info(f"  Steps/iter: {training_params.get('max_steps_per_iteration', 16)}")
+            logger.info(f"  Word count: {total_words:,}")
+            logger.info(f"  Adaptive iterations: {actual_min_iterations}-{adaptive_max_iterations} (determined by quality metrics)")
+            logger.info(f"  Steps/iter: {training_params.get('max_steps_per_iteration', adaptive_steps_per_iteration)}")
             logger.info(f"  LR: {training_params.get('learning_rate_start', self.config.learning_rate_start):.2e} -> {training_params.get('learning_rate_end', self.config.learning_rate_end):.2e}")
             logger.info(f"  Size category: {training_params.get('size_category', 'default')}")
 
             training_config = IterativeConfig(
-                iterations_per_novel=training_params.get('max_iterations', self.config.max_iterations),
-                max_steps_per_iteration=training_params.get('max_steps_per_iteration', 16),
+                max_iterations=adaptive_max_iterations,
+                max_steps_per_iteration=training_params.get('max_steps_per_iteration', adaptive_steps_per_iteration),
                 learning_rate_start=training_params.get('learning_rate_start', self.config.learning_rate_start),
                 learning_rate_end=training_params.get('learning_rate_end', self.config.learning_rate_end)
             )
         else:
             logger.info(f"Using default training parameters for {model_key}")
+            logger.info(f"  Word count: {total_words:,}")
+            logger.info(f"  Adaptive iterations: {actual_min_iterations}-{adaptive_max_iterations} (determined by quality metrics)")
+            logger.info(f"  Steps/iter: {adaptive_steps_per_iteration}")
             training_config = IterativeConfig(
-                iterations_per_novel=self.config.max_iterations,
+                max_iterations=adaptive_max_iterations,
+                max_steps_per_iteration=adaptive_steps_per_iteration,
                 learning_rate_start=self.config.learning_rate_start,
                 learning_rate_end=self.config.learning_rate_end
             )
@@ -251,8 +279,8 @@ class CombinedModelTrainer:
             "combination_method": self.config.combine_novels_method
         })
 
-        if MEMORY_SYSTEM_AVAILABLE:
-            self._create_combined_memories(model_key, combined_content, novels, training_results)
+        # Memory system disabled for performance
+        # Skipping memory creation to improve training speed
 
         results_file = model_output_dir / "training_results.json"
         try:

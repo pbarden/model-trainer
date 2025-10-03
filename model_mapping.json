@@ -20,7 +20,6 @@
       "novel_count": 4,
       "total_word_count": 306327,
       "training_parameters": {
-        "max_iterations": 16,
         "max_steps_per_iteration": 300,
         "learning_rate_start": 1e-05,
         "learning_rate_end": 3e-06,
@@ -64,7 +63,6 @@
       "novel_count": 4,
       "total_word_count": 261595,
       "training_parameters": {
-        "max_iterations": 16,
         "max_steps_per_iteration": 300,
         "learning_rate_start": 1e-05,
         "learning_rate_end": 3e-06,
@@ -109,7 +107,6 @@
       "novel_count": 4,
       "total_word_count": 136167,
       "training_parameters": {
-        "max_iterations": 12,
         "max_steps_per_iteration": 200,
         "learning_rate_start": 2e-05,
         "learning_rate_end": 5e-06,
@@ -154,7 +151,6 @@
       "novel_count": 4,
       "total_word_count": 28462,
       "training_parameters": {
-        "max_iterations": 8,
         "max_steps_per_iteration": 100,
         "learning_rate_start": 3e-05,
         "learning_rate_end": 8e-06,
@@ -198,7 +194,6 @@
       "novel_count": 4,
       "total_word_count": 40728,
       "training_parameters": {
-        "max_iterations": 8,
         "max_steps_per_iteration": 100,
         "learning_rate_start": 3e-05,
         "learning_rate_end": 8e-06,
@@ -242,7 +237,6 @@
       "novel_count": 4,
       "total_word_count": 99380,
       "training_parameters": {
-        "max_iterations": 10,
         "max_steps_per_iteration": 150,
         "learning_rate_start": 2.5e-05,
         "learning_rate_end": 6e-06,
@@ -287,7 +281,6 @@
       "novel_count": 4,
       "total_word_count": 317462,
       "training_parameters": {
-        "max_iterations": 16,
         "max_steps_per_iteration": 300,
         "learning_rate_start": 1e-05,
         "learning_rate_end": 3e-06,
@@ -331,7 +324,6 @@
       "novel_count": 4,
       "total_word_count": 235791,
       "training_parameters": {
-        "max_iterations": 14,
         "max_steps_per_iteration": 250,
         "learning_rate_start": 1.5e-05,
         "learning_rate_end": 4e-06,
@@ -376,7 +368,6 @@
       "novel_count": 4,
       "total_word_count": 17343,
       "training_parameters": {
-        "max_iterations": 8,
         "max_steps_per_iteration": 100,
         "learning_rate_start": 3e-05,
         "learning_rate_end": 8e-06,
@@ -393,7 +384,7 @@
           "tier": "tiny"
         },
         {
-          "original_name": "Asteroid H277\u2014Plus",
+          "original_name": "Asteroid H277—Plus",
           "directory_name": "asteroid_h277_plus",
           "word_count": 4396,
           "tier": "tiny"
@@ -420,7 +411,6 @@
       "novel_count": 4,
       "total_word_count": 23016,
       "training_parameters": {
-        "max_iterations": 8,
         "max_steps_per_iteration": 100,
         "learning_rate_start": 3e-05,
         "learning_rate_end": 8e-06,
@@ -464,7 +454,6 @@
       "novel_count": 4,
       "total_word_count": 29420,
       "training_parameters": {
-        "max_iterations": 8,
         "max_steps_per_iteration": 100,
         "learning_rate_start": 3e-05,
         "learning_rate_end": 8e-06,
@@ -508,7 +497,6 @@
       "novel_count": 4,
       "total_word_count": 87640,
       "training_parameters": {
-        "max_iterations": 10,
         "max_steps_per_iteration": 150,
         "learning_rate_start": 2.5e-05,
         "learning_rate_end": 6e-06,
@@ -553,7 +541,6 @@
       "novel_count": 4,
       "total_word_count": 227761,
       "training_parameters": {
-        "max_iterations": 14,
         "max_steps_per_iteration": 250,
         "learning_rate_start": 1.5e-05,
         "learning_rate_end": 4e-06,
@@ -598,7 +585,6 @@
       "novel_count": 4,
       "total_word_count": 75052,
       "training_parameters": {
-        "max_iterations": 8,
         "max_steps_per_iteration": 100,
         "learning_rate_start": 3e-05,
         "learning_rate_end": 8e-06,
@@ -643,7 +629,6 @@
       "novel_count": 4,
       "total_word_count": 21915,
       "training_parameters": {
-        "max_iterations": 8,
         "max_steps_per_iteration": 100,
         "learning_rate_start": 3e-05,
         "learning_rate_end": 8e-06,
@@ -687,7 +672,6 @@
       "novel_count": 4,
       "total_word_count": 32703,
       "training_parameters": {
-        "max_iterations": 8,
         "max_steps_per_iteration": 100,
         "learning_rate_start": 3e-05,
         "learning_rate_end": 8e-06,
@@ -731,7 +715,6 @@
       "novel_count": 4,
       "total_word_count": 49229,
       "training_parameters": {
-        "max_iterations": 8,
         "max_steps_per_iteration": 100,
         "learning_rate_start": 3e-05,
         "learning_rate_end": 8e-06,
@@ -775,7 +758,6 @@
       "novel_count": 4,
       "total_word_count": 81234,
       "training_parameters": {
-        "max_iterations": 10,
         "max_steps_per_iteration": 150,
         "learning_rate_start": 2.5e-05,
         "learning_rate_end": 6e-06,
@@ -820,7 +802,6 @@
       "novel_count": 4,
       "total_word_count": 312579,
       "training_parameters": {
-        "max_iterations": 16,
         "max_steps_per_iteration": 300,
         "learning_rate_start": 1e-05,
         "learning_rate_end": 3e-06,
@@ -864,7 +845,6 @@
       "novel_count": 4,
       "total_word_count": 183114,
       "training_parameters": {
-        "max_iterations": 14,
         "max_steps_per_iteration": 250,
         "learning_rate_start": 1.5e-05,
         "learning_rate_end": 4e-06,
@@ -908,7 +888,6 @@
       "novel_count": 4,
       "total_word_count": 125003,
       "training_parameters": {
-        "max_iterations": 12,
         "max_steps_per_iteration": 200,
         "learning_rate_start": 2e-05,
         "learning_rate_end": 5e-06,
@@ -953,7 +932,6 @@
       "novel_count": 4,
       "total_word_count": 30340,
       "training_parameters": {
-        "max_iterations": 8,
         "max_steps_per_iteration": 100,
         "learning_rate_start": 3e-05,
         "learning_rate_end": 8e-06,
@@ -997,7 +975,6 @@
       "novel_count": 4,
       "total_word_count": 67203,
       "training_parameters": {
-        "max_iterations": 8,
         "max_steps_per_iteration": 100,
         "learning_rate_start": 3e-05,
         "learning_rate_end": 8e-06,
@@ -1042,7 +1019,6 @@
       "novel_count": 4,
       "total_word_count": 252197,
       "training_parameters": {
-        "max_iterations": 14,
         "max_steps_per_iteration": 250,
         "learning_rate_start": 1.5e-05,
         "learning_rate_end": 4e-06,
@@ -1087,7 +1063,6 @@
       "novel_count": 4,
       "total_word_count": 229492,
       "training_parameters": {
-        "max_iterations": 14,
         "max_steps_per_iteration": 250,
         "learning_rate_start": 1.5e-05,
         "learning_rate_end": 4e-06,
@@ -1131,7 +1106,6 @@
       "novel_count": 4,
       "total_word_count": 16375,
       "training_parameters": {
-        "max_iterations": 8,
         "max_steps_per_iteration": 100,
         "learning_rate_start": 3e-05,
         "learning_rate_end": 8e-06,
@@ -1175,7 +1149,6 @@
       "novel_count": 4,
       "total_word_count": 29206,
       "training_parameters": {
-        "max_iterations": 8,
         "max_steps_per_iteration": 100,
         "learning_rate_start": 3e-05,
         "learning_rate_end": 8e-06,
@@ -1219,7 +1192,6 @@
       "novel_count": 4,
       "total_word_count": 41968,
       "training_parameters": {
-        "max_iterations": 8,
         "max_steps_per_iteration": 100,
         "learning_rate_start": 3e-05,
         "learning_rate_end": 8e-06,
@@ -1263,7 +1235,6 @@
       "novel_count": 4,
       "total_word_count": 284419,
       "training_parameters": {
-        "max_iterations": 16,
         "max_steps_per_iteration": 300,
         "learning_rate_start": 1e-05,
         "learning_rate_end": 3e-06,
@@ -1308,7 +1279,6 @@
       "novel_count": 4,
       "total_word_count": 132786,
       "training_parameters": {
-        "max_iterations": 12,
         "max_steps_per_iteration": 200,
         "learning_rate_start": 2e-05,
         "learning_rate_end": 5e-06,
@@ -1353,7 +1323,6 @@
       "novel_count": 4,
       "total_word_count": 42629,
       "training_parameters": {
-        "max_iterations": 8,
         "max_steps_per_iteration": 100,
         "learning_rate_start": 3e-05,
         "learning_rate_end": 8e-06,
@@ -1398,7 +1367,6 @@
       "novel_count": 4,
       "total_word_count": 87030,
       "training_parameters": {
-        "max_iterations": 10,
         "max_steps_per_iteration": 150,
         "learning_rate_start": 2.5e-05,
         "learning_rate_end": 6e-06,
@@ -1442,7 +1410,6 @@
       "novel_count": 4,
       "total_word_count": 282664,
       "training_parameters": {
-        "max_iterations": 16,
         "max_steps_per_iteration": 300,
         "learning_rate_start": 1e-05,
         "learning_rate_end": 3e-06,
@@ -1487,7 +1454,6 @@
       "novel_count": 4,
       "total_word_count": 220462,
       "training_parameters": {
-        "max_iterations": 14,
         "max_steps_per_iteration": 250,
         "learning_rate_start": 1.5e-05,
         "learning_rate_end": 4e-06,
@@ -1531,7 +1497,6 @@
       "novel_count": 4,
       "total_word_count": 193161,
       "training_parameters": {
-        "max_iterations": 14,
         "max_steps_per_iteration": 250,
         "learning_rate_start": 1.5e-05,
         "learning_rate_end": 4e-06,
@@ -1576,7 +1541,6 @@
       "novel_count": 4,
       "total_word_count": 27574,
       "training_parameters": {
-        "max_iterations": 8,
         "max_steps_per_iteration": 100,
         "learning_rate_start": 3e-05,
         "learning_rate_end": 8e-06,
@@ -1620,7 +1584,6 @@
       "novel_count": 4,
       "total_word_count": 80195,
       "training_parameters": {
-        "max_iterations": 10,
         "max_steps_per_iteration": 150,
         "learning_rate_start": 2.5e-05,
         "learning_rate_end": 6e-06,
@@ -1665,7 +1628,6 @@
       "novel_count": 4,
       "total_word_count": 243965,
       "training_parameters": {
-        "max_iterations": 14,
         "max_steps_per_iteration": 250,
         "learning_rate_start": 1.5e-05,
         "learning_rate_end": 4e-06,
@@ -1710,7 +1672,6 @@
       "novel_count": 4,
       "total_word_count": 251384,
       "training_parameters": {
-        "max_iterations": 14,
         "max_steps_per_iteration": 250,
         "learning_rate_start": 1.5e-05,
         "learning_rate_end": 4e-06,
@@ -1754,7 +1715,6 @@
       "novel_count": 4,
       "total_word_count": 16094,
       "training_parameters": {
-        "max_iterations": 8,
         "max_steps_per_iteration": 100,
         "learning_rate_start": 3e-05,
         "learning_rate_end": 8e-06,
@@ -1798,7 +1758,6 @@
       "novel_count": 4,
       "total_word_count": 46442,
       "training_parameters": {
-        "max_iterations": 8,
         "max_steps_per_iteration": 100,
         "learning_rate_start": 3e-05,
         "learning_rate_end": 8e-06,
@@ -1842,7 +1801,6 @@
       "novel_count": 4,
       "total_word_count": 288955,
       "training_parameters": {
-        "max_iterations": 16,
         "max_steps_per_iteration": 300,
         "learning_rate_start": 1e-05,
         "learning_rate_end": 3e-06,
@@ -1887,7 +1845,6 @@
       "novel_count": 4,
       "total_word_count": 73077,
       "training_parameters": {
-        "max_iterations": 8,
         "max_steps_per_iteration": 100,
         "learning_rate_start": 3e-05,
         "learning_rate_end": 8e-06,
@@ -1932,7 +1889,6 @@
       "novel_count": 4,
       "total_word_count": 24419,
       "training_parameters": {
-        "max_iterations": 8,
         "max_steps_per_iteration": 100,
         "learning_rate_start": 3e-05,
         "learning_rate_end": 8e-06,
@@ -1976,7 +1932,6 @@
       "novel_count": 4,
       "total_word_count": 40683,
       "training_parameters": {
-        "max_iterations": 8,
         "max_steps_per_iteration": 100,
         "learning_rate_start": 3e-05,
         "learning_rate_end": 8e-06,
@@ -2020,7 +1975,6 @@
       "novel_count": 4,
       "total_word_count": 53850,
       "training_parameters": {
-        "max_iterations": 8,
         "max_steps_per_iteration": 100,
         "learning_rate_start": 3e-05,
         "learning_rate_end": 8e-06,
@@ -2064,7 +2018,6 @@
       "novel_count": 4,
       "total_word_count": 108462,
       "training_parameters": {
-        "max_iterations": 10,
         "max_steps_per_iteration": 150,
         "learning_rate_start": 2.5e-05,
         "learning_rate_end": 6e-06,
@@ -2108,7 +2061,6 @@
       "novel_count": 4,
       "total_word_count": 316275,
       "training_parameters": {
-        "max_iterations": 16,
         "max_steps_per_iteration": 300,
         "learning_rate_start": 1e-05,
         "learning_rate_end": 3e-06,
@@ -2152,7 +2104,6 @@
       "novel_count": 4,
       "total_word_count": 218484,
       "training_parameters": {
-        "max_iterations": 14,
         "max_steps_per_iteration": 250,
         "learning_rate_start": 1.5e-05,
         "learning_rate_end": 4e-06,
@@ -2196,7 +2147,6 @@
       "novel_count": 4,
       "total_word_count": 79955,
       "training_parameters": {
-        "max_iterations": 8,
         "max_steps_per_iteration": 100,
         "learning_rate_start": 3e-05,
         "learning_rate_end": 8e-06,
@@ -2241,7 +2191,6 @@
       "novel_count": 4,
       "total_word_count": 47673,
       "training_parameters": {
-        "max_iterations": 8,
         "max_steps_per_iteration": 100,
         "learning_rate_start": 3e-05,
         "learning_rate_end": 8e-06,
@@ -2285,7 +2234,6 @@
       "novel_count": 4,
       "total_word_count": 77406,
       "training_parameters": {
-        "max_iterations": 8,
         "max_steps_per_iteration": 100,
         "learning_rate_start": 3e-05,
         "learning_rate_end": 8e-06,
@@ -2330,7 +2278,6 @@
       "novel_count": 4,
       "total_word_count": 239216,
       "training_parameters": {
-        "max_iterations": 14,
         "max_steps_per_iteration": 250,
         "learning_rate_start": 1.5e-05,
         "learning_rate_end": 4e-06,
@@ -2375,7 +2322,6 @@
       "novel_count": 4,
       "total_word_count": 61015,
       "training_parameters": {
-        "max_iterations": 8,
         "max_steps_per_iteration": 100,
         "learning_rate_start": 3e-05,
         "learning_rate_end": 8e-06,
@@ -2420,7 +2366,6 @@
       "novel_count": 4,
       "total_word_count": 33947,
       "training_parameters": {
-        "max_iterations": 8,
         "max_steps_per_iteration": 100,
         "learning_rate_start": 3e-05,
         "learning_rate_end": 8e-06,
@@ -2464,7 +2409,6 @@
       "novel_count": 4,
       "total_word_count": 43273,
       "training_parameters": {
-        "max_iterations": 8,
         "max_steps_per_iteration": 100,
         "learning_rate_start": 3e-05,
         "learning_rate_end": 8e-06,
@@ -2508,7 +2452,6 @@
       "novel_count": 4,
       "total_word_count": 63263,
       "training_parameters": {
-        "max_iterations": 8,
         "max_steps_per_iteration": 100,
         "learning_rate_start": 3e-05,
         "learning_rate_end": 8e-06,
@@ -2552,7 +2495,6 @@
       "novel_count": 4,
       "total_word_count": 289489,
       "training_parameters": {
-        "max_iterations": 16,
         "max_steps_per_iteration": 300,
         "learning_rate_start": 1e-05,
         "learning_rate_end": 3e-06,
@@ -2597,7 +2539,6 @@
       "novel_count": 4,
       "total_word_count": 205284,
       "training_parameters": {
-        "max_iterations": 14,
         "max_steps_per_iteration": 250,
         "learning_rate_start": 1.5e-05,
         "learning_rate_end": 4e-06,
@@ -2641,7 +2582,6 @@
       "novel_count": 4,
       "total_word_count": 68388,
       "training_parameters": {
-        "max_iterations": 8,
         "max_steps_per_iteration": 100,
         "learning_rate_start": 3e-05,
         "learning_rate_end": 8e-06,
@@ -2686,7 +2626,6 @@
       "novel_count": 4,
       "total_word_count": 28638,
       "training_parameters": {
-        "max_iterations": 8,
         "max_steps_per_iteration": 100,
         "learning_rate_start": 3e-05,
         "learning_rate_end": 8e-06,
@@ -2730,7 +2669,6 @@
       "novel_count": 4,
       "total_word_count": 57828,
       "training_parameters": {
-        "max_iterations": 8,
         "max_steps_per_iteration": 100,
         "learning_rate_start": 3e-05,
         "learning_rate_end": 8e-06,
@@ -2774,7 +2712,6 @@
       "novel_count": 4,
       "total_word_count": 239091,
       "training_parameters": {
-        "max_iterations": 14,
         "max_steps_per_iteration": 250,
         "learning_rate_start": 1.5e-05,
         "learning_rate_end": 4e-06,
@@ -2819,7 +2756,6 @@
       "novel_count": 4,
       "total_word_count": 22524,
       "training_parameters": {
-        "max_iterations": 8,
         "max_steps_per_iteration": 100,
         "learning_rate_start": 3e-05,
         "learning_rate_end": 8e-06,
@@ -2863,7 +2799,6 @@
       "novel_count": 4,
       "total_word_count": 38130,
       "training_parameters": {
-        "max_iterations": 8,
         "max_steps_per_iteration": 100,
         "learning_rate_start": 3e-05,
         "learning_rate_end": 8e-06,
@@ -2907,7 +2842,6 @@
       "novel_count": 4,
       "total_word_count": 50861,
       "training_parameters": {
-        "max_iterations": 8,
         "max_steps_per_iteration": 100,
         "learning_rate_start": 3e-05,
         "learning_rate_end": 8e-06,
@@ -2951,7 +2885,6 @@
       "novel_count": 4,
       "total_word_count": 105129,
       "training_parameters": {
-        "max_iterations": 10,
         "max_steps_per_iteration": 150,
         "learning_rate_start": 2.5e-05,
         "learning_rate_end": 6e-06,
@@ -2996,7 +2929,6 @@
       "novel_count": 4,
       "total_word_count": 289906,
       "training_parameters": {
-        "max_iterations": 16,
         "max_steps_per_iteration": 300,
         "learning_rate_start": 1e-05,
         "learning_rate_end": 3e-06,
@@ -3041,7 +2973,6 @@
       "novel_count": 4,
       "total_word_count": 174357,
       "training_parameters": {
-        "max_iterations": 12,
         "max_steps_per_iteration": 200,
         "learning_rate_start": 2e-05,
         "learning_rate_end": 5e-06,
@@ -3086,7 +3017,6 @@
       "novel_count": 4,
       "total_word_count": 20355,
       "training_parameters": {
-        "max_iterations": 8,
         "max_steps_per_iteration": 100,
         "learning_rate_start": 3e-05,
         "learning_rate_end": 8e-06,
@@ -3130,7 +3060,6 @@
       "novel_count": 4,
       "total_word_count": 44847,
       "training_parameters": {
-        "max_iterations": 8,
         "max_steps_per_iteration": 100,
         "learning_rate_start": 3e-05,
         "learning_rate_end": 8e-06,
@@ -3174,7 +3103,6 @@
       "novel_count": 4,
       "total_word_count": 290710,
       "training_parameters": {
-        "max_iterations": 16,
         "max_steps_per_iteration": 300,
         "learning_rate_start": 1e-05,
         "learning_rate_end": 3e-06,
@@ -3185,8 +3113,8 @@
       },
       "novels": [
         {
-          "original_name": "Ars\u00e8ne Lupin",
-          "directory_name": "ars\u00e8ne_lupin",
+          "original_name": "Arsène Lupin",
+          "directory_name": "arsène_lupin",
           "word_count": 71305,
           "tier": "long"
         },
@@ -3197,8 +3125,8 @@
           "tier": "long"
         },
         {
-          "original_name": "Ars\u00e8ne Lupin, super-sleuth",
-          "directory_name": "ars\u00e8ne_lupin_super-sleuth",
+          "original_name": "Arsène Lupin, super-sleuth",
+          "directory_name": "arsène_lupin_super-sleuth",
           "word_count": 72355,
           "tier": "long"
         },
@@ -3218,7 +3146,6 @@
       "novel_count": 4,
       "total_word_count": 327923,
       "training_parameters": {
-        "max_iterations": 16,
         "max_steps_per_iteration": 300,
         "learning_rate_start": 1e-05,
         "learning_rate_end": 3e-06,
@@ -3262,7 +3189,6 @@
       "novel_count": 4,
       "total_word_count": 206339,
       "training_parameters": {
-        "max_iterations": 14,
         "max_steps_per_iteration": 250,
         "learning_rate_start": 1.5e-05,
         "learning_rate_end": 4e-06,
@@ -3306,7 +3232,6 @@
       "novel_count": 4,
       "total_word_count": 136663,
       "training_parameters": {
-        "max_iterations": 12,
         "max_steps_per_iteration": 200,
         "learning_rate_start": 2e-05,
         "learning_rate_end": 5e-06,
@@ -3318,8 +3243,8 @@
       },
       "novels": [
         {
-          "original_name": "Ars\u00e8ne Lupin intervenes",
-          "directory_name": "ars\u00e8ne_lupin_intervenes",
+          "original_name": "Arsène Lupin intervenes",
+          "directory_name": "arsène_lupin_intervenes",
           "word_count": 62124,
           "tier": "short"
         },
@@ -3351,7 +3276,6 @@
       "novel_count": 4,
       "total_word_count": 43408,
       "training_parameters": {
-        "max_iterations": 8,
         "max_steps_per_iteration": 100,
         "learning_rate_start": 3e-05,
         "learning_rate_end": 8e-06,
@@ -3395,7 +3319,6 @@
       "novel_count": 4,
       "total_word_count": 280602,
       "training_parameters": {
-        "max_iterations": 16,
         "max_steps_per_iteration": 300,
         "learning_rate_start": 1e-05,
         "learning_rate_end": 3e-06,
@@ -3440,7 +3363,6 @@
       "novel_count": 4,
       "total_word_count": 238416,
       "training_parameters": {
-        "max_iterations": 14,
         "max_steps_per_iteration": 250,
         "learning_rate_start": 1.5e-05,
         "learning_rate_end": 4e-06,
@@ -3484,7 +3406,6 @@
       "novel_count": 4,
       "total_word_count": 26223,
       "training_parameters": {
-        "max_iterations": 8,
         "max_steps_per_iteration": 100,
         "learning_rate_start": 3e-05,
         "learning_rate_end": 8e-06,
@@ -3528,7 +3449,6 @@
       "novel_count": 4,
       "total_word_count": 57354,
       "training_parameters": {
-        "max_iterations": 8,
         "max_steps_per_iteration": 100,
         "learning_rate_start": 3e-05,
         "learning_rate_end": 8e-06,
@@ -3572,7 +3492,6 @@
       "novel_count": 4,
       "total_word_count": 123976,
       "training_parameters": {
-        "max_iterations": 12,
         "max_steps_per_iteration": 200,
         "learning_rate_start": 2e-05,
         "learning_rate_end": 5e-06,
@@ -3617,7 +3536,6 @@
       "novel_count": 4,
       "total_word_count": 247312,
       "training_parameters": {
-        "max_iterations": 14,
         "max_steps_per_iteration": 250,
         "learning_rate_start": 1.5e-05,
         "learning_rate_end": 4e-06,
@@ -3662,7 +3580,6 @@
       "novel_count": 4,
       "total_word_count": 229150,
       "training_parameters": {
-        "max_iterations": 14,
         "max_steps_per_iteration": 250,
         "learning_rate_start": 1.5e-05,
         "learning_rate_end": 4e-06,
@@ -3706,7 +3623,6 @@
       "novel_count": 4,
       "total_word_count": 19415,
       "training_parameters": {
-        "max_iterations": 8,
         "max_steps_per_iteration": 100,
         "learning_rate_start": 3e-05,
         "learning_rate_end": 8e-06,
@@ -3750,7 +3666,6 @@
       "novel_count": 4,
       "total_word_count": 41006,
       "training_parameters": {
-        "max_iterations": 8,
         "max_steps_per_iteration": 100,
         "learning_rate_start": 3e-05,
         "learning_rate_end": 8e-06,
@@ -3794,7 +3709,6 @@
       "novel_count": 4,
       "total_word_count": 132189,
       "training_parameters": {
-        "max_iterations": 12,
         "max_steps_per_iteration": 200,
         "learning_rate_start": 2e-05,
         "learning_rate_end": 5e-06,
@@ -3839,7 +3753,6 @@
       "novel_count": 4,
       "total_word_count": 148512,
       "training_parameters": {
-        "max_iterations": 12,
         "max_steps_per_iteration": 200,
         "learning_rate_start": 2e-05,
         "learning_rate_end": 5e-06,
@@ -3885,7 +3798,6 @@
       "novel_count": 4,
       "total_word_count": 23464,
       "training_parameters": {
-        "max_iterations": 8,
         "max_steps_per_iteration": 100,
         "learning_rate_start": 3e-05,
         "learning_rate_end": 8e-06,
@@ -3929,7 +3841,6 @@
       "novel_count": 4,
       "total_word_count": 31879,
       "training_parameters": {
-        "max_iterations": 8,
         "max_steps_per_iteration": 100,
         "learning_rate_start": 3e-05,
         "learning_rate_end": 8e-06,
@@ -3973,7 +3884,6 @@
       "novel_count": 4,
       "total_word_count": 52018,
       "training_parameters": {
-        "max_iterations": 8,
         "max_steps_per_iteration": 100,
         "learning_rate_start": 3e-05,
         "learning_rate_end": 8e-06,
@@ -4017,7 +3927,6 @@
       "novel_count": 4,
       "total_word_count": 77444,
       "training_parameters": {
-        "max_iterations": 8,
         "max_steps_per_iteration": 100,
         "learning_rate_start": 3e-05,
         "learning_rate_end": 8e-06,
@@ -4062,7 +3971,6 @@
       "novel_count": 4,
       "total_word_count": 103747,
       "training_parameters": {
-        "max_iterations": 10,
         "max_steps_per_iteration": 150,
         "learning_rate_start": 2.5e-05,
         "learning_rate_end": 6e-06,
@@ -4105,7 +4013,6 @@
       "novel_count": 8,
       "total_word_count": 163509,
       "training_parameters": {
-        "max_iterations": 12,
         "max_steps_per_iteration": 200,
         "learning_rate_start": 2e-05,
         "learning_rate_end": 5e-06,
