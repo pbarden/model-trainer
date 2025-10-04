@@ -57,7 +57,7 @@ class ChatService:
             self.tokenizer = AutoTokenizer.from_pretrained(str(model_path))
             self.model = AutoModelForCausalLM.from_pretrained(
                 str(model_path),
-                torch_dtype=torch.float32
+                dtype=torch.float32
             )
             self.model.to(self.device)
             self.model.eval()

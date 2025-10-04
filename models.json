@@ -1155,8 +1155,14 @@
       "horror_in_the_burying-ground",
       "shadow_over_innsmouth",
       "shunned_house",
+      "silver_key",
       "through_the_gates_of_the_silver_key",
       "wendigo"
+    ]
+  },
+  "silver_key": {
+    "novels": [
+      "silver_key"
     ]
   }
 }

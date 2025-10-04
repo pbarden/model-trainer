@@ -45,6 +45,7 @@ def prepare_model_with_lora(model, config: IterativeConfig):
             lora_dropout=config.lora_dropout,
             target_modules=config.lora_target_modules,
             bias="none",
+            fan_in_fan_out=True,
         )
 
         model = get_peft_model(model, lora_config)
@@ -176,7 +177,7 @@ class IterativeTrainer:
                 logger.info("Loading base model...")
                 model = AutoModelForCausalLM.from_pretrained(
                     self.config.base_model,
-                    torch_dtype=torch.float32
+                    dtype=torch.float32
                 )
                 # Wrap with LoRA for first iteration
                 if self.config.use_lora:
@@ -205,14 +206,14 @@ class IterativeTrainer:
                         from peft import PeftModel
                         base_model = AutoModelForCausalLM.from_pretrained(
                             self.config.base_model,
-                            torch_dtype=torch.float32
+                            dtype=torch.float32
                         )
                         model = PeftModel.from_pretrained(base_model, str(prev_checkpoint))
                         logger.info("Loaded LoRA adapter from checkpoint")
                     else:
                         model = AutoModelForCausalLM.from_pretrained(
                             str(prev_checkpoint),
-                            torch_dtype=torch.float32
+                            dtype=torch.float32
                         )
                         if self.config.use_lora:
                             model = prepare_model_with_lora(model, self.config)
@@ -267,13 +268,13 @@ class IterativeTrainer:
                 save_total_limit=1,
                 report_to="none",
                 use_cpu=True,
-                dataloader_num_workers=0,  # Single process - Windows multiprocessing causes hangs
+                optim="adamw_torch",
+                dataloader_num_workers=0,
                 dataloader_pin_memory=False,
                 remove_unused_columns=False,
                 prediction_loss_only=True,
-                torch_compile=False,  # Faster for CPU
-                optim="adamw_torch",  # CPU-optimized optimizer
-                gradient_checkpointing=False  # Disabled for speed on CPU
+                torch_compile=False,
+                gradient_checkpointing=False
             )
 
             data_collator = DataCollatorForLanguageModeling(
@@ -520,7 +521,7 @@ class IterativeTrainer:
                 logger.info("Loading base model...")
                 model = AutoModelForCausalLM.from_pretrained(
                     self.config.base_model,
-                    torch_dtype=torch.float32
+                    dtype=torch.float32
                 )
                 # Wrap with LoRA for first iteration
                 if self.config.use_lora:
@@ -549,14 +550,14 @@ class IterativeTrainer:
                         from peft import PeftModel
                         base_model = AutoModelForCausalLM.from_pretrained(
                             self.config.base_model,
-                            torch_dtype=torch.float32
+                            dtype=torch.float32
                         )
                         model = PeftModel.from_pretrained(base_model, str(prev_checkpoint))
                         logger.info("Loaded LoRA adapter from checkpoint")
                     else:
                         model = AutoModelForCausalLM.from_pretrained(
                             str(prev_checkpoint),
-                            torch_dtype=torch.float32
+                            dtype=torch.float32
                         )
                         if self.config.use_lora:
                             model = prepare_model_with_lora(model, self.config)
@@ -614,13 +615,13 @@ class IterativeTrainer:
                 save_total_limit=1,
                 report_to="none",
                 use_cpu=True,
-                dataloader_num_workers=0,  # Single process - Windows multiprocessing causes hangs
+                optim="adamw_torch",
+                dataloader_num_workers=0,
                 dataloader_pin_memory=False,
                 remove_unused_columns=False,
                 prediction_loss_only=True,
-                torch_compile=False,  # Faster for CPU
-                optim="adamw_torch",  # CPU-optimized optimizer
-                gradient_checkpointing=False  # Disabled for speed on CPU
+                torch_compile=False,
+                gradient_checkpointing=False
             )
 
             data_collator = DataCollatorForLanguageModeling(
