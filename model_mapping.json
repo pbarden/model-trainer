@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "total_models": 93,
+    "total_models": 102,
     "created_by": "Paul v1.0",
     "date": "2025-10-01T17:59:55.810096",
     "description": "Semi-randomized combinations of novels from Project Gutenburg, grouped by word count tiers, to create a variety of fine-tuned models. Each model is fine-tuned with different training parameters to optimize performance for the specific combination of novels used.",
@@ -8,8 +8,8 @@
     "source": "Project Gutenburg",
     "total_novels_assigned": 376,
     "total_word_count": 11673546,
-    "last_updated": "2025-10-01T20:57:08.061484",
-    "update_reason": "Merged lovecraft_1mythos and lovecraft_2mythos into lovecraft_mythos"
+    "last_updated": "2025-10-03T23:30:00.000000",
+    "update_reason": "Added colour_out_of_space to cc_red_wine_spritzer and created 9 solo Lovecraft models"
   },
   "models": {
     "bc_rainbowsprinkles": {
@@ -4006,12 +4006,12 @@
         }
       ]
     },
-    "lovecraft_mythos": {
+    "xt_red_wine_spritzer": {
       "description": "H.P. Lovecraft Cosmic Horror Collection",
-      "base_name": "mythos",
-      "original_model": "lovecraft_mythos",
-      "novel_count": 8,
-      "total_word_count": 163509,
+      "base_name": "spritzer",
+      "original_model": "xt_red_wine_spritzer",
+      "novel_count": 9,
+      "total_word_count": 179043,
       "training_parameters": {
         "max_steps_per_iteration": 200,
         "learning_rate_start": 2e-05,
@@ -4020,7 +4020,7 @@
       },
       "tier_distribution": {
         "short": 1,
-        "tiny": 6,
+        "tiny": 7,
         "very_short": 1
       },
       "novels": [
@@ -4055,6 +4055,12 @@
           "tier": "tiny"
         },
         {
+          "original_name": "The Colour Out of Space",
+          "directory_name": "colour_out_of_space",
+          "word_count": 15534,
+          "tier": "tiny"
+        },
+        {
           "original_name": "Shadow over Innsmouth",
           "directory_name": "shadow_over_innsmouth",
           "word_count": 16883,
@@ -4066,6 +4072,222 @@
           "word_count": 17314,
           "tier": "tiny"
         },
+        {
+          "original_name": "At the Mountains of Madness",
+          "directory_name": "at_the_mountains_of_madness",
+          "word_count": 39673,
+          "tier": "very_short"
+        }
+      ]
+    },
+    "xt_orange_soda": {
+      "description": "The Case of Charles Dexter Ward",
+      "base_name": "case_of_charles_dexter_ward",
+      "original_model": "xt_orange_soda",
+      "novel_count": 1,
+      "total_word_count": 44554,
+      "training_parameters": {
+        "max_steps_per_iteration": 175,
+        "learning_rate_start": 2.5e-05,
+        "learning_rate_end": 6e-06,
+        "size_category": "small"
+      },
+      "tier_distribution": {
+        "short": 1
+      },
+      "novels": [
+        {
+          "original_name": "The Case of Charles Dexter Ward",
+          "directory_name": "case_of_charles_dexter_ward",
+          "word_count": 44554,
+          "tier": "short"
+        }
+      ]
+    },
+    "xt_cherry_soda": {
+      "description": "Horror at Red Hook",
+      "base_name": "horror_at_red_hook",
+      "original_model": "xt_cherry_soda",
+      "novel_count": 1,
+      "total_word_count": 8286,
+      "training_parameters": {
+        "max_steps_per_iteration": 100,
+        "learning_rate_start": 3e-05,
+        "learning_rate_end": 8e-06,
+        "size_category": "tiny"
+      },
+      "tier_distribution": {
+        "tiny": 1
+      },
+      "novels": [
+        {
+          "original_name": "Horror at Red Hook",
+          "directory_name": "horror_at_red_hook",
+          "word_count": 8286,
+          "tier": "tiny"
+        }
+      ]
+    },
+    "xt_lime_soda": {
+      "description": "The Shunned House",
+      "base_name": "shunned_house",
+      "original_model": "xt_lime_soda",
+      "novel_count": 1,
+      "total_word_count": 10748,
+      "training_parameters": {
+        "max_steps_per_iteration": 125,
+        "learning_rate_start": 3e-05,
+        "learning_rate_end": 8e-06,
+        "size_category": "tiny"
+      },
+      "tier_distribution": {
+        "tiny": 1
+      },
+      "novels": [
+        {
+          "original_name": "The Shunned House",
+          "directory_name": "shunned_house",
+          "word_count": 10748,
+          "tier": "tiny"
+        }
+      ]
+    },
+    "xt_grape_soda": {
+      "description": "Call of Cthulhu",
+      "base_name": "call_of_cthulhu",
+      "original_model": "xt_grape_soda",
+      "novel_count": 1,
+      "total_word_count": 11876,
+      "training_parameters": {
+        "max_steps_per_iteration": 125,
+        "learning_rate_start": 3e-05,
+        "learning_rate_end": 8e-06,
+        "size_category": "tiny"
+      },
+      "tier_distribution": {
+        "tiny": 1
+      },
+      "novels": [
+        {
+          "original_name": "Call of Cthulhu",
+          "directory_name": "call_of_cthulhu",
+          "word_count": 11876,
+          "tier": "tiny"
+        }
+      ]
+    },
+    "xt_cream_soda": {
+      "description": "Through the Gates of the Silver Key",
+      "base_name": "through_the_gates_of_the_silver_key",
+      "original_model": "xt_cream_soda",
+      "novel_count": 1,
+      "total_word_count": 14175,
+      "training_parameters": {
+        "max_steps_per_iteration": 150,
+        "learning_rate_start": 2.5e-05,
+        "learning_rate_end": 7e-06,
+        "size_category": "tiny"
+      },
+      "tier_distribution": {
+        "tiny": 1
+      },
+      "novels": [
+        {
+          "original_name": "Through the Gates of the Silver Key",
+          "directory_name": "through_the_gates_of_the_silver_key",
+          "word_count": 14175,
+          "tier": "tiny"
+        }
+      ]
+    },
+    "xt_galaxy_soda": {
+      "description": "The Colour Out of Space",
+      "base_name": "colour_out_of_space",
+      "original_model": "xt_galaxy_soda",
+      "novel_count": 1,
+      "total_word_count": 15534,
+      "training_parameters": {
+        "max_steps_per_iteration": 150,
+        "learning_rate_start": 2.5e-05,
+        "learning_rate_end": 7e-06,
+        "size_category": "tiny"
+      },
+      "tier_distribution": {
+        "tiny": 1
+      },
+      "novels": [
+        {
+          "original_name": "The Colour Out of Space",
+          "directory_name": "colour_out_of_space",
+          "word_count": 15534,
+          "tier": "tiny"
+        }
+      ]
+    },
+    "xt_strawberry_soda": {
+      "description": "Shadow over Innsmouth",
+      "base_name": "shadow_over_innsmouth",
+      "original_model": "xt_strawberry_soda",
+      "novel_count": 1,
+      "total_word_count": 16883,
+      "training_parameters": {
+        "max_steps_per_iteration": 150,
+        "learning_rate_start": 2.5e-05,
+        "learning_rate_end": 7e-06,
+        "size_category": "tiny"
+      },
+      "tier_distribution": {
+        "tiny": 1
+      },
+      "novels": [
+        {
+          "original_name": "Shadow over Innsmouth",
+          "directory_name": "shadow_over_innsmouth",
+          "word_count": 16883,
+          "tier": "tiny"
+        }
+      ]
+    },
+    "xt_bubblegum_soda": {
+      "description": "Dunwich Horror",
+      "base_name": "dunwich_horror",
+      "original_model": "xt_bubblegum_soda",
+      "novel_count": 1,
+      "total_word_count": 17314,
+      "training_parameters": {
+        "max_steps_per_iteration": 150,
+        "learning_rate_start": 2.5e-05,
+        "learning_rate_end": 7e-06,
+        "size_category": "tiny"
+      },
+      "tier_distribution": {
+        "tiny": 1
+      },
+      "novels": [
+        {
+          "original_name": "Dunwich Horror",
+          "directory_name": "dunwich_horror",
+          "word_count": 17314,
+          "tier": "tiny"
+        }
+      ]
+    },
+    "xt_blackberry_soda": {
+      "description": "At the Mountains of Madness",
+      "base_name": "at_the_mountains_of_madness",
+      "original_model": "xt_blackberry_soda",
+      "novel_count": 1,
+      "total_word_count": 39673,
+      "training_parameters": {
+        "max_steps_per_iteration": 175,
+        "learning_rate_start": 2.5e-05,
+        "learning_rate_end": 6e-06,
+        "size_category": "small"
+      },
+      "tier_distribution": {
+        "very_short": 1
+      },
+      "novels": [
         {
           "original_name": "At the Mountains of Madness",
           "directory_name": "at_the_mountains_of_madness",

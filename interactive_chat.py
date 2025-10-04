@@ -36,6 +36,7 @@ class InteractiveChat:
         self.default_top_k = top_k
         self.default_repetition_penalty = repetition_penalty
 
+
         # Command registry
         self.commands = {
             '/help': self.show_help,
@@ -192,6 +193,16 @@ class InteractiveChat:
             if self.tokenizer.pad_token is None:
                 self.tokenizer.pad_token = self.tokenizer.eos_token
 
+            # Apply INT8 quantization for CPU inference speedup (2-3x faster)
+            if self.device == "cpu":
+                print("Applying INT8 quantization for faster inference...")
+                self.model = torch.quantization.quantize_dynamic(
+                    self.model,
+                    {torch.nn.Linear},
+                    dtype=torch.qint8
+                )
+                print("INT8 quantization applied (2-3x speedup expected)")
+
             self.model_name = model_name
             print("Model loaded successfully!\n")
             return True
@@ -210,7 +221,7 @@ class InteractiveChat:
         # Encode the prompt
         inputs = self.tokenizer(prompt, return_tensors="pt", padding=True, return_attention_mask=True).to(self.device)
 
-        # Generate with attention mask
+        # Generate with KV caching enabled (reuses cache during generation for speedup)
         with torch.no_grad():
             outputs = self.model.generate(
                 inputs.input_ids,
@@ -221,6 +232,7 @@ class InteractiveChat:
                 top_k=top_k,
                 repetition_penalty=repetition_penalty,
                 do_sample=True,
+                use_cache=True,
                 pad_token_id=self.tokenizer.eos_token_id,
                 eos_token_id=self.tokenizer.eos_token_id,
                 no_repeat_ngram_size=3

@@ -1,36 +1,26 @@
-#!/usr/bin/env python3
-"""
-Model Tea - Combined Model Training System
-Copyright © ChaiQ LLC
-
-Trains combined models using multiple novels from model_mapping.json.
-Applies the same 12-iteration progressive learning approach to combined corpus.
-"""
-
 import os
 import sys
 import json
 import time
 import logging
-import argparse
 import warnings
 from pathlib import Path
 from typing import List, Dict, Any, Optional
-from dataclasses import dataclass
-
 import torch
 import numpy as np
 from datasets import Dataset
 
-# Targeted warning suppression for known issues only
-warnings.filterwarnings("ignore", message=".*Using the model-agnostic default.*", category=UserWarning)
-warnings.filterwarnings("ignore", message=".*resume_download is deprecated.*", category=FutureWarning)
-
-from model_tea_utils import (
-    ModelTeaConfig, FileSystemUtils, TextProcessingUtils, TrainingUtils,
-    QualityMetrics, MemorySystemUtils, ErrorHandling, validate_system_setup
+from transformers import (
+    AutoModelForCausalLM,
+    AutoTokenizer,
+    Trainer,
+    TrainingArguments,
+    DataCollatorForLanguageModeling
 )
-from quality_validator import QualityValidator, ValidationConfig
+
+from .config import CombinedModelConfig
+from model_tea.core.validator import QualityValidator, ValidationConfig
+from model_tea.trainers.iterative import IterativeTrainer, IterativeConfig
 
 try:
     from episodic_memory_system import EpisodicMemorySystem, MemoryConfig
@@ -40,30 +30,10 @@ except ImportError:
     MemoryConfig = None
     MEMORY_SYSTEM_AVAILABLE = False
 
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+warnings.filterwarnings("ignore", message=".*Using the model-agnostic default.*", category=UserWarning)
+warnings.filterwarnings("ignore", message=".*resume_download is deprecated.*", category=FutureWarning)
+
 logger = logging.getLogger(__name__)
-
-@dataclass
-class CombinedModelConfig:
-    """Configuration for combined model training"""
-    base_config: ModelTeaConfig = None
-
-    combine_novels_method: str = "concatenate"
-    combine_novels_method: str = "concatenate"
-    novel_separator: str = "\n\n=== NEW NOVEL ===\n\n"
-    min_novels_required: int = 1
-    max_combined_size: int = 2000000  # 2M words max
-
-    max_iterations: int = 14  # Default fallback, overridden by word-count-based calculation
-    learning_rate_start: float = 5e-5
-    learning_rate_end: float = 5e-6
-
-    combined_memories_count: int = 350
-    cross_novel_memories: bool = True
-
-    def __post_init__(self):
-        if self.base_config is None:
-            self.base_config = ModelTeaConfig()
 
 
 class CombinedModelTrainer:
@@ -380,71 +350,3 @@ class CombinedModelTrainer:
         return results
 
 
-def main():
-    """Main entry point for combined model training"""
-    parser = argparse.ArgumentParser(description="Model Tea - Combined Model Training")
-    parser.add_argument("--model", type=str, help="Specific model to train (e.g., vs_mintchip)")
-    parser.add_argument("--all-models", action="store_true", help="Train all combined models")
-    parser.add_argument("--list-models", action="store_true", help="List available combined models")
-    parser.add_argument("--list-trained", action="store_true", help="List already trained models")
-    parser.add_argument("--force", action="store_true", help="Force retrain even if model exists")
-
-    args = parser.parse_args()
-
-    try:
-        # Initialize trainer
-        trainer = CombinedModelTrainer()
-
-        if args.list_models:
-            models = trainer.get_available_models()
-            print(f"\nAvailable Combined Models ({len(models)}):")
-            for model in models:
-                print(f"  - {model}")
-            return
-
-        if args.list_trained:
-            trained = trainer.list_trained_combined_models()
-            print(f"\nTrained Combined Models ({len(trained)}):")
-            for model in trained:
-                print(f"  - {model}")
-            return
-
-        if args.all_models:
-            print("Training all combined models...")
-            results = trainer.train_all_combined_models()
-
-            success_count = sum(1 for r in results.values() if r["status"] == "success")
-            already_trained_count = sum(1 for r in results.values() if r["status"] == "already_trained")
-            failed_count = sum(1 for r in results.values() if r["status"] == "failed")
-
-            print(f"\n=== Training Summary ===")
-            print(f"Success: {success_count}")
-            print(f"Already trained: {already_trained_count}")
-            print(f"Failed: {failed_count}")
-
-        elif args.model:
-            model_path = trainer.models_dir / args.model / "final"
-            if model_path.exists() and not args.force:
-                print(f"Model '{args.model}' is already trained. Use --force to retrain.")
-                return
-
-            print(f"Training combined model: {args.model}")
-            result = trainer.train_combined_model(args.model)
-            print(f"Training completed successfully for {args.model}")
-
-        else:
-            parser.print_help()
-
-            models = trainer.get_available_models()
-            print(f"\nAvailable models: {', '.join(models)}")
-            print(f"\nExample usage:")
-            print(f"  python combined_model_trainer.py --model vs_mintchip")
-            print(f"  python combined_model_trainer.py --all-models")
-
-    except Exception as e:
-        logger.error(f"Training failed: {e}")
-        sys.exit(1)
-
-
-if __name__ == "__main__":
-    main()

@@ -184,19 +184,17 @@ class InteractiveTrainer:
             novel_count = status.get('novel_count', 0)
             words = status.get('total_words', 0)
             params = status.get('training_params', {})
-            # Calculate adaptive max_iterations based on word count
+            # Calculate adaptive min iterations based on word count
+            # Max is per-session (50 iterations/session, can resume indefinitely)
             if words < 80000:
-                max_iter = 10
+                min_iter = 5
             elif words < 120000:
-                max_iter = 12
-            elif words < 180000:
-                max_iter = 14
+                min_iter = 8
             elif words < 260000:
-                max_iter = 16
+                min_iter = 10
             else:
-                max_iter = 18
-            # Actual minimum is min_iterations (8) + early_stopping_patience (3) = 11
-            iterations = f"11-{max_iter}"
+                min_iter = 12
+            iterations = f"{min_iter}+ (50/session)"
             desc = status.get('description', 'N/A')[:28]
 
             print(f"{model_key:<35} {novel_count:<8} {words:<12,} {str(iterations):<12} {desc:<30}")
@@ -250,27 +248,23 @@ class InteractiveTrainer:
         if status.get('training_params'):
             params = status['training_params']
 
-            # Calculate adaptive parameters based on word count
+            # Calculate adaptive parameters based on word count (matches actual training)
             words = status.get('total_words', 0)
             if words < 80000:
-                max_iter = 10
-                steps_iter = 100
+                min_iter = 5
+                steps_iter = 125
             elif words < 120000:
-                max_iter = 12
+                min_iter = 8
                 steps_iter = 150
-            elif words < 180000:
-                max_iter = 14
-                steps_iter = 200
             elif words < 260000:
-                max_iter = 16
-                steps_iter = 250
+                min_iter = 10
+                steps_iter = 200
             else:
-                max_iter = 18
+                min_iter = 12
                 steps_iter = 300
 
             print(f"\nTraining Parameters:")
-            # Actual minimum is min_iterations (8) + early_stopping_patience (3) = 11
-            print(f"  Iterations: 11-{max_iter} (adaptive)")
+            print(f"  Iterations: {min_iter}+ (50 per session, can resume)")
             print(f"  Steps/Iteration: {params.get('max_steps_per_iteration', steps_iter)}")
             print(f"  Learning Rate: {params.get('learning_rate_start', 'N/A'):.2e} -> {params.get('learning_rate_end', 'N/A'):.2e}")
             print(f"  Size Category: {params.get('size_category', 'N/A')}")
@@ -428,20 +422,18 @@ class InteractiveTrainer:
 
         params = status.get('training_params', {})
         if params:
-            # Calculate adaptive max_iterations based on word count
+            # Calculate adaptive min iterations based on word count
+            # Max is per-session (50 iterations/session, can resume indefinitely)
             words = status.get('total_words', 0)
             if words < 80000:
-                max_iter = 10
+                min_iter = 5
             elif words < 120000:
-                max_iter = 12
-            elif words < 180000:
-                max_iter = 14
+                min_iter = 8
             elif words < 260000:
-                max_iter = 16
+                min_iter = 10
             else:
-                max_iter = 18
-            # Actual minimum is min_iterations (8) + early_stopping_patience (3) = 11
-            print(f"Iterations: 11-{max_iter} (adaptive, determined by quality metrics)")
+                min_iter = 12
+            print(f"Iterations: {min_iter}+ (50 per session, adaptive stopping)")
             print(f"Category: {params.get('size_category', 'N/A')}")
 
         confirm = input("\nProceed with training? (y/n): ").strip().lower()
