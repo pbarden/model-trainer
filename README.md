@@ -13,13 +13,23 @@ pip install -e .
 
 ### Training
 
+#### Train from model_mapping.json (Primary Method)
 ```bash
-model-tea train novel <novel_name>
-model-tea train novel call_of_cthulhu --max-iterations 10
+# Train any model (single or multi-novel) from model_mapping.json
+model-tea train train-model <model_key>
+model-tea train train-model bc_sprinkles
+model-tea train train-model xt_orange_soda --max-iterations 10
+```
 
-model-tea train combined <model_name>
-model-tea train combined bc_sprinkles
+#### Direct Training (Development/Testing)
+```bash
+# Train a novel directly from novels/ directory
+model-tea train direct <novel_name>
+model-tea train direct call_of_cthulhu --max-iterations 10 --batch-size 8
+```
 
+#### List Available Resources
+```bash
 model-tea train list
 ```
 
@@ -61,8 +71,8 @@ python -m model_tea.api.server
 #### Training
 
 ```
-POST   /api/training/novel
-POST   /api/training/combined
+POST   /api/training/model     - Train model from model_mapping.json
+POST   /api/training/direct    - Train novel directly (dev/testing)
 GET    /api/training/status/{job_id}
 GET    /api/training/novels
 ```
@@ -105,11 +115,18 @@ print(response.json()["response"])
 ## Python API
 
 ```python
-from model_tea import TrainingService, ChatService, IterativeConfig
+from model_tea import TrainingService, ChatService, ModelConfig
 
+# Train model from model_mapping.json
 training = TrainingService()
-results = training.train_novel("frankenstein")
+results = training.train_model("xt_orange_soda")
 
+# Or train directly for development
+from model_tea.trainers.iterative import IterativeConfig
+config = IterativeConfig(max_iterations=10)
+results = training.train_direct("frankenstein", config)
+
+# Generate text
 chat = ChatService()
 chat.load_model("frankenstein/final")
 response = chat.generate("Once upon a time")
@@ -119,21 +136,20 @@ print(response)
 ## Project Structure
 
 ```
-model-tea-pro/
+model-trainer/
 ├── src/model_tea/
 │   ├── trainers/
-│   │   ├── iterative/     - Iterative novel training
-│   │   └── combined/      - Combined model training
+│   │   ├── iterative/     - Direct novel training (dev/testing)
+│   │   └── model/         - Model training from model_mapping.json
 │   ├── core/              - Core validation logic
 │   ├── services/          - Business logic layer
 │   ├── api/               - FastAPI REST API
 │   ├── cli/               - Click CLI interface
 │   ├── config/            - Configuration management
 │   └── utils/             - Utility functions
-├── data/
-│   ├── novels/            - Training corpus
-│   ├── models/            - Trained models
-│   └── config/            - Configuration files
+├── novels/                - Training corpus (345 novels)
+├── iterative_models/      - Trained models output
+├── model_mapping.json     - Model definitions (102 models)
 └── tests/                 - Test suite
 ```
 
@@ -142,6 +158,16 @@ model-tea-pro/
 Training configurations can be customized:
 
 ```python
+# For model_mapping.json-based training
+from model_tea.trainers.model import ModelConfig
+
+config = ModelConfig(
+    max_iterations=15,
+    combine_novels_method="concatenate",
+    min_novels_required=1
+)
+
+# For direct training (dev/testing)
 from model_tea.trainers.iterative import IterativeConfig
 
 config = IterativeConfig(
