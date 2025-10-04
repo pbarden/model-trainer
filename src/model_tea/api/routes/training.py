@@ -16,7 +16,7 @@ training_service = TrainingService()
 
 @router.post("/model", response_model=TrainingResultResponse)
 async def train_model(request: TrainModelRequest):
-    """Train a model from model_mapping.json (primary method)"""
+    """Train a model from models.json (primary method)"""
     config = ModelConfig()
 
     if request.max_iterations:

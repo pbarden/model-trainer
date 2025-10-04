@@ -18,7 +18,7 @@ class TrainingService:
         model_key: str,
         config: Optional[ModelConfig] = None
     ) -> Dict[str, Any]:
-        """Train a model from model_mapping.json (supports 1+ novels)"""
+        """Train a model from models.json (supports 1+ novels)"""
         if config is None:
             config = ModelConfig()
 
@@ -56,7 +56,7 @@ class TrainingService:
         return sorted(novels)
 
     def list_available_models(self) -> List[str]:
-        """List all models defined in model_mapping.json"""
+        """List all models defined in models.json"""
         config = ModelConfig()
         trainer = ModelTrainer(config)
         return trainer.get_available_models()

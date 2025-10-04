@@ -3,8 +3,6 @@ from rich.console import Console
 from rich.prompt import Prompt
 from rich.panel import Panel
 
-from model_tea.services import ChatService
-
 console = Console()
 
 
@@ -13,6 +11,9 @@ console = Console()
 @click.option("--max-length", type=int, default=250, help="Maximum generation length")
 @click.option("--temperature", type=float, default=0.5, help="Temperature for generation")
 def chat_interactive(model_name, max_length, temperature):
+    from model_tea.services import get_chat_service
+
+    ChatService = get_chat_service()
     service = ChatService()
 
     console.print(f"\n[bold cyan]Loading model:[/bold cyan] {model_name}\n")
@@ -60,6 +61,9 @@ def chat_interactive(model_name, max_length, temperature):
 @click.option("--max-length", type=int, default=250, help="Maximum generation length")
 @click.option("--temperature", type=float, default=0.5, help="Temperature for generation")
 def chat_generate(model_name, prompt, max_length, temperature):
+    from model_tea.services import get_chat_service
+
+    ChatService = get_chat_service()
     service = ChatService()
 
     if not service.load_model(model_name):

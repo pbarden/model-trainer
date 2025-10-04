@@ -5,9 +5,22 @@ Professional CPU-optimized language model training system with progressive diffi
 ## Installation
 
 ```bash
-cd model-tea-pro
 pip install -e .
 ```
+
+## Documentation
+
+### Getting Started
+- [Getting Started Guide](docs/getting_started.md) - Quick start and first training run
+
+### Core Documentation
+- [CLI Commands](docs/cli/commands.md) - Complete CLI reference
+- [API Endpoints](docs/api/endpoints.md) - REST API documentation
+- [Configuration](docs/configuration.md) - Configuration options
+- [Architecture Overview](docs/architecture/overview.md) - System design
+
+### Schemas
+- [Model Mapping Schema](docs/schema/model_mapping.md) - model_mapping.json format
 
 ## CLI Usage
 
@@ -147,9 +160,9 @@ model-trainer/
 │   ├── cli/               - Click CLI interface
 │   ├── config/            - Configuration management
 │   └── utils/             - Utility functions
-├── novels/                - Training corpus (345 novels)
+├── novels/                - Training corpus
 ├── iterative_models/      - Trained models output
-├── model_mapping.json     - Model definitions (102 models)
+├── model_mapping.json     - Model definitions
 └── tests/                 - Test suite
 ```
 

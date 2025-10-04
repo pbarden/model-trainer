@@ -457,20 +457,10 @@ class IterativeTrainer:
         return results
 
     def _train_with_content(self, content: str, model_name: str) -> Dict[str, Any]:
-        """Train with provided content (used by combined model trainer)"""
+        """Train with provided content (used by model trainer)"""
         logger.info(f"Starting iterative training with content for: {model_name}")
         word_count = len(content.split())
         logger.info(f"Content length: {len(content):,} characters, {word_count:,} words")
-
-        # Set min_iterations dynamically based on word count
-        if word_count < 20000:
-            self.config.min_iterations = 5
-        elif word_count < 50000:
-            self.config.min_iterations = 8
-        elif word_count < 100000:
-            self.config.min_iterations = 10
-        else:
-            self.config.min_iterations = 12
 
         try:
             from transformers import (

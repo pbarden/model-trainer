@@ -31,12 +31,12 @@ logger = logging.getLogger(__name__)
 
 class ModelTrainer:
     """
-    Trains models using one or more novels from model_mapping.json
+    Trains models using one or more novels from novels.json and models.json
     """
 
     def __init__(self, config: ModelConfig = None):
         self.config = config or ModelConfig()
-        self.model_mapping = self._load_model_mapping()
+        self.novels_data, self.models_data = self._load_mapping_files()
         self.quality_validator = QualityValidator(ValidationConfig())
 
         self.novels_dir = Path("novels")
@@ -44,35 +44,46 @@ class ModelTrainer:
 
         validate_system_setup()
 
-    def _load_model_mapping(self) -> Dict[str, Any]:
-        """Load model mapping configuration"""
-        mapping_file = Path("model_mapping.json")
-        if not mapping_file.exists():
-            raise FileNotFoundError("model_mapping.json not found. Required for model training.")
+    def _load_mapping_files(self) -> tuple[Dict[str, Any], Dict[str, Any]]:
+        """Load novels.json and models.json"""
+        novels_file = Path("novels.json")
+        models_file = Path("models.json")
+
+        if not novels_file.exists():
+            raise FileNotFoundError("novels.json not found. Required for model training.")
+        if not models_file.exists():
+            raise FileNotFoundError("models.json not found. Required for model training.")
 
         try:
-            with open(mapping_file, 'r', encoding='utf-8') as f:
-                return json.load(f)
+            with open(novels_file, 'r', encoding='utf-8') as f:
+                novels = json.load(f)
+            with open(models_file, 'r', encoding='utf-8') as f:
+                models = json.load(f)
+            return novels, models
         except Exception as e:
-            raise Exception(f"Failed to load model_mapping.json: {e}")
+            raise Exception(f"Failed to load mapping files: {e}")
 
     def get_available_models(self) -> List[str]:
-        """Get list of available models from model_mapping.json"""
-        if "models" not in self.model_mapping:
-            return []
-        return list(self.model_mapping["models"].keys())
+        """Get list of available models from models.json"""
+        return list(self.models_data.keys())
 
     def get_novels_for_model(self, model_key: str) -> List[Dict[str, Any]]:
         """Get novel list for specified model"""
-        if "models" not in self.model_mapping:
-            raise ValueError("Invalid model_mapping.json format")
-
-        if model_key not in self.model_mapping["models"]:
+        if model_key not in self.models_data:
             available = ", ".join(self.get_available_models())
             raise ValueError(f"Model '{model_key}' not found. Available models: {available}")
 
-        model_info = self.model_mapping["models"][model_key]
-        return model_info.get("novels", [])
+        model_info = self.models_data[model_key]
+        novel_keys = model_info.get("novels", [])
+
+        novels = []
+        for novel_key in novel_keys:
+            if novel_key not in self.novels_data:
+                raise ValueError(f"Novel '{novel_key}' referenced in model '{model_key}' not found in novels.json")
+            novel_data = self.novels_data[novel_key].copy()
+            novels.append(novel_data)
+
+        return novels
 
     def check_individual_novels_trained(self, novels: List[Dict[str, Any]]) -> Dict[str, bool]:
         """Check which individual novels are already trained"""
@@ -172,12 +183,7 @@ class ModelTrainer:
         model_output_dir = self.models_dir / model_key
         FileSystemUtils.ensure_directory(model_output_dir)
 
-        # Get model metadata from model_mapping.json (relational info only)
-        model_info = self.model_mapping["models"][model_key]
-        total_words = model_info.get('total_word_count', 0)
-
-        # Determine ALL training parameters adaptively based on corpus size
-        # model_mapping.json is ONLY for relational data, not training params
+        total_words = sum(novel.get('word_count', 0) for novel in novels)
         adaptive_max_iterations = 50
         if total_words < 80000:  # tiny
             adaptive_steps_per_iteration = 125  # Reverted from 350 - was too slow
