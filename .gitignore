@@ -1,8 +1,20 @@
 __pycache__/
 *.pyc
 *.pyo
+*.pyd
 .env
 .claude
+
+# Virtual environments
+.venv
+venv/
+
+# Package build artifacts
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
 
 # Archive and reference materials
 archive/

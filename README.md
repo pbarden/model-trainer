@@ -1,172 +1,182 @@
-# Model Tea - Iterative Novel Training System
+# Model Tea
 
-A comprehensive AI model training framework designed for iterative novel training with episodic memory integration. This system trains language models on literary works using progressive difficulty and memory-based learning techniques.
+Professional CPU-optimized language model training system with progressive difficulty training.
 
-## 🚀 Features
-
-- **Iterative Training**: Progressive difficulty training across multiple iterations
-- **Episodic Memory System**: Human-like memory storage and retrieval for enhanced context
-- **Quality Validation**: Real-time generation quality assessment and perplexity monitoring
-- **Model Serving**: Production-ready model deployment with health monitoring
-- **ML Pipeline Framework**: Extensible pipeline system for model development workflows
-- **Comprehensive Evaluation**: Built-in metrics and cross-validation capabilities
-
-## 📋 Quick Start
-
-### Prerequisites
-
-- Python 3.8+
-- PyTorch
-- Transformers
-
-### Installation
+## Installation
 
 ```bash
-git clone <repository-url>
-cd model-trainer
-pip install -r requirements.txt
+cd model-tea-pro
+pip install -e .
 ```
 
-### Basic Usage
+## CLI Usage
+
+### Training
 
 ```bash
-# Train a model on a novel
-python iterative_novel_trainer.py --novel call_of_cthulhu
+model-tea train novel <novel_name>
+model-tea train novel call_of_cthulhu --max-iterations 10
 
-# List available novels
-python iterative_novel_trainer.py --list
+model-tea train combined <model_name>
+model-tea train combined bc_sprinkles
 
-# Generate samples from a trained model
-python iterative_novel_trainer.py --novel frankenstein --generate
+model-tea train list
 ```
 
-## 🏗️ Architecture
-
-The system consists of several key components:
-
-- **Core Training System** (`iterative_novel_trainer.py`) - Main training orchestrator
-- **Episodic Memory** (`episodic_memory_system.py`) - Memory storage and retrieval
-- **Model Tea Framework** (`model_tea/`) - ML pipeline and serving infrastructure
-- **Quality Validation** (`quality_validator.py`) - Generation quality assessment
-
-## 📚 Documentation
-
-Detailed documentation is available in the `docs/` directory:
-
-- [Installation Guide](docs/guides/installation.md)
-- [Training Guide](docs/guides/training.md)
-- [API Reference](docs/api/README.md)
-- [Module Documentation](docs/modules/README.md)
-- [Feature Documentation](docs/features/README.md)
-
-## 🧪 Testing
-
-Run the comprehensive test suite:
+### Chat
 
 ```bash
-# Run all tests
-python -m pytest tests/ -v
+model-tea chat interactive <model_name>
+model-tea chat interactive frankenstein/final
 
-# Run specific test categories
-python -m pytest tests/test_iterative_trainer.py -v
-python -m pytest tests/test_episodic_memory.py -v
-python -m pytest tests/test_pipeline.py -v
+model-tea chat generate <model_name> --prompt "Once upon a time"
 ```
 
-Current test coverage: **137 tests** with **91% pass rate**
+### Models
 
-## 📊 Performance
+```bash
+model-tea models list
+model-tea models list --all
 
-- Supports novels from 1,000 to 100,000+ words
-- GPU acceleration available for training
-- Memory-efficient chunking for large texts
-- Configurable batch sizes and learning rates
+model-tea models info frankenstein/final
+model-tea models delete old_model --force
+```
 
-## 🛠️ Configuration
+## API Usage
 
-Key configuration options:
+### Start Server
+
+```bash
+uvicorn model_tea.api.server:app --reload
+```
+
+Or use the CLI:
+
+```bash
+python -m model_tea.api.server
+```
+
+### API Endpoints
+
+#### Training
+
+```
+POST   /api/training/novel
+POST   /api/training/combined
+GET    /api/training/status/{job_id}
+GET    /api/training/novels
+```
+
+#### Chat
+
+```
+POST   /api/chat/generate
+```
+
+#### Models
+
+```
+GET    /api/models
+GET    /api/models/{model_name}
+```
+
+#### Health
+
+```
+GET    /
+GET    /health
+```
+
+### Example API Request
 
 ```python
-from iterative_novel_trainer import IterativeConfig
+import requests
+
+response = requests.post("http://localhost:8000/api/chat/generate", json={
+    "model_name": "frankenstein/final",
+    "prompt": "It was a dark and stormy night",
+    "max_length": 200,
+    "temperature": 0.7
+})
+
+print(response.json()["response"])
+```
+
+## Python API
+
+```python
+from model_tea import TrainingService, ChatService, IterativeConfig
+
+training = TrainingService()
+results = training.train_novel("frankenstein")
+
+chat = ChatService()
+chat.load_model("frankenstein/final")
+response = chat.generate("Once upon a time")
+print(response)
+```
+
+## Project Structure
+
+```
+model-tea-pro/
+├── src/model_tea/
+│   ├── trainers/
+│   │   ├── iterative/     - Iterative novel training
+│   │   └── combined/      - Combined model training
+│   ├── core/              - Core validation logic
+│   ├── services/          - Business logic layer
+│   ├── api/               - FastAPI REST API
+│   ├── cli/               - Click CLI interface
+│   ├── config/            - Configuration management
+│   └── utils/             - Utility functions
+├── data/
+│   ├── novels/            - Training corpus
+│   ├── models/            - Trained models
+│   └── config/            - Configuration files
+└── tests/                 - Test suite
+```
+
+## Configuration
+
+Training configurations can be customized:
+
+```python
+from model_tea.trainers.iterative import IterativeConfig
 
 config = IterativeConfig(
-    base_model="gpt2",
-    iterations_per_novel=12,
-    max_steps_per_iteration=8,
-    learning_rate_start=5e-5,
-    chunk_size=200
+    max_iterations=15,
+    batch_size=8,
+    learning_rate_start=2e-5,
+    use_lora=True
 )
 ```
 
-## 📖 Example Workflows
+## Development
 
-### Train on a Classic Novel
+### Run Tests
 
-```python
-from iterative_novel_trainer import IterativeTrainer, IterativeConfig
-
-config = IterativeConfig(iterations_per_novel=10)
-trainer = IterativeTrainer(config)
-results = trainer.train_novel("alice_in_wonderland")
+```bash
+pytest tests/
 ```
 
-### Generate with Memory Context
+### Format Code
 
-```python
-from episodic_memory_system import EpisodicMemorySystem
-
-memory_system = EpisodicMemorySystem()
-memories, stats = memory_system.activate_memories("model_name", "prompt")
+```bash
+black src/
+isort src/
 ```
 
-### Deploy Model for Serving
+### Type Check
 
-```python
-from model_tea.deployment.serving import ModelServer, ServingConfig
-
-config = ServingConfig(model_name="trained_model", port=8080)
-server = ModelServer(config)
-server.load_model(model)
-server.start()
+```bash
+mypy src/
 ```
 
-## 🤝 Contributing
+## License
 
-1. Fork the repository
-2. Create a feature branch
-3. Add tests for new functionality
-4. Run the test suite
-5. Submit a pull request
+MIT
 
-## 📄 License
+## Copyright
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🎯 Model Tea Framework
-
-This project uses the Model Tea framework for ML pipeline management, model serving, and evaluation. Model Tea provides:
-
-- Extensible pipeline stages
-- Model deployment infrastructure
-- Comprehensive evaluation metrics
-- Production monitoring capabilities
-
-## 💡 Research & Development
-
-This system is designed for:
-- Literary AI research
-- Style transfer experiments
-- Memory-augmented language modeling
-- Progressive training methodologies
-
-## 📞 Support
-
-For questions, issues, or contributions:
-- Open an issue on GitHub
-- Check the documentation in `docs/`
-- Review existing test cases for usage examples
-
----
-
-**Model Tea - Iterative Novel Training System**
-*Advanced AI model training with episodic memory integration*
+ChaiQ LLC
