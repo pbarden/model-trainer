@@ -20,6 +20,8 @@ build/
 archive/
 novels/
 iterative_models/
+models.json
+novels.json
 
 # Training outputs and experiments
 experiments/
