@@ -25,8 +25,8 @@ class TrainingStatusResponse(BaseModel):
 class ChatGenerateRequest(BaseModel):
     model_name: str
     prompt: str
-    max_length: Optional[int] = 250
-    temperature: Optional[float] = 0.5
+    max_length: Optional[int] = Field(default=250)  # Uses settings.default_max_length
+    temperature: Optional[float] = Field(default=0.5)  # Uses settings.default_temperature
     top_p: Optional[float] = 0.85
     top_k: Optional[int] = 30
     repetition_penalty: Optional[float] = 1.4

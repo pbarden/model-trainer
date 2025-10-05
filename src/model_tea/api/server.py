@@ -3,6 +3,7 @@ from fastapi.middleware.cors import CORSMiddleware
 import uvicorn
 
 from model_tea.api.routes import training_router, chat_router, models_router
+from model_tea.config.settings import settings
 
 app = FastAPI(
     title="Model Tea API",
@@ -12,7 +13,7 @@ app = FastAPI(
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=settings.api_cors_origins,
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -38,7 +39,7 @@ async def health():
 
 
 def main():
-    uvicorn.run(app, host="0.0.0.0", port=8000)
+    uvicorn.run(app, host=settings.api_host, port=settings.api_port)
 
 
 if __name__ == "__main__":

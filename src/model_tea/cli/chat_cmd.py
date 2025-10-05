@@ -8,10 +8,14 @@ console = Console()
 
 @click.command()
 @click.argument("model_name")
-@click.option("--max-length", type=int, default=250, help="Maximum generation length")
-@click.option("--temperature", type=float, default=0.5, help="Temperature for generation")
+@click.option("--max-length", type=int, help="Maximum generation length")
+@click.option("--temperature", type=float, help="Temperature for generation")
 def chat_interactive(model_name, max_length, temperature):
     from model_tea.services import get_chat_service
+    from model_tea.config.settings import settings
+
+    max_length = max_length or settings.default_max_length
+    temperature = temperature or settings.default_temperature
 
     ChatService = get_chat_service()
     service = ChatService()
@@ -58,10 +62,14 @@ def chat_interactive(model_name, max_length, temperature):
 @click.command()
 @click.argument("model_name")
 @click.option("--prompt", "-p", required=True, help="Text prompt for generation")
-@click.option("--max-length", type=int, default=250, help="Maximum generation length")
-@click.option("--temperature", type=float, default=0.5, help="Temperature for generation")
+@click.option("--max-length", type=int, help="Maximum generation length")
+@click.option("--temperature", type=float, help="Temperature for generation")
 def chat_generate(model_name, prompt, max_length, temperature):
     from model_tea.services import get_chat_service
+    from model_tea.config.settings import settings
+
+    max_length = max_length or settings.default_max_length
+    temperature = temperature or settings.default_temperature
 
     ChatService = get_chat_service()
     service = ChatService()

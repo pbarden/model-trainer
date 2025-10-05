@@ -47,3 +47,6 @@ trained_model*/
 # OS files
 .DS_Store
 Thumbs.db
+# Sample data and examples
+examples/
+samples/

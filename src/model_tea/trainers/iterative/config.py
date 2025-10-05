@@ -1,48 +1,58 @@
+"""
+Iterative training configuration.
+Now uses centralized settings from config.settings.
+"""
+
 from dataclasses import dataclass
+from model_tea.config.settings import settings
 
 
 @dataclass
 class IterativeConfig:
-    base_model: str = "distilgpt2"
-    max_seq_length: int = 512
+    """
+    Configuration for iterative training.
+    Values loaded from centralized settings.
+    """
 
-    use_lora: bool = True
-    lora_r: int = 8
-    lora_alpha: int = 16
-    lora_dropout: float = 0.05
-    lora_target_modules: list = None
+    def __init__(self):
+        s = settings
 
-    def __post_init__(self):
-        if self.lora_target_modules is None:
-            self.lora_target_modules = ["c_attn", "c_proj"]
+        self.base_model = s.iterative_base_model
+        self.max_seq_length = s.iterative_max_seq_length
 
-    iterations_per_novel: int = 12
-    max_steps_per_iteration: int = 125
-    learning_rate_start: float = 2e-5
-    learning_rate_end: float = 5e-6
+        self.use_lora = s.use_lora
+        self.lora_r = s.lora_r
+        self.lora_alpha = s.lora_alpha
+        self.lora_dropout = s.lora_dropout
+        self.lora_target_modules = s.lora_target_modules
 
-    chunk_size: int = 150
-    chunk_overlap: int = 30
-    validation_split: float = 0.15
+        self.iterations_per_novel = s.iterations_per_novel
+        self.max_steps_per_iteration = s.iterative_max_steps
+        self.learning_rate_start = s.iterative_learning_rate_start
+        self.learning_rate_end = s.iterative_learning_rate_end
 
-    batch_size: int = 8
-    gradient_accumulation_steps: int = 2
-    warmup_ratio: float = 0.15
+        self.chunk_size = s.iterative_chunk_size
+        self.chunk_overlap = s.chunk_overlap
+        self.validation_split = s.iterative_validation_split
 
-    max_repetition_penalty: float = 1.1
-    temperature_range: tuple = (0.7, 0.9)
-    perplexity_threshold: float = 20.0
+        self.batch_size = s.batch_size
+        self.gradient_accumulation_steps = s.gradient_accumulation_steps
+        self.warmup_ratio = s.warmup_ratio
 
-    novels_dir: str = "novels"
-    output_dir: str = "iterative_models"
-    save_checkpoints: bool = True
+        self.max_repetition_penalty = s.max_repetition_penalty
+        self.temperature_range = (s.temperature_range_min, s.temperature_range_max)
+        self.perplexity_threshold = s.iterative_perplexity_threshold
 
-    adaptive_training: bool = True
-    early_stopping_patience: int = 3
-    overfitting_detection_window: int = 3
-    min_iterations: int = 5
-    max_iterations: int = 50
-    perplexity_improvement_threshold: float = 2.0
-    quality_degradation_threshold: float = 0.01
-    validation_loss_patience: int = 3
-    target_perplexity: float = 15.0
+        self.novels_dir = s.novels_dir
+        self.output_dir = s.output_dir
+        self.save_checkpoints = s.save_checkpoints
+
+        self.adaptive_training = s.adaptive_training
+        self.early_stopping_patience = s.early_stopping_patience
+        self.overfitting_detection_window = s.overfitting_detection_window
+        self.min_iterations = s.min_iterations
+        self.max_iterations = s.max_iterations
+        self.perplexity_improvement_threshold = s.perplexity_improvement_threshold
+        self.quality_degradation_threshold = s.quality_degradation_threshold
+        self.validation_loss_patience = s.validation_loss_patience
+        self.target_perplexity = s.target_perplexity

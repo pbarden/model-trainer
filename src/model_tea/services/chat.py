@@ -4,19 +4,21 @@ from pathlib import Path
 from typing import Optional, Dict, Any, List
 from transformers import AutoTokenizer, AutoModelForCausalLM
 
+from model_tea.config.settings import settings
+
 logger = logging.getLogger(__name__)
 
 
 class ChatService:
-    def __init__(self, models_dir: str = "iterative_models"):
-        self.models_dir = Path(models_dir)
+    def __init__(self, models_dir: str = None):
+        self.models_dir = Path(models_dir or settings.output_dir)
         self.model = None
         self.tokenizer = None
         self.model_name = None
         self.device = "cuda" if torch.cuda.is_available() else "cpu"
 
-        self.default_max_length = 250
-        self.default_temperature = 0.5
+        self.default_max_length = settings.default_max_length
+        self.default_temperature = settings.default_temperature
         self.default_top_p = 0.85
         self.default_top_k = 30
         self.default_repetition_penalty = 1.4
