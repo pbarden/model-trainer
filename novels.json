@@ -1114,11 +1114,6 @@
     "directory_name": "wellsprings_of_space",
     "word_count": 3694
   },
-  "wendigo": {
-    "original_name": "Wendigo",
-    "directory_name": "wendigo",
-    "word_count": 18469
-  },
   "when_the_moon_fell": {
     "original_name": "When The Moon Fell",
     "directory_name": "when_the_moon_fell",
@@ -1148,5 +1143,10 @@
     "original_name": "Silver Key",
     "directory_name": "silver_key",
     "word_count": 4958
+  },
+  "wendigo": {
+    "original_name": "Wendigo",
+    "directory_name": "wendigo",
+    "word_count": 18469
   }
 }

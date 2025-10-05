@@ -1,0 +1,68 @@
+{
+  "At the Mountains of Madness": {
+    "characters": ["William Dyer", "Danforth", "Frank Pabodie", "Lake", "Atwood", "Gedney", "Sherman", "McTighe", "Ropes", "Carroll", "Williamson", "Captain Douglas"],
+    "locations": ["Antarctica", "Mountains of Madness", "Miskatonic University", "Plateau of Leng", "Arkham", "Boston", "Ross Island", "McMurdo Sound", "Lake's camp"],
+    "creatures": ["Elder Things", "Old Ones", "Shoggoths", "blind penguins", "Cthulhi", "Mi-Go", "Great Race of Yith"],
+    "objects": ["Necronomicon", "drilling equipment", "Pnakotic Manuscripts"]
+  },
+  "The Call of Cthulhu": {
+    "characters": ["Francis Wayland Thurston", "George Gammell Angell", "Henry Anthony Wilcox", "John Raymond Legrasse", "Castro", "William Channing Webb", "Gustaf Johansen", "William Briden"],
+    "locations": ["R'lyeh", "Providence", "Rhode Island", "Boston", "Brown University", "New Orleans", "Pacific Ocean", "Sydney", "Auckland", "Oslo", "Greenland", "Irem", "California", "New York City", "St. Louis", "Dunedin", "Fleur-de-Lys Building"],
+    "creatures": ["Cthulhu", "Old Ones"],
+    "objects": ["bas-relief sculpture", "statuette", "Necronomicon", "manuscript", "yacht Alert", "schooner Emma"]
+  },
+  "The Case of Charles Dexter Ward": {
+    "characters": ["Charles Dexter Ward", "Joseph Curwen", "Marinus Bicknell Willett", "Simon Orne", "Jedediah Orne", "Josef Nadek", "Edward Hutchinson", "Baron Ferenczy", "Randolph Carter"],
+    "locations": ["Providence", "Rhode Island", "Salem", "Pawtuxet Village", "Prague", "Transylvania", "Salem-Village", "Flatbush", "Danvers", "100 Prospect Street"],
+    "creatures": ["Yog-Sothoth", "deformed monster"],
+    "objects": ["Necronomicon", "Qanoon-e-Islam", "Dragon's Head sign", "Dragon's Tail sign", "essential saltes", "Sign of Koth", "alchemical formulae"]
+  },
+  "The Colour Out of Space": {
+    "characters": ["Ammi Pierce", "Nahum Gardner", "Nabby Gardner", "Thaddeus Gardner", "Merwin Gardner", "Zenas Gardner"],
+    "locations": ["Arkham", "Gardner farm", "Massachusetts", "blasted heath", "Miskatonic University"],
+    "creatures": ["The Colour"],
+    "objects": ["meteorite", "globules of colour"]
+  },
+  "The Dunwich Horror": {
+    "characters": ["Wilbur Whateley", "Lavinia Whateley", "Old Whateley", "Henry Armitage", "Francis Morgan", "Warren Rice", "Earl Sawyer", "Mrs. Houghton"],
+    "locations": ["Dunwich", "Arkham", "Miskatonic University", "Sentinel Hill", "Devil's Hop Yard", "Cold Spring Glen", "Whateley farmhouse"],
+    "creatures": ["Yog-Sothoth", "Old Ones", "Wilbur's twin brother"],
+    "objects": ["Necronomicon", "powder of Ibn Ghazi"]
+  },
+  "The Horror at Red Hook": {
+    "characters": ["Thomas Malone", "Robert Suydam"],
+    "locations": ["Red Hook", "Brooklyn", "New York", "Flatbush", "Butler Street station", "Martense Street", "Clinton Street", "Parker Place"],
+    "creatures": ["Lilith", "Satan", "Hecate", "Moloch", "Ashtaroth", "Gorgo", "Mormo", "Aegipans", "Satyrs", "Incubi", "Succubae", "Lemurs"],
+    "objects": ["gold-headed cane", "ancient documents", "inscriptions"]
+  },
+  "The Horror in the Burying-Ground": {
+    "characters": ["Sophie Sprague", "Tom Sprague", "Henry Thorndike", "Johnny Dow", "Ezra Davenport", "Luther Fry", "Calvin Wheeler", "Dr. Pratt", "Luella Morse", "Steve Barbour", "Peck"],
+    "locations": ["Stillwater", "Swamp Hollow", "Rutland", "New England"],
+    "creatures": [],
+    "objects": ["undertaker's equipment", "embalming fluid", "paralyzing chemical", "coffin"]
+  },
+  "The Shadow Over Innsmouth": {
+    "characters": ["Robert Olmstead", "Obed Marsh", "Barnabas Marsh", "Onesiphorus Marsh", "Alice Marsh", "Zadok Allen", "Joe Sargent", "Casey", "Asenath Waite", "Ephraim Waite"],
+    "locations": ["Innsmouth", "Arkham", "Newburyport", "Y'ha-nthlei", "Rowley", "Massachusetts", "Gilman Hotel", "Marsh refinery", "Devil Reef", "Federal Street", "Water Street"],
+    "creatures": ["Deep Ones", "Dagon", "Mother Hydra", "Cthulhu"],
+    "objects": ["exotic jewelry", "tiara", "Necronomicon", "Esoteric Order of Dagon membership"]
+  },
+  "The Shunned House": {
+    "characters": ["Elihu Whipple", "Etienne Roulet", "Paul Roulet", "Jacques Roulet", "Ann White", "Mercy Dexter", "William Harris"],
+    "locations": ["Providence", "Rhode Island", "135 Benefit Street", "East Greenwich", "Caude", "Angers", "France", "Elizabeth"],
+    "creatures": ["vampiric presence", "yellowish corpse-light"],
+    "objects": ["Crookes tube", "flamethrowers", "sulfuric acid", "military gas mask"]
+  },
+  "The Silver Key": {
+    "characters": ["Randolph Carter", "Benijah Corey"],
+    "locations": ["Massachusetts", "Foster", "Rhode Island", "Arkham", "mysterious cave"],
+    "creatures": [],
+    "objects": ["silver key"]
+  },
+  "Through the Gates of the Silver Key": {
+    "characters": ["Randolph Carter", "Swami Chandraputra", "Ernest B. Aspinwall", "Etienne-Laurent de Marigny", "Harley Warren", "Ward Phillips", "Zkauba", "'Umr at-Tawil"],
+    "locations": ["Yaddith", "Earth", "Ultimate Gate"],
+    "creatures": ["Yog-Sothoth", "'Umr at-Tawil", "Dholes", "Supreme Archetype"],
+    "objects": ["silver key", "coffin-shaped clock", "Necronomicon", "manuscript", "symbols and rites"]
+  }
+}

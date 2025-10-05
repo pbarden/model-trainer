@@ -1114,11 +1114,6 @@
       "wellsprings_of_space"
     ]
   },
-  "wendigo": {
-    "novels": [
-      "wendigo"
-    ]
-  },
   "when_the_moon_fell": {
     "novels": [
       "when_the_moon_fell"
@@ -1156,13 +1151,17 @@
       "shadow_over_innsmouth",
       "shunned_house",
       "silver_key",
-      "through_the_gates_of_the_silver_key",
-      "wendigo"
+      "through_the_gates_of_the_silver_key"
     ]
   },
   "silver_key": {
     "novels": [
       "silver_key"
+    ]
+  },
+  "wendigo": {
+    "novels": [
+      "wendigo"
     ]
   }
 }
