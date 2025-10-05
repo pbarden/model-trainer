@@ -50,3 +50,6 @@ Thumbs.db
 # Sample data and examples
 examples/
 samples/
+
+# Generated files - pyproject.toml is source of truth
+requirements.txt
