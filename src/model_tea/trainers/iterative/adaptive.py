@@ -83,21 +83,25 @@ class AdaptiveTrainingMonitor:
 
         # All other checks ONLY apply after min_iterations completed
 
-        # Perplexity explosion check - CRITICAL (only after min_iterations)
-        if len(self.perplexities) >= 2:
-            recent_perplexity = self.perplexities[-1]
-            if recent_perplexity > self.config.perplexity_threshold:
-                logger.warning(f"Stopping: Perplexity {recent_perplexity:.1f} exceeds threshold {self.config.perplexity_threshold}")
-                return True
-
-        # Target perplexity achieved - EARLY SUCCESS (only after min_iterations)
+        # Target perplexity achieved - SUCCESS (only after min_iterations)
         if hasattr(self.config, 'target_perplexity') and len(self.perplexities) >= 2:
             if self.best_perplexity <= self.config.target_perplexity:
                 logger.info(f"SUCCESS: Target perplexity {self.config.target_perplexity} achieved ({self.best_perplexity:.1f})")
                 return True
 
+        # Perplexity explosion check - only stop if increasing dramatically, not just if high
+        if len(self.perplexities) >= 3:
+            recent_perplexity = self.perplexities[-1]
+            prev_perplexity = self.perplexities[-2]
+            # Only stop if perplexity is increasing AND exceeds threshold (model getting worse)
+            if recent_perplexity > prev_perplexity * 1.5 and recent_perplexity > self.config.perplexity_threshold:
+                logger.warning(f"Stopping: Perplexity exploding {recent_perplexity:.1f} (threshold {self.config.perplexity_threshold})")
+                return True
+
         # Early stopping based on patience (only after min_iterations)
-        if self.patience_counter >= self.config.early_stopping_patience:
+        # If no improvement for early_stopping_patience iterations, stop
+        # Use > instead of >= because check happens before the iteration starts
+        if self.patience_counter > self.config.early_stopping_patience:
             return True
 
         # Validation loss plateau detection (only after min_iterations)

@@ -208,7 +208,7 @@ class IterativeTrainer:
                             self.config.base_model,
                             dtype=torch.float32
                         )
-                        model = PeftModel.from_pretrained(base_model, str(prev_checkpoint))
+                        model = PeftModel.from_pretrained(base_model, str(prev_checkpoint), is_trainable=True)
                         logger.info("Loaded LoRA adapter from checkpoint")
                     else:
                         model = AutoModelForCausalLM.from_pretrained(
@@ -552,7 +552,7 @@ class IterativeTrainer:
                             self.config.base_model,
                             dtype=torch.float32
                         )
-                        model = PeftModel.from_pretrained(base_model, str(prev_checkpoint))
+                        model = PeftModel.from_pretrained(base_model, str(prev_checkpoint), is_trainable=True)
                         logger.info("Loaded LoRA adapter from checkpoint")
                     else:
                         model = AutoModelForCausalLM.from_pretrained(

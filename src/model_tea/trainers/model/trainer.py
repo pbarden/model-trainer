@@ -172,11 +172,6 @@ class ModelTrainer:
         if len(novels) < self.config.min_novels_required:
             raise ValueError(f"Model '{model_key}' has only {len(novels)} novels. Minimum required: {self.config.min_novels_required}")
 
-        training_status = self.check_individual_novels_trained(novels)
-        untrained_count = sum(1 for trained in training_status.values() if not trained)
-        if untrained_count > 0:
-            logger.warning(f"{untrained_count} individual novels are not yet trained. This is optional but recommended.")
-
         start_time = time.time()
         combined_content = self.combine_novel_contents(novels, self.config.combine_novels_method)
 
